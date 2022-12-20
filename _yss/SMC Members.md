@@ -36,3 +36,43 @@ SMC Members
 
 </figure>
 
+
+
+<figure>
+
+<img src="/images/SMC_3.png">
+
+<figcaption> <strong> LEFT TO RIGHT: MDM TAN EE HOON EVON, MDM CHAN WEILING ADELINE, MR NG YEW LONG, MDM TAN CHEW HSIA JACQUELINE, MDM QUEK TANNI TANNY </strong> </figcaption>
+
+</figure>
+
+
+<figure>
+
+<img src="/images/SMC_4.png">
+
+<figcaption> <strong> LEFT TO RIGHT: MR KOH YONG CHENG, MR TAN KOK YOUNG, MR VICTOR CHIA, MR FAHMY BIN SAID, MR KONG RUI JAI </strong> </figcaption>
+
+</figure>
+
+
+<figure>
+
+<img src="/images/SMC_5.png">
+
+<figcaption> <strong> LEFT TO RIGHT: MR MUHAMMAD HAFIZ BIN MORNIN, MDM MANOHAR REKHA REDDY, MDM FAIZAH BTE ABU BAKAR, MDM SHARIDAH BINTE SINDASHAH, MR P TAMIL SELVAM </strong> </figcaption>
+
+</figure>
+
+
+
+
+<figure>
+
+<img src="/images/SMC_6.png">
+
+<figcaption> <strong> LEFT TO RIGHT: MR MUHAMMAD BAQI BIN JAAFAR, MS WIDAYAH BINTE OTHMAN, MR TAN HONG PENG, MS LATHIKA D/O SUBIDOR SINGH, MR AIDIL BIN IDRIS </strong> </figcaption>
+
+</figure>
+
+
