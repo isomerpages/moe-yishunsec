@@ -2,4 +2,5 @@ collections:
   yss:
     output: true
     order:
+      - Our Facilities.md
       - Contact Us.md
