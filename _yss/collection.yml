@@ -2,6 +2,7 @@ collections:
   yss:
     output: true
     order:
+      - School Handbook.md
       - Organisation Chart.md
       - SMC Members.md
       - Executive and Administration.md
