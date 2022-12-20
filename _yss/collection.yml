@@ -2,6 +2,7 @@ collections:
   yss:
     output: true
     order:
+      - YSS Alumni/.keep
       - Alumni Club Registration.md
       - YSS Alumni.md
       - School Advisory Committee (SAC).md
