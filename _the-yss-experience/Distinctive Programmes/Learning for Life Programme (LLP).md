@@ -109,3 +109,19 @@ A video produced to show how Jenga game can be played in a fun and engaging way
 ![](/images/YSS%20Exp/LLP/SKHArts_photo%202.jpeg)
 
 <figure><img src="images/YSS%20Exp/LLP/SKHArts_photo%203.jpeg" style="width:100%"><figcaption> Some of the ‘Nature’ themed art works.</figcaption></figure>
+
+**HIGHLIGHT**
+
+  
+
+**North West Outstanding School Partner Award (SPA) 2021**
+
+  
+
+We are pleased to share that our school has achieved the Gold for North West Outstanding School Partner Award (SPA) 2021. The award is given to schools that had participated actively in North West CDC programmes in 2020.
+
+  
+
+Our students, under the careful guidance of teachers, have shown acts of empathy and resilience to care for the vulnerable and less fortunate in the community, in their own little ways amid the unprecedented Covid-19 situation.
+
+![](/images/YSS%20Exp/LLP/GOLD%20award.jpg)
