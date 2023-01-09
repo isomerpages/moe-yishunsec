@@ -2,6 +2,7 @@ collections:
   the-yss-experience:
     output: true
     order:
+      - Interdisciplinary Programmes/.keep
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Distinctive Programmes.md
       - Distinctive Programmes/Applied Learning Programme (ALP).md
