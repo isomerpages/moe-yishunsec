@@ -2,6 +2,7 @@ collections:
   the-yss-experience:
     output: true
     order:
+      - Interdisciplinary Programmes/Green Programme.md
       - Interdisciplinary Programmes/YSS Amazing Race.md
       - Interdisciplinary Programmes/StAR @YSS!.md
       - Interdisciplinary Programmes/Interdisciplinary Programmes.md
