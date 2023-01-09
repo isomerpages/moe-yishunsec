@@ -2,6 +2,6 @@ collections:
   the-yss-experience:
     output: true
     order:
-      - Direct School Admission to Yishun Secondary.md
-      - My Experience in YSS.md
       - The YSS Experience.md
+      - My Experience in YSS.md
+      - Direct School Admission to Yishun Secondary.md
