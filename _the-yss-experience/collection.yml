@@ -2,10 +2,10 @@ collections:
   the-yss-experience:
     output: true
     order:
-      - Distinctive Programmes/Learning for Life Programme (LLP).md
-      - Distinctive Programmes/Applied Learning Programme (ALP).md
-      - Distinctive Programmes/Distinctive Programmes.md
       - Distinctive Programmes/.keep
+      - Distinctive Programmes/Distinctive Programmes.md
+      - Distinctive Programmes/Applied Learning Programme (ALP).md
+      - Distinctive Programmes/Learning for Life Programme (LLP).md
       - The YSS Experience.md
       - My Experience in YSS.md
       - Direct School Admission to Yishun Secondary.md
