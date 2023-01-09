@@ -2,6 +2,7 @@ collections:
   the-yss-experience:
     output: true
     order:
+      - Distinctive Programmes/Applied Learning Programme (ALP).md
       - Distinctive Programmes/Example Title.md
       - Distinctive Programmes/.keep
       - The YSS Experience.md
