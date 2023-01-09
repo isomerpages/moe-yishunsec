@@ -2,4 +2,5 @@ collections:
   the-yss-experience:
     output: true
     order:
+      - My Experience in YSS.md
       - The YSS Experience.md
