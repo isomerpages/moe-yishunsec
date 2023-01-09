@@ -108,3 +108,74 @@ A duet performance by Ahmad from class 1 Innovate and Chloe from class 1 Integri
 <iframe width="560" height="315" src="https://www.youtube.com/embed/quv7Eo7Wyo0" title="Dance number by group of five students" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 A dance number by the group formed by five students from Class 1 Soar and 1 Strive. The infusion of a Korean pop-song to the 2005 NDP theme song ‘Reach Out For The Skies’ was such a complement to the entire choreographed dance.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iYaEwTthm_Q" title="Our Singapore finale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+The celebration ended off with the community singing of the evergreen song ‘Our Singapore’ and this year’s National Day theme song ‘Stronger Together’.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jPEAh2ygAl8" title="YSS National Day Celebration Class Activity - Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hw8vhMq7FK8" title="YSS National Day Celebration Class Activity - Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+YSS @ THE HTNS NATIONAL DAY OBSERVANCE CEREMONY
+-----------------------------------------------
+
+On 5 Aug, the YSS NPCC and NCDCC were honoured to form the main contingent for the Home TeamNS National Day Observance Ceremony held at the Khatib Clubhouse. The guest of honour for the event was A/P Muhammad Faishal Ibrahim, President of HomeTeamNS, Minister of State, Ministry for Home Affairs, and National Development. The event was also graced by the Commissioner of SCDF and SPF.
+
+<figure><img src="images/Picture4%20(1).jpg" style="width:100%"><figcaption> Our NPCC and NCDCC in formation.</figcaption></figure>
+
+<figure><img src="images/Picture5%20(1).jpg" style="width:100%"><figcaption> Our cadets are happy and proud to have represented YSS</figcaption></figure>
+
+YSS Art Extravaganza 2022
+-------------------------
+
+<p><a href="https://sites.google.com/moe.edu.sg/yssartextravaganza"><img style="width:100%" src="images/YSS%20Exp/YSSArtsExtravaganza2022.jpg"></a></p>
+
+Back to School 2022 & CNY Celebration
+-------------------------------------
+
+Last day of School 2021
+-----------------------
+
+###### School’s Out – Old Chang Kee, Curry Puffs and Ice cream!
+
+**Quotes from students**
+
+  
+
+“The food provided by the school was generous and I felt delighted to get such yummy treats. Thank you for the kindness and generosity! I appreciate it a lot.” 
+
+_**Tiu Li Min, 3E2**_
+
+  
+
+“Thank you for providing us with food such as Old Chang Kee treats, ice cream and popcorn. I really enjoyed them and it is a good way to end the school year." 
+
+_**Alysha, 3N1**_
+
+  
+
+“Thank you for the Old Chang Kee, ice cream and popcorn! It was delicious and tasty and I enjoyed the food that the school has provided us. It is a great way to end the school year" 
+
+**_Kenise, 3N1_**
+
+  
+
+“We want to say thank you to the school. Old Chang Kee is an iconic Singapore food treat!” 
+
+**_Danish, 3N1_**
+
+  
+
+“The food was very pleasant and nice. I’m very sure all the students enjoyed the meal. :D “ 
+
+_**Jia Wang, 3N1**_
+
+![](/images/YSS%20Exp/lastday.gif)
+
+Instructional Programmes in YSS
+-------------------------------
+
+CCAs in YSS
+-----------
+
