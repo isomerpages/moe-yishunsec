@@ -2,6 +2,7 @@ collections:
   the-yss-experience:
     output: true
     order:
+      - Interdisciplinary Programmes/Interdisciplinary Programmes.md
       - Interdisciplinary Programmes/.keep
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Distinctive Programmes.md
