@@ -24,6 +24,11 @@ History
 * [Sec 1 History Content Outline](/files/Sec%201%20Content%20Outline%20.pdf)
 * [Sec 2 History Content Outline](/files/Sec%202%20Content%20Outline%20.pdf)
 * [Sec 3 Pure History Content Outline](/files/2023%20Sec%203%20Pure%20History%20Content%20Outline.pdf)
+* [Sec 3E Elective History Content Outline](/files/Sec%203E%20Elective%20History%20Content%20Outline.pdf)
+* [Sec 3NA Elective History Content Outline](/files/Sec%203NA%20Elective%20History%20Content%20Outline.pdf)
+* [Sec 4E Pure History Content Outline](/files/4E%20Pure%20History%20Content%20Outline.pdf)
+* [Sec 4E/5N Elective History Content Outline](/files/4E5N%20Elective%20Content%20Outline.pdf)
+* [Sec 4N Elective Content Outline](/files/4N%20Elective%20Content%20Outline.pdf)
 
 
 
