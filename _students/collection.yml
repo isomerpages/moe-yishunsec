@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Content Outlines/Content Outlines For Art.md
       - Content Outlines/Content Outlines For Design & Technology.md
       - Content Outlines/Content Outlines For Food & Consumer Education or Food
         & Nutrition.md
