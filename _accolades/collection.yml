@@ -2,9 +2,9 @@ collections:
   accolades:
     output: true
     order:
-      - School.md
+      - Staff.md
       - Student/.keep
       - Student/Academic.md
       - Student/Affective.md
       - Student/CCAs.md
-      - Staff.md
+      - School.md
