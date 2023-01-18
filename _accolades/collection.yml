@@ -2,4 +2,5 @@ collections:
   accolades:
     output: true
     order:
+      - Student/.keep
       - Staff.md
