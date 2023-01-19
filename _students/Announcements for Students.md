@@ -43,3 +43,15 @@ description: ""
 * [Sec 2 Sept Holiday Homework](/files/Announcements/Sec%202%20Sept%20Hol%20Homework.pdf)
 * [Sec 3 Sept Holiday Homework](/files/Announcements/Sec%203%20Sept%20Hol%20Homework.pdf)
 * [Sec 4E 5N Sept Holiday Homework](/files/Announcements/Sec%204E%205N%20Sept%20Hol%20Homework.pdf)
+
+**4N Prelim Script Checking Week 9**  
+
+* [4N Prelim Script Checking Week 9 - 19 Aug 2022](/files/Announcements/4N%20Prelim%20Script%20Checking%20Week%209.pdf)
+
+**Admin Brief for GCE O-Level Mid-Year MTL 2022**
+
+* [Admin Brief for GCE O-Level Mid Year MTL 2022 - 19 Aug 2022](/files/Announcements/Admin%20Brief%20for%20GCE%20O-Level%20Mid%20Year%20MTL%202022.pdf)
+
+**2022 Sec 4 &5 Prelim-Exam Timetable - 7 Aug 2022**  
+
+* [Prelim Exam TimeTable Sec 4&5 2022 - 7 Aug 2022](/files/Announcements/Prelim-Exam_TimeTable-Sec-4and5_2022%207Aug22.pdf)
