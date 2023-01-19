@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Content Outlines/Content Outlines For Science.md
       - Content Outlines/Content Outlines For Humanities.md
       - Content Outlines/Content Outlines For Art.md
       - Content Outlines/Content Outlines For Design & Technology.md
