@@ -71,3 +71,21 @@ description: ""
 
 * [2022 June Holiday CCA schedule](/files/Announcements/Jun%2022%20Holiday%20CCA%20schedule.pdf)
 
+**2022 June Holiday Homework - 26 May 2022**
+
+* [2022 June Holiday HW Sec 1](/files/Announcements/2022%20June%20Holiday%20HW%20Sec%201.pdf)
+* [2022 June Holiday HW Sec 2](/files/Announcements/2022%20June%20Holiday%20HW%20Sec%202.pdf)
+* [2022 June Holiday HW Sec 3](/files/Announcements/2022%20June%20Holiday%20HW%20Sec%203.pdf)
+* [2022 June Holiday HW Sec 4 & 5](/files/Announcements/2022%20June%20Holiday%20HW%20Sec%204%20%205.pdf)
+
+**Sec 4 & 5 June Holiday Lessons**
+
+* [Sec 4 & 5 June holiday lessons](/files/Announcements/S4%20%205%20June%20holiday%20lessons.pdf)
+
+**Mid Year Exam Timetable**
+
+* [Sec 4 & 5 MYE TimeTable 2022](/files/Announcements/MYE_TimeTable%20Sec%204%20%205_2022%20updated%2018%20Apr.pdf)
+
+**Mid Year Exam Format and Topics**
+
+* [2022 Sec 4E Mid Year Exam Format and Topics](/files/Announcements/2022%20Sec%204E%20Mid%20Year%20Exam%20Format%20and%20Topics.pdf)
