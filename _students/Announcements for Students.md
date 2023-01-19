@@ -55,3 +55,19 @@ description: ""
 **2022 Sec 4 &5 Prelim-Exam Timetable - 7 Aug 2022**  
 
 * [Prelim Exam TimeTable Sec 4&5 2022 - 7 Aug 2022](/files/Announcements/Prelim-Exam_TimeTable-Sec-4and5_2022%207Aug22.pdf)
+
+**2022 Sec 4 Prelim Exam Format and Topics - 4 Aug 2022**  
+
+* [2022 Sec 4NT Prelim Exam Format and Topics](/files/Announcements/2022%20Sec%204NT%20Prelim%20Exam%20Format%20and%20Topics.pdf)
+* [2022 Sec 4NA Prelim Exam Format and Topics](/files/Announcements/2022%20Sec%204NA%20Prelim%20Exam%20Format%20and%20Topics.pdf)
+* [2022 Sec 4E & 5N Prelim Exam Format and Topics](/files/Announcements/2022%20Sec%204E5N%20Prelim%20Exam%20Format%20and%20Topics.pdf)
+
+**2022 GCE N(T), N(A), O, A-Level Examination Briefing - 27 May 2022**
+
+* [2022 GCE Briefing to Candidates - SMMs](/files/Announcements/2022%20GCE%20Briefing%20to%20Candidates%20-%20SMMs_12May2022.pdf)
+* [2022 GCE Briefing to Candidates](/files/Announcements/2022%20GCE%20Briefing%20to%20Candidates_12May2022.pdf)
+
+**2022 June Holiday CCA Schedule - 27 May 2022**
+
+* [2022 June Holiday CCA schedule](/files/Announcements/Jun%2022%20Holiday%20CCA%20schedule.pdf)
+
