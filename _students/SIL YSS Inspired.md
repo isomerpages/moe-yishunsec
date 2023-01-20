@@ -48,4 +48,3 @@ Sample of our Students Work
 ![](/images/Will_Draw_For_FUN.jpg)
 
 [Click here to view more student’s work](https://sites.google.com/moe.edu.sg/sil-beyond-our-classroom/home)
-
