@@ -2,17 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Home based Learning.md
-      - Education & Career Guidance Programme.md
-      - Booklist 2023.md
-      - Library.md
-      - Consultation Schedule.md
-      - CCA Schedule.md
-      - Sec 2 Subject Combinations.md
-      - School Rules and Regulations.md
-      - SIL YSS Inspired.md
-      - Students’ Timetable.md
-      - Announcements for Students.md
+      - Content Outlines/.keep
       - Content Outlines/Content Outlines For English & Literature.md
       - Content Outlines/Content Outlines For Chinese Language.md
       - Content Outlines/Content Outlines For Malay Language.md
@@ -25,4 +15,14 @@ collections:
       - Content Outlines/Content Outlines For Food & Consumer Education or Food
         & Nutrition.md
       - Content Outlines/Content Outlines For Other Elective Subjects.md
-      - Content Outlines/.keep
+      - Announcements for Students.md
+      - Students’ Timetable.md
+      - SIL YSS Inspired.md
+      - Sec 2 Subject Combinations.md
+      - School Rules and Regulations.md
+      - CCA Schedule.md
+      - Consultation Schedule.md
+      - Library.md
+      - Booklist 2023.md
+      - Education & Career Guidance Programme.md
+      - Home based Learning.md
