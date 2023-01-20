@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Consultation Schedule.md
       - CCA Schedule.md
       - Sec 2 Subject Combinations.md
       - School Rules and Regulations.md
