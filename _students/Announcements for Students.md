@@ -89,3 +89,23 @@ description: ""
 **Mid Year Exam Format and Topics**
 
 * [2022 Sec 4E Mid Year Exam Format and Topics](/files/Announcements/2022%20Sec%204E%20Mid%20Year%20Exam%20Format%20and%20Topics.pdf)
+* [2022 Sec 4NA Mid Year Exam Format and Topics](/files/Announcements/2022%20Sec%204NA%20Mid%20Year%20Exam%20Format%20and%20Topics.pdf)
+* [2022 Sec 4NT Mid Year Exam Format and Topics](/files/Announcements/2022%20Sec%204NT%20Mid%20Year%20Exam%20Format%20and%20Topics.pdf)
+* [2022 Sec 5NA Mid Year Exam Format and Topics](/files/Announcements/2022%20Sec%205NA%20Mid%20Year%20Exam%20Format%20and%20Topics.pdf)
+
+**Verification Exercise for O & N Level Registration**
+
+* [2022 GCE NT NA O-Level Registration Information for School Candidates](/files/Announcements/2022%20GCE%20NT%20NA%20O-Level%20Registration%20Information%20for%20School%20Candidates.pdf)
+* [2022 Registration Poster](/files/Announcements/2022%20Registration%201%20Page%20Poster.pdf)
+
+**Sec 1 CCA Experience and Selection Exercise**
+
+* Link
+
+**Release of GCE O Level Results**
+
+* [O-Level Results Release 2021](/files/Announcements/O-Level%20Results%202021.pdf)
+
+**Release of GCE N(A)/N(T) Results**
+
+* Link 
