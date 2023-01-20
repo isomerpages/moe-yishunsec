@@ -23,3 +23,69 @@ Home-based Learning
 * [FHBL Resource 1 – Uploading of Audio and Video Files](/files/HBL/FHBL-Resource-1-Uploading-of-Audio-and-Video-Files.pdf)
 * [FHBL Resource 2_Clear browsing history and Cache](/files/HBL/FHBL-Resource-2_Clear-browsing-history-and-Cache-for-students.pdf)
 * [FHBL Resource 4 – Search MOE Library](/files/HBL/FHBL-Resource-4-Search-MOE-Library.pdf)
+
+**SLS Support for Home-based Learning**
+
+  
+
+**School Operating Hours**
+
+During school operating hours, students should contact the **School-based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
+
+  
+
+**Login SLS using MIMS ID and password.**
+
+  
+
+  
+
+**School-based Helpline: 6876 7129 Ext 167**
+
+  
+
+**Mondays – Fridays:**
+
+**8:30 am – 4:30 pm**
+
+  
+
+**\*Closed on Saturdays, Sundays & Public Holidays**
+
+  
+
+For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, should include your full name, name of school and form class.
+
+  
+
+  
+
+**Non-School Operating Hours**
+
+Students can only contact the **SLS Helpdesk** outside the school operating hours.
+
+  
+
+**SLS Helpdesk: 6702 6513**
+
+  
+
+**Mondays – Fridays:**
+
+**4:00 pm ― 9:00 pm (School Days)**
+
+**9:00 am ― 9:00 pm (School Holidays)**
+
+  
+
+**Saturdays:**
+
+**9:00 am – 9:00 pm**
+
+  
+
+**\*Closed on Sundays & Public Holidays**
+
+  
+
+Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, should include your full name, name of school and form class.
