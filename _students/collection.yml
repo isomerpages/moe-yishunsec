@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - School Rules and Regulations.md
       - SIL YSS Inspired.md
       - Students’ Timetable.md
       - Announcements for Students.md
