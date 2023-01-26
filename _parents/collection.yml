@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Information for Parents/MOE Group Personal Accident (GPA) Insurance.md
       - Information for Parents/School and Miscellaneous Fees.md
       - Information for Parents/Edusave Character Award.md
       - Information for Parents/Positive Parenting Programme.md
