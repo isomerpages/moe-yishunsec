@@ -25,3 +25,13 @@ To support you in your journey towards building a confident and resilient child,
 We are pleased to invite you to attend the webinars free of charge. The tentative schedule of the webinars is as follows:
 
 ![](/images/PP_Schedule2022.png)
+
+You may sign-up for the webinars by clicking on this link. [_https://forms.office.com/r/ri8Tu8DFMK_](https://forms.office.com/r/ri8Tu8DFMK)  
+
+  
+
+For enquiries, please contact our service provider, **Ms Anna** at **9755 6354**.
+
+  
+
+We look forward to your participation in this programme.
