@@ -24,3 +24,4 @@ To support you in your journey towards building a confident and resilient child,
 
 We are pleased to invite you to attend the webinars free of charge. The tentative schedule of the webinars is as follows:
 
+![](/images/PP_Schedule2022.png)
