@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Positive Parenting Programme.md
       - Information for Parents/Letters to Parents.md
       - Information for Parents/.keep
