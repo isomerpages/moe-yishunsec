@@ -4,9 +4,6 @@ permalink: /yss/alumni/permalink/
 description: ""
 third_nav_title: YSS Alumni
 ---
-
-![](/images/yss.png)
-
 YSS Alumni
 ==========
 
@@ -43,6 +40,3 @@ Our Motto:
 ----------
 
 Quality Relationships, Caring Community
-
-
-
