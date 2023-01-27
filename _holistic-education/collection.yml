@@ -2,5 +2,5 @@ collections:
   holistic-education:
     output: true
     order:
-      - Student Development.md
       - Instructional Programme.md
+      - Student Development.md
