@@ -6,7 +6,7 @@ description: Yishun Secondary School is a co-educational government secondary
   school to establish the Applied Learning Programme in Sonic Arts.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Yishun Secondary School
@@ -29,4 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
