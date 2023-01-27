@@ -2,15 +2,15 @@ collections:
   the-yss-experience:
     output: true
     order:
-      - Interdisciplinary Programmes/Green Programme.md
-      - Interdisciplinary Programmes/YSS Amazing Race.md
-      - Interdisciplinary Programmes/StAR @YSS!.md
-      - Interdisciplinary Programmes/Interdisciplinary Programmes.md
-      - Interdisciplinary Programmes/.keep
+      - My Experience in YSS.md
+      - Direct School Admission to Yishun Secondary.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Distinctive Programmes.md
       - Distinctive Programmes/Applied Learning Programme (ALP).md
       - Distinctive Programmes/Learning for Life Programme (LLP).md
+      - Interdisciplinary Programmes/.keep
+      - Interdisciplinary Programmes/Green Programme.md
+      - Interdisciplinary Programmes/YSS Amazing Race.md
+      - Interdisciplinary Programmes/StAR @YSS!.md
+      - Interdisciplinary Programmes/Interdisciplinary Programmes.md
       - The YSS Experience.md
-      - My Experience in YSS.md
-      - Direct School Admission to Yishun Secondary.md
