@@ -3,7 +3,6 @@ title: My Experience in YSS
 permalink: /the-yss-experience/myexperience/
 description: ""
 ---
-![](/images/yssexp.png)
 
 YSS at the Nee Soon Central National Day Carnival 2022
 ------------------------------------------------------
