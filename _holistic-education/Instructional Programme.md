@@ -3,24 +3,24 @@ title: Instructional Programme
 permalink: /holistic-education/instructional-programme/
 description: ""
 ---
-Craft and Technology
+**Craft and Technology**
 
-English Language
+**English Language**
 
-Literature
+**Literature**
 
-Humanities
+**Humanities**
 
-Information and Communications Technology (ICT)
+**Information and Communications Technology (ICT)**
 
-Mathematics
+**Mathematics**
 
-Mother Tongue Languages
+**Mother Tongue Languages**
 
-Aesthetics (Music and Retail Operations)
+**Aesthetics (Music and Retail Operations)**
 
-Physical Education
+**Physical Education**
 
-Science
+**Science**
 
-Exercise & Sports Science (ESS)
+**Exercise & Sports Science (ESS)**
