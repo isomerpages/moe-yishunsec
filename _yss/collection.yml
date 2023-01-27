@@ -2,6 +2,7 @@ collections:
   yss:
     output: true
     order:
+      - YSS Alumni.md
       - Principal's Message.md
       - Mission, vision and values.md
       - Historical Milestones.md
