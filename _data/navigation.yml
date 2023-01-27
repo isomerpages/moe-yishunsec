@@ -6,7 +6,9 @@ links:
     collection: the-yss-experience
   - title: Accolades
     collection: accolades
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Holistic Education
+    collection: holistic-education
+  - title: Students
+    collection: students
+  - title: Parents
+    collection: parents
