@@ -1,7 +1,9 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: Yishun Secondary School
+description: Yishun Secondary School is a co-educational government secondary
+  school in Yishun, Singapore. Located at 4 Yishun Street 71, YSS is the first
+  school to establish the Applied Learning Programme in Sonic Arts.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -27,3 +29,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
