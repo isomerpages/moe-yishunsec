@@ -3,17 +3,9 @@ title: Executive and Administration
 permalink: /yss/eac/permalink/
 description: ""
 ---
-![](/images/yss.png)
-
 Executive and Administration
 ============================
-
-**Admin Manager**
-
-*   Mdm Koh Chwee Ngoh, Karis
-
-  
-
+ 
 **Admin Executive**
 
 *   Ms Lim Siew Huay
