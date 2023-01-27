@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Yishun Secondary School
       subtitle: Thinker ~ Innovator ~ Contributor
-      background: /images/hero-banner.png
+      background: /images/Banner-1.jpg
       key_highlights:
         - title: News
           description: Important Information
