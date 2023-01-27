@@ -6,4 +6,4 @@ description: ""
 **E Brochure**
 ==============
 
-[](/files/YSS%20e-Brochure.pdf)
+[YSS E-Brochure](/files/YSS%20e-Brochure.pdf)
