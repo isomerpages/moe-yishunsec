@@ -3,8 +3,6 @@ title: Mission, vision and values
 permalink: /yss/mission/permalink/
 description: ""
 ---
-![](/images/yss.png)
-
 Mission, vision and values
 ==========================
 
