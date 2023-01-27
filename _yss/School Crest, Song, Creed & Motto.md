@@ -3,8 +3,6 @@ title: School Crest, Song, Creed & Motto
 permalink: /yss/song/permalink/
 description: ""
 ---
-![](/images/yss.png)
-
 School Crest, Song, Creed & Motto
 =================================
 School Crest:
@@ -13,15 +11,12 @@ School Crest:
 
 Our School Crest is in the shape of a drop of water that symbolises the thirst for knowledge.
 
-  
 
 The branches represent our 3 core values that form the guiding principles to achieve the 3 desired outcomes for an Yishunite.
 
-  
 
 The progressive growth of the branches indicates the different stages of learning our pupils have to go through before achieving their ultimate goal.
 
-  
 
 The circle represents the fruits of labour that can be achieved through dedication, determination and self-discipline.
 
@@ -30,73 +25,34 @@ School Song:
 
 **Verse 1**
 
-  
-
+<center>
 There’s a joyful spirit that we share
-
-  
-
-In our home at Yishun Secondary School
-
-  
-
-You guide us onward with your love and care
-
-  
-
-You light our way with each golden rule
-
-  
-
-  
+<br>In our home at Yishun Secondary School 
+<br>You guide us onward with your love and care
+<br>You light our way with each golden rule
+</center>
 
 **Chorus**
 
-  
-
+<center>
 All that we can do we’ll do for you
-
-  
-
-Let’ be the best that we can be at work and at play
-
-  
-
-And we’ll always be proud of you
-
-  
-
-Dear, Yishun Secondary School
-
-  
-
+<br>Let’ be the best that we can be at work and at play
+<br>And we’ll always be proud of you
+ <br>Dear, Yishun Secondary School
+</center>
   
 
 **Verse 2**
 
-  
-
+<center>
 Your motto builds a strength of will
-
-  
-
-Your precious teaching we will always keep
-
-  
-
-With determination and in earnest zeal
-
-  
-
-The fruits of our labour we will reap
-
-  
-
+<br>Your precious teaching we will always keep
+<br>With determination and in earnest zeal
+<br>The fruits of our labour we will reap
+</center>
   
 
 Music by: J.J de Souza
-
-  
 
 Lyrics by: Mdm. Azizah Bte Abdul Rahim, Mrs. Lim Poh Khim and Miss Sentha
 
