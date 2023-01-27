@@ -3,7 +3,7 @@ url: https://yishunsec.moe.edu.sg
 favicon: /images/yss-logo.png
 colors:
   primary-color: "#2034b0"
-  secondary-color: "#dc9621"
+  secondary-color: "#e49d27"
   media-colors:
     - title: media-color-one
       color: "#49759a"
