@@ -3,8 +3,6 @@ title: School Handbook
 permalink: /yss/handbook/permalink/
 description: ""
 ---
-![](/images/yss.png)
-
 **Student Handbook**
 ===================
 
