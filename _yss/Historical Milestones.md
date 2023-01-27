@@ -3,28 +3,32 @@ title: Historical Milestones
 permalink: /yss/milestone/permalink/
 description: ""
 ---
-![](/images/yss.png)
-
 Historical Milestones
 =====================
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jbyc{background-color:#E5E5E5;color:#6B6B6B;text-align:left;vertical-align:middle}
-.tg .tg-7xv2{background-color:#FFF;color:#6B6B6B;text-align:left;vertical-align:middle}
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7xv2">September 1985</th>
-    <th class="tg-7xv2">Completion of original school building</th>
-  </tr>
-</thead>
 <tbody>
+	<tr>
+    <td class="tg-7xv2">September 1985</td>
+    <td class="tg-7xv2">Completion of original school building</td>
+  </tr>
   <tr>
     <td class="tg-jbyc">January – March 1986</td>
     <td class="tg-jbyc">Building housed Yishun Secondary School, Yishun Town Secondary School and Yishun Junior College</td>
