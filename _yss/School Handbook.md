@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/yss.png)
 
-**School Handbook**
+**Student Handbook**
 ===================
 
-[2022 School Handbook ](/files/School%20Handbook%202022.pdf)
+[Student Handbook 2023](/files/School%20Handbook%202023_FINAL.pdf)
