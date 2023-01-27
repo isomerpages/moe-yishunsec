@@ -58,34 +58,17 @@ Lyrics by: Mdm. Azizah Bte Abdul Rahim, Mrs. Lim Poh Khim and Miss Sentha
 
 School Creed:
 -------------
-
+<center>
 As true Yishunites,
-
-  
-
-We strive to be committed to our work and play,
-
-  
-
-To honour our school, family and nation.
-
-  
-
-No matter where we’re from.
-
-  
-
-We pledge to uphold the values of our school,
-
-  
-
-And project its spirit.
-
-  
-
-If it is to be, It is up to you and me.
-
+<br>We strive to be committed to our work and play,
+<br>To honour our school, family and nation.
+<br>No matter where we’re from.
+<br>We pledge to uphold the values of our school,
+<br>And project its spirit.
+<br>If it is to be, It is up to you and me.
+</center>	
+	
 Our Motto:
 ----------
 
-We Seek, We Strive, We Soar
+<center>We Seek, We Strive, We Soar</center>
