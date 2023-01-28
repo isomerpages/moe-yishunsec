@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - School Calendar.md
       - Information for Parents/Use of Photographs, Videos and other Media by
         the School.md
       - Information for Parents/MOE Group Personal Accident (GPA) Insurance.md
