@@ -21,7 +21,7 @@ sections:
           url: /parents/schoolcalendar/
         - title: News
           description: Important Information
-          url: /news/
+          url: /yss/news/
   - infobar:
       title: Announcements
       description: Click below to access latest announcements .
