@@ -27,4 +27,7 @@ sections:
       description: Click below to access latest announcements .
       button: Read More
       url: /faq/
+  - resources:
+      title: My Experience in YSS
+      button: Read More
 ---
