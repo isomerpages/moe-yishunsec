@@ -3,9 +3,6 @@ title: Links
 permalink: /yss/links/permalink/
 description: ""
 ---
-<h2> Links</h2>
-
-
 <style>
 table {
   font-family: arial, sans-serif;
