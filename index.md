@@ -21,7 +21,7 @@ sections:
           url: https://gmail.com
         - title: Quick Links
           description: Self-help Tools & Web Pages
-          url: /privacy/
+          url: /yss/links
   - infobar:
       title: Announcements
       description: Click below to access latest announcements .
