@@ -3,9 +3,6 @@ title: SMC Members
 permalink: /yss/smc/permalink/
 description: ""
 ---
-SMC Members
-===========
-
 
 <figure>
 
