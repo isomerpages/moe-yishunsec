@@ -6,5 +6,3 @@ layout: post
 description: ""
 image: /images/Picture4 (1).jpg
 ---
-
-
