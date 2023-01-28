@@ -18,10 +18,10 @@ sections:
           url: https://google.com
         - title: School Calendar
           description: Upcoming Events & Activities
-          url: /parents/school-calendar/permalink/
+          url: /parents/school-calendar/
         - title: Quick Links
           description: Self-help Tools & Web Pages
-          url: /yss/links/permalink/
+          url: /yss/links/
   - infobar:
       title: Announcements
       description: Click below to access latest announcements .
