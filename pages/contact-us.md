@@ -18,6 +18,6 @@ contacts:
   - content:
       - phone: +65 6876 7129
       - email: yishun_ss@moe.edu.sg
-      - other: ""
+      - other: "Fax: 6755 7748"
     title: General Enquiries & Feedback
 ---
