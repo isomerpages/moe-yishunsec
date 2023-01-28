@@ -37,3 +37,4 @@ Besides travelling abroad, Yishun Secondary School also look forward to hosting 
 **YSS Goes Global Programme:**
 
 **2021**
+
