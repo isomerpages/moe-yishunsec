@@ -4,10 +4,7 @@ permalink: /the-yss-experience/Interdisciplinary-Programmes/
 description: ""
 third_nav_title: Interdisciplinary Programmes
 ---
-![](/images/yssexp.png)
 
-**Interdisciplinary Programmes**
-================================
 *   [StAR @YSS!](https://yishunsec-moe-edu-sg-admin.cwp.sg/the-yss-experience/interdisciplinary-programmes/star-at-yss)
 
   
