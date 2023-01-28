@@ -10,4 +10,8 @@ On 5 Aug, the YSS NPCC and NCDCC were honoured to form the main contingent for t
 <center>
 
 ![Our NPCC and NCDCC in formation.](/images/Picture4%20(1).jpg)
-Our NPCC and NCDCC in formation.</center>
+Our NPCC and NCDCC in formation.
+
+![Our cadets are happy and proud to have represented YSS.](/images/Picture5%20(1).jpg)
+Our cadets are happy and proud to have represented YSS.
+	</center>
