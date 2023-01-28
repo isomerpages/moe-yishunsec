@@ -38,3 +38,4 @@ Besides travelling abroad, Yishun Secondary School also look forward to hosting 
 
 **2021**
 
+![Twinning Programme 2021](/images/IP/Final-Article-2021.jpeg)
