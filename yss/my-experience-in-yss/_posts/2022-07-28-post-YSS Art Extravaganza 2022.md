@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/YSS%20Exp/YSSArtsExtravaganza2022.jpg" alt="https://sites.google.com/moe.edu.sg/yssartextravaganza" width="640" height="480">
+<img src="/images/YSS%20Exp/YSSArtsExtravaganza2022.jpg" alt="https://sites.google.com/moe.edu.sg/yssartextravaganza">
