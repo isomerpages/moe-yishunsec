@@ -15,13 +15,13 @@ sections:
       key_highlights:
         - title: Quick Links
           description: Self-help Tools & Web Pages
-          url: /yss/links/permalink/
+          url: /yss/links/
         - title: School Calendar
           description: Upcoming Events & Activities
-          url: /parents/schoolcalendar/permalink/
+          url: /parents/schoolcalendar/
         - title: News
           description: Important Information
-          url: https://google.com
+          url: /news/
   - infobar:
       title: Announcements
       description: Click below to access latest announcements .
