@@ -3,10 +3,8 @@ title: YSS Alumni
 permalink: /yss/alumni/permalink/
 description: ""
 ---
-YSS Alumni
-==========
 
-**Welcome to the Yishun Secondary School Alumni Club (YSSAC)!**
+<h4>Welcome to the Yishun Secondary School Alumni Club (YSSAC)!</h4>
 
   
 
@@ -26,8 +24,8 @@ We implore you to continue your ties with us, truly imbuing our alma mater’s v
 
   
 
-The YSSAC:
-----------
+<h4>The YSSAC: </h4>
+
 
 The YSSAC was formed in 2011 comprising of alumni members from various batches.  
 
@@ -35,7 +33,6 @@ The YSSAC was formed in 2011 comprising of alumni members from various batches.
 
 The primary objective of YSSAC is to forge stronger links between alumni members and contribute back to the school, community and nation at large.
 
-Our Motto:
-----------
+<h4>Our Motto:</h4>
 
 Quality Relationships, Caring Community
