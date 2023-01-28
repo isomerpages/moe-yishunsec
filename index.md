@@ -13,15 +13,15 @@ sections:
       subtitle: Thinker ~ Innovator ~ Contributor
       background: /images/Banner-1.jpg
       key_highlights:
-        - title: News
-          description: Important Information
-          url: https://google.com
-        - title: School Calendar
-          description: Upcoming Events & Activities
-          url: /parents/schoolcalendar/permalink/
         - title: Quick Links
           description: Self-help Tools & Web Pages
           url: /yss/links/permalink/
+        - title: School Calendar
+          description: Upcoming Events & Activities
+          url: /parents/schoolcalendar/permalink/
+        - title: News
+          description: Important Information
+          url: https://google.com
   - infobar:
       title: Announcements
       description: Click below to access latest announcements .
