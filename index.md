@@ -24,8 +24,7 @@ sections:
           url: /privacy/
   - infobar:
       title: Announcements
-      subtitle: Subtitle
-      description: Latest Announcments
-      button: Button text
+      description: Click below to access latest announcements .
+      button: Read More
       url: /faq/
 ---
