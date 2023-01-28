@@ -3,18 +3,14 @@ title: Executive and Administration
 permalink: /yss/eac/permalink/
 description: ""
 ---
-Executive and Administration
-============================
- 
-**Admin Executive**
+<h4>Admin Executive</h4>
 
 *   Ms Lim Siew Huay
 *   Mrs Jayalaxmi
 *   Ms Tan Joke Ping
 
-  
 
-**Corporate Support Officer**
+<h4>Corporate Support Officer</h4>
 
 *   Ms Elaine Ng (Adj CSO)  
      
@@ -23,19 +19,19 @@ Executive and Administration
 
   
 
-**Operations Manager**
+<h4>Operations Manager</h4>
 
 *   Mr Fazal Khan Bin Arunkhan
 
   
 
-**ICT Manager**
+<h4>ICT Manager</h4>
 
 *   Mr Praveen Prakash
 
   
 
-**Operations Support Officer**
+<h4>Operations Support Officer</h4>
 
 *   Mdm Maimunah Bte Abdullah
 *   Mdm Tamil Chaldy
@@ -44,14 +40,14 @@ Executive and Administration
 
   
 
-**Technical Support Officer – D&T**
+<h4>Technical Support Officer – D&T</h4>
 
 *   Mr Chiang Kok Hoong
 *   Mr Mohamed Shahjohan B Mohd Salleh
 
   
 
-**Technical Support Officer – Science**
+<h4>Technical Support Officer – Science</h4>
 
 *   Mdm Norhaytiy Bte Bujang
 *   Mdm Siti Alwiyah Bte Ismail
