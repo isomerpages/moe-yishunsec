@@ -2,7 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-### **Privacy Policy**
+### **Privacy Statement**
 
 This is Yishun Secondary School‘s website. Thank you for examining our privacy statement.
 
