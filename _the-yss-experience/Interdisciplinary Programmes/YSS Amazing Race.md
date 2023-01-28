@@ -4,12 +4,6 @@ permalink: /the-yss-experience/Interdisciplinary-Programmes/amazingrace/
 description: ""
 third_nav_title: Interdisciplinary Programmes
 ---
-![](/images/yssexp.png)
-
-YSS Amazing Race
-================
-
-  
 
 **Goals:**
 
