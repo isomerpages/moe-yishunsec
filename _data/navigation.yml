@@ -3,18 +3,6 @@ links:
   - title: YSS
     collection: yss
   - title: The YSS Experience
-    collection: the-yss-experience
-  - title: Accolades
-    collection: accolades
-  - title: Holistic Education
-    collection: holistic-education
-  - title: Students
-    collection: students
-  - title: Parents
-    collection: parents
-  - title: Contact Us
-    url: /contact-us/
-  - title: The YSS Experience
     url: /the-yss-experience/
     sublinks:
       - title: My Experience in YSS
@@ -25,3 +13,13 @@ links:
         url: /the-yss-experience/Distinctive-Programmes/
       - title: Interdisciplinary Programmes
         url: /the-yss-experience/Interdisciplinary-Programmes/
+  - title: Accolades
+    collection: accolades
+  - title: Holistic Education
+    collection: holistic-education
+  - title: Students
+    collection: students
+  - title: Parents
+    collection: parents
+  - title: Contact Us
+    url: /contact-us/
