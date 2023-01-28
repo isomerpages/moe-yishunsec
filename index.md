@@ -9,8 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Yishun Secondary School
-      subtitle: Thinker ~ Innovator ~ Contributor
+      title: Thinker  Innovator  Contributor
       background: /images/Banner-1.jpg
       key_highlights:
         - title: Quick Links
