@@ -8,6 +8,9 @@ image: /images/YSS Exp/Picture4.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c_K0TAFtno8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RtdBONcEi3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 Marching of contingents from the uniformed groups and the ceremonial conducts of the observance ceremony.
 
 Theme: Stronger Together, Majulah!
