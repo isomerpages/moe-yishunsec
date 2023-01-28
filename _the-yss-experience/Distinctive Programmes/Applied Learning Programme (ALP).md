@@ -4,11 +4,6 @@ permalink: /the-yss-experience/Distinctive-Programmes/alp/
 description: ""
 third_nav_title: Distinctive Programmes
 ---
-![](/images/yssexp.png)
-
-Applied Learning Programme (ALP)
-================================
-
 <p><a href="https://sites.google.com/moe.edu.sg/yssartextravaganza"><img style="width:100%" src="images/YSS%20Exp/YSSArtsExtravaganza2022.jpg"></a></p>
 
 [Click here for more details](https://sites.google.com/moe.edu.sg/yssartextravaganza)
