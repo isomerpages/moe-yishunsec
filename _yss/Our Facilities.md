@@ -3,7 +3,7 @@ title: Our Facilities
 permalink: /yss/facilities/permalink/
 description: ""
 ---
-[Click here to view our Facilities in 360 ](https://kuula.co/share/collection/7PDqZ?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1)
+[Click here to view our Facilities in 360](https://kuula.co/share/collection/7PDqZ?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1)
 
 * The S.P.A.C.E.
 * LT@3
