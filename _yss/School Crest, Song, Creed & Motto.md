@@ -3,8 +3,6 @@ title: School Crest, Song, Creed & Motto
 permalink: /yss/song/permalink/
 description: ""
 ---
-School Crest, Song, Creed & Motto
-=================================
 School Crest:
 -------------
 <img src="/images/school-crest1.png" style="width:30%">
