@@ -14,3 +14,14 @@ links:
     collection: parents
   - title: Contact Us
     url: /contact-us/
+  - title: The YSS Experience
+    url: /the-yss-experience
+    sublinks:
+      - title: My Experience in YSS
+        url: /the-yss-experience/myexperience/
+      - title: Direct School Admission to YSS
+        url: /the-yss-experience/dsa
+      - title: Distinctive Programmes
+        url: /the-yss-experience/Distinctive-Programmes/
+      - title: Interdisciplinary Programmes
+        url: /the-yss-experience/Interdisciplinary-Programmes/
