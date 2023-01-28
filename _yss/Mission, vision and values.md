@@ -3,9 +3,6 @@ title: Mission, vision and values
 permalink: /yss/mission/permalink/
 description: ""
 ---
-Mission, vision and values
-==========================
-
 <h5>Our Mission:</h5>
 To provide a well-balanced education to our student that develops their potential to the fullest intellectually, physically, morally, socially, emotionally and aesthetically, and prepares them to contribute to the nation.
 
