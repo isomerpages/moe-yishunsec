@@ -6,4 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/YSS%20Exp/YSSArtsExtravaganza2022.jpg" alt="https://sites.google.com/moe.edu.sg/yssartextravaganza">
+<a href="https://sites.google.com/moe.edu.sg/yssartextravaganza">
+<img src="/images/YSS%20Exp/YSSArtsExtravaganza2022.jpg" alt="yss ArtsExtravaganza">
+</a>
