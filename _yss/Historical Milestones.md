@@ -3,9 +3,6 @@ title: Historical Milestones
 permalink: /yss/milestone/permalink/
 description: ""
 ---
-Historical Milestones
-=====================
-
 <style>
 table {
   font-family: arial, sans-serif;
