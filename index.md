@@ -21,7 +21,7 @@ sections:
           url: /parents/schoolcalendar/permalink/
         - title: Quick Links
           description: Self-help Tools & Web Pages
-          url: /yss/links/
+          url: /yss/links/permalink/
   - infobar:
       title: Announcements
       description: Click below to access latest announcements .
