@@ -3,9 +3,6 @@ title: Principal's Message
 permalink: /yss/principalmessage/permalink/
 description: ""
 ---
-Principal's Message
-===================
-
 Dear Parents, Students and Partners of Yishun Secondary School
 
 As we begin 2023, I would like to thank all parents, students and stakeholders for working closely with us last year in providing quality education to all Yishunites. 
