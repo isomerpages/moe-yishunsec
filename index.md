@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Thinker  Innovator  Contributor
+      title: Thinker  ~ Innovator  ~ Contributor
       background: /images/Banner-1.jpg
       key_highlights:
         - title: Quick Links
