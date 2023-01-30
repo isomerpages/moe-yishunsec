@@ -3,7 +3,6 @@ title: Staff
 permalink: /accolades/
 description: ""
 ---
-
 <h4>Staff Professional Development </h4>
 
 
@@ -102,7 +101,7 @@ At the end of each year, PLTs share their learning at the annual school-based Le
 
 ![](/images/Staff1.png)
 
-**Staff Well-being**
+<h4> Staff Well-being </h4>
 
   
 
@@ -113,7 +112,7 @@ In Yishun Secondary, we strongly believe that the staff is at the center of ever
 ![](/images/Staff4.png)
 ![](/images/Staff5.png)
 
-**Staff Awards**  
+<h4> Staff Awards </h4>
   
 
 The following staff were recognised for their continued excellence in their service to the school and their care for the students.
