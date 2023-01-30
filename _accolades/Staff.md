@@ -3,16 +3,9 @@ title: Staff
 permalink: /accolades/
 description: ""
 ---
-![](/images/Accolades%20Banner.png)
 
-Staff
-=====
+<h4>Staff Professional Development </h4>
 
-  
-
-**Staff Professional Development**
-
-  
 
 In Yishun Secondary, our dedicated and innovative staff exemplifies the Learn for Life mantra. Teachers meet in their subject-based Professional Learning Teams (PLTs) to study students’ learning needs, review literature for possible strategies, co-design and implement innovative student-centric lesson packages to meet those needs and to nurture the Joy of Learning in Yishunites.
 
