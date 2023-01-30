@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Staff.md
-      - Student/Alumnus.md
       - Student/.keep
       - Student/Academic.md
       - Student/Affective.md
+      - Student/Alumnus.md
       - Student/CCAs.md
       - School.md
