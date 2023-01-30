@@ -100,3 +100,46 @@ src="/images/Accolades/Student/Huang%20Caihong.jpg" style="width:50%" align="cen
 * Singapore Polytechnic (Recipient of the SP Engineering Scholarship)
 -------------
 
+![](/images/Accolades/Student/Denise%20Ong%20Li%20Jie.jpg)
+
+<center>
+
+#### Denise Ong Li Jie
+
+</center>
+
+* YSS (2013-2016) – (7As for 2016 O Levels)
+* NJC (2017-2018) 3 H2 distinctions and distinctions in GP, PW
+* and MTL.
+
+*“Gratitude. Resilience. Optimism. These are some of the virtues that
+YSS has taught me over the 4 years. My life back then was like that of
+a rollercoaster. But at the same time, my teachers were always there
+with me through it all, checking up on me and believing in me. I will
+always remember their care and concern. Thank you for providing me
+with a lot of opportunities to develop myself as a positive person! In
+addition, I am very thankful to have made some true friends.”*
+
+------------
+![](/images/Accolades/Student/Michel%20Sim.png)
+
+<center>
+
+#### Denise Ong Li Jie
+
+</center>
+
+* YSS (2008-2011) (7 A1s in 2011 GCE O-Level Exam)
+* AJC( 2012-2013) AJC Alpha Programme
+* SUTD (2015 – present)
+
+*“I will forever be grateful beyond words for the many inspiring
+teachers and school mates that I have had the fortune of meeting
+in YSS. Those four years have instilled in me the values of discipline
+and diligence, and my teachers have shown me what a joy learning can
+be. I am thankful for the sense of self-belief that I have gained through
+the teachers and B.E. Project.”*
+
+----------
+
+
