@@ -83,6 +83,26 @@ This celebration ended off with the community singing of the evergreen song ‘O
 All the performers for the day were on stage, leading the community singing during the finale of the concert.
 </center>
 
+It is heartening to see students enjoyed the unique celebration and the togetherness shown in all the classes, embodying the theme for this year’s national day, ‘Stronger Together, Majulah!’.
 
-
+Happy 57th National Day, Singapore!
+<center>
 	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LOm_KlPodhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+A duet performance by Ahmad from class 1 Innovate and Chloe from class 1 Integrity singing the 2016 NDP theme song entitled ‘Tomorrow’s Here Today’.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/quv7Eo7Wyo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+A dance number by the group formed by five students from Class 1 Soar and 1 Strive. The infusion of a Korean pop-song to the 2005 NDP theme song ‘Reach Out For The Skies’ was such a complement to the entire choreographed dance.
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iYaEwTthm_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The celebration ended off with the community singing of the evergreen song ‘Our Singapore’ and this year’s National Day theme song ‘Stronger Together’.
+	
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jPEAh2ygAl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Class Activity Part 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hw8vhMq7FK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Class Activity Part 2
+	
+</center>
