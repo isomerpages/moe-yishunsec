@@ -61,7 +61,13 @@ School Generic Email: [_yishun\_ss@moe.edu.sg_](mailto:yishun_ss@moe.edu.sg)
 
 <figure><img src="images/YSS%20Exp/LLP/Sec%203_photo%204.jpeg" style="width:100%"><figcaption> Social game sets and dot-painted coin pouch packed in decorated brown paper bags all set for delivery! The project is organised by our students and supported by North West Community Development Council (CDC), as part of the Community Cares @ North West.</figcaption></figure>
 
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zxIQY6aRHCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 A video produced to show how Jenga game can be played in a fun and engaging way
+</center>
+
+
 
 <figure><img src="images/YSS%20Exp/LLP/Sec%203_photo%205.jpeg" style="width:100%"><figcaption> North West CDC pathfinder in collaboration with Sree Narayana Mission Home for the Aged in receiving the care packages.</figcaption></figure>
 
