@@ -24,37 +24,35 @@ Concurrently, YSS has fine-tuned its LLP with an arts element in community servi
 
 Additional information
 
-1\. Refer to approach framework above
-
+1\. Refer to approach framework above <br>
 2\. Video
+<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pGqTsFWnjWY" title="YSS - ALP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+</center>
+	
 Contact Person(s): Mr Tan Hong Peng, Year Head ([_tan\_hong\_peng@moe.edu.sg_](mailto:tan_hong_peng@moe.edu.sg), 68767107)
 
 School Generic Email: [yishun\_ss@moe.edu.sg](mailto:yishun_ss@moe.edu.sg)
 
 **ALP ongoing / upcoming events for 2021:**
 
-  
-
 **Sec 1 Beyond our Classroom! Music and Arts Modules**
 
 All Secondary One students will take part in this programme as part of their HBL for Term 2. Through Zoom lessons with well – known local artists, it allows every Secondary One student to be exposed to one Music or Art genre, such as Rapping, EDM, Soundscape, Puppetry, Storytelling, Cartooning, Body Percussion, Digital Caricature, Beatboxing and Singing. At the end of the programme, the students will use the June holiday to prepare for the presentation. They will get to showcase their products in July.
 
-  
+ 
 
 **Sec 2 Song Writing Programme**
 
 Through the Artist-in-School Programme, all Secondary Two Students will be exposed to the elements of Song Writing with Mr. James Lye. He will go through with them the fundamentals of Song Writing through collaborative work as well as get the students to record their songs in our school’s recording studio. Students will also work together as a class to produce an MTV at the end of the year.
 
-  
 
 **Digital Concert**
 
 Together with the Performing Arts CCAs, the school will be putting up a digital concert to showcase their varied talents at the end of the year.
 
-  
 
 **Vocalistic and Term 3 Lunch Time concert**
 
@@ -62,13 +60,11 @@ On top of organising performances at major school events, the ALP Committee will
 
   
 
-  
-
 One of our student – **Isabelle Faye Cenzon Lleva** from **3E1** took part in this year **SYF – The Youth Station Project 2021**. Her original song “**Under the Moon Light**” which she wrote in 2020 was selected as one of the Top 5 songs.
-
   
 
 You can listen to her entry via
+<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WNpv9tWQgSk" title="Under The Moonlight [Yishun Secondary School]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -94,3 +90,5 @@ MIDI Keyboard with effects</figcaption></figure>
 <figure><img src="images/Live-Recording-session-30th-Anniversary.jpg" style="width:100%"><figcaption> Live Recording session with Monisha, one of our student songwriters for the school’s 30th Anniversary</figcaption></figure>
 
 <figure><img src="images/YSS%20Exp/AVA-Pathfinder.jpg" style="width:100%"><figcaption> AVA Pathfinder Collaboration with Red Roof Records during BecKa’s EP Launch at Sentosa</figcaption></figure>
+	
+</center>	
