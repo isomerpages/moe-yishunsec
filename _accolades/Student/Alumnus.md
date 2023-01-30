@@ -52,9 +52,8 @@ third_nav_title: Student
 -----
 
 <center>
-
-<img src="/images/Accolades/Student/Phyllis%20Oh%20Yu%20Hui.png" style="width:50%" align="center">
 	
+![](/images/Accolades/Student/PHYLLIS-OH-YU-HUI_1.jpg)
 #### Phyllis Oh Yu Hui
 
 </center>
@@ -62,4 +61,42 @@ third_nav_title: Student
 * Yishun Alumni (2015)
 * Recipient of Swan & Maclaren Gold Medal
 * Diploma with Merit (Diploma in Media Design) from Singapore Polytechnic
+-------
+
+<center>
+
+<img
+src="/images/Accolades/Student/Huang%20Caihong.jpg" style="width:50%" align="center">	
+
+#### Huang Caihong
+
+</center>
+
+* YSS
+* Singapore Polytechnic (Recipient of Director’s Honour Roll)
+
+-----
+![](/images/Accolades/Student/Yeo%20Si%20Qi%20Levin.jpg)
+
+<center>
+
+#### Yeo Si Qi Levin
+
+</center>
+
+* YSS (2012-2015)
+* Nanyang Polytechnic (Recipient of the Infinite Frameworks Silver Medal and Award for Outstanding Project Work)
+
+--------
+![](/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg)
+
+<center>
+
+#### Raiyan Mikael Suhairi
+
+</center>
+
+* YSS (2013-2016)
+* Singapore Polytechnic (Recipient of the SP Engineering Scholarship)
+-------------
 
