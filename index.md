@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HomePg/Banner1_v2.jpg
+      background: /images/HomePg/Banner1_v3.jpg
       key_highlights:
         - title: Quick Links
           description: Self-help Tools & Web Pages
