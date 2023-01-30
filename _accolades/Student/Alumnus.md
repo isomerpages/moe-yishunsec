@@ -51,9 +51,11 @@ third_nav_title: Student
 * School of Technology for the Arts (Recipient of Republic Award)
 -----
 
+<br>
+<img src="/images/Accolades/Student/PHYLLIS-OH-YU-HUI_1.jpg" style="width:50%" align="center">
+
 <center>
 	
-![](/images/Accolades/Student/PHYLLIS-OH-YU-HUI_1.jpg)
 #### Phyllis Oh Yu Hui
 
 </center>
@@ -63,10 +65,12 @@ third_nav_title: Student
 * Diploma with Merit (Diploma in Media Design) from Singapore Polytechnic
 -------
 
-<center>
+
 
 <img
 src="/images/Accolades/Student/Huang%20Caihong.jpg" style="width:50%" align="center">	
+
+<center>
 
 #### Huang Caihong
 
@@ -76,10 +80,12 @@ src="/images/Accolades/Student/Huang%20Caihong.jpg" style="width:50%" align="cen
 * Singapore Polytechnic (Recipient of Director’s Honour Roll)
 
 -----
+
+<img
+src="/images/Accolades/Student/Yeo%20Si%20Qi%20Levin.jpg" style="width:50%" align="center">	
+
+
 <center>
-
-![](/images/Accolades/Student/Yeo%20Si%20Qi%20Levin.jpg)
-
 
 #### Yeo Si Qi Levin
 
@@ -89,11 +95,11 @@ src="/images/Accolades/Student/Huang%20Caihong.jpg" style="width:50%" align="cen
 * Nanyang Polytechnic (Recipient of the Infinite Frameworks Silver Medal and Award for Outstanding Project Work)
 
 --------
+
+<img
+src="/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg" style="width:70%" align="center">	
+
 <center>
-	
-![](/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg)
-
-
 
 #### Raiyan Mikael Suhairi
 
@@ -102,9 +108,11 @@ src="/images/Accolades/Student/Huang%20Caihong.jpg" style="width:50%" align="cen
 * YSS (2013-2016)
 * Singapore Polytechnic (Recipient of the SP Engineering Scholarship)
 -------------
-<center>
 
-![](/images/Accolades/Student/Denise%20Ong%20Li%20Jie.jpg)
+<img
+src="/images/Accolades/Student/Denise%20Ong%20Li%20Jie.jpg" style="width:50%" align="center">	
+
+<center>
 
 
 #### Denise Ong Li Jie
@@ -124,10 +132,12 @@ with a lot of opportunities to develop myself as a positive person! In
 addition, I am very thankful to have made some true friends.”*
 
 ------------
+
+<img
+src="/images/Accolades/Student/Michel%20Sim.png" style="width:50%" align="center">	
+
+
 <center>
-
-![](/images/Accolades/Student/Michel%20Sim.png)
-
 
 
 #### Michel Sim
@@ -146,9 +156,11 @@ be. I am thankful for the sense of self-belief that I have gained through
 the teachers and B.E. Project.”*
 
 ----------
+
+<img
+src="/images/Accolades/Student/Raphael%20Khoo.png" style="width:50%" align="center">	
+
 <center>
-	
-![](/images/Accolades/Student/Raphael%20Khoo.png)
 
 
 #### Raphael Khoo
@@ -166,9 +178,11 @@ Cadet Corps and Prefectorial Board, I have learnt about the need to
 remember our roots and give back to society in whatever ways I can.”*
 
 -------
+
+<img
+src="/images/Accolades/Student/Yoh%20Kai%20Xiang.jpg" style="width:70%" align="center">	
+
 <center>
-	
-![](/images/Accolades/Student/Yoh%20Kai%20Xiang.jpg)
 
 
 #### Yoh Kai Xiang
@@ -201,10 +215,11 @@ with many of the students and staff of Yishun Sec as I would always be
 grateful for what they have done for me.”*
 
 ----------
+
+<img
+src="/images/Accolades/Student/Salmah%20Sng%20Mei%20Wen.jpg" style="width:50%" align="center">	
+
 <center>
-
-![](/images/Accolades/Student/Salmah%20Sng%20Mei%20Wen.jpg)
-
 
 #### Salmah Sng Mei Wen
 
