@@ -106,49 +106,49 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>1</td>
-    <td></td>
-    <td></td>
-		<td></td>
+    <td>2021 SYF Arts Presentation</td>
+    <td>2021 SYF Arts Presentation</td>
+		<td>Accomplishment</td>
 		<td></td>
 		<td>CCA</td>
   </tr>
 	  <tr>
     <td>2</td>
-    <td></td>
-    <td></td>
-		<td></td>
+    <td>2021 SYF Arts Presentation</td>
+    <td>2021 SYF Arts Presentation</td>
+		<td>Accomplishment</td>
 		<td></td>
 		<td>CCA</td>
   </tr>
 	  <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
-		<td></td>
+    <td>2021 SYF Arts Presentation</td>
+    <td>2021 SYF Arts Presentation</td>
+		<td>Accomplishment</td>
 		<td></td>
 		<td>CCA</td>
   </tr>
 		  <tr>
     <td>4</td>
-    <td></td>
-    <td></td>
-		<td></td>
+    <td>2021 SYF Arts Presentation</td>
+    <td>2021 SYF Arts Presentation</td>
+		<td>Distinction</td>
 		<td></td>
 		<td>CCA</td>
   </tr>
 		  <tr>
     <td>5</td>
-    <td></td>
-    <td></td>
-		<td></td>
+    <td>2021 SYF Arts Presentation</td>
+    <td>2021 SYF Arts Presentation</td>
+		<td>Distinction</td>
 		<td></td>
 		<td>CCA</td>
   </tr>
 		  <tr>
     <td>6</td>
-    <td></td>
-    <td></td>
-		<td></td>
+    <td>2021 SYF Arts Presentation</td>
+    <td>2021 SYF Arts Presentation</td>
+		<td>Distinction</td>
 		<td></td>
 		<td>CCA</td>
   </tr>
