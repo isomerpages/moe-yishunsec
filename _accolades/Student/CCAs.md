@@ -109,7 +109,7 @@ tr:nth-child(even) {
     <td>2021 SYF Arts Presentation</td>
     <td>2021 SYF Arts Presentation</td>
 		<td>Accomplishment</td>
-		<td></td>
+		<td>Concert Band</td>
 		<td>CCA</td>
   </tr>
 	  <tr>
@@ -117,7 +117,7 @@ tr:nth-child(even) {
     <td>2021 SYF Arts Presentation</td>
     <td>2021 SYF Arts Presentation</td>
 		<td>Accomplishment</td>
-		<td></td>
+		<td>English Drama</td>
 		<td>CCA</td>
   </tr>
 	  <tr>
@@ -125,7 +125,7 @@ tr:nth-child(even) {
     <td>2021 SYF Arts Presentation</td>
     <td>2021 SYF Arts Presentation</td>
 		<td>Accomplishment</td>
-		<td></td>
+		<td>Guzheng Ensemble</td>
 		<td>CCA</td>
   </tr>
 		  <tr>
@@ -133,7 +133,7 @@ tr:nth-child(even) {
     <td>2021 SYF Arts Presentation</td>
     <td>2021 SYF Arts Presentation</td>
 		<td>Distinction</td>
-		<td></td>
+		<td>Indian Dance</td>
 		<td>CCA</td>
   </tr>
 		  <tr>
@@ -141,7 +141,7 @@ tr:nth-child(even) {
     <td>2021 SYF Arts Presentation</td>
     <td>2021 SYF Arts Presentation</td>
 		<td>Distinction</td>
-		<td></td>
+		<td>Malay Dance</td>
 		<td>CCA</td>
   </tr>
 		  <tr>
@@ -149,40 +149,40 @@ tr:nth-child(even) {
     <td>2021 SYF Arts Presentation</td>
     <td>2021 SYF Arts Presentation</td>
 		<td>Distinction</td>
-		<td></td>
+		<td>Modern Dance</td>
 		<td>CCA</td>
   </tr>
 		  <tr>
     <td>7</td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
+    <td>SPF-NPCC Badge</td>
+    <td>Pinnacle award for NPCC</td>
+		<td>SPF-NPCC Badge</td>
+		<td>SSGT (NPCC) Priyakumar Hari Krishna</td>
 		<td>CCA</td>
   </tr>
 		  <tr>
     <td>8</td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
+    <td>North Division Day 2021</td>
+    <td>Plog it, capture it, collage it competition</td>
+		<td>1st</td>
+		<td>Girl Guides</td>
 		<td>CCA</td>
   </tr>
 		  <tr>
     <td>9</td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
+    <td>North Division Day 2021</td>
+    <td>Funky Zoom Dance competition</td>
+		<td>2nd</td>
+		<td>Girl Guides</td>
 		<td>CCA</td>
   </tr>
 	</tr>
 		  <tr>
     <td>10</td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
+    <td>North Division Day 2021</td>
+    <td>Girls have talent! competition</td>
+		<td>3rd</td>
+		<td>Girl Guides</td>
 		<td>CCA</td>
   </tr>
 
