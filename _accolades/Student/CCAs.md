@@ -4,14 +4,9 @@ permalink: /accolades/Student/CCAs/
 description: ""
 third_nav_title: Student
 ---
-![](/images/Accolades%20Banner.png)
-
-CCA
-===
-
 ### Achievements
 
-**2022**
+#### **2022**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -70,7 +65,7 @@ CCA
 </tbody>
 </table>
 
-**2021**
+#### **2021**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -225,6 +220,10 @@ CCA
 </tbody>
 </table>
 
+<center>
+
 <iframe width="560" height="316" src="https://www.youtube.com/embed/EuqTEtioT5Y" title="YSS BAND National Day Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Concert Band - 2021 National Day Performance for MOE
+	
+</center>
