@@ -201,14 +201,14 @@ tr:nth-child(even) {
     <td>Concert Band</td>
     <td>Accomplishment Video:<br><a href="https://youtu.be/udzPVQBSAFY">
 			FLEXIBLE BAND BCS 233 YSS A </a><br><a href="https://youtu.be/g3uW7z2WVOM">
-			FLEXIBLE BAND_BCS 062_YSS (B)
+			FLEXIBLE BAND_BCS 062_YSS (B)</a>
 		</td>
   </tr>
 		<tr>
     <td>English Drama</td>
-    <td>Accomplishment Video:<br>
-			DRAMA_DRS 069_YSS (A)<br>
-			DRAMA_DRS 040_YSS (B)
+    <td>Accomplishment Video:<br><a href="https://youtu.be/9-jR4g1N2pw">
+			DRAMA_DRS 069_YSS (A)</a><br><a href="https://youtu.be/2ols0zbpg3U">
+			DRAMA_DRS 040_YSS (B)</a>
 		</td>
   </tr>
 		<tr>
