@@ -236,56 +236,6 @@ tr:nth-child(even) {
 </table>
 
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pkxd{background-color:#FFF;color:#6B6B6B;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-64ni{background-color:#FFF;color:#6B6B6B;text-align:left;vertical-align:top}
-.tg .tg-xin3{background-color:#FFF;color:#6B6B6B;font-style:italic;text-align:left;vertical-align:top}
-.tg .tg-7xv2{background-color:#FFF;color:#6B6B6B;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-pkxd" colspan="2">2021 SYF Arts Presentation Results</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7xv2">Choir</td>
-    <td class="tg-xin3">There is no certification for choir, participating schools will receive adjudicators’ report</td>
-  </tr>
-  <tr>
-    <td class="tg-7xv2">Concert Band</td>
-    <td class="tg-64ni"><span style="background-color:initial">Accomplishment</span> Video<span style="background-color:initial">:</span><br><a href="https://yishunsec-moe-edu-sg-admin.cwp.sg/qql/slot/u276/Accolades/Student/CCA/FLEXIBLE-BAND_BCS-233_YSS-A.mp4"><span style="font-weight:500;text-decoration:underline;color:#21088A">FLEXIBLE BAND_BCS 233_YSS (A)</span></a><br><a href="https://yishunsec-moe-edu-sg-admin.cwp.sg/qql/slot/u276/Accolades/Student/CCA/FLEXIBLE-BAND_BCS-062_YSS-B.mp4"><span style="font-weight:500;text-decoration:underline;color:#21088A">FLEXIBLE BAND_BCS 062_YSS (B)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7xv2">English Drama</td>
-    <td class="tg-64ni"><span style="background-color:initial">Accomplishment</span> Video<span style="background-color:initial">:</span><br><a href="https://yishunsec-moe-edu-sg-admin.cwp.sg/qql/slot/u276/Accolades/Student/CCA/DRAMA_DRS-069_YSS-A.mp4"><span style="font-weight:500;text-decoration:underline;color:#21088A">DRAMA_DRS 069_YSS (A)</span></a><br><a href="https://yishunsec-moe-edu-sg-admin.cwp.sg/qql/slot/u276/Accolades/Student/CCA/DRAMA_DRS-040_YSS-B.mp4"><span style="font-weight:500;text-decoration:underline;color:#21088A">DRAMA_DRS 040_YSS (B)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7xv2">Guzheng Ensemble</td>
-    <td class="tg-64ni"><span style="background-color:initial">Accomplishment</span> Video<span style="background-color:initial">:</span><br><a href="https://yishunsec-moe-edu-sg-admin.cwp.sg/qql/slot/u276/Accolades/Student/CCA/GUZHENG_GZS-023_YSS.mp4"><span style="font-weight:500;text-decoration:underline;color:#21088A">GUZHENG_GZS 023_YSS</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7xv2">Indian Dance</td>
-    <td class="tg-7xv2">Distinction</td>
-  </tr>
-  <tr>
-    <td class="tg-7xv2">Malay Dance</td>
-    <td class="tg-64ni"><span style="background-color:initial">Distinction</span> Video<span style="background-color:initial">:</span><br><a href="https://yishunsec-moe-edu-sg-admin.cwp.sg/qql/slot/u276/Accolades/Student/CCA/MALAY-DANCE_MLDS-035_YSS.mp4"><span style="font-weight:500;text-decoration:underline;color:#21088A">MALAY DANCE_MLDS 035_YSS</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7xv2">Modern Dance</td>
-    <td class="tg-64ni"><span style="background-color:initial">Distinction</span> Video<span style="background-color:initial">:</span><br><a href="https://yishunsec-moe-edu-sg-admin.cwp.sg/qql/slot/u276/Accolades/Student/CCA/INTERNATIONAL-DANCE_ITDS-123_YSS.mp4"><span style="font-weight:500;text-decoration:underline;color:#21088A">INTERNATIONAL DANCE_ITDS 123_YSS</span></a></td>
-  </tr>
-</tbody>
-</table>
-
 <center>
 
 <iframe width="560" height="316" src="https://www.youtube.com/embed/EuqTEtioT5Y" title="YSS BAND National Day Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
