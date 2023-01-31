@@ -213,8 +213,8 @@ tr:nth-child(even) {
   </tr>
 		<tr>
     <td>Guzheng Ensemble</td>
-    <td>Accomplishment Video:<br>
-			GUZHENG_GZS 023_YSS
+    <td>Accomplishment Video:<br><a href="https://youtu.be/9-jR4g1N2pw">
+			GUZHENG_GZS 023_YSS </a>
 		</td>
   </tr>
 		<tr>
@@ -223,14 +223,14 @@ tr:nth-child(even) {
   </tr>
 			<tr>
     <td>Malay Dance</td>
-    <td>Distinction Video:<br>
-			MALAY DANCE_MLDS 035_YSS
+    <td>Distinction Video:<br><a href=https://youtu.be/zct53kU5COw>
+			MALAY DANCE_MLDS 035_YSS </a>
 		</td>
   </tr>
 			<tr>
     <td>Modern Dance</td>
-    <td>Distinction Video:<br>
-			INTERNATIONAL DANCE_ITDS 123_YSS</td>
+    <td>Distinction Video:<br><a href=https://youtu.be/EVI50aCCQOs>
+			INTERNATIONAL DANCE_ITDS 123_YSS </a></td>
   </tr>
 			
 </table>
