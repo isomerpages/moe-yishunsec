@@ -189,7 +189,51 @@ tr:nth-child(even) {
 </table>
 
 
+###### **2021 SYF Arts Presentation Results**
 
+
+<table>
+  <tr>
+    <td>Choir</td>
+    <td>There is no certification for choir, participating schools will receive adjudicators’ report</td>
+  </tr>
+	<tr>
+    <td>Concert Band</td>
+    <td>Accomplishment Video:<br>
+			FLEXIBLE BAND_BCS 233_YSS (A)<br>
+			FLEXIBLE BAND_BCS 062_YSS (B)
+		</td>
+  </tr>
+		<tr>
+    <td>English Drama</td>
+    <td>Accomplishment Video:<br>
+			DRAMA_DRS 069_YSS (A)<br>
+			DRAMA_DRS 040_YSS (B)
+		</td>
+  </tr>
+		<tr>
+    <td>Guzheng Ensemble</td>
+    <td>Accomplishment Video:<br>
+			GUZHENG_GZS 023_YSS
+		</td>
+  </tr>
+		<tr>
+    <td>Indian Dance</td>
+    <td>Distinction</td>
+  </tr>
+			<tr>
+    <td>Malay Dance</td>
+    <td>Distinction Video:<br>
+			MALAY DANCE_MLDS 035_YSS
+		</td>
+  </tr>
+			<tr>
+    <td>Modern Dance</td>
+    <td>Distinction Video:<br>
+			INTERNATIONAL DANCE_ITDS 123_YSS</td>
+  </tr>
+			
+</table>
 
 
 
