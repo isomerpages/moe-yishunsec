@@ -74,6 +74,109 @@ tr:nth-child(even) {
 
 #### **2021**
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+
+</style>
+
+<table>
+
+  <tr>
+    <th>S/N</th>
+    <th>Name of Activity / Competition</th>
+    <th>Description of the Activity / Competition</th>
+		<th>Achievements / Placing</th>
+		<th>Name / Class of students Involved</th>
+		<th>Department</th>
+		
+  </tr>
+  <tr>
+    <td>1</td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+  </tr>
+	  <tr>
+    <td>2</td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+  </tr>
+	  <tr>
+    <td>3</td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+  </tr>
+		  <tr>
+    <td>4</td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+  </tr>
+		  <tr>
+    <td>5</td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+  </tr>
+		  <tr>
+    <td>6</td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+  </tr>
+		  <tr>
+    <td>7</td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+  </tr>
+		  <tr>
+    <td>8</td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+  </tr>
+		  <tr>
+    <td>9</td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+  </tr>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
