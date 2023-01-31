@@ -8,62 +8,69 @@ third_nav_title: Student
 
 #### **2022**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-gaqo{background-color:#FFF;color:#6B6B6B;text-align:center;vertical-align:middle}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
 </style>
-<table class="tg">
-<thead>
+
+<table>
   <tr>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">S/N</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Name of Activity / Competition</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Description of the Activity / Competition</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Achievements / Placing</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Name / Class of students Involved</span></th>
-    <th class="tg-a4yv">Department<span style="color:#666;background-color:#DDD"> </span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-gaqo">1</td>
-    <td class="tg-gaqo">NCC Unit Recognition 2022<br></td>
-    <td class="tg-gaqo">NCC Unit Recognition<br></td>
-    <td class="tg-gaqo">Distinction<br></td>
-    <td class="tg-gaqo">YSS NCC unit<br></td>
-    <td class="tg-gaqo">CCA  </td>
+    <th>S/N</th>
+    <th>Name of Activity / Competition</th>
+    <th>Description of the Activity / Competition</th>
+		<th>Achievements / Placing</th>
+		<th>Name / Class of students Involved</th>
+		<th>Department</th>
+		
   </tr>
   <tr>
-    <td class="tg-gaqo"> 2</td>
-    <td class="tg-gaqo">Outstanding Cadet Award </td>
-    <td class="tg-gaqo"> Outstanding Cadet Award</td>
-    <td class="tg-gaqo">NCC OCA </td>
-    <td class="tg-gaqo"> MSG Brian Wu/ 4E1</td>
-    <td class="tg-gaqo">CCA </td>
+    <td>1</td>
+    <td>NCC Unit Recognition 2022</td>
+    <td>NCC Unit Recognition</td>
+		<td>Distinction</td>
+		<td>YSS NCC unit</td>
+		<td>CCA</td>
   </tr>
   <tr>
-    <td class="tg-gaqo"> 3</td>
-    <td class="tg-gaqo">72nd Cadet Officer Course </td>
-    <td class="tg-gaqo">Cadet Officer (NCC) </td>
-    <td class="tg-gaqo">2/LT (NCC) </td>
-    <td class="tg-gaqo">MSG Charles Koh/ 4E5 </td>
-    <td class="tg-gaqo"> CCA</td>
+    <td>2</td>
+    <td>Outstanding Cadet Award</td>
+    <td>Outstanding Cadet Award</td>
+		<td>NCC OCA</td>
+		<td>MSG Brian Wu/ 4E1</td>
+		<td>CCA</td>
   </tr>
   <tr>
-    <td class="tg-gaqo">4 </td>
-    <td class="tg-gaqo">Singapore Kindness Movement </td>
-    <td class="tg-gaqo"> Kindness Badge Project (Phase 1 and 2)</td>
-    <td class="tg-gaqo">Kindness Badge Award </td>
-    <td class="tg-gaqo">Sec 2 Senior cadets [2022] </td>
-    <td class="tg-gaqo"> CCA</td>
+    <td>3</td>
+    <td>72nd Cadet Officer Course</td>
+    <td>Cadet Officer (NCC)</td>
+		<td>2/LT (NCC)</td>
+		<td>MSG Charles Koh/ 4E5</td>
+		<td>CCA</td>
   </tr>
-</tbody>
+  <tr>
+    <td>4</td>
+    <td>Singapore Kindness Movement</td>
+    <td>Kindness Badge Project (Phase 1 and 2)</td>
+		<td>Kindness Badge Award</td>
+		<td>Sec 2 Senior cadets \[2022]</td>
+		<td>CCA</td>
+  </tr>
 </table>
+
 
 #### **2021**
 
