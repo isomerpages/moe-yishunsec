@@ -199,8 +199,8 @@ tr:nth-child(even) {
   </tr>
 	<tr>
     <td>Concert Band</td>
-    <td>Accomplishment Video:<br>
-			FLEXIBLE BAND_BCS 233_YSS (A)<br>
+    <td>Accomplishment Video:<br><a href="https://youtu.be/udzPVQBSAFY">
+			FLEXIBLE BAND BCS 233 YSS A </a><br><a href="https://youtu.be/g3uW7z2WVOM">
 			FLEXIBLE BAND_BCS 062_YSS (B)
 		</td>
   </tr>
