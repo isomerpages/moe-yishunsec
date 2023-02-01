@@ -102,7 +102,7 @@ tr:nth-child(even) {
 		<th>Achievements / Placing</th>
 		<th>Name / Class of students Involved</th>
 		<th>Department</th>
-  </tr>
+	</tr>
   <tr>
     <td>1</td>
     <td>2021 SYF Arts Presentation</td>
