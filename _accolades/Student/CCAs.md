@@ -127,7 +127,7 @@ tr:nth-child(even) {
 		<td>Guzheng Ensemble</td>
 		<td>CCA</td>
   </tr>
-		  <tr>
+		<tr>
     <td>4</td>
     <td>2021 SYF Arts Presentation</td>
     <td>2021 SYF Arts Presentation</td>
@@ -135,7 +135,7 @@ tr:nth-child(even) {
 		<td>Indian Dance</td>
 		<td>CCA</td>
   </tr>
-		  <tr>
+	<tr>
     <td>5</td>
     <td>2021 SYF Arts Presentation</td>
     <td>2021 SYF Arts Presentation</td>
@@ -143,7 +143,7 @@ tr:nth-child(even) {
 		<td>Malay Dance</td>
 		<td>CCA</td>
   </tr>
-		  <tr>
+	<tr>
     <td>6</td>
     <td>2021 SYF Arts Presentation</td>
     <td>2021 SYF Arts Presentation</td>
@@ -151,7 +151,7 @@ tr:nth-child(even) {
 		<td>Modern Dance</td>
 		<td>CCA</td>
   </tr>
-		  <tr>
+	<tr>
     <td>7</td>
     <td>SPF-NPCC Badge</td>
     <td>Pinnacle award for NPCC</td>
@@ -159,7 +159,7 @@ tr:nth-child(even) {
 		<td>SSGT (NPCC) Priyakumar Hari Krishna</td>
 		<td>CCA</td>
   </tr>
-		  <tr>
+	<tr>
     <td>8</td>
     <td>North Division Day 2021</td>
     <td>Plog it, capture it, collage it competition</td>
@@ -167,7 +167,7 @@ tr:nth-child(even) {
 		<td>Girl Guides</td>
 		<td>CCA</td>
   </tr>
-		  <tr>
+	<tr>
     <td>9</td>
     <td>North Division Day 2021</td>
     <td>Funky Zoom Dance competition</td>
@@ -175,8 +175,7 @@ tr:nth-child(even) {
 		<td>Girl Guides</td>
 		<td>CCA</td>
   </tr>
-	</tr>
-		  <tr>
+	<tr>
     <td>10</td>
     <td>North Division Day 2021</td>
     <td>Girls have talent! competition</td>
