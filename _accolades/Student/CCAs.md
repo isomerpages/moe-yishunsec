@@ -102,7 +102,6 @@ tr:nth-child(even) {
 		<th>Achievements / Placing</th>
 		<th>Name / Class of students Involved</th>
 		<th>Department</th>
-		
   </tr>
   <tr>
     <td>1</td>
