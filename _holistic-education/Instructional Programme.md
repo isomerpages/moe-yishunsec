@@ -15,7 +15,7 @@ description: ""
 
 **[Mathematics](/instructional-programme/mathematics)**
 
-**Mother Tongue Languages**
+**[Mother Tongue Languages](/instructional-programme/mtl)**
 
 **Aesthetics (Music and Retail Operations)**
 
