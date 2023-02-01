@@ -35,3 +35,5 @@ Selected Secondary Two students performed for the residents at SNMH and taught t
 
 ### Photos
 
+![](/images/IP/Aesthetics/Ast_photo1.png)
+![](/images/IP/Aesthetics/Ast_photo2.png)
