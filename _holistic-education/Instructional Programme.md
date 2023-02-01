@@ -17,7 +17,7 @@ description: ""
 
 **[Mother Tongue Languages](/instructional-programme/mtl)**
 
-**Aesthetics (Music and Retail Operations)**
+**[Aesthetics (Music and Retail Operations)](/instructional-programme/aesthetics)**
 
 **Physical Education**
 
