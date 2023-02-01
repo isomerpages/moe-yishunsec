@@ -9,7 +9,7 @@ description: ""
 
 **[Literature](/instructional-programme/literature)**
 
-**Humanities**
+**[Humanities](/instructional-programme/humanities/)**
 
 **Information and Communications Technology (ICT)**
 
