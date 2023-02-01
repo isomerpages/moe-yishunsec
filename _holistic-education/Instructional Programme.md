@@ -23,4 +23,4 @@ description: ""
 
 **[Science](/instructional-programme/science)**
 
-**Exercise & Sports Science (ESS)**
+**[Exercise & Sports Science (ESS)](/instructional-programme/ess)**
