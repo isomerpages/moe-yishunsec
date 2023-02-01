@@ -101,6 +101,18 @@ As a department, various ways are explored to give back to the Community:
 ![](/images/IP/CraftandTech/pic%206.png)
 ![](/images/IP/CraftandTech/pic%207.png)
 ![](/images/IP/CraftandTech/pic%208.png)
+![](/images/IP/CraftandTech/pic%209.png)
+![](/images/IP/CraftandTech/pic%2010.png)
+![](/images/IP/CraftandTech/pic%2011.png)
+![](/images/IP/CraftandTech/pic%2012.png)
+![](/images/IP/CraftandTech/pic%2013.png)
+![](/images/IP/CraftandTech/pic%2014.png)
+![](/images/IP/CraftandTech/pic%2015.png)
+![](/images/IP/CraftandTech/pic%2016.png)
+![](/images/IP/CraftandTech/pic%2017.png)
+![](/images/IP/CraftandTech/pic%2018.png)
+![](/images/IP/CraftandTech/pic%2019.png)
+
 
 <br>
 <iframe width="496" height="882" src="https://www.youtube.com/embed/Pmfmn2kObkc" title="Craft and Technology 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
