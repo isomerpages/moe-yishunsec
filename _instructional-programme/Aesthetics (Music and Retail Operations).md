@@ -30,7 +30,3 @@ Selected Secondary Two students performed for the residents at SNMH and taught t
 
 ### Aesthetics Department Teachers:
 
-
-
-
-
