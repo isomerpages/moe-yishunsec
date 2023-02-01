@@ -2,6 +2,7 @@ collections:
   instructional-programme:
     output: true
     order:
+      - Science.md
       - Physical Education.md
       - Aesthetics (Music and Retail Operations).md
       - Mother Tongue Languages.md
