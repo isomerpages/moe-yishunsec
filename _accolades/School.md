@@ -3,8 +3,6 @@ title: School
 permalink: /accolades/School/
 description: ""
 ---
-![](/images/Accolades%20Banner.png)
-
 ![](/images/pic-1.png)
 
 ![](/images/pic-2.png)
