@@ -32,4 +32,3 @@ YSS Writes! features well-written essays produced by our very own Yishunites.
 Use the platform to read up on works produced by students from our school and to also understand what makes each essay a well-written one. 
 
 You may approach your English Language teacher if you would like to have your writing featured in our repository of essays.
-
