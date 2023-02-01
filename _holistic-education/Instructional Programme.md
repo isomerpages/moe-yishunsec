@@ -7,7 +7,7 @@ description: ""
 
 **[English Language](/instructional-programme/english-language)**
 
-**Literature**
+**[Literature](/instructional-programme/literature)**
 
 **Humanities**
 
