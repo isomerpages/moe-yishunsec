@@ -11,7 +11,7 @@ description: ""
 
 **[Humanities](/instructional-programme/humanities/)**
 
-**Information and Communications Technology (ICT)**
+**[Information and Communications Technology (ICT)](/instructional-programme/ict)**
 
 **Mathematics**
 
