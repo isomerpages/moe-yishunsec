@@ -83,3 +83,9 @@ As a department, various ways are explored to give back to the Community:
 * Lower Secondary culinary competition, culinary workshops by chefs, and healthy eating workshop were some highlights from the department.
 
 ### Craft & Technology Teachers
+
+![](/images/IP/CraftandTech/DnT1.png)
+
+![](/images/IP/CraftandTech/DnT2.png)
+
+![](/images/IP/CraftandTech/DnT3.png)
