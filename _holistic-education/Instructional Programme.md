@@ -5,7 +5,7 @@ description: ""
 ---
 **[Craft and Technology](/instructional-programme/craftandtech/)**
 
-**English Language**
+**[English Language](/instructional-programme/english-language)**
 
 **Literature**
 
