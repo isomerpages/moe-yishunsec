@@ -2,6 +2,7 @@ collections:
   instructional-programme:
     output: true
     order:
+      - Humanities.md
       - Literature.md
       - English Language.md
       - Craft and Technology.md
