@@ -2,14 +2,14 @@ collections:
   instructional-programme:
     output: true
     order:
-      - Exercise & Sports Science (ESS).md
-      - Science.md
-      - Physical Education.md
       - Aesthetics (Music and Retail Operations).md
-      - Mother Tongue Languages.md
-      - Mathematics.md
-      - Information and Communications Technology (ICT).md
-      - Humanities.md
-      - Literature.md
-      - English Language.md
       - Craft and Technology.md
+      - English Language.md
+      - Literature.md
+      - Humanities.md
+      - Exercise & Sports Science (ESS).md
+      - Information and Communications Technology (ICT).md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science.md
