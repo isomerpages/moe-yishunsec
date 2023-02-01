@@ -21,6 +21,6 @@ description: ""
 
 **[Physical Education](/instructional-programme/physical-education)**
 
-**Science**
+**[Science](/instructional-programme/science)**
 
 **Exercise & Sports Science (ESS)**
