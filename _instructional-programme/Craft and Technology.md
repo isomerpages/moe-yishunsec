@@ -11,9 +11,9 @@ To nurture students into thinkers, innovators, and contributors
 
 Craft and Technology subjects (Art, Design & Technology, Food & Nutrition, Food Studies, Food & Consumer Education) are aligned to the 21st Century Competencies required by students to be thinkers, innovators and contributors. Through coursework, students are exposed to thinking and innovation techniques such as project management, art awareness and appreciation, nutrition planning, problems identification, research, decision making, empathy and safety consciousness so that they are able to contribute to the community.
 
-**DESIGN & TECHNOLOGY** adopts the Design Thinking process to explore real-world design opportunities and students propose ideas based on their research and ideation.  Students’ thinking is cultivated through different methods of sketching and drawing, questioning techniques and the joy of learning by using real-life authentic situations coupled with computer-aided design software for product design on structures and designs.  These activities, together with mini projects, enable students to experience authentic design opportunities with empathy and critical thinking, thus honing their problem-solving skills.
+<b style="color:blue">DESIGN & TECHNOLOGY </b>adopts the Design Thinking process to explore real-world design opportunities and students propose ideas based on their research and ideation.  Students’ thinking is cultivated through different methods of sketching and drawing, questioning techniques and the joy of learning by using real-life authentic situations coupled with computer-aided design software for product design on structures and designs.  These activities, together with mini projects, enable students to experience authentic design opportunities with empathy and critical thinking, thus honing their problem-solving skills.
 
-**D&T Programme**
+<b style="color:blue">D&T Programme </b>
 
 **Lower Secondary Programme**
 
@@ -83,4 +83,3 @@ As a department, various ways are explored to give back to the Community:
 * Lower Secondary culinary competition, culinary workshops by chefs, and healthy eating workshop were some highlights from the department.
 
 ### Craft & Technology Teachers
-
