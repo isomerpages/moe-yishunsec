@@ -2,6 +2,7 @@ collections:
   instructional-programme:
     output: true
     order:
+      - Mathematics.md
       - Information and Communications Technology (ICT).md
       - Humanities.md
       - Literature.md
