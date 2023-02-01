@@ -19,7 +19,7 @@ description: ""
 
 **[Aesthetics (Music and Retail Operations)](/instructional-programme/aesthetics)**
 
-**Physical Education**
+**[Physical Education](/instructional-programme/physical-education)**
 
 **Science**
 
