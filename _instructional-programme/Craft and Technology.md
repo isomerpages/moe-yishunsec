@@ -89,3 +89,7 @@ As a department, various ways are explored to give back to the Community:
 ![](/images/IP/CraftandTech/DnT2.png)
 
 ![](/images/IP/CraftandTech/DnT3.png)
+
+### Photos
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcA9cJAid8vO5ifmjuCVfSKEpIXgGcF0-i3hpsfnlDvWAOGwWlNnl8uedtM7yP8ckLia35eb-M1sXb/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
