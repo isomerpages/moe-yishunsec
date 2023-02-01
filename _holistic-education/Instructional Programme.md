@@ -13,7 +13,7 @@ description: ""
 
 **[Information and Communications Technology (ICT)](/instructional-programme/ict)**
 
-**Mathematics**
+**[Mathematics](/instructional-programme/mathematics)**
 
 **Mother Tongue Languages**
 
