@@ -3,7 +3,7 @@ title: Instructional Programme
 permalink: /holistic-education/instructional-programme/
 description: ""
 ---
-**Craft and Technology**
+**[Craft and Technology](/instructional-programme/craftandtech/)**
 
 **English Language**
 
