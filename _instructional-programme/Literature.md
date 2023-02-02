@@ -51,7 +51,7 @@ Students will learn to:
 
 ----
 
-![](/images/school-crest.png)
+<img src="/images/school-crest.png" width="50">
 
 #### Literature Programme
 
