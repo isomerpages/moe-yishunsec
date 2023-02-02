@@ -57,10 +57,16 @@ Students will learn to:
 ### Literature Programme
 
 <h5 style="color:#e8a209"> Lower Secondary </h5>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+
 
 <table>
 	  <tr>
-    <th >Secondary 1</th>
+    <th>Secondary 1</th>
     <th>Secondary 2</th>
   </tr>
   <tr>
