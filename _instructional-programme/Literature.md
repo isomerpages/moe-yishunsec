@@ -51,10 +51,10 @@ Students will learn to:
 
 ----
 
-<img src="/images/school-crest.png" style="width:30%" align="left"></img>
+
 
 	
-<h4>Literature Programme</h4>
+### Literature Programme
 
 <h5 style="color:#e8a209"> Lower Secondary </h5>
 
