@@ -53,11 +53,9 @@ Students will learn to:
 
 #### Literature Programme
 
+##### Lower Secondary
+
 <table>
-  <tr>
-    <th>Lower Secondary</th>
-		<th></th>
-  </tr>
 	  <tr>
     <th>Secondary 1</th>
     <th>Secondary 2</th>
@@ -93,3 +91,4 @@ Prose Text (2021 only):
 * Essay Writing Skills</td>
   </tr>
 </table>
+
