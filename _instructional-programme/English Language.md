@@ -35,3 +35,18 @@ You may approach your English Language teacher if you would like to have your wr
 
 ### English Language & Media Literacy Teachers
 
+![](/images/IP/English/Eng1.png)
+
+![](/images/IP/English/Eng2.png)
+
+![](/images/IP/English/Eng3.png)
+
+### Photos
+
+![](/images/IP/English/Slide1.jpg)
+
+![](/images/IP/English/Slide2.jpg)
+
+![](/images/IP/English/Slide3.jpg)
+
+
