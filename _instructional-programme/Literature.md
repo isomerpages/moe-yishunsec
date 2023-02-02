@@ -53,7 +53,7 @@ Students will learn to:
 
 #### Literature Programme
 
-##### Lower Secondary
+<h5 style="color:#e8a209"> Lower Secondary </h5>
 
 <table>
 	  <tr>
@@ -91,4 +91,6 @@ Prose Text (2021 only):
 * Essay Writing Skills</td>
   </tr>
 </table>
+
+<h5 style="color:#e8a209"> Upper Secondary </h5>
 
