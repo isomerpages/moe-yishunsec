@@ -48,5 +48,3 @@ You may approach your English Language teacher if you would like to have your wr
 ![](/images/IP/English/Slide2.jpg)
 
 ![](/images/IP/English/Slide3.jpg)
-
-
