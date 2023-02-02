@@ -54,7 +54,11 @@ Students will learn to:
 #### Literature Programme
 
 <h5 style="color:#e8a209"> Lower Secondary </h5>
-
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
 <table>
 	  <tr>
     <th>Secondary 1</th>
@@ -93,4 +97,3 @@ Prose Text (2021 only):
 </table>
 
 <h5 style="color:#e8a209"> Upper Secondary </h5>
-
