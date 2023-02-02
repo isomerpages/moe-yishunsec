@@ -44,7 +44,8 @@ You may approach your English Language teacher if you would like to have your wr
 ### Photos
 
 ![](/images/IP/English/Slide1.jpg)
-
 ![](/images/IP/English/Slide2.jpg)
-
 ![](/images/IP/English/Slide3.jpg)
+![](/images/IP/English/Slide4.jpg)
+![](/images/IP/English/Slide5.jpg)
+![](/images/IP/English/Slide6.jpg)
