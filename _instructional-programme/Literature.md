@@ -53,8 +53,43 @@ Students will learn to:
 
 #### Literature Programme
 
+<table>
+  <tr>
+    <th>Lower Secondary</th>
+		<th></th>
+  </tr>
+	  <tr>
+    <th>Secondary 1</th>
+    <th>Secondary 2</th>
+  </tr>
+  <tr>
+    <td>Literature Bridging Programme Prose Text + Unseen Poetry
+(Introduction to Poetry Package) <br>
 
+Prose Text:
 
+*   The Outsiders (Express)
+*   Global Tales (Normal A)
 
+**Areas of Emphasis (Teaching)**:
 
+*   Character Analysis
+*   Plot
+*   Theme
+*   Essay writing skills
+		</td>
+    <td>Prose and Unseen Poetry (Local and Global)
 
+	<br>
+Prose Text (2021 only):
+* The Outsiders (Express)
+* Global Tales (Normal A)
+
+<b>Areas of Emphasis: </b>
+* Character Analysis
+* Plot
+* Theme
+* Literary Devices/Writer’s Style
+* Essay Writing Skills</td>
+  </tr>
+</table>
