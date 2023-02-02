@@ -50,10 +50,10 @@ Students will learn to:
 * convince others of their interpretations, based on sound reasoning with evidence
 
 ----
+<br>
 
+<img src= /images/IP/Literature/yss%20logo%20100px.jpg style="width:100px;height:134px;">
 
-
-	
 ### Literature Programme
 
 <h5 style="color:#e8a209"> Lower Secondary </h5>
