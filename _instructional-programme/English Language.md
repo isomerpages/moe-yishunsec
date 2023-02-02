@@ -31,4 +31,6 @@ Use the platform to read up on works produced by students from our school and to
 
 You may approach your English Language teacher if you would like to have your writing featured in our repository of essays.
 
+[https://writing522470280.wordpress.com](https://writing522470280.wordpress.com/)
+
 ### English Language & Media Literacy Teachers
