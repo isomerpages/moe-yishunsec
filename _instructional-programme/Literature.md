@@ -5,5 +5,51 @@ description: ""
 ---
 <center> <b style="color:red">The </b><b style="color:orange">YSS </b><b style="color:lime">Literature </b><b style="color:blue">Unit</b>
 
+![](/images/IP/Literature/Literature%20Department1.png)
 
 </center>
+
+**Desired Outcomes of Literature**
+
+We aim to develop students to be:
+
+* Empathetic and Global Thinkers
+* Critical Readers
+* Creative Meaning Makers
+* Convincing Communicators
+
+**Empathetic and Global Thinkers**
+
+Students will learn to:
+
+* empathise with other people’s experiences
+* be open to appreciate multiple perspectives
+* develop global awareness through the study of texts from different parts of the world
+* reflect on their own values, perspectives and identities as they consider the impact of their beliefs and actions on society
+
+**Critical Readers**
+
+Students will learn to:
+
+* appreciate the aesthetic value and enjoy the nuances of language, with perceptive and questioning minds
+* read widely and independently, from a variety of genres for the appreciation of genre conventions
+* appreciate the contexts in which literary texts are written, read and understood
+
+**Creative Meaning Makers**
+
+Students will learn to:
+
+* embrace ambiguity and uncertainty as necessary in the meaning making process
+* actively and creatively construct their understanding and interpretation of texts
+
+**Convincing Communicators**
+
+Students will learn to:
+
+* demonstrate critical thinking when discussing and writing about texts
+* convince others of their interpretations, based on sound reasoning with evidence
+
+----
+
+#### Literature Programme
+
