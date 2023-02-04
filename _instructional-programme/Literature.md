@@ -58,5 +58,62 @@ Students will learn to:
 
 <h5 style="color:#e8a209"> Lower Secondary </h5>
 
+<style>
+
+td, tr {
+		border: 2px solid blue;
+	}
+
+</style>
+
+<table>
+<tr>
+	<th>Secondary 1</th>
+	<th>Secondary 2</th>
+</tr>
+
+<tr>
+	<td>Literature Bridging Programme Prose Text + Unseen Poetry
+(Introduction to Poetry Package)
+<br>
+<br><b>Prose Text</b>
+
+<ul>
+  <li>The Outsiders (Express)</li>
+  <li>Global Tales (Normal A)</li>
+</ul>
+
+<b>Areas of Emphasis (Teaching):</b>
+
+<ul>
+  <li>Character Analysis</li>
+  <li>Plot</li>
+  <li>Theme</li>
+  <li>Essay Writing Skills</li>
+</ul>
+</td>
+
+<td>Prose and Unseen Poetry (Local and Global)
+<br>
+<br><b>Prose Text (2021 only):</b>
+
+<ul>
+  <li>The Outsiders (Express)</li>
+  <li>Global Tales (Normal A)</li>
+</ul>
+
+<b>Areas of Emphasis:</b>
+
+<ul>
+  <li>Character Analysis</li>
+  <li>Plot</li>
+  <li>Theme</li>
+  <li>Literary Devices/Writer’s Style</li>
+  <li>Essay Writing Skills</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 <h5 style="color:#e8a209"> Upper Secondary </h5>
