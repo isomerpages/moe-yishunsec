@@ -182,9 +182,17 @@ tr, td {
 
 </tr>
 </table>
+<center>
 
-![](/images/IP/Literature/Drama-in-Secondary-1-Literature.jpeg)<br>
-![](/images/IP/Literature/National-Schools-Literature-Festival.jpg)<br>
-![](/images/IP/Literature/Meeting-with-Haresh-Sharma.jpg)<br>
-![](/images/IP/Literature/Sec-2-Literature-Learning-Journey-Writing.jpg)<br>
+![](/images/IP/Literature/Drama-in-Secondary-1-Literature.jpeg)
+Drama in Secondary 1 Literature <br>
+![](/images/IP/Literature/National-Schools-Literature-Festival.jpg)
+National Schools’ Literature Festival – Book Trailer Third Place Winners <br>
+![](/images/IP/Literature/Meeting-with-Haresh-Sharma.jpg)
+Meeting with Haresh Sharma, author of Off-Centre, during the Secondary Three Literature Learning Journey <br>
+![](/images/IP/Literature/Sec-2-Literature-Learning-Journey-Writing.jpg)
+Sec 2 Literature Learning Journey – Writing of original haikus and counting the syllables </br>
 ![](/images/IP/Literature/Finish-on-the-Literature-Learning-Journey.jpg)
+Photo Finish on the Literature Leaning Journey
+	
+</center>
