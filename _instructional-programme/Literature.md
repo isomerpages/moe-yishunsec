@@ -138,7 +138,7 @@ tr, td {
 <b>Paper 2:</b>
 
 <ul>
-	<li><i>Drama: Boom by Jean Tay</i></li>
+	<li>Drama: <i>Boom by Jean Tay</i></li>
 </ul>
 
 <b>Areas of Emphasis (Teaching):</b>
@@ -153,26 +153,33 @@ tr, td {
 </ul>
 </td>
 
-<td>Prose and Unseen Poetry (Local and Global)
+<td><b>Literature In English 2065</b>
 <br>
-<br><b>Prose Text (2021 only):</b>
+<br><b>Paper 1:</b>
 
 <ul>
-  <li>The Outsiders (Express)</li>
-  <li>Global Tales (Normal A)</li>
+	<li>Prose:The River Between by Nguigi Wa Thiong’O</li>
+  <li>Unseen Poem (Local and Global)</li>
 </ul>
 
-<b>Areas of Emphasis:</b>
+<b>Paper 2:</b>
+
+<ul>
+	<li>Drama: <i>Off Centre by Haresh Sharma</i></li>
+</ul>
+
+<b>Areas of Emphasis (Teaching):</b>
 
 <ul>
   <li>Character Analysis</li>
   <li>Plot</li>
   <li>Theme</li>
-  <li>Literary Devices/Writer’s Style</li>
+	<li><i>Literary Devices/Writer’s Style</i></li>
+	<li><i>Setting and Atmosphere</i></li>
   <li>Essay Writing Skills</li>
 </ul>
-
 </td>
+
 </tr>
 
 </table>
