@@ -131,7 +131,7 @@ tr, td {
 <br><b>Paper 1:</b>
 
 <ul>
-	<li>Prose:<i>Fahrenheit 451 by Ray Bradbury</i></li>
+	<li>Prose:<i> Fahrenheit 451 by Ray Bradbury</i></li>
   <li>Unseen Poem (Local and Global)</li>
 </ul>
 
@@ -158,7 +158,7 @@ tr, td {
 <br><b>Paper 1:</b>
 
 <ul>
-	<li>Prose:The River Between by Nguigi Wa Thiong’O</li>
+	<li>Prose: The River Between by Nguigi Wa Thiong’O</li>
   <li>Unseen Poem (Local and Global)</li>
 </ul>
 
