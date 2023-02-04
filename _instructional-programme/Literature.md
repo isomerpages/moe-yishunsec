@@ -65,9 +65,13 @@ tr, td {
 </style>
 
 <table>
+<tr style=background-color:lime>
+	<td colspan="2" style=text-align:center;font-size:20px><b>Lower Secondary</b<</td>
+</tr>
+
 <tr>
-	<th>Secondary 1</th>
-	<th>Secondary 2</th>
+	<th style=background-color:lightblue>Secondary 1</th>
+	<th style=background-color:violet>Secondary 2</th>
 </tr>
 
 <tr>
@@ -112,6 +116,63 @@ tr, td {
 
 </td>
 </tr>
-</table>
+<tr style=background-color:lime>
+	<td colspan="2" style=text-align:center:font-size:20px><b>Upper Secondary</b<</td>
+</tr>
 
-<h5 style="color:#e8a209"> Upper Secondary </h5>
+<tr>
+	<th style=background-color:lightblue>Secondary 3</th>
+	<th style=background-color:violet>Secondary 4</th>
+</tr>
+
+<tr>
+	<td><b>Literature In English 2065</b>
+<br>
+<br><b>Paper 1:</b>
+
+<ul>
+	<li>Prose:<i>Fahrenheit 451 by Ray Bradbury</i></li>
+  <li>Unseen Poem (Local and Global)</li>
+</ul>
+
+<b>Paper 2:</b>
+
+<ul>
+	<li><i>Drama: Boom by Jean Tay</i></li>
+</ul>
+
+<b>Areas of Emphasis (Teaching):</b>
+
+<ul>
+  <li>Character Analysis</li>
+  <li>Plot</li>
+  <li>Theme</li>
+	<li><i>Literary Devices/Writer’s Style</i></li>
+	<li><i>Setting and Atmosphere</i></li>
+  <li>Essay Writing Skills</li>
+</ul>
+</td>
+
+<td>Prose and Unseen Poetry (Local and Global)
+<br>
+<br><b>Prose Text (2021 only):</b>
+
+<ul>
+  <li>The Outsiders (Express)</li>
+  <li>Global Tales (Normal A)</li>
+</ul>
+
+<b>Areas of Emphasis:</b>
+
+<ul>
+  <li>Character Analysis</li>
+  <li>Plot</li>
+  <li>Theme</li>
+  <li>Literary Devices/Writer’s Style</li>
+  <li>Essay Writing Skills</li>
+</ul>
+
+</td>
+</tr>
+
+</table>
