@@ -59,11 +59,9 @@ Students will learn to:
 <h5 style="color:#e8a209"> Lower Secondary </h5>
 
 <style>
-
-td, tr {
+tr {
 		border: 2px solid blue;
 	}
-
 </style>
 
 <table>
