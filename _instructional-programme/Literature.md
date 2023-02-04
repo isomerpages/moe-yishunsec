@@ -117,7 +117,7 @@ tr, td {
 </td>
 </tr>
 <tr style=background-color:lime>
-	<td colspan="2" style=text-align:center:font-size:20px><b>Upper Secondary</b<</td>
+	<td colspan="2" style=text-align:center;font-size:20px><b>Upper Secondary</b></td>
 </tr>
 
 <tr>
