@@ -3,3 +3,18 @@ title: Mathematics
 permalink: /instructional-programme/mathematics/
 description: ""
 ---
+### Department Goal(s)
+
+To develop students’ numeracy skills through logical reasoning, communicating and applications of concepts in the real life and to achieve our department vision of every student will excel and appreciate Mathematics.
+
+### Key Programmes
+
+* Teachers explored innovative ways to make learning of math meaningful. They have provided varied learning experiences using games and thinking tools in SLS lessons to check students’ learning and give timely feedback. 
+* Math activities designed by the teachers for all Sec 1 to 3 students to learn concepts outside the classroom across the year. These include hands-on activities of geometric shapes, measurement of the length of their hands and feet to learn ratio. Students investigate concepts using freeware Geogebra, they were excited to share their findings together with their peers.
+* <b>All Singapore Secondary Mathematics Competition for Normal Course Students 2022:</b>
+To stimulate greater interest and enrich students’ knowledge in Mathematics for students in Normal Academic and Normal Technical.
+* <b>Singapore and Asian School Math Olympiad (SASMO) 2022: </b>Our teachers trained students from Sec 1E, 2E and 3E. The competition allowed them to learn independently and stretch their thinking skills in non-routine questions. We have clinched 1 Silver and 6 Bronze Awards and 3 Honorable Mention.
+
+### Highlights / Achievements
+
+• All Singapore Secondary Mathematics Competition for Normal Course Students 2022. Our Sec 1 Normal Academic and Normal Technical students won the Top five in the Individual Category and top five in Team Category.
