@@ -62,7 +62,7 @@ Students will learn to:
 
 
 <style>
-tr, td, th {
+table, tr, td, th {
 		border: 2px solid blue;
 	}
 </style>
