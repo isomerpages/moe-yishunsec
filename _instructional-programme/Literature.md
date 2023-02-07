@@ -8,10 +8,10 @@ description: ""
 </div>
 	
 
-![](/images/IP/Literature/Literature%20Department1.png)
+<img src="/images/IP/Literature/Literature%20Department1.png">
 
 
-#### Desired Outcomes of Literature
+<h4>Desired Outcomes of Literature</h4>
 
 We aim to develop students to be:
 
@@ -20,7 +20,7 @@ We aim to develop students to be:
 * Creative Meaning Makers
 * Convincing Communicators
 
-#### Empathetic and Global Thinkers
+<h4>Empathetic and Global Thinkers</h4>
 
 Students will learn to:
 
@@ -29,7 +29,7 @@ Students will learn to:
 * develop global awareness through the study of texts from different parts of the world
 * reflect on their own values, perspectives and identities as they consider the impact of their beliefs and actions on society
 
-#### Critical Readers
+<h4>Critical Readers</h4>
 
 Students will learn to:
 
@@ -37,14 +37,14 @@ Students will learn to:
 * read widely and independently, from a variety of genres for the appreciation of genre conventions
 * appreciate the contexts in which literary texts are written, read and understood
 
-#### Creative Meaning Makers
+<h4>Creative Meaning Makers</h4>
 
 Students will learn to:
 
 * embrace ambiguity and uncertainty as necessary in the meaning making process
 * actively and creatively construct their understanding and interpretation of texts
 
-#### Convincing Communicators
+<h4>Convincing Communicators</h4>
 
 Students will learn to:
 
@@ -57,7 +57,7 @@ Students will learn to:
 <img src= /images/IP/Literature/yss%20logo%20100px.jpg style="width:100px;height:134px;">
 
 
-### Literature Programme
+<h3>Literature Programme</h3>
 
 
 
@@ -188,17 +188,17 @@ table, tr, td, th {
 </table>
 
 
-![](/images/IP/Literature/Drama-in-Secondary-1-Literature.jpeg)
+<img src="/images/IP/Literature/Drama-in-Secondary-1-Literature.jpeg">
 <div style="text-align:center;">Drama in Secondary 1 Literature </div>
 
-![](/images/IP/Literature/National-Schools-Literature-Festival.jpg)
+<img src="/images/IP/Literature/National-Schools-Literature-Festival.jpg">
 <div style="text-align:center;">National Schools’ Literature Festival – Book Trailer Third Place Winners </div>
 
-![](/images/IP/Literature/Meeting-with-Haresh-Sharma.jpg)
+<img src="/images/IP/Literature/Meeting-with-Haresh-Sharma.jpg">
 <div style="text-align:center;">Meeting with Haresh Sharma, author of Off-Centre, during the Secondary Three Literature Learning Journey</div>
 	
-![](/images/IP/Literature/Sec-2-Literature-Learning-Journey-Writing.jpg)
+<img src="/images/IP/Literature/Sec-2-Literature-Learning-Journey-Writing.jpg">
 <div style="text-align:center;">Sec 2 Literature Learning Journey – Writing of original haikus and counting the syllables</div>
 
-![](/images/IP/Literature/Finish-on-the-Literature-Learning-Journey.jpg)
+<img src="/images/IP/Literature/Finish-on-the-Literature-Learning-Journey.jpg">
 <div style="text-align:center;">Photo Finish on the Literature Leaning Journey</div>
