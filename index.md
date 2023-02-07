@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Quick Links
           description: Self-help Tools & Web Pages
-          url: /yss/links/
+          url: /links/
         - title: School Calendar
           description: Upcoming Events & Activities
           url: /parents/schoolcalendar/
