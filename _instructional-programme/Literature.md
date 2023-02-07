@@ -3,14 +3,12 @@ title: Literature
 permalink: /instructional-programme/literature/
 description: ""
 ---
-<center> 
 <p style=font-size:30px>
 <b style="color:red">The </b><b style="color:orange">YSS </b><b style="color:lime">Literature </b><b style="color:blue">Unit</b></p>
 	
 
 ![](/images/IP/Literature/Literature%20Department1.png)
 
-</center>
 
 **Desired Outcomes of Literature**
 
