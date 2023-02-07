@@ -3,7 +3,7 @@ title: Literature
 permalink: /instructional-programme/literature/
 description: ""
 ---
-<div style=font-size:30px;text-align:center;>
+<div style="font-size:30px; text-align:center;">
 <b style="color:red">The </b><b style="color:orange">YSS </b><b style="color:lime">Literature </b><b style="color:blue">Unit</b>
 </div>
 	
@@ -54,26 +54,24 @@ Students will learn to:
 
 <br>
 
-<img src="/images/IP/Literature/yss%20logo%20100px.jpg style="width:100px; height:134px;">
-
+<img src="/images/IP/Literature/yss%20logo%20100px.jpg" style="width:100px; height:134px;">
 
 <h3>Literature Programme</h3>
 
-
-
 <style>
-table, tr, td, th {
-		border: 2px solid blue;
-	}
+table { border: 2px; colour: solid blue; }
+tr { border: 2px solid blue; }
+td { border: 2px solid blue; }
+th { border: 2px solid blue; }
 </style>
 
 <table>
-	<tr style=background-color:lime>
-		<td colspan="2" style=text-align:center;font-size:20px><b>Lower Secondary</b></td>
+	<tr style="background-color:lime">
+		<td colspan="2" style="text-align:center;font-size:20px"><b>Lower Secondary</b></td>
 </tr>
 <tr>
-	<th style=background-color:lightblue>Secondary 1</th>
-	<th style=background-color:violet>Secondary 2</th>
+	<th style="background-color:lightblue">Secondary 1</th>
+	<th style="background-color:violet">Secondary 2</th>
 </tr>
 
 <tr>
