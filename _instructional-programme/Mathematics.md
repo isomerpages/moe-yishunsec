@@ -53,4 +53,5 @@ Secondary 1 cohort participated in this inter-class challenge through which they
 | Award | Student Name | Class |
 | -------- | -------- | -------- |
 | CHAMPION     | <ul><li>ADNIEL YEO KAI KEE (YANG KAIQI)</li><li>ZION KOH</li></ul>   | 1 STRIVE    |
-| CHAMPION     | <ul><li>ADNIEL YEO KAI KEE (YANG KAIQI)</li><li>ZION KOH</li></ul>   | 1 STRIVE    |
+| FIRST RUNNER UP    | <ul><li>IDHAN AKIL BIN ASHRAF MARICAR</li><li>JOY TAY LIKE XIN </li></ul>   | 1 SEEK    |
+| SECOND RUNNER UP  | <ul><li>NUR NABILA BINTE MOHAMAD HANIF </li><li>XIE JIATONG</li></ul>   | 1 INNOVATE   |
