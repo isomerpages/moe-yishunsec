@@ -35,3 +35,8 @@ Year-round, students from across the various levels and streams are selected to 
 
 Every year, a group of Secondary 2 students are selected to take part in the Southeast Asian Programme where they learn more about the region they live in through talks by academics as well as sharing by their peers on how the interconnection between Southeast Asian countries are vital to the survival of this region. This year, they will also embark on interactive sessions such as trying their hands on the Gamelan and Batik painting as they learn about the deep cultural heritage of the region. They will also be going on a learning journey to the National Gallery Singapore where they will learn more about art and architecture that defines Southeast Asia.
 
+![](/images/IP/Humanities/hum1%20(1).png)
+
+![](/images/IP/Humanities/hum2%20(1).png)
+
+![](/images/IP/Humanities/hum3%20(1).png)
