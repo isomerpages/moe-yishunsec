@@ -54,4 +54,3 @@ Secondary 1 cohort participated in this inter-class challenge through which they
 | -------- | -------- | -------- |
 | CHAMPION     | <ul><li>ADNIEL YEO KAI KEE (YANG KAIQI)</li><li>ZION KOH</li></ul>   | 1 STRIVE    |
 | CHAMPION     | <ul><li>ADNIEL YEO KAI KEE (YANG KAIQI)</li><li>ZION KOH</li></ul>   | 1 STRIVE    |
-
