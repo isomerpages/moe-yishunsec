@@ -75,3 +75,28 @@ YE@H is an After School Engagement (ASE) programme tailored to engage a targeted
 
 ![Tile art session with Mr Ahmad](/images/StudDevelopment/EduSupport/EduSupport-13.jpg)
 
+![Monthly birthday celebrations](/images/StudDevelopment/EduSupport/EduSupport-14.jpg)
+
+![Cooking session (pre-COVID period)](/images/StudDevelopment/EduSupport/EduSupport-15.jpg)
+
+It is held from Mondays to Fridays from 2.30pm to 5.00pm at the HangOutz.
+
+
+**(B) The LIT programme**
+
+This programme serves to engage our at-risk students through counselling therapy sessions. Each referred student is also attached to a social worker who will act as the youth mentor. This is a 12-month programme in which at the end of it, students will be involved in an intergenerational camp to execute the social skills which they have learnt throughout their journey.
+
+
+**(C) Chat@Recess**
+
+This is a platform conducted by our School Counsellors and School Health Advisor (SHA) to engage students in having a healthy body and mind.
+
+![Chat@Recess session (pre-COVID period)](/images/StudDevelopment/EduSupport/EduSupport-16.jpeg)
+
+![A preview of session content](/images/StudDevelopment/EduSupport/EduSupport-17.jpeg)
+
+**(3) Connectedness within the larger community**
+
+**(A) Values-In-Action (VIA) at SKM Awards Ceremony**
+
+Our YE@H students performed at the Singapore Kindness Movement (SKM) Award Ceremony in 2018. Students made a spectacular performance with the Cajon which they learnt during their YE@H sessions. They are certainly looking forward to serve the community in the post-Circuit Breaker period in the future.
