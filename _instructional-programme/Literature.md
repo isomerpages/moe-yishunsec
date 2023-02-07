@@ -14,44 +14,44 @@ description: ""
 <h4>Desired Outcomes of Literature</h4>
 
 We aim to develop students to be:
-
-* Empathetic and Global Thinkers
-* Critical Readers
-* Creative Meaning Makers
-* Convincing Communicators
-
+<ul>
+<li>Empathetic and Global Thinkers</li>
+<li>Critical Readers</li>
+<li>Creative Meaning Makers</li>
+<li>Convincing Communicators</li>
+</ul>
 <h4>Empathetic and Global Thinkers</h4>
 
 Students will learn to:
-
-* empathise with other people’s experiences
-* be open to appreciate multiple perspectives
-* develop global awareness through the study of texts from different parts of the world
-* reflect on their own values, perspectives and identities as they consider the impact of their beliefs and actions on society
-
+<ul>
+<li>empathise with other people’s experiences</li>
+<li>be open to appreciate multiple perspectives</li>
+<li>develop global awareness through the study of texts from different parts of the world</li>
+<li>reflect on their own values, perspectives and identities as they consider the impact of their beliefs and actions on society</li>
+</ul>
 <h4>Critical Readers</h4>
 
 Students will learn to:
-
-* appreciate the aesthetic value and enjoy the nuances of language, with perceptive and questioning minds
-* read widely and independently, from a variety of genres for the appreciation of genre conventions
-* appreciate the contexts in which literary texts are written, read and understood
-
+<ul>
+<li>appreciate the aesthetic value and enjoy the nuances of language, with perceptive and questioning minds</li>
+<li>read widely and independently, from a variety of genres for the appreciation of genre conventions</li>
+<li>appreciate the contexts in which literary texts are written, read and understood</li>
+</ul>
 <h4>Creative Meaning Makers</h4>
 
 Students will learn to:
-
-* embrace ambiguity and uncertainty as necessary in the meaning making process
-* actively and creatively construct their understanding and interpretation of texts
-
+<ul>
+<li>embrace ambiguity and uncertainty as necessary in the meaning making process</li>
+<li>actively and creatively construct their understanding and interpretation of texts</li>
+</ul>
 <h4>Convincing Communicators</h4>
 
 Students will learn to:
 
-* demonstrate critical thinking when discussing and writing about texts
-* convince others of their interpretations, based on sound reasoning with evidence
+<li>demonstrate critical thinking when discussing and writing about texts</li>
+<li>convince others of their interpretations, based on sound reasoning with evidence</li>
 
-----
+
 <br>
 
 <img src= /images/IP/Literature/yss%20logo%20100px.jpg style="width:100px;height:134px;">
