@@ -85,3 +85,19 @@ Next, lesson on how digital threats impact individuals and the nation was conduc
 ![](/images/StudDevelopment/CCE/TDD-4.png)
 
 ![](/images/StudDevelopment/CCE/TDD-5.png)
+
+
+### Nee Soon Central Well-Wishes Project 2022 @ Nee Soon Central Community Club
+
+The ceremony serves as an encouragement for students to keep up their academic grades, as part of the effort in removing all barriers to learning. Deserving students were selected based on their residency within the Nee Soon Central Constituency. 
+
+On 14 July 2022, a stationery gift set presentation ceremony was held at Function Room 2 of Nee Soon Central Community Club. The Well-Wishes Project is supported by Nee Soon Central CC Welfare Committee. The committee has worked with the school to determine the stationery items needed by students at each level. This ensures that the stationery items selected could meet the needs of the recipients.  
+
+At 4pm, the ceremony started with registration and refreshments. By 4:25pm, all guests were seated. The two student emcees for the day were Aljon Tok from class 3E2 and Ahmad Danish from class 3E5. Mr. Tan, our Vice-Principal, gave his opening address. This is followed by Grassroots Adviser Associate Professor Faishal Ibrahim’s welcome address.  
+
+Next, Associate Professor Faishal Ibrahim presented the gift sets to students, joined by their parents or guardians who were present. The school would like to express our heartfelt thanks to Associate Professor Faishal Ibrahim for making this event possible. As a token of appreciation from the school, Mr. Tan presented a handcrafted wooden pen holder designed and made by our very own Design and Technology teachers and students. The wooden pen holder symbolises the eagerness of Yishunites to learn and lead compassionately. This is in alignment with the collective effort of Yishunites in building a school community of ‘quality mind and caring heart’.  
+
+The presentation ceremony ended with a group photo taking session on stage. 
+
+A video compiling highlights of the event can be found on the Facebook page of Nee Soon Central Constituency or via the link below.
+
