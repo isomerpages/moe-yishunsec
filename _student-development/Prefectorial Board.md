@@ -35,4 +35,4 @@ Planning and executing events take on a different mode this year with celebratio
 
 
 
-*To stay updated on the YSS Prefectorial Board’s upcoming events, follow us on Facebook (YSS Prefectorial Board) and Instagram (@yssprefectorialboard)!*
+##### *To stay updated on the YSS Prefectorial Board’s upcoming events, follow us on Facebook (YSS Prefectorial Board) and Instagram (@yssprefectorialboard)!*
