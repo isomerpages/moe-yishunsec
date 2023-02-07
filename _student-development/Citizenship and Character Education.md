@@ -63,3 +63,17 @@ As part of the celebration, three types of childhood snacks were catered. They a
 
 ![](/images/StudDevelopment/CCE/RHD-7.png)
 
+
+### Total Defence Day (TDD) Commemoration 2022
+
+The commemoration serves to imbue students with commitment to build a cohesive society who is ready to face the future together and to have a collective will to keep Singapore safe and secure. 
+    
+As a continuation from previous years, the theme “Together We Keep Singapore Strong” encourages students to play a greater role in Total Defence by showing them how they can contribute in small and big ways.
+
+During CCE period, Sec 4 and 5 students presented their VIA Projects which focused on pillars of defense to the Sec 1, 2 and 3 classes. The junior students consolidated their learning and reflections through activities and worksheets designed by their seniors. After the session, PowerPoint slides curated by the Sec 4 and 5 students were screened at the library as part of VIA showcase during all recess timings. Pull-up banners and A3 posters from Singapore Red Cross were displayed in the library as well.
+
+On 15 February 2022, students were presented with the sounding of public warning system (PWS) siren followed by a sharing on what is PWS and its significance, via Zoom in individual classrooms. The TDD video message by Minister for Defence, Dr Ng Eng Hen was screened following that.
+
+Next, lesson on how digital threats impact individuals and the nation was conducted with the use of Straits Times IN TDD edition. Students were also engaged through the screening of SGStory film entitled ‘Missed Calls’, courtesy from Singapore Discovery Centre. The story revolves around a JC1 student, Jeanine who lost her grandfather to Covid-19. The moral of the story encourages students to adopt resilience in overcoming challenges against Covid-19 to emerge stronger as one community.
+
+
