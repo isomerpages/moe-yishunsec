@@ -73,3 +73,5 @@ YE@H is an After School Engagement (ASE) programme tailored to engage a targeted
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CJlycQj_pBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div style="text-align:center">Claymation Masterpiece </div>
 
+![Tile art session with Mr Ahmad](/images/StudDevelopment/EduSupport/EduSupport-13.jpg)
+
