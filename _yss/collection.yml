@@ -2,6 +2,7 @@ collections:
   yss:
     output: true
     order:
+      - About Us/Historical Milestones.md
       - About Us/Mission, vision and values.md
       - About Us/.keep
       - Principal's Message.md
