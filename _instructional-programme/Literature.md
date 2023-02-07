@@ -57,7 +57,7 @@ Students will learn to:
 
 ### Literature Programme
 
-<h5 style="color:#e8a209"> Lower Secondary </h5>
+
 
 <style>
 tr, td {
