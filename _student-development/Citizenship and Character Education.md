@@ -20,14 +20,15 @@ To equip every student with the values, social and emotional competencies, and c
 
 A wide array of learning platforms and experiences are brought to our students to collectively build our students’ character and citizenship. Our department provides opportunities for our students to transfer their learning and to put good values and skills into action. This facilitates the internalisation of good values and skills which are critical to character and citizenship development. The key highlights for the year include:
 
-Stronger Together Activities: The myriad of activities which rallied Yishunites to pay tribute to frontliners, Foreign workers and many more. Students showed their appreciation and support to one another by preparing Care Packages, notes and videos of appreciation pledging to stand together during a challenging phase this year.
-Care & Support programmes for students: Our students were involved in projects that spread kindness and support to one another. Our Singapore Kindness Movement Ambassadors led these projects and brought much warmth to the school population.
+* <b>Stronger Together Activities:</b> The myriad of activities which rallied Yishunites to pay tribute to frontliners, Foreign workers and many more. Students showed their appreciation and support to one another by preparing Care Packages, notes and videos of appreciation pledging to stand together during a challenging phase this year.
+* <b>Care & Support programmes for students:</b> Our students were involved in projects that spread kindness and support to one another. Our Singapore Kindness Movement Ambassadors led these projects and brought much warmth to the school population.
 
 Our school also received the following awards:
 
-North-West CDC Partners Award (Silver) in recognition of our school’s efforts in serving the community
-Singapore Kindness Movement Award 2019 – Certificate of Participation (11 Years)
-Racial Harmony Day (RHD) Celebration 2022
+* <b>North-West CDC Partners Award (Silver)</b> in recognition of our school’s efforts in serving the community
+* <b>Singapore Kindness Movement Award 2019 </b>– Certificate of Participation (11 Years)
+
+#### Racial Harmony Day (RHD) Celebration 2022
 
 The celebration aims to foster respect and appreciation to the customs and traditions of the different races and religions to coexist harmoniously.
 
