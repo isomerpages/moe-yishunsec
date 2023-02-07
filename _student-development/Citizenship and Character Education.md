@@ -101,3 +101,20 @@ The presentation ceremony ended with a group photo taking session on stage.
 
 A video compiling highlights of the event can be found on the Facebook page of Nee Soon Central Constituency or via the link below.
 
+[https://ms-my.facebook.com/NeeSoonCentralCO/videos/well-wishes-project-yishun-secondary-schoolnee-soon-central-cc-recently-organise/459961999012853/](https://ms-my.facebook.com/NeeSoonCentralCO/videos/well-wishes-project-yishun-secondary-schoolnee-soon-central-cc-recently-organise/459961999012853/)
+
+![](/images/StudDevelopment/CCE/NSCWWP-1.png)
+
+![](/images/StudDevelopment/CCE/NSCWWP-2.png)
+
+![](/images/StudDevelopment/CCE/NSCWWP-3.png)
+
+![](/images/StudDevelopment/CCE/NSCWWP-4.png)
+
+![](/images/StudDevelopment/CCE/NSCWWP-5.png)
+
+![](/images/StudDevelopment/CCE/NSCWWP-6.png)
+
+![](/images/StudDevelopment/CCE/NSCWWP-7.png)
+
+![](/images/StudDevelopment/CCE/NSCWWP-8.png)
