@@ -30,7 +30,9 @@ Our school also received the following awards:
 
 ### CCE Teachers
 
+![](/images/StudDevelopment/CCE/CCE-1.jpg)
 
+![](/images/StudDevelopment/CCE/CCE-2.jpg)
 
 
 
