@@ -187,16 +187,16 @@ tr, td, th {
 
 
 ![](/images/IP/Literature/Drama-in-Secondary-1-Literature.jpeg)
-Drama in Secondary 1 Literature 
+<div style="text-align:center;">Drama in Secondary 1 Literature </div>
 
 ![](/images/IP/Literature/National-Schools-Literature-Festival.jpg)
-National Schools’ Literature Festival – Book Trailer Third Place Winners
+<div style="text-align:center;">National Schools’ Literature Festival – Book Trailer Third Place Winners </div>
 
 ![](/images/IP/Literature/Meeting-with-Haresh-Sharma.jpg)
-Meeting with Haresh Sharma, author of Off-Centre, during the Secondary Three Literature Learning Journey
+<div style="text-align:center;">Meeting with Haresh Sharma, author of Off-Centre, during the Secondary Three Literature Learning Journey</div>
 	
 ![](/images/IP/Literature/Sec-2-Literature-Learning-Journey-Writing.jpg)
-Sec 2 Literature Learning Journey – Writing of original haikus and counting the syllables
+<div style="text-align:center;">Sec 2 Literature Learning Journey – Writing of original haikus and counting the syllables</div>
 
 ![](/images/IP/Literature/Finish-on-the-Literature-Learning-Journey.jpg)
-Photo Finish on the Literature Leaning Journey
+<div style="text-align:center;">Photo Finish on the Literature Leaning Journey</div>
