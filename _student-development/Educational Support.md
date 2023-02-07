@@ -42,3 +42,13 @@ Sessions conducted by SHINE during The Scaffold Programme (TSP) (pre-COVID perio
 
 ![](/images/StudDevelopment/EduSupport/EduSupport-9.jpeg)
 Sessions conducted by SHINE during The Scaffold Programme (TSP) (pre-COVID period)
+
+**(B) Study Clinic**
+
+This clinic is specialised to guide our students with special needs by our dedicated team of Allied Educators specializing in Learning and Behavioural Support (AED/LBS).
+
+![](/images/StudDevelopment/EduSupport/EduSupport-10.jpeg)
+Celebration of students’ success and journey with AED(LBS)
+
+![](/images/StudDevelopment/EduSupport/EduSupport-11.jpg)
+Words of encouragement
