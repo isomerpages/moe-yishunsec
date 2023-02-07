@@ -2,5 +2,6 @@ collections:
   student-development:
     output: true
     order:
+      - Level System@YSS.md
       - Citizenship and Character Education.md
       - CCAs.md
