@@ -106,5 +106,21 @@ A preview of session content
 
 Our YE@H students performed at the Singapore Kindness Movement (SKM) Award Ceremony in 2018. Students made a spectacular performance with the Cajon which they learnt during their YE@H sessions. They are certainly looking forward to serve the community in the post-Circuit Breaker period in the future.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jm_3S-_qPB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+YE@H students’ performance at SKM Award Ceremony
 
+**(B) Values-in-Action (VIA) in School**
 
+For Teachers’ Day, the YE@H students designed and crafted their own Thank You notes. They also served them Barista and Dalgona coffee specially hand-made using their knowledge during YE@H sessions. YE@H! programme serves as a great platform for the students to internalise and exhibit the values of Respect, Integrity and Unity.
+
+![Our YE@H students serving self-made barista coffee during teachers’ meeting (pre-COVID period)](/images/StudDevelopment/EduSupport/EduSupport-18.jpeg)
+Our YE@H students serving self-made barista coffee during teachers’ meeting (pre-COVID period)
+
+![Study café session during YE@H programme (pre-COVID period)](/images/StudDevelopment/EduSupport/EduSupport-19.jpg)
+Study café session during YE@H programme (pre-COVID period)
+
+![YE@H students serving Barista coffee](/images/StudDevelopment/EduSupport/EduSupport-20.jpg)
+YE@H students serving Barista coffee
+
+![Teachers’ Day Thank You note](/images/StudDevelopment/EduSupport/EduSupport-21.jpg)
+Teachers’ Day Thank You note
