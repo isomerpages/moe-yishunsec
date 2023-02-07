@@ -40,3 +40,8 @@ Every year, a group of Secondary 2 students are selected to take part in the Sou
 ![](/images/IP/Humanities/hum2%20(1).png)
 
 ![](/images/IP/Humanities/hum3%20(1).png)
+
+![](/images/IP/Humanities/hum4%20(1).png)
+
+![](/images/IP/Humanities/hum5.png)
+
