@@ -17,4 +17,5 @@ To stimulate greater interest and enrich students’ knowledge in Mathematics fo
 
 ### Highlights / Achievements
 
-• All Singapore Secondary Mathematics Competition for Normal Course Students 2022. Our Sec 1 Normal Academic and Normal Technical students won the Top five in the Individual Category and top five in Team Category.
+• <b>All Singapore Secondary Mathematics Competition for Normal Course Students 2022. </b> Our Sec 1 Normal Academic and Normal Technical students won the Top five in the Individual Category and top five in Team Category.
+
