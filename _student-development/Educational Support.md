@@ -60,3 +60,16 @@ Our AED/LBS team is always on task and take the extra mile to support our studen
 
 ![](/images/StudDevelopment/EduSupport/EduSupport-12.jpg)
 
+**(A) Youth Engagement at HangOutz (YE@H)**
+
+This programme aims to:
+
+Strengthen after-school care and support for students
+Increase sense of belongingness and connectedness to school
+Nurture self-confidence, motivation and resilience
+
+YE@H is an After School Engagement (ASE) programme tailored to engage a targeted group of students after school hours. This programme is managed by at least a staff (Student Welfare Officer) and a teacher representative.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CJlycQj_pBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align:center">Claymation Masterpiece </div>
+
