@@ -3,11 +3,11 @@ title: Information and Communications Technology (ICT)
 permalink: /instructional-programme/ict/
 description: ""
 ---
-### Goal:
+### Goal
 
 To nurture a community of confident, socially responsible and future-ready learners empowered with technology
 
-### Key Programmes:
+### Key Programmes
 
 * Personalised Digital Learning Programme (PDLP): From 2021, all students will have their personalised device for learning. This is in line with the National Digital Literacy Programme (NDLP) and through this, students will be empowered with meaningful and purposeful technology to enhance their learning in both independent and collaborative learning. Learning will take place within and outside the school.
 * Media Literacy Education: There are opportunities for our students to engage in Media Literacy school-wide programmes. Through this, students will pick up media literacy skills that will prepare them for the future.
