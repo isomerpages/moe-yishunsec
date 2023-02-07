@@ -27,11 +27,11 @@ To nurture a community of confident, socially responsible and future-ready learn
 ### Photos
 
 ![](/images/IP/ICT/Photo_1-Consulation-in-The-SPACE.jpg)
-Consulation in The SPACE
+<div style="text-align:center;">Consulation in The SPACE</div>
 
 ![](/images/IP/ICT/Photo_2-Online-Self-Directed-Learning.jpg)
-Online Self-Directed Learning
+	<div style="text-align:center;">Online Self-Directed Learning</div>
 
 
 ![](/images/IP/ICT/Photo_3-Online-Cyber-Wellness-Talk.jpg)
-Online Cyber Wellness Talk
+<div style="text-align:center;">Online Cyber Wellness Talk</div>
