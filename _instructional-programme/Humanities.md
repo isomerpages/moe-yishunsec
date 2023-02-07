@@ -45,3 +45,24 @@ Every year, a group of Secondary 2 students are selected to take part in the Sou
 
 ![](/images/IP/Humanities/hum5.png)
 
+![](/images/IP/Humanities/hum6.png)
+
+![](/images/IP/Humanities/hum7.png)
+
+![](/images/IP/Humanities/Sec%202%20Social%20Studies%20Learning%20Journey%20at%20the%20Singapore%20City%20Gallery.png)
+
+![](/images/IP/Humanities/Slide1.jpg)
+
+![](/images/IP/Humanities/Slide2.jpg)
+
+![](/images/IP/Humanities/Slide3.jpg)
+
+![](/images/IP/Humanities/pic21.jpeg)
+
+![](/images/IP/Humanities/Pic3.jpeg)
+
+![](/images/IP/Humanities/Pic1.jpeg)
+
+![](/images/IP/Humanities/Pic9.jpeg)
+
+![](/images/IP/Humanities/Pic4.jpeg)
