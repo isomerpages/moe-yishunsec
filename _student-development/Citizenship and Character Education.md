@@ -28,6 +28,12 @@ Our school also received the following awards:
 * <b>North-West CDC Partners Award (Silver)</b> in recognition of our school’s efforts in serving the community
 * <b>Singapore Kindness Movement Award 2019 </b>– Certificate of Participation (11 Years)
 
+### CCE Teachers
+
+
+
+
+
 #### Racial Harmony Day (RHD) Celebration 2022
 
 The celebration aims to foster respect and appreciation to the customs and traditions of the different races and religions to coexist harmoniously.
