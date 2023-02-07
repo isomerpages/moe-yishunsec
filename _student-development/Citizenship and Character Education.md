@@ -130,6 +130,5 @@ After which, a video that show the long journey of how a foreign resident, Alexa
 Next, Mr. Tay, our Vice-Principal, presented the NRIC for the class monitors and assistant monitors. 
 The ceremony ended with the presentation of NRICs by Form Teachers to the students, where students sign on the ICA acknowledgement form after collection. 
 
-Receiving NRIC is an important milestone for Singapore citizens. The citizenship status should not be taken for granted. It is hoped that the experience will be an encouragement for students to play their role well as Singapore citizens, having a deeper understanding and a greater sense of belonging to our nation! 
-
+Receiving NRIC is an important milestone for Singapore citizens. The citizenship status should not be taken for granted. It is hoped that the experience will be an encouragement for students to play their role well as Singapore citizens, having a deeper understanding and a greater sense of belonging to our nation!
 
