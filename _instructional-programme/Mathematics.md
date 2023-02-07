@@ -61,4 +61,22 @@ To make the learning of mathematics relevant and interesting, students used math
 
 ### Mathematics, CPA and POA Teachers
 
+![](/images/IP/Math/Math1.png)
 
+![](/images/IP/Math/Math2.png)
+
+![](/images/IP/Math/Math3.png)
+
+![](/images/IP/Math/Math4.png)
+
+### Photos
+
+![](/images/IP/Math/MathSlide1.jpg)
+
+![](/images/IP/Math/MathSlide2.jpg)
+
+![](/images/IP/Math/MathSlide3.jpg)
+
+![](/images/IP/Math/MathSlide4.jpg)
+
+![](/images/IP/Math/MathSlide5.jpg)
