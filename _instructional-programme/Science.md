@@ -18,3 +18,14 @@ Beyond Classroom Experience: A variety of science-based activities that exposes 
 Our teachers used a variety of platforms such as Google Classroom, Nearpod and Pear Deck during home-based learning to engage students and check on their understanding. Students also participated in inter-school competitions National Olympiads as well as in national level competitions such as the National Crystal Growing Challenge and Singapore Science Buskers, stretching their learning at the highest level.
 
 ### Science Department Teachers
+
+![](/images/IP/Science/Sci-1.png)
+
+![](/images/IP/Science/Sci-2.png)
+
+![](/images/IP/Science/Sci-3.png)
+
+![](/images/IP/Science/Sci-4.png)
+
+### Photos
+
