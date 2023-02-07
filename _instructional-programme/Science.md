@@ -29,3 +29,10 @@ Our teachers used a variety of platforms such as Google Classroom, Nearpod and P
 
 ### Photos
 
+![](/images/IP/Science/Slide1.png)
+
+![](/images/IP/Science/Slide2.png)
+
+![](/images/IP/Science/Slide3.png)
+
+![](/images/IP/Science/Slide4.png)
