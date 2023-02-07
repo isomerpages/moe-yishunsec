@@ -55,3 +55,6 @@ Secondary 1 cohort participated in this inter-class challenge through which they
 | CHAMPION     | <ul><li>ADNIEL YEO KAI KEE (YANG KAIQI)</li><li>ZION KOH</li></ul>   | 1 STRIVE    |
 | FIRST RUNNER UP    | <ul><li>IDHAN AKIL BIN ASHRAF MARICAR</li><li>JOY TAY LIKE XIN </li></ul>   | 1 SEEK    |
 | SECOND RUNNER UP  | <ul><li>NUR NABILA BINTE MOHAMAD HANIF </li><li>XIE JIATONG</li></ul>   | 1 INNOVATE   |
+
+* <b>Sec 3E Experiential Learning Journey to Gardens by the Bay </b><br>
+To make the learning of mathematics relevant and interesting, students used mathematical concepts and skills to real-life applications. 
