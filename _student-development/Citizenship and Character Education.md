@@ -119,3 +119,17 @@ A video compiling highlights of the event can be found on the Facebook page of N
 
 ![](/images/StudDevelopment/CCE/NSCWWP-8.png)
 
+### Secondary 3 NRIC Presentation Ceremony 2022
+
+The ceremony serves to honour and represents privilege of the citizenship. It is to re-affirm our loyalty and allegiance to Singapore.
+
+On 14 July 2022, during CCE period, all Sec 3 students gathered at the school hall to receive their National Registration Identity Card (NRIC). The ceremony started with a briefing on the background information of NRIC. Among the information shared were the security features found on the NRIC, the mystery behind the NRIC number and the changes to the NRIC from its first introduced paper version to the current convenient credit-card sized made from polycarbonate material.  
+
+After which, a video that show the long journey of how a foreign resident, Alexander Alrivers was finally offered citizenship and received his pink NRIC was screened. Students felt emotional for his ‘big’ moment and were touched by his determination.    
+
+Next, Mr. Tay, our Vice-Principal, presented the NRIC for the class monitors and assistant monitors. 
+The ceremony ended with the presentation of NRICs by Form Teachers to the students, where students sign on the ICA acknowledgement form after collection. 
+
+Receiving NRIC is an important milestone for Singapore citizens. The citizenship status should not be taken for granted. It is hoped that the experience will be an encouragement for students to play their role well as Singapore citizens, having a deeper understanding and a greater sense of belonging to our nation! 
+
+
