@@ -54,7 +54,7 @@ Students will learn to:
 
 <br>
 
-<img src= /images/IP/Literature/yss%20logo%20100px.jpg style="width:100px;height:134px;">
+<img src="/images/IP/Literature/yss%20logo%20100px.jpg style="width:100px; height:134px;">
 
 
 <h3>Literature Programme</h3>
