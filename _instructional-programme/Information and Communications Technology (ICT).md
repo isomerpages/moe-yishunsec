@@ -32,6 +32,5 @@ To nurture a community of confident, socially responsible and future-ready learn
 ![](/images/IP/ICT/Photo_2-Online-Self-Directed-Learning.jpg)
 	<div style="text-align:center;">Online Self-Directed Learning</div>
 
-
 ![](/images/IP/ICT/Photo_3-Online-Cyber-Wellness-Talk.jpg)
 <div style="text-align:center;">Online Cyber Wellness Talk</div>
