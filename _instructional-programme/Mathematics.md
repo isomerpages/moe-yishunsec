@@ -57,4 +57,8 @@ Secondary 1 cohort participated in this inter-class challenge through which they
 | SECOND RUNNER UP  | <ul><li>NUR NABILA BINTE MOHAMAD HANIF </li><li>XIE JIATONG</li></ul>   | 1 INNOVATE   |
 
 * <b>Sec 3E Experiential Learning Journey to Gardens by the Bay </b><br>
-To make the learning of mathematics relevant and interesting, students used mathematical concepts and skills to real-life applications. 
+To make the learning of mathematics relevant and interesting, students used mathematical concepts and skills to real-life applications.
+
+### Mathematics, CPA and POA Teachers
+
+
