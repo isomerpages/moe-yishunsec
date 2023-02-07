@@ -48,3 +48,18 @@ During CCE period, students constructed digital photo collages to depict their v
 Teachers engaged students to address ‘racism’ which may occur in schools, public spaces and online platforms. Through facilitation of authentic sharing of personal experiences shown in the case studies, students were able to think from different perspectives and look beyond racial markers. 
 
 As part of the celebration, three types of childhood snacks were catered. They are eyeglass candy, dried fish fillet and muruku ikan snack. While it brings back memories of their school and neighbourhood, the shared connections among multicultural communities would be something for students to reminisce about.
+
+![](/images/StudDevelopment/CCE/RHD-1.png)
+
+![](/images/StudDevelopment/CCE/RHD-2.png)
+
+![](/images/StudDevelopment/CCE/RHD-3.png)
+
+![](/images/StudDevelopment/CCE/RHD-4.png)
+
+![](/images/StudDevelopment/CCE/RHD-5.png)
+
+![](/images/StudDevelopment/CCE/RHD-6.png)
+
+![](/images/StudDevelopment/CCE/RHD-7.png)
+
