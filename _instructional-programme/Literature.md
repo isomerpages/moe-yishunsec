@@ -68,8 +68,10 @@ tr, td, th {
 </style>
 
 <table>
-<tr style=background-color:lime>
-	<td colspan="2" style=text-align:center;font-size:20px><b>Lower Secondary</b<</td>
+
+	<tr style=background-color:lime>
+		<td colspan="2" style=text-align:center;font-size:20px><b>Lower Secondary</b></td>
+		
 </tr>
 
 <tr>
