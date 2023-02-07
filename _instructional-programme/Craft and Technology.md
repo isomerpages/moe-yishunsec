@@ -91,7 +91,6 @@ As a department, various ways are explored to give back to the Community:
 ![](/images/IP/CraftandTech/DnT3.png)
 
 ### Photos
-<center>
 
 ![](/images/IP/CraftandTech/pic%201.png)
 ![](/images/IP/CraftandTech/pic%202.png)
@@ -117,5 +116,3 @@ As a department, various ways are explored to give back to the Community:
 <iframe width="496" height="882" src="https://www.youtube.com/embed/Pmfmn2kObkc" title="Craft and Technology 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Constructed a voltmeter for battery testing using the PLD and micro:bit
-	
-</center>
