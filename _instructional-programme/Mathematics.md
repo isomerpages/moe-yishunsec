@@ -36,4 +36,3 @@ To stimulate greater interest and enrich students’ knowledge in Mathematics fo
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
