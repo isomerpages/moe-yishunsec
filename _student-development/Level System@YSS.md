@@ -22,3 +22,10 @@ The Student Development Team is also supported by the CCE Team (led by HOD CCE, 
 
 ### Key Programmes
 
+
+|  | Secondary 1| Secondary 2| Secondary 3| Secondary 4 & 5| 
+| -------- | -------- | -------- | -------- | -------- |
+| **Theme**   | **We Seek:** <br>Developing Self     | **We Seek:** <br>Collaborating With Others       | **We Strive:** <br>Contributing to Community     | **We Strive:** <br> Striving for Excellence     |
+| **Outcomes**   | Students develop a sense of belonging to the school culture, understanding of the school values and forge a shared identity with their classmates.   | Students understand the role that they play in the school’s ecosystem and each one of them is able to contribute and work with each other.       | Students step out of the school to start contributing to various parts of the community through the school’s LLP and ALP platforms.     | Students focus on the 2 As (aspiration and achievements) and each becomes a Thinker, Innovator and Contributor in their post-secondary school life.    |
+| **Programmes**   | Secondary One Orientation Camp / Secondary One Leadership Programme / Sports Elective Programme   | Secondary Two Camp / Secondary Two Leadership Programme      | Secondary Three Career Focussed Enrichment Programme / Secondary Three Internationalization Programme     | Secondary Four Mother Tongue Intensive Week / Secondary Four Graduation Evening    |
+
