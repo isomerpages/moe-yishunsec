@@ -19,3 +19,13 @@ To stimulate greater interest and enrich students’ knowledge in Mathematics fo
 
 • <b>All Singapore Secondary Mathematics Competition for Normal Course Students 2022. </b> Our Sec 1 Normal Academic and Normal Technical students won the Top five in the Individual Category and top five in Team Category.
 
+
+
+| Class | Student Name | Award |
+| -------- | -------- | -------- |
+| 1 INNOVATE    | CAVAN TEH JIA PENG     | 	Individual and Team Category    |
+| 1 RESPECT   | TANEEKAN NEO HUI JUN    | Team Category  |
+| 1 STRIVE	  | SIVARAMAPANDIAN DHANUSHIYA  | Team Category  |
+| 1 STRIVE	  | JAYDEN ONG  | Individual and Team Category  |
+| 1 CARE	  | AVENAASHSREE D/O NEELAMOHAN  | Individual and Team Category  |
+| 1 INNOVATE	  | KWAN YU HONG JEREMY  | Team Category  |
