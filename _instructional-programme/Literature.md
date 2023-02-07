@@ -116,13 +116,13 @@ th { border: 2px solid blue; }
 
 </td>
 </tr>
-<tr style=background-color:lime>
-	<td colspan="2" style=text-align:center;font-size:20px><b>Upper Secondary</b></td>
+<tr style="background-color:lime">
+	<td colspan="2" style="text-align:center; font-size:20px"><b>Upper Secondary</b></td>
 </tr>
 
 <tr>
-	<th style=background-color:lightblue>Secondary 3</th>
-	<th style=background-color:violet>Secondary 4</th>
+	<th style="background-color:lightblue">Secondary 3</th>
+	<th style="background-color:violet">Secondary 4</th>
 </tr>
 
 <tr>
