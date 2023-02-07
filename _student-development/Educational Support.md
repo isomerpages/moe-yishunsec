@@ -20,17 +20,25 @@ StAR programme is conducted for our Lower Secondary Normal Technical (NT) studen
 <div style="text-align:center">StAR showcase 2020 Bollywood Dance</div>
 
 ![](/images/StudDevelopment/EduSupport/EduSupport-2.jpg)
+Students trying out the toy-making product during StAR Showcase 2020
 
 ![](/images/StudDevelopment/EduSupport/EduSupport-3.jpeg)
+Bollywood dance practice for StAR module
 
 ![](/images/StudDevelopment/EduSupport/EduSupport-4.jpeg)
+Crafting catapult shootout during Toy-making module
 
 ![](/images/StudDevelopment/EduSupport/EduSupport-5.jpeg)
+Winning team from class 2T1 for sports module (pre-COVID period)
 
 ![](/images/StudDevelopment/EduSupport/EduSupport-6.jpeg)
+Celebration of success with PALS trainers after end of StAR Sports Fiesta (pre-COVID period)
 
 ![](/images/StudDevelopment/EduSupport/EduSupport-7.jpg)
+Online learning session conducted by SHINE during the Circuit-Breaker period
 
 ![](/images/StudDevelopment/EduSupport/EduSupport-8.jpg)
+Sessions conducted by SHINE during The Scaffold Programme (TSP) (pre-COVID period)
 
 ![](/images/StudDevelopment/EduSupport/EduSupport-9.jpeg)
+Sessions conducted by SHINE during The Scaffold Programme (TSP) (pre-COVID period)
