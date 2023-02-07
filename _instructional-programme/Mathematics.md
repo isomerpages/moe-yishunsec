@@ -33,6 +33,7 @@ To stimulate greater interest and enrich students’ knowledge in Mathematics fo
  
 * SASMO Competition Silver, Bronze and Honorable Mention Awardees 
 
-| Column 1 | Column 2 | Column 3 |
+| Class | Student Name | Award |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| 1 CARE     | KHOO KANG ZHE, EUGENE     | SILVER   |
+| 1 INTEGRITY    |DERRICK LAI CHIN YONG    | SILVER   |
