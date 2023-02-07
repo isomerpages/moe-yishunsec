@@ -76,4 +76,3 @@ On 15 February 2022, students were presented with the sounding of public warning
 
 Next, lesson on how digital threats impact individuals and the nation was conducted with the use of Straits Times IN TDD edition. Students were also engaged through the screening of SGStory film entitled ‘Missed Calls’, courtesy from Singapore Discovery Centre. The story revolves around a JC1 student, Jeanine who lost her grandfather to Covid-19. The moral of the story encourages students to adopt resilience in overcoming challenges against Covid-19 to emerge stronger as one community.
 
-
