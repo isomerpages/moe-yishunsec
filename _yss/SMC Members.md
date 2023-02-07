@@ -3,9 +3,6 @@ title: SMC Members
 permalink: /yss/smc/
 description: ""
 ---
-
-
-
 <figure>
 
 <img src="/images/SMC_1.jpg">
@@ -28,7 +25,7 @@ description: ""
 
 <img src="/images/SMC_2.png">
 
-<figcaption> LEFT TO RIGHT: MRS EE-LIM YIN CHIEU AUDREY, MR GARY SIM KANG KIANG, MDM HAIRUL BARIYAH BTE MAKSOM, MR RICHARD ARMSTRONG, MS GUO KAINING NELLY</figcaption>
+<figcaption> LEFT TO RIGHT: MRS EE-LIM YIN CHIEU AUDREY, MR GARY SIM KANG KIANG, MS HAIRUL BARIYAH BTE MAKSOM, MR RICHARD ARMSTRONG, MS GUO KAINING NELLY</figcaption>
 
 </figure>
 
