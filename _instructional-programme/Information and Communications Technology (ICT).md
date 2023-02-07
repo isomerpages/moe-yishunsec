@@ -19,4 +19,15 @@ To nurture a community of confident, socially responsible and future-ready learn
 
 ### ICT Department Staff and Teachers
 
+![](/images/IP/ICT/ICT1.png)
 
+![](/images/IP/ICT/ICT2.png)
+
+
+### Photos
+
+![](/images/IP/ICT/Photo_1-Consulation-in-The-SPACE.jpg)
+
+![](/images/IP/ICT/Photo_2-Online-Self-Directed-Learning.jpg)
+
+![](/images/IP/ICT/Photo_3-Online-Cyber-Wellness-Talk.jpg)
