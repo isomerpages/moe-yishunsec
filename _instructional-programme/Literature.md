@@ -4,7 +4,8 @@ permalink: /instructional-programme/literature/
 description: ""
 ---
 <div style=font-size:30px;text-align:center;>
-<b style="color:red">The </b><b style="color:orange">YSS </b><b style="color:lime">Literature </b><b style="color:blue">Unit</b></div>
+<b style="color:red">The </b><b style="color:orange">YSS </b><b style="color:lime">Literature </b><b style="color:blue">Unit</b>
+</div>
 	
 
 ![](/images/IP/Literature/Literature%20Department1.png)
