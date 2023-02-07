@@ -28,3 +28,11 @@ Planning and executing events take on a different mode this year with celebratio
 ![](/images/StudDevelopment/PrefectorialBoard/Roadshow-live-session.jpeg)
 
 <div style="text-align:center">Responding to live questions on our online roadshows with primary schools</div>
+
+### Event Highlights
+
+*Coming soon!*
+
+
+
+*To stay updated on the YSS Prefectorial Board’s upcoming events, follow us on Facebook (YSS Prefectorial Board) and Instagram (@yssprefectorialboard)!*
