@@ -132,3 +132,10 @@ The ceremony ended with the presentation of NRICs by Form Teachers to the studen
 
 Receiving NRIC is an important milestone for Singapore citizens. The citizenship status should not be taken for granted. It is hoped that the experience will be an encouragement for students to play their role well as Singapore citizens, having a deeper understanding and a greater sense of belonging to our nation!
 
+![](/images/StudDevelopment/CCE/NRICP-1.png)
+
+![](/images/StudDevelopment/CCE/NRICP-2.png)
+
+![](/images/StudDevelopment/CCE/NRICP-3.png)
+
+![](/images/StudDevelopment/CCE/NRICP-4.png)
