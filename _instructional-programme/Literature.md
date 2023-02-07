@@ -70,9 +70,7 @@ table, tr, td, th {
 <table>
 	<tr style=background-color:lime>
 		<td colspan="2" style=text-align:center;font-size:20px><b>Lower Secondary</b></td>
-		
 </tr>
-
 <tr>
 	<th style=background-color:lightblue>Secondary 1</th>
 	<th style=background-color:violet>Secondary 2</th>
