@@ -36,4 +36,13 @@ To stimulate greater interest and enrich students’ knowledge in Mathematics fo
 | Class | Student Name | Award |
 | -------- | -------- | -------- |
 | 1 CARE     | KHOO KANG ZHE, EUGENE     | SILVER   |
-| 1 INTEGRITY    |DERRICK LAI CHIN YONG    | SILVER   |
+| 1 INTEGRITY    |DERRICK LAI CHIN YONG    | BRONZE    |
+| 1 RESPECT   |BRYANT NG JUNLONG    | BRONZE    |
+| 2E1   |DARREN LAI CHIN TECK  | BRONZE    |
+| 2E3   |ANGEL NGU XIN EN  | BRONZE    |
+| 2E3   |WONG KIM POH  | BRONZE    |
+| 3E1   |SHIAW SIN WEI   | BRONZE    |
+| 2E1   |LOW DE JIE SAMUEL   | HONORABLE MENTION    |
+| 2E1   |MOHAMAD HAKIM BIN MOHAMAD KHALIK   | HONORABLE MENTION    |
+| 2E1   |MOHAMAD HAKIM BIN MOHAMAD KHALIK   | HONORABLE MENTION    |
+| 3E1   |JENNA TAN JIA XUAN  | HONORABLE MENTION    |
