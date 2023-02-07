@@ -52,3 +52,11 @@ Celebration of students’ success and journey with AED(LBS)
 
 ![](/images/StudDevelopment/EduSupport/EduSupport-11.jpg)
 Words of encouragement
+
+Our AED/LBS team is always on task and take the extra mile to support our students with learning needs. This will help to maximise the students’ learning potential. They work together with parents as the key stakeholders to ensure that students are fully supported in their journey in YSS.
+
+
+**(2) Connectedness within the School**
+
+![](/images/StudDevelopment/EduSupport/EduSupport-12.jpg)
+
