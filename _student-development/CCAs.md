@@ -14,9 +14,8 @@ In Yishun Secondary, students take part in one CCA from the following categories
 
 |  |  |  |
 | -------- | -------- | -------- |
-| <img src="/images/StudDevelopment/CCAs/BoysBrigade%20(1).png" style="width:70%">   | <img src="/images/StudDevelopment/CCAs/GirlGuides%20(1).png" style="width:70%">  | <img src="/images/StudDevelopment/CCAs/NCC%20(1).png" style="width:70%">   |
-| <img src="/images/StudDevelopment/CCAs/NCDCC%20(1).png" style="width:70%"> | <img src="/images/StudDevelopment/CCAs/NPCC%20(1).png" style="width:70%"> |  |
-
+| <img src="/images/StudDevelopment/CCAs/BoysBrigade%20(1).png" style="width:70%"> <div style="text-align:center">Boys Brigade</div>   | <img src="/images/StudDevelopment/CCAs/GirlGuides%20(1).png" style="width:70%"><div style="text-align:center">Girl Guides</div>  | <img src="/images/StudDevelopment/CCAs/NCC%20(1).png" style="width:70%"><div style="text-align:center">National Cadet Corps (Land)</div>   |
+| <img src="/images/StudDevelopment/CCAs/NCDCC%20(1).png" style="width:70%"><div style="text-align:center">National Police Cadet Corps</div> | <img src="/images/StudDevelopment/CCAs/NPCC%20(1).png" style="width:70%"><div style="text-align:center">National Civil Defence Cadet Corps</div> |  |
 
 
 <br>
