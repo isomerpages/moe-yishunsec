@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Modern Dance.md
       - Choir.md
       - Boys’ Brigade.md
       - Girl Guides.md
