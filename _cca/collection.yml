@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Choir.md
       - Boys’ Brigade.md
       - Girl Guides.md
       - National Cadet Corps (Land).md
