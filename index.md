@@ -18,7 +18,7 @@ sections:
           description: Upcoming Events & Activities
           url: /parents/schoolcalendar/
         - title: News
-          description: Important Information
+          description: YSS Information
           url: /yss/news/
   - infobar:
       title: Announcements
