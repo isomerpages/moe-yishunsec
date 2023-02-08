@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - National Civil Defence Cadet Corps.md
-      - National Police Cadet Corps.md
-      - National Cadet Corps (Land).md
-      - Girl Guides.md
       - Boys’ Brigade.md
+      - Girl Guides.md
+      - National Cadet Corps (Land).md
+      - National Police Cadet Corps.md
+      - National Civil Defence Cadet Corps.md
