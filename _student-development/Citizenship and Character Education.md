@@ -177,4 +177,4 @@ Receiving NRIC is an important milestone for Singapore citizens. The citizenship
 
 ![](/images/StudDevelopment/CCE/CCE-6.png)
 
-![](/images/StudDevelopment/CCE/CCE-7.png)
+<img src="/images/StudDevelopment/CCE/CCE-7.png" style="width:70%" align="center">
