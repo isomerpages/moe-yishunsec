@@ -50,13 +50,13 @@ Teachers engaged students to address ‘racism’ which may occur in schools, pu
 As part of the celebration, three types of childhood snacks were catered. They are eyeglass candy, dried fish fillet and muruku ikan snack. While it brings back memories of their school and neighbourhood, the shared connections among multicultural communities would be something for students to reminisce about.
 
 <br>
-<img src="/images/StudDevelopment/CCE/RHD-1.png" style="width:70%" align="center">
+<img src="/images/StudDevelopment/CCE/RHD-1.png" align="center">
 
 <br>
-<img src="/images/StudDevelopment/CCE/RHD-2.png" style="width:70%" align="center">
+<img src="/images/StudDevelopment/CCE/RHD-2.png" align="center">
 
 <br>
-<img src="/images/StudDevelopment/CCE/RHD-3.png" style="width:70%" align="center">
+<img src="/images/StudDevelopment/CCE/RHD-3.png" align="center">
 
 <br>
 <img src="/images/StudDevelopment/CCE/RHD-4.png" style="width:70%" align="center">
@@ -65,10 +65,10 @@ As part of the celebration, three types of childhood snacks were catered. They a
 <img src="/images/StudDevelopment/CCE/RHD-5.png" style="width:70%" align="center">
 
 <br>
-<img src="/images/StudDevelopment/CCE/RHD-6.png" style="width:50%" align="center">
+<img src="/images/StudDevelopment/CCE/RHD-6.png" style="width:70%" align="center">
 
 <br>
-<img src="/images/StudDevelopment/CCE/RHD-7.png" style="width:50%" align="center">
+<img src="/images/StudDevelopment/CCE/RHD-7.png" style="width:70%" align="center">
 
 
 
@@ -85,19 +85,19 @@ On 15 February 2022, students were presented with the sounding of public warning
 Next, lesson on how digital threats impact individuals and the nation was conducted with the use of Straits Times IN TDD edition. Students were also engaged through the screening of SGStory film entitled ‘Missed Calls’, courtesy from Singapore Discovery Centre. The story revolves around a JC1 student, Jeanine who lost her grandfather to Covid-19. The moral of the story encourages students to adopt resilience in overcoming challenges against Covid-19 to emerge stronger as one community.
 
 <br>
-<img src="/images/StudDevelopment/CCE/TDD-1.png" style="width:70%" align="center">
+<img src="/images/StudDevelopment/CCE/TDD-1.png" align="center">
 
 <br>
-<img src="/images/StudDevelopment/CCE/TDD-2.png" style="width:70%" align="center">
+<img src="/images/StudDevelopment/CCE/TDD-2.png" align="center">
 
 <br>
-<img src="/images/StudDevelopment/CCE/TDD-3.png" style="width:70%" align="center">
+<img src="/images/StudDevelopment/CCE/TDD-3.png" align="center">
 
 <br>
-<img src="/images/StudDevelopment/CCE/TDD-4.png" style="width:70%" align="center">
+<img src="/images/StudDevelopment/CCE/TDD-4.png" align="center">
 
 <br>
-<img src="/images/StudDevelopment/CCE/TDD-5.png" style="width:70%" align="center">
+<img src="/images/StudDevelopment/CCE/TDD-5.png" align="center">
 
 
 ### Nee Soon Central Well-Wishes Project 2022 @ Nee Soon Central Community Club
@@ -116,21 +116,31 @@ A video compiling highlights of the event can be found on the Facebook page of N
 
 [https://ms-my.facebook.com/NeeSoonCentralCO/videos/well-wishes-project-yishun-secondary-schoolnee-soon-central-cc-recently-organise/459961999012853/](https://ms-my.facebook.com/NeeSoonCentralCO/videos/well-wishes-project-yishun-secondary-schoolnee-soon-central-cc-recently-organise/459961999012853/)
 
-![](/images/StudDevelopment/CCE/NSCWWP-1.png)
 
-![](/images/StudDevelopment/CCE/NSCWWP-2.png)
+<br>
+<img src="/images/StudDevelopment/CCE/NSCWWP-1.png" align="center">
 
-![](/images/StudDevelopment/CCE/NSCWWP-3.png)
+<br>
+<img src="/images/StudDevelopment/CCE/NSCWWP-2.png" align="center">
 
-![](/images/StudDevelopment/CCE/NSCWWP-4.png)
+<br>
+<img src="/images/StudDevelopment/CCE/NSCWWP-3.png" align="center">
 
-![](/images/StudDevelopment/CCE/NSCWWP-5.png)
+<br>
+<img src="/images/StudDevelopment/CCE/NSCWWP-4.png" align="center">
 
-![](/images/StudDevelopment/CCE/NSCWWP-6.png)
+<br>
+<img src="/images/StudDevelopment/CCE/NSCWWP-5.png" align="center">
 
-![](/images/StudDevelopment/CCE/NSCWWP-7.png)
+<br>
+<img src="/images/StudDevelopment/CCE/NSCWWP-6.png" align="center">
 
-![](/images/StudDevelopment/CCE/NSCWWP-8.png)
+<br>
+<img src="/images/StudDevelopment/CCE/NSCWWP-7.png" align="center">
+
+<br>
+<img src="/images/StudDevelopment/CCE/NSCWWP-8.png" align="center">
+
 
 ### Secondary 3 NRIC Presentation Ceremony 2022
 
