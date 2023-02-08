@@ -12,15 +12,14 @@ In Yishun Secondary, students take part in one CCA from the following categories
 
 ### Uniformed Groups
 
-![](/images/StudDevelopment/CCAs/BoysBrigade%20(1).png)
+|  |  |  |
+| -------- | -------- | -------- |
+| <img src="/images/StudDevelopment/CCAs/BoysBrigade%20(1).png" style="width:70%">   | <img src="/images/StudDevelopment/CCAs/GirlGuides%20(1).png" style="width:70%">  | <img src="/images/StudDevelopment/CCAs/NCC%20(1).png" style="width:70%">   |
+| <img src="/images/StudDevelopment/CCAs/NCDCC%20(1).png" style="width:70%"> | <img src="/images/StudDevelopment/CCAs/NPCC%20(1).png" style="width:70%"> |  |
 
-![](/images/StudDevelopment/CCAs/GirlGuides%20(1).png)
 
-![](/images/StudDevelopment/CCAs/NCC%20(1).png)
 
-![](/images/StudDevelopment/CCAs/NCDCC%20(1).png)
-
-![](/images/StudDevelopment/CCAs/NPCC%20(1).png)
+<br>
 
 
 ### Performing Arts
