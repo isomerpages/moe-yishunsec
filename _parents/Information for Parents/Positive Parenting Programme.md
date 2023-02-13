@@ -23,18 +23,7 @@ To support you in your journey towards building a confident and resilient child,
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gq5ogYNaXOc" title="Parenting Support Programme by Fam4Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-We are pleased to invite you to attend the webinars free of charge. The tentative schedule of the webinars is as follows:
 
+[EBPs for Secondary Schools](/files/Parents/PositiveParentingProg/EBPs%20for%20Secondary%20Schools.pdf)
 
-
-
-
-You may sign-up for the webinars by clicking on this link. [_https://forms.office.com/r/ri8Tu8DFMK_](https://forms.office.com/r/ri8Tu8DFMK)  
-
-  
-
-For enquiries, please contact our service provider, **Ms Anna** at **9755 6354**.
-
-  
-
-We look forward to your participation in this programme.
+[(Mandarin) Triple P Individual Consultation](/files/Parents/PositiveParentingProg/(Mandarin)%20Triple%20P%20Individual%20Consultation.pdf)
