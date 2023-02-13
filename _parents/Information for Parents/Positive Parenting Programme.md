@@ -4,7 +4,6 @@ permalink: /parents/Positive-Parenting-Programme/
 description: ""
 third_nav_title: Information for Parents
 ---
-
 ![](/images/Parents%20Banner.png)
 
 Positive Parenting Programme
@@ -26,7 +25,9 @@ To support you in your journey towards building a confident and resilient child,
 
 We are pleased to invite you to attend the webinars free of charge. The tentative schedule of the webinars is as follows:
 
-![](/images/PP_Schedule2022.png)
+
+
+
 
 You may sign-up for the webinars by clicking on this link. [_https://forms.office.com/r/ri8Tu8DFMK_](https://forms.office.com/r/ri8Tu8DFMK)  
 
