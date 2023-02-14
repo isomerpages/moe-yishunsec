@@ -43,8 +43,12 @@ Day 3 and Day 8, (Wednesday) from 4pm to 6:00pm
 
 "BB has its ups and downs but involving myself with BB has taught me how to improve myself through values and leadership as chairperson."
 
-*Loh Zi Xiang, Chairman*
+***Loh Zi Xiang, Chairman***
 
 "Through the years, this CCA has taught me resilience, life skills and confidence in myself. Although there were times I found BB difficult, I pushed through and earned values and skills out of it."
 
-*Aaron Tan, Vice chairman*
+***Aaron Tan, Vice chairman***
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/BoysBrigade/bb_1.jpg)
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/BoysBrigade/bb_2.jpg)
