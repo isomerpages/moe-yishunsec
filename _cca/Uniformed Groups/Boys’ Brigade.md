@@ -21,20 +21,22 @@ Parade Square and Computer Lab 3
 
 ### Key Student Outcomes
 
-To help members develop and grow in moral character
-To train members to become loyal and responsible citizens
-To promote members physical fitness and develop their leadership potential
-The development of the habits of discipline, self-respect, grooming and teamwork through the structure of uniform, badges and drill
-Wholesome activities of the BB which foster the development of character
+* To help members develop and grow in moral character
+* To train members to become loyal and responsible citizens
+* To promote members physical fitness and develop their leadership potential
+* The development of the habits of discipline, self-respect, grooming and teamwork through the structure of uniform, badges and drill
+* Wholesome activities of the BB which foster the development of character
 
 ### Highlights / Achievements
 
-J M Fraser Award for Excellence 2019 (Bronze)
-J M Fraser Award for Excellence 2018 (Silver)
-Events in 2021
-Boys' Brigade Day
-Character Quest: Compete with BB cadets from other schools based on teamwork, knowledge via online assessment platform. A total of 20 BB cadets from YSS participated in the competition.
-Participated in National Day Celebrations in school as part of the supporting contingent.
+* J M Fraser Award for Excellence 2019 (Bronze)
+* J M Fraser Award for Excellence 2018 (Silver)
+
+### Events in 2021
+
+* Boys' Brigade Day
+* Character Quest: Compete with BB cadets from other schools based on teamwork, knowledge via online assessment platform. A total of 20 BB cadets from YSS participated in the competition.
+* Participated in National Day Celebrations in school as part of the supporting contingent.
 
 ### Student's Quotes
 
