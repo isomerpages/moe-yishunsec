@@ -38,8 +38,8 @@ In Yishun Secondary, students take part in one CCA from the following categories
 
 
 ### Clubs and Societies
-* Media Club (Infocom Technology)
-* Robotics
+* **[Media Club (Infocom Technology)](/cca/Clubs-and-Societies/mediaclub/)**
+* **[Robotics](/cca/Clubs-and-Societies/robotics/)**
 
 
 ### CCA LEAPS 2.0
