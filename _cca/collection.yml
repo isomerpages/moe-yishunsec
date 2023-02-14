@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Sports and Games/Cross Country.md
-      - Sports and Games/Volleyball.md
-      - Sports and Games/Netball.md
-      - Sports and Games/Football (Boys).md
-      - Sports and Games/Basketball.md
-      - Sports and Games/Badminton.md
       - Sports and Games/.keep
+      - Sports and Games/Badminton.md
+      - Sports and Games/Basketball.md
+      - Sports and Games/Cross Country.md
+      - Sports and Games/Football (Boys).md
+      - Sports and Games/Netball.md
+      - Sports and Games/Volleyball.md
       - Performing Arts/.keep
       - Performing Arts/Choir.md
       - Performing Arts/D’ Lite Club.md
