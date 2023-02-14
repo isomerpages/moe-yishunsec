@@ -10,21 +10,21 @@ In Yishun Secondary, students take part in one CCA from the following categories
 
 ### Uniformed Groups
 
-* **[Boys’ Brigade](/cca/boysbrigade/)** *(Only for current students of 2022)*
-* **[Girl Guides](/cca/girlguides/)**
-* **[National Cadet Corps (Land)](/cca/ncc/)**
-* **[National Police Cadet Corps](/cca/npcc/)**
-* **[National Civil Defence Cadet Corps](/cca/ncdcc/)**
+* **[Boys’ Brigade](/cca/UniformedGroups/boysbrigade/)** *(Only for current students of 2022)*
+* **[Girl Guides](/cca/UniformedGroups/girlguides/)**
+* **[National Cadet Corps (Land)](/ccaUniformedGroups/ncc/)**
+* **[National Police Cadet Corps](/cca/UniformedGroups/npcc/)**
+* **[National Civil Defence Cadet Corps](/cca/UniformedGroups/ncdcc/)**
 
 
 
 ### Performing Arts
-* **[Choir](/cca/choir/)**
-* **[D' Lite Club](/cca/dliteclub/)**
-* **[Guzheng](/cca/guzheng/)**
+* **[Choir](/cca/PerformingArts/choir/)**
+* **[D' Lite Club](/cca/PerformingArts/dliteclub/)**
+* **[Guzheng](/cca/PerformingArts/guzheng/)**
 * **[Indian Dance](/cca/PerformingArts/indiandance/)**
 * **[Malay Dance](/cca/PerformingArts/malaydance/)**
-* **[Modern Dance](/cca/moderndance/)**
+* **[Modern Dance](/cca/PerformingArts/moderndance/)**
 * **[Symphonic Band](/cca/PerformingArts/symphonicband/)**
 
 
