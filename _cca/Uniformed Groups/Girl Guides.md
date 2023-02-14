@@ -79,8 +79,8 @@ Wednesday (4 pm to 6 pm)
 
 ### Student’s Quotes
 A voice for all girls, a chance to learn, a light that guides.
+<div style="text-align: right;"><em>Lin Yunfang, Company Leader</em></div>
 
-*Lin Yunfang, Company Leader*
 
 ### Photos
 
