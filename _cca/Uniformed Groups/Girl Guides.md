@@ -54,3 +54,31 @@ Wednesday (4 pm to 6 pm)
 | -------- | -------- |
 | Patrol Second   | FARZANA D/O MOHAMED ASARAFFALI  |
 | Patrol Second    | LEE JIA XUAN  |
+
+### Key Student Outcomes
+
+* Girl Guide aim to provide opportunities for girls and women to discover and develop their strengths, their skills and their fullest potential, to become responsible citizens of the world.
+
+### Highlights / Achievements
+
+* Puan Noor Aishah Gold (2017, 2018, 2019)
+* Camp Challenge Divisional Placement (3rd)
+* World Thinking Day 2019 (Most Guidey Booth)
+* Wee Kim Wee Challenge Preliminaries 2018 (3rd)
+* North Division Master Chef Competition (Merit) 
+* North Division Day 2021 Competitions: Girls have Talent Competition – 3rd 
+* North Division Day 2021 Competitions: Funky Zoom Dance – 2nd
+* North Division Day 2021 Competitions: Plog It, Capture It, Collage It! – 1st
+
+### Events in 2021
+
+* Badgework activities
+* Wee Kim Wee Challenge
+* Advocacy projects on empowerment, innovation and leading relationships 
+* WAGGGS Leadership Mindset
+
+### Student’s Quotes
+A voice for all girls, a chance to learn, a light that guides.
+
+*Lin Yunfang, Company Leader* 
+
