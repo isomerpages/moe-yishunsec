@@ -21,7 +21,7 @@ In Yishun Secondary, students take part in one CCA from the following categories
 
 |  |  |  |
 | -------- | -------- | -------- |
-| <a href=" "><img src="/images/StudDevelopment/CCAs/Choir.png" style="width:70%"> <div style="text-align:center">Choir</div></a>   | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a>  | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text)</div></a>   |
+| <a href=" "><img src="" style="width:70%"> <div style="text-align:center">Choir</div></a>   | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a>  | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text)</div></a>   |
 | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a> | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a> |<a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a>   |
 | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a> |  | |
 
