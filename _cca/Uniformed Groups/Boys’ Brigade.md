@@ -49,6 +49,8 @@ Day 3 and Day 8, (Wednesday) from 4pm to 6:00pm
 
 ***Aaron Tan, Vice chairman***
 
+### Photos
+
 ![](/images/StudDevelopment/CCAs/UniformedGroups/BoysBrigade/bb_1.jpg)
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/BoysBrigade/bb_2.jpg)
