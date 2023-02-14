@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/.keep
       - Guzheng.md
       - D’ Lite Club.md
       - Modern Dance.md
