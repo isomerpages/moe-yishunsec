@@ -13,7 +13,8 @@ third_nav_title: Uniformed Groups
 Day 3 and Day 8, (Wednesday) from 4pm to 6:00pm
 
 ##### Venue
-Parade Square and Computer Lab 3
+* Parade Square and 
+* Computer Lab 3
 
 ### CCA Exco Structure
 
