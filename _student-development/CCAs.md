@@ -19,13 +19,13 @@ In Yishun Secondary, students take part in one CCA from the following categories
 
 
 ### Performing Arts
-* Choir
-* D' Lite Club
-* Guzheng
-* Indian Dance
-* Malay Dance
-* Modern Dance
-* Symphonic Band
+* **[Choir](/cca/choir/)**
+* **[D' Lite Club](/cca/dliteclub/)**
+* **[Guzheng](/cca/guzheng/)**
+* **[Indian Dance](/cca/PerformingArts/indiandance/)**
+* **[Malay Dance](/cca/PerformingArts/malaydance/)**
+* **[Modern Dance](/cca/moderndance/)**
+* [Symphonic Band](/cca/PerformingArts/symphonicband/)
 
 
 ### Sports and Games
