@@ -8,37 +8,28 @@ Co-Curricular Activities (CCAs)
 
 In Yishun Secondary, students take part in one CCA from the following categories. 
 
-*Click the picture below to access.*
 
 ### Uniformed Groups
 
-|  |  |  |
-| -------- | -------- | -------- |
-| <a href="/cca/boysbrigade/"><img src="/images/StudDevelopment/CCAs/BoysBrigade%20(1).png" style="width:70%"> <div style="text-align:center">Boys Brigade </a><br>*(Only for current students of 2022*)</div>   | <a href="/cca/girlguides/"><img src="/images/StudDevelopment/CCAs/GirlGuides%20(1).png" style="width:70%"><div style="text-align:center">Girl Guides</div></a>  | <a href="/cca/ncc/"><img src="/images/StudDevelopment/CCAs/NCC%20(1).png" style="width:70%"><div style="text-align:center">National Cadet Corps (Land)</div></a>   |
-| <a href="/cca/npcc/"><img src="/images/StudDevelopment/CCAs/NCDCC%20(1).png" style="width:70%"><div style="text-align:center">National Police Cadet Corps</div></a> | <a href="/cca/ncdcc/"><img src="/images/StudDevelopment/CCAs/NPCC%20(1).png" style="width:70%"><div style="text-align:center">National Civil Defence Cadet Corps</div></a> |  |
+* **Boys’ Brigade** *(Only for current students of 2022)*
+* **Girl Guides**
+* **National Cadet Corps (Land)**
+* **National Police Cadet Corps**
+* **National Civil Defence Cadet Corps**
+
+
 
 ### Performing Arts
 
-|  |  |  |
-| -------- | -------- | -------- |
-| <a href=" "><img src=" " style="width:70%"> <div style="text-align:center">Choir</div></a>   | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a>  | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text)</div></a>   |
-| <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a> | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a> |<a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a>   |
-| <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a> |  | |
+
 
 
 ### Sports and Games
 
-|  |  |  |
-| -------- | -------- | -------- |
-| <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a>   | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a>  | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text)</div></a>   |
-| <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a> | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a> |<a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a>   |
+
 
 
 ### Clubs and Societies
-
-|  |  |  |
-| -------- | -------- | -------- |
-| <a href=" "><img src=" " style="width:70%"> <div style="text-align:center">Text</div></a>   | <a href=" "><img src=" " style="width:70%"><div style="text-align:center">Text</div></a>  |  |
 
 
 
