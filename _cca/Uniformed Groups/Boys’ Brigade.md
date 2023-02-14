@@ -17,7 +17,7 @@ Parade Square and Computer Lab 3
 
 ### CCA Exco Structure
 
-
+![](/images/StudDevelopment/CCAs/UniformedGroups/BoysBrigade/Boys%20Brigade.jpeg)
 
 ### Key Student Outcomes
 
