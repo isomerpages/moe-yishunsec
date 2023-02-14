@@ -37,4 +37,4 @@ Wednesday (4 pm to 6 pm)
 | Orchid Patrol: |  |
 | -------- | -------- |
 | Senior Patrol Leader   | ELISE LIM WEN HUI   |
-| Patrol Second    | NG YUN RU ERICA    |
+| Patrol Second    | LOOK JIA JUN, ALICE  |
