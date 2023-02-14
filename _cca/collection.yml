@@ -2,14 +2,14 @@ collections:
   cca:
     output: true
     order:
-      - PerformingArts/Symphonic Band.md
-      - PerformingArts/Malay Dance.md
-      - PerformingArts/Indian Dance.md
-      - PerformingArts/Modern Dance.md
-      - PerformingArts/D’ Lite Club.md
-      - PerformingArts/Choir.md
-      - PerformingArts/Guzheng.md
       - PerformingArts/.keep
+      - PerformingArts/Choir.md
+      - PerformingArts/D’ Lite Club.md
+      - PerformingArts/Guzheng.md
+      - PerformingArts/Indian Dance.md
+      - PerformingArts/Malay Dance.md
+      - PerformingArts/Modern Dance.md
+      - PerformingArts/Symphonic Band.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Civil Defence Cadet Corps.md
       - Uniformed Groups/National Police Cadet Corps.md
