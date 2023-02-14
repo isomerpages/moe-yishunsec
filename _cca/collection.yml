@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Clubs and Societies/Robotics.md
-      - Clubs and Societies/Media Club (Infocom Technology).md
       - Clubs and Societies/.keep
+      - Clubs and Societies/Media Club (Infocom Technology).md
+      - Clubs and Societies/Robotics.md
       - Sports and Games/.keep
       - Sports and Games/Badminton.md
       - Sports and Games/Basketball.md
