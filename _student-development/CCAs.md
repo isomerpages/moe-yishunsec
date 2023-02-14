@@ -25,7 +25,7 @@ In Yishun Secondary, students take part in one CCA from the following categories
 * **[Indian Dance](/cca/PerformingArts/indiandance/)**
 * **[Malay Dance](/cca/PerformingArts/malaydance/)**
 * **[Modern Dance](/cca/moderndance/)**
-* [Symphonic Band](/cca/PerformingArts/symphonicband/)
+* **[Symphonic Band](/cca/PerformingArts/symphonicband/)**
 
 
 ### Sports and Games
