@@ -85,7 +85,7 @@ A voice for all girls, a chance to learn, a light that guides.
 ### Photos
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/GG.jpeg)
-Plogathon an eco friendly exercise where one picks up litter while working out
+<div style="text-align: center;">Plogathon an eco friendly exercise where one picks up litter while working out</div>
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/GG-2.jpeg)
-Pose for Peace Competition on Zoom
+<div style="text-align: center;">Pose for Peace Competition on Zoom</div>
