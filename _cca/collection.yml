@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - SportsGames/.keep
       - PerformingArts/.keep
       - PerformingArts/Choir.md
       - PerformingArts/D’ Lite Club.md
