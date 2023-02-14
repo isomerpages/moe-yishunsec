@@ -27,14 +27,30 @@ Wednesday (4 pm to 6 pm)
 | Company Leader    | LIN YUNFANG    |
 | Assistant Company Leader  | NASRIN NAJEEB     |
 
+<br>
 
 | Jasmine Patrol: | Name  |
 | -------- | -------- |
 | Patrol Second    | SIVASUNDAR SHAILAJA   |
 | Patrol Second    | NG YUN RU ERICA    |
 
+<br>
 
-| Orchid Patrol: |  |
+| Orchid Patrol: | Name |
 | -------- | -------- |
 | Senior Patrol Leader   | ELISE LIM WEN HUI   |
 | Patrol Second    | LOOK JIA JUN, ALICE  |
+
+<br>
+
+| Sunflower Patrol: | Name |
+| -------- | -------- |
+| Patrol Leader   | WONG LE YI, GRACE   |
+| Patrol Second    | CHUA TING YU ANTHEA |
+
+<br>
+
+| Ixora Patrol: | Name |
+| -------- | -------- |
+| Patrol Second   | FARZANA D/O MOHAMED ASARAFFALI  |
+| Patrol Second    | LEE JIA XUAN  |
