@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - PerformingArts/Modern Dance.md
       - PerformingArts/D’ Lite Club.md
       - PerformingArts/Choir.md
       - PerformingArts/Guzheng.md
