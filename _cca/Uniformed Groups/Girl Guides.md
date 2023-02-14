@@ -29,28 +29,28 @@ Wednesday (4 pm to 6 pm)
 
 <br>
 
-| Jasmine Patrol: | Name  |
+| Jasmine Patrol | Name  |
 | -------- | -------- |
 | Patrol Second    | SIVASUNDAR SHAILAJA   |
 | Patrol Second    | NG YUN RU ERICA    |
 
 <br>
 
-| Orchid Patrol: | Name |
+| Orchid Patrol | Name |
 | -------- | -------- |
 | Senior Patrol Leader   | ELISE LIM WEN HUI   |
 | Patrol Second    | LOOK JIA JUN, ALICE  |
 
 <br>
 
-| Sunflower Patrol: | Name |
+| Sunflower Patrol | Name |
 | -------- | -------- |
 | Patrol Leader   | WONG LE YI, GRACE   |
 | Patrol Second    | CHUA TING YU ANTHEA |
 
 <br>
 
-| Ixora Patrol: | Name |
+| Ixora Patrol | Name |
 | -------- | -------- |
 | Patrol Second   | FARZANA D/O MOHAMED ASARAFFALI  |
 | Patrol Second    | LEE JIA XUAN  |
