@@ -22,14 +22,34 @@ third_nav_title: Uniformed Groups
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| Position | Name | Class |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Unit Sergeant Major     | MSG Brian Wu Guan Yuan     | 	3E1     |
+| Assistant Sergeant Major	     | MSG Charles Koh     | 3E5     |
+| Junior Cadets Company Sergeant Major     | 	SSG Ong Zhirui, Xavier     | 3E5     |
+| Assistant Junior Cadets Company Sergeant Major     | SSG Ong Zhirui, Xavier     | 	3E5     |
+| Senior Cadets Company Sergeant Major     | SSG Lim Jin Huei Javier     | 3T1     |
+| Assistant Senior Cadets Company Sergeant Major     | SSG Sajesh Sri Dhaarshan     | 	3E2     |
+| Cadet Leaders Company Sergeant Major     | 	SSG Kuan Yong Jie Anson     | 	3N2     |
+| Assistant Cadets Leaders Company Sergeant Major     | SSG Lai Yanjie Vaan     | 3E1     |
 
+### Key Student Outcomes
+
+The primary mission of NCC is to develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military related activities. Through these activities, NCC also hopes to nurture inspiring leaders and committed citizens.
+
+### Highlights / Achievements
+
+* Total Defence award:
+* Junior cadets – Bronze
+* Senior cadets – Silver
+* Cadet Leaders – Gold
+
+Cadets Proficiency Tests (military knowledge and skills)
+Camp Steel, Camp Forge(virtual) and Specialist Assessment
+Cadet Leaders: attained the Army NCC Badge upon successful completion of Specialist Assessment in 2021
+Senior Specialist Leaders Course (virtual)
+Singapore Kindness Movement Initiative by Senior cadets – awarded the Kindness Badge
+
+### Events
+
+Cadet Leaders, USM and ASM were nominated to participate in the Virtual International Cadet Exchange Programme Singapore (ICEP Singapore) 2021.
