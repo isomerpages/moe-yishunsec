@@ -15,11 +15,19 @@ description: ""
 #### Multi Purpose Center (MPC)
 ![](/images/YSS/MPC.png)
 
+#### School Hall
+![](/images/YSS/SchoolHall.png)
 
 
-* The Place
-* School Garden
-* School Hall
+#### The PLACE
+
+
+#### School Garden
+
+
+
+
+
 * Performing Arts Room
 * RO Room
 * Music Room
