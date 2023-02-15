@@ -58,3 +58,5 @@ Cadet Leaders, USM and ASM were nominated to participate in the Virtual Internat
 
 <div style="text-align:center;">NCC Cadets at Nee Soon GRC National Day Carnival 2022</div>
 
+### Photos
+
