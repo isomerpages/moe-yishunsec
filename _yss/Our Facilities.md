@@ -15,7 +15,7 @@ The S.P.A.C.E. (Library)
 Multi Purpose Center (MPC)
 
 
-* The S.P.A.C.E.
+
 * The Place
 * School Garden
 * School Hall
