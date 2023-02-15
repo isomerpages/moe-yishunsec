@@ -4,15 +4,13 @@ permalink: /cca/UniformedGroups/boysbrigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-### CCA Teachers-in-charge and Schedule
-
-#### Teacher-in-charge	
+### Teacher-in-charge	
 * Mr Yeung Chun Nam
 
-##### CCA Schedule	
-Day 3 and Day 8, (Wednesday) from 4pm to 6:00pm
+#### CCA Schedule	
+* Day 3 and Day 8, (Wednesday) from 4pm to 6:00pm
 
-##### Venue
+### Venue
 * Parade Square and 
 * Computer Lab 3
 
