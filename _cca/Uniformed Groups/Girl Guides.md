@@ -4,16 +4,14 @@ permalink: /cca/UniformedGroups/girlguides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-### CCA Teachers-in-charge and Schedule
-
-#### Teacher-in-charge	
+### Teacher-in-charge	
 * Ms Herdaninseh (I/C)
 * Ms Ummu Sumaiyah Binte Eliase
 
-#### CCA Schedule
-Wednesday (4 pm to 6 pm)
+### CCA Schedule
+* Wednesday (4 pm to 6 pm)
 
-#### Venues
+### Venues
 * Girl Guides Room
 * Parade Square
 * 3E5 / 3N1 / 3N3 Classrooms
