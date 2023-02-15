@@ -5,8 +5,17 @@ description: ""
 ---
 [Click here to view our Facilities in 360](https://kuula.co/share/collection/7PDqZ?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1)
 
+![](/images/YSS/LT@3.png)
+LT@3
+
+![](/images/YSS/Library.png)
+The S.P.A.C.E. (Library)
+
+![](/images/YSS/MPC.png)
+Multi Purpose Center (MPC)
+
+
 * The S.P.A.C.E.
-* LT@3
 * The Place
 * School Garden
 * School Hall
