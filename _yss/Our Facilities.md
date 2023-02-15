@@ -26,26 +26,64 @@ description: ""
 
 
 
+#### Performing Arts Room
 
 
-* Performing Arts Room
-* RO Room
-* Music Room
-* Recording Studio
-* Computer Lab 1
-* Computer Lab 2
-* Computer Lab 3
-* Computer Lab 4
-* Music Lab
-* The HIVE
-* Physics Lab
-* Chemistry Lab
-* Biology Lab
-* D&T Workshop
-* Indoor Sports Hall
-* Basketball Court
-* Football Field
-* Parade Square
-* School Canteen
-* Innotec Room
-* Hangoutz
+#### Retail and Operation Room (RO Room)
+
+#### Music Room
+
+
+#### Recording Studio
+
+
+
+#### Computer Lab 1
+
+
+#### Computer Lab 2
+
+
+#### Computer Lab 3
+
+
+#### Computer Lab 4
+
+
+#### Music Lab
+
+
+#### The HIVE
+
+
+#### Physics Lab
+
+
+#### Chemistry Lab
+
+
+#### Biology Lab
+
+
+#### D&T Workshop
+
+
+#### Indoor Sports Hall
+
+
+#### Basketball Court
+
+
+#### Football Field
+
+
+#### Parade Square
+
+
+#### School Canteen
+
+
+#### Innotec Room
+
+
+#### Hangoutz
