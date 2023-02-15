@@ -3,7 +3,6 @@ title: Our Facilities
 permalink: /yss/facilities/
 description: ""
 ---
-
 [Click here to view our Facilities in 360](https://kuula.co/share/collection/7PDqZ?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1)
 
 * The S.P.A.C.E.
@@ -30,5 +29,5 @@ description: ""
 * Football Field
 * Parade Square
 * School Canteen
-* Innoteck Room
+* Innotec Room
 * Hangoutz
