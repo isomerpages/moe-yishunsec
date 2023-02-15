@@ -44,10 +44,10 @@ The primary mission of NCC is to develop resourceful, responsible, resilient, lo
 * Senior cadets – Silver
 * Cadet Leaders – Gold
 
-Cadets Proficiency Tests (military knowledge and skills)
-Camp Steel, Camp Forge(virtual) and Specialist Assessment
-Cadet Leaders: attained the Army NCC Badge upon successful completion of Specialist Assessment in 2021
-Senior Specialist Leaders Course (virtual)
+Cadets Proficiency Tests (military knowledge and skills)<br>
+Camp Steel, Camp Forge(virtual) and Specialist Assessment <br>
+Cadet Leaders: attained the Army NCC Badge upon successful completion of Specialist Assessment in 2021<br>
+Senior Specialist Leaders Course (virtual)<br>
 Singapore Kindness Movement Initiative by Senior cadets – awarded the Kindness Badge
 
 ### Events
