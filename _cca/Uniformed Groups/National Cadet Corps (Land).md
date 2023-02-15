@@ -61,13 +61,13 @@ Cadet Leaders, USM and ASM were nominated to participate in the Virtual Internat
 ### Photos
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC-1.jpg)
+<div style="text-align:center;">Total Defence Guardians Of The City organised and facilitated by senior cadets to the junior cadets</div>
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC-2.jpg)
-
-![](/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC-3.jpg)
-
-![](/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC-3_1.jpg)
+<div style="text-align:center;">Precision Drill SquadPDS members reporting for training</div>
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC-4.png)
+<div style="text-align:center;">Virtual NCC session during eCCA</div>
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC-5.jpg)
+<div style="text-align:center;">NCC Cadets at Nee Soon GRC National Day Carnival 2022</div>
