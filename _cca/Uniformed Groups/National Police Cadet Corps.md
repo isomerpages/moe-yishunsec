@@ -26,5 +26,3 @@ third_nav_title: Uniformed Groups
 Note: Some Area or HQ activities may be conducted on other days or timings
 
 ### CCA Exco Structure
-
-
