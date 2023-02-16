@@ -78,12 +78,13 @@ To nurture and develop our youths into resilient and responsible citizens throug
 <div style="text-align:right;">Dylan Teh Zhibin, RSM 2021-2022</div>
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-1.jpg)
-
+Keeping Singapore safe with fire safety
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-2.jpg)
-
+Learning to save lives with CPR and AED
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-3.jpg)
-
+Our Pinnacle Award winner 2021 WO Dahlia Aniqa Binte Mohamad Zainol
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-4.jpg)
+Sharing lifesaving skills with the Girl Guides
