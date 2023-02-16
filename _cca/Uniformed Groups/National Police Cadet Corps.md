@@ -57,26 +57,34 @@ VIA opportunities (Yellow Ribbon Project)
 
 ### Student’s Quotes
 
+<em>
+	
 “NPCC has improved my attitude particularly my discipline (being at my utmost behaviour at all times), responsibility (to always be accountable for my actions based on my role of a student, such as completing my homework on time), and perseverance (to never give up no matter the obstacle I face).
 
-SSGT (NPCC) Joshua Isaac Kadir, Unit Drills Instructor from 2020 – 2021
+<div style="text-align:right;">SSGT (NPCC) Joshua Isaac Kadir, Unit Drills Instructor from 2020 – 2021</div>
+
 
 “My overall experience in NPCC was a very meaningful one. I was able to make a lot of new friendships, while getting to know my squad mates and seniors. I also learnt a lot of hard skills, soft skills, and leadership skills which would help me in my everyday life in the future. NPCC has helped me to make a lot of memories as part of my secondary school journey.
 
-SI (NPCC) Haritha D/O Elanchelian, Unit Chairperson from 2020 – 2021
+<div style="text-align:right;">SI (NPCC) Haritha D/O Elanchelian, Unit Chairperson from 2020 – 2021</div>
+
 
 “I have learned many things from NPCC such as hard skills and soft skills which will definitely prove useful in the future. I have also made many friends and have been taught many valuable lessons that I could not have learnt in any environment better than in a uniform group CCA, especially NPCC.”
 
-SSGT (NPCC) Brandon Lim, Admin Assistant & 37th Batch Assistant Squad IC from 2019 – 2020
+<div style="text-align:right;">SSGT (NPCC) Brandon Lim, Admin Assistant & 37th Batch Assistant Squad IC from 2019 – 2020</div>
+
 
 “NPCC made me grew out of my comfort zone and helped me cultivate some soft skills and hard skills. I was given the opportunity to do VIA activities, competitions, learn new skills and recreational moments, such as the Yellow Ribbon Run, Campcraft Competition, Kayaking and the trip to the goat farm. I've made memorable memories and I've also made new good friends through NPCC.”
 
-SI (NPCC) Qistina Binte Kamal, Vice-Chairperson & 37th Batch Squad IC from 2019 – 2020
+<div style="text-align:right;">SI (NPCC) Qistina Binte Kamal, Vice-Chairperson & 37th Batch Squad IC from 2019 – 2020
+</div>
 
 “NPCC has taught me a myriad of skills and values throughout this 4-year journey especially in my NCO life. In the process of learning, I have made many close friends & strengthen the bonds with my squadmates, seniors and juniors. It has also moulded me into a person with a better sense of confidence, responsibility and discipline. These values, skills & knowledge which I have acquired through normal official trainings, annual camps, and the planning behind major events will forever stick with me in my entire life. Although there were many stressful situations that we faced, problems & challenges that we had encounter, we are always able to over such adversities which make the entire process a wholesome one. The experiences that we have gained are indubitably priceless. I was really able to witness my personal growth & development in this whole journey. Moreover, the memories and friendship that have been forged will be perpetually imprinted with me. No way I could ever forget those who have been along with me in this journey.”
 
-SI (NPCC) Jimmy Chong, Vice-Chairperson & 35th Batch Squad IC from 2018 – 2019
+<div style="text-align:right;">SI (NPCC) Jimmy Chong, Vice-Chairperson & 35th Batch Squad IC from 2018 – 2019</div>
+
 
 “NPCC has benefited me in many ways and has thought me skills that I can't learn anywhere else. Firstly, it has made me a great leader. I have been constantly given many opportunities to shine and showcase my skills and talents to others. I might have definitely made a lot of flaws throughout my journey but my TOs and CIs have been very patient and always guided me to become a better person every single day. Secondly, it has taught me to be a better communicator. Over the years with the help of my TOs and CIs, I learnt to be more aware of what I say and how I say. I must say I have definitely forged closer relationships with my squadmates. Thirdly, it has taught me to be selfless. NPCC gave me many opportunities to volunteer. I am glad that I did so because I had a great time with all my squadmates, CIs and TOs and moreover, every VIA motivated me to continue serving the community further and be selfless. All in all, without NPCC, I wouldn't be the person that I am today.”
 
-SSGT (NPCC) Md Musassir, Outdoors Instructor from 2018 – 2019
+<div style="text-align:right;">SSGT (NPCC) Md Musassir, Outdoors Instructor from 2018 – 2019</em></div>
+
