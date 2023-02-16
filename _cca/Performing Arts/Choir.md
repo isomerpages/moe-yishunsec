@@ -24,13 +24,13 @@ third_nav_title: Performing Arts
 
 | SN | DESIGNATION | KEY PERSON |
 | -------- | -------- | -------- |
-| 1     | Text     | Text     |
-| 2     | Text     | Text     |
-| 3     | Text     | Text     |
-| 4    | Text     | Text     |
-| 5     | Text     | Text     |
-| 6    | Text     | Text     |
-| 7    | Text     | Text     |
-| 8    | Text     | Text     |
-| 9    | Text     | Text     |
-| 10    | Text     | Text     |
+| 1     | CHAIRMAN     | ALAINA ARWEN JUAT NATIVIDAD     |
+| 2     | VICE CHAIRMAN     | TOH YI XUAN     |
+| 3     | STUDENT CONDUCTOR     | MAEGAN ASHLEY ERMITA DALMACIO     |
+| 4    | SECRETARY     | ANG RUI HENG RAYSON   |
+| 5     | TREASURER & LOGISTICS     | SHERNYN LEOW BOON JIA     |
+| 6    | WARDROPE     | NEO XI ZHEN     |
+| 7    | PUBLICITY & WELFARE     | 	MARYLYNE DREQUITO ANTIMANO     |
+| 8    | SECTION LEADER (SOP 1)     | ISABELLE FAYE CENZON LLEVA     |
+| 9    | SECTION LEADER (SOP 2)     | 	NUR ANIS INSYIRAH BTE MOHD YAZID     |
+| 10    | SECTION LEADER (ALTO 1)     | NG JIA QI     |
