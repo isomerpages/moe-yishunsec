@@ -26,5 +26,5 @@ third_nav_title: Uniformed Groups
 Note: Some Area or HQ activities may be conducted on other days or timings
 
 ### CCA Exco Structure
-[NPCC Hierarchy Charts](/files/CCA/NPCC%20Hierarchy%20Charts%20Updated%2022%20Nov%202021.pdf)
+[NPCC Hierarchy Charts](/files/CCA/NPCC/NPCC%20Hierarchy%20Charts%20Updated%2022%20Nov%202021.pdf)
 
