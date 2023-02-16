@@ -57,3 +57,9 @@ third_nav_title: Performing Arts
 *“One reason I join is that I get to express myself, although I am generally a shy person. The experience of singing together, learning together is rather fun, and we get to learn through the mistakes. I also enjoy the teaching, which allows me to grow musically.”*
 
 <div style="text-align:right;">– Nurelina Mashanda Binte Abdul Malik, 2020)</div>
+
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VNNvCxgetwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
