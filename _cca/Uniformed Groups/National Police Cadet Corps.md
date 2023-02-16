@@ -88,25 +88,25 @@ VIA opportunities (Yellow Ribbon Project)
 <div style="text-align:right;">SSGT (NPCC) Md Musassir, Outdoors Instructor from 2018 – 2019</div>
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-1.jpeg)
-Our Vice Principal donning on the SI rank for our cadet
+<div style="text-align:center;">Our Vice Principal donning on the SI rank for our cadet</div>
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-2.jpeg)
-Field cooking during the Leadership Training Camp
+<div style="text-align:center;">Field cooking during the Leadership Training Camp</div>
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-3.jpeg)
-Zoom sharing by police officers from Yishun South NPC
+<div style="text-align:center;">Zoom sharing by police officers from Yishun South NPC</div>
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-4.jpeg)
-Air pistol enrichment program for our cadets
+<div style="text-align:center;">Air pistol enrichment program for our cadets</div>
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-5.jpeg)
-Our SPF NPCC badge awardee SSGT NPCC Priyakumar Hari Krishna
+<div style="text-align:center;">Our SPF NPCC badge awardee SSGT NPCC Priyakumar Hari Krishna</div>
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-6.jpeg)
-Snippets of our cadets during the Inter Unit Drills Competition
+<div style="text-align:center;">Snippets of our cadets during the Inter Unit Drills Competition</div>
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-7.jpeg)
-Our unit participating in the Yellow Ribbon Run
+<div style="text-align:center;">Our unit participating in the Yellow Ribbon Run</div>
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-8.jpeg)
-Snippets of our cadets having fun during our Unit Cohesion to Hay Dairies Goat Farm
+<div style="text-align:center;">Snippets of our cadets having fun during our Unit Cohesion to Hay Dairies Goat Farm</div>
