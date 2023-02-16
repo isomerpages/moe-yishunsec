@@ -86,3 +86,27 @@ VIA opportunities (Yellow Ribbon Project)
 *“NPCC has benefited me in many ways and has thought me skills that I can't learn anywhere else. Firstly, it has made me a great leader. I have been constantly given many opportunities to shine and showcase my skills and talents to others. I might have definitely made a lot of flaws throughout my journey but my TOs and CIs have been very patient and always guided me to become a better person every single day. Secondly, it has taught me to be a better communicator. Over the years with the help of my TOs and CIs, I learnt to be more aware of what I say and how I say. I must say I have definitely forged closer relationships with my squadmates. Thirdly, it has taught me to be selfless. NPCC gave me many opportunities to volunteer. I am glad that I did so because I had a great time with all my squadmates, CIs and TOs and moreover, every VIA motivated me to continue serving the community further and be selfless. All in all, without NPCC, I wouldn't be the person that I am today.”*
 
 <div style="text-align:right;">SSGT (NPCC) Md Musassir, Outdoors Instructor from 2018 – 2019</div>
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-1.jpeg)
+Our Vice Principal donning on the SI rank for our cadet
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-2.jpeg)
+Field cooking during the Leadership Training Camp
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-3.jpeg)
+Zoom sharing by police officers from Yishun South NPC
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-4.jpeg)
+Air pistol enrichment program for our cadets
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-5.jpeg)
+Our SPF NPCC badge awardee SSGT NPCC Priyakumar Hari Krishna
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-6.jpeg)
+Snippets of our cadets during the Inter Unit Drills Competition
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-7.jpeg)
+Our unit participating in the Yellow Ribbon Run
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-8.jpeg)
+Snippets of our cadets having fun during our Unit Cohesion to Hay Dairies Goat Farm
