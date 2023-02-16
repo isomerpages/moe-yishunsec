@@ -46,11 +46,11 @@ To nurture and develop our youths into resilient and responsible citizens throug
 * 5th place in Precision Drill Competition 2019
 * The SCDF-NCDCC Pinnacle Badge is a prestigious badge awarded to outstanding cadet leaders in recognition of their contribution and leadership
 
-**Recipients:**
-* WO Goh Jun Xian and WO Ayu Sri Balqis (2019)
-* WO Ivan Liu Shao Sheng (2020)
-* WO DAHLIA ANIQA BINTE MOHAMAD ZAINOL (2021)
-* WO Dylan Teh Zhibin (2022)
+	**Recipients:**
+	* WO Goh Jun Xian and WO Ayu Sri Balqis (2019)
+	* WO Ivan Liu Shao Sheng (2020)
+	* WO DAHLIA ANIQA BINTE MOHAMAD ZAINOL (2021)
+	* WO Dylan Teh Zhibin (2022)
 
 ##### Highlights
 
@@ -76,5 +76,3 @@ To nurture and develop our youths into resilient and responsible citizens throug
 *“Among the many things NCDCC has taught me, the greatest thing it ever taught was that leadership was like a durian. Durians are spiky and hard on the outside, but soft and sweet on the inside. This mirrors how in leadership, you have to be tough and strict with those under you, but at the end of the day, you need to understand and empathise with their struggles to truly be successful. This is but a single lesson that NCDCC taught me over my four fruitful years of membership, and as arduous and tiring it may seem I would never pass up the opportunity to do it all over again.”*
 
 <div style="text-align:right;">Dylan Teh Zhibin, RSM 2021-2022</div>
-
-
