@@ -76,3 +76,14 @@ To nurture and develop our youths into resilient and responsible citizens throug
 *“Among the many things NCDCC has taught me, the greatest thing it ever taught was that leadership was like a durian. Durians are spiky and hard on the outside, but soft and sweet on the inside. This mirrors how in leadership, you have to be tough and strict with those under you, but at the end of the day, you need to understand and empathise with their struggles to truly be successful. This is but a single lesson that NCDCC taught me over my four fruitful years of membership, and as arduous and tiring it may seem I would never pass up the opportunity to do it all over again.”*
 
 <div style="text-align:right;">Dylan Teh Zhibin, RSM 2021-2022</div>
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-1.jpg)
+
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-2.jpg)
+
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-3.jpg)
+
+
+![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-4.jpg)
