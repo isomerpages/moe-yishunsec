@@ -18,12 +18,10 @@ description: ""
 #### School Hall
 ![](/images/YSS/SchoolHall.png)
 
+#### School Garden
+![](/images/YSS/Garden.jpg)
 
 #### The PLACE
-
-
-#### School Garden
-
 
 
 #### Performing Arts Room
@@ -79,6 +77,7 @@ description: ""
 
 #### Parade Square
 
+![](/images/YSS/ParadeSquare.jpg)
 
 #### School Canteen
 
