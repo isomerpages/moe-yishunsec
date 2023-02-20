@@ -34,6 +34,6 @@ sections:
       title: New Admission Criteria to Yishun Secondary
       description: Details on the changes to the new PSLE Scoring and S1 Posting systems...
       button: Read more...
-      url: /news/new-admission-criteria-to-yishun-secondary
+      url: /news/new-admission-criteria-to-yss
       alt: Image alt text
 ---
