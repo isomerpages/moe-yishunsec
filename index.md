@@ -20,12 +20,23 @@ sections:
         - title: News
           description: YSS Information
           url: /yss/news/
-  - infobar:
-      title: Announcements
-      description: Click below to access latest announcements .
-      button: Read More
-      url: /faq/
-  - resources:
-      title: My Experience in YSS
-      button: Read More
+  - infopic:
+      title: "Distinctive Programme: Arts for Life and Community"
+      description: "In Yishun Secondary School, Sonic Arts involves Music, Media and
+        Technology... "
+      button: Read more...
+      url: /the-yss-experience/Distinctive-Programmes/
+      alt: Image alt text
+  - infopic:
+      title: New Admission Criteria to Yishun Secondary
+      description: Details on the changes to the new PSLE Scoring and S1 Posting systems...
+      button: Read more...
+      url: /news/new-admission-criteria-to-yishun-secondary
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
