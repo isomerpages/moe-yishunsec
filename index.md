@@ -11,12 +11,12 @@ sections:
   - hero:
       background: /images/YSSbanner.jpg
       key_highlights:
-        - title: Quick Links
-          description: Self-help Tools & Web Pages
-          url: /links/
         - title: School Calendar
           description: Upcoming Events & Activities
           url: /parents/schoolcalendar/
+        - title: Quick Links
+          description: Self-help Tools & Web Pages
+          url: /links/
   - infopic:
       title: "Distinctive Programme: Arts for Life and Community"
       description: "In Yishun Secondary School, Sonic Arts involves Music, Media and
