@@ -34,9 +34,9 @@ sections:
       url: /news/new-admission-criteria-to-yishun-secondary
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Direct School Admission to Yishun Secondary
+      description: More information on Direct School Admission to Yishun Secondary...
+      button: Read More...
       alt: Image alt text
+      url: /the-yss-experience/dsa/
 ---
