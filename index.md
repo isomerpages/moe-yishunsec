@@ -24,6 +24,7 @@ sections:
       button: Read more...
       url: /the-yss-experience/Distinctive-Programmes/
       alt: Distinctive Programme in YSS
+      image: /images/Distinctive_prog-2.jpg
   - infopic:
       title: Direct School Admission to Yishun Secondary
       description: More information on Direct School Admission to Yishun Secondary...
