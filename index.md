@@ -29,7 +29,7 @@ sections:
       title: Direct School Admission to Yishun Secondary
       description: More information on Direct School Admission to Yishun Secondary...
       button: Read More...
-      alt: Image alt text
+      alt: DSA in YSS
       url: /the-yss-experience/dsa/
       image: /images/YSS DSA.jpg
   - infopic:
