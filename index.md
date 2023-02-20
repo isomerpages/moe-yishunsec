@@ -17,9 +17,6 @@ sections:
         - title: School Calendar
           description: Upcoming Events & Activities
           url: /parents/schoolcalendar/
-        - title: News
-          description: YSS Information
-          url: /yss/news/
   - infopic:
       title: "Distinctive Programme: Arts for Life and Community"
       description: "In Yishun Secondary School, Sonic Arts involves Music, Media and
@@ -28,15 +25,15 @@ sections:
       url: /the-yss-experience/Distinctive-Programmes/
       alt: Image alt text
   - infopic:
-      title: New Admission Criteria to Yishun Secondary
-      description: Details on the changes to the new PSLE Scoring and S1 Posting systems...
-      button: Read more...
-      url: /news/new-admission-criteria-to-yishun-secondary
-      alt: Image alt text
-  - infopic:
       title: Direct School Admission to Yishun Secondary
       description: More information on Direct School Admission to Yishun Secondary...
       button: Read More...
       alt: Image alt text
       url: /the-yss-experience/dsa/
+  - infopic:
+      title: New Admission Criteria to Yishun Secondary
+      description: Details on the changes to the new PSLE Scoring and S1 Posting systems...
+      button: Read more...
+      url: /news/new-admission-criteria-to-yishun-secondary
+      alt: Image alt text
 ---
