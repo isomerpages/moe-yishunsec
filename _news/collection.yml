@@ -1,4 +1,5 @@
 collections:
   news:
     output: true
-    order: []
+    order:
+      - New Admission Criteria to Yishun Secondary.md
