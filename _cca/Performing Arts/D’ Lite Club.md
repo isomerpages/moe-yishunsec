@@ -94,3 +94,7 @@ express themselves through drama and theatre.
 *"D’lite helped me to be more connected and sociable.  It also taught me to be more expressive and not be shy about expressing my emotions and feelings. Moreover, I have gain a lot of friends due to the friendly environment in D’lite."*
 
 <div style= "text-align:right">Lucas Seng Ru Kang (Junior Member)</div>
+
+### Photos
+
+
