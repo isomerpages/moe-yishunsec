@@ -19,10 +19,17 @@ third_nav_title: Performing Arts
 * Multi-Purpose Centre (MPC)
 
 
-
-| Column 1 | Column 2 |
+|   |   |
 | -------- | -------- |
-| Text     | Text     |
+| Chairman     | Sim Zheng Da, Xavis 3E3     |
+| Vice chair (upper secondary)     | Kayden Koh Boon Yang 3E5     |
+| Vice chair (lower secondary)     | Yeng kai Qi 2E3     |
+| Welfare IC    | Carissa 3N2     |
+| Welfare IC   | Nur Aishah Binte Zakria 2E3   |
+| Logistics IC   | Lucas Seng Ru Kang 3E5   |
+| Logistics IC   | 	R. Divana 3E3   |
+| Publicity IC    | Lim Enzi 2E3   |
+
 
 ### Key Student Outcomes
 
@@ -49,4 +56,3 @@ express themselves through drama and theatre.
 * Learning Journey to ACJC's Play
 * A Midsummer Night's Dream
 * Learning Journey to Wild Rice Animal Farm
-
