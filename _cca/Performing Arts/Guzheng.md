@@ -54,17 +54,17 @@ For students to
 
 ### Student’s Quotes
 
-“Guzheng plays a big role in my life, providing me with new experiences and teaching me many skills like teamwork, perseverance and being proactive. Throughout this whole journey, I was able to form new friendships, memories that I will cherish forever, making a great positive impact in my life.”
+*“Guzheng plays a big role in my life, providing me with new experiences and teaching me many skills like teamwork, perseverance and being proactive. Throughout this whole journey, I was able to form new friendships, memories that I will cherish forever, making a great positive impact in my life.”*
 
-Celest, Guzheng Ensemble Chairperson (2020-2021)
+<div style="text-align:right">Celest, Guzheng Ensemble Chairperson (2020-2021)</div>
 
-“Over the past 3 years, I have learnt to respect people and the importance of teamwork. At the start, when I joined Guzheng, I did not realise that my way of speaking and some actions were bordering on being rude but the seniors patiently pointed out my areas of improvement and also helped me in Guzheng techniques. All these helped to shape me. YSS Guzheng Ensemble has shown me what unity is about.”
+*“Over the past 3 years, I have learnt to respect people and the importance of teamwork. At the start, when I joined Guzheng, I did not realise that my way of speaking and some actions were bordering on being rude but the seniors patiently pointed out my areas of improvement and also helped me in Guzheng techniques. All these helped to shape me. YSS Guzheng Ensemble has shown me what unity is about.”*
 
-Yi Tong, Guzheng Ensemble Honorary Secretary (2020-2021)
+<div style="text-align:right">Yi Tong, Guzheng Ensemble Honorary Secretary (2020-2021)</div>
 
-“We had problems such as coordination, skills and communication. However, we have overcome these problems and learnt how to work together as a team. No matter what the results are at the end of the day, we have put in our best and learnt not to give up. Teamwork is indeed a very important value: Alone we can do so little; together we can do so much. Without working as a team, we would not have the achievements we have today.”
+*“We had problems such as coordination, skills and communication. However, we have overcome these problems and learnt how to work together as a team. No matter what the results are at the end of the day, we have put in our best and learnt not to give up. Teamwork is indeed a very important value: Alone we can do so little; together we can do so much. Without working as a team, we would not have the achievements we have today.”*
 
-Berlinda, Guzheng Ensemble Vice-Chairperson (2020-2021)
+<div style="text-align:right">Berlinda, Guzheng Ensemble Vice-Chairperson (2020-2021)</div>
 
 ### Photos
 
