@@ -96,5 +96,3 @@ express themselves through drama and theatre.
 <div style= "text-align:right">Lucas Seng Ru Kang (Junior Member)</div>
 
 ### Photos
-
-
