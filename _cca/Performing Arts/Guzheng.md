@@ -67,4 +67,3 @@ Yi Tong, Guzheng Ensemble Honorary Secretary (2020-2021)
 Berlinda, Guzheng Ensemble Vice-Chairperson (2020-2021)
 
 Photos:
-
