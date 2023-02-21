@@ -30,7 +30,7 @@ description: ""
 #### Retail and Operation Room (RO Room)
 
 #### Music Room
-
+![](/images/YSS/Music_Room.jpg)
 
 #### Recording Studio
 
