@@ -67,30 +67,30 @@ express themselves through drama and theatre.
 
 ### Student’s Quotes
 
-"D’lite has really changed me to become a better leader of myself. I have learnt to have more trust in my abilities and stop doubting myself. With great members, teachers and coaches, D’lite has grown into a strong and united CCA which welcomes anyone with open hands. I am proud to say that I am happy to be in D’lite where it allows everyone to freely express themselves without being judged."
+*"D’lite has really changed me to become a better leader of myself. I have learnt to have more trust in my abilities and stop doubting myself. With great members, teachers and coaches, D’lite has grown into a strong and united CCA which welcomes anyone with open hands. I am proud to say that I am happy to be in D’lite where it allows everyone to freely express themselves without being judged."*
 
 <div style= "text-align:right">Cayenne Teo Lee Ho (President)</div>
 
-"Dlite never fails to make me and everyone feel welcomed. Through my experiences in Dlite, I have grown as a member and person as the club taught us values and skills that would benefit us in the near future."
+*"Dlite never fails to make me and everyone feel welcomed. Through my experiences in Dlite, I have grown as a member and person as the club taught us values and skills that would benefit us in the near future."*
 
 <div style= "text-align:right">Priya Darshini D/O Ravendiran (Upper Sec Vice President)</div>
 
-"D’lite has taught me how to appreciate spending time with other members to work together as a team and motivate ourselves to overcome challenges. The teachers and coaches also make D’lite a great place for me to be part of a team so that I can improve on myself. Looking back now, I would be able to say that I am proud of D’lite as it is a safe place that allows us to express our opinions and thoughts."
+*"D’lite has taught me how to appreciate spending time with other members to work together as a team and motivate ourselves to overcome challenges. The teachers and coaches also make D’lite a great place for me to be part of a team so that I can improve on myself. Looking back now, I would be able to say that I am proud of D’lite as it is a safe place that allows us to express our opinions and thoughts."*
 
 <div style= "text-align:right">Benjamin Wang Jia Ming (Lower Sec Vice President)</div>
 
-"D'lite made me learn a lot, not only about acting but many other things like how we can help one another whenever one is in need of help. D'lite is just like a family to me."
+*"D'lite made me learn a lot, not only about acting but many other things like how we can help one another whenever one is in need of help. D'lite is just like a family to me."*
 
 <div style= "text-align:right">Tessa Soh Gek Tee (Welfare Manager)</div>
 
-"I learnt that D’Lite is not just about acting, it is about working together as a team and having a common goal together. We learn and achieve together, which makes D’Lite like my second home."
+*"I learnt that D’Lite is not just about acting, it is about working together as a team and having a common goal together. We learn and achieve together, which makes D’Lite like my second home."*
 
 <div style= "text-align:right">Pey Rui Ning (Logistic Manager)</div>
 
-"D'lite has fulfilled my dreams in acting and it has helped me with a lot of life skills such as public speaking."
+*"D'lite has fulfilled my dreams in acting and it has helped me with a lot of life skills such as public speaking."*
 
 <div style= "text-align:right">Lee Bing En (Senior member)</div>
 
-"D’lite helped me to be more connected and sociable.  It also taught me to be more expressive and not be shy about expressing my emotions and feelings. Moreover, I have gain a lot of friends due to the friendly environment in D’lite."
+*"D’lite helped me to be more connected and sociable.  It also taught me to be more expressive and not be shy about expressing my emotions and feelings. Moreover, I have gain a lot of friends due to the friendly environment in D’lite."*
 
-Lucas Seng Ru Kang (Junior Member)
+<div style= "text-align:right">Lucas Seng Ru Kang (Junior Member)</div>
