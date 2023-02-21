@@ -68,3 +68,10 @@ For students to
 
 ### Photos
 
+![](/images/StudDevelopment/CCAs/PerformingArts/Guzheng/1SYF%202021.jpg)
+
+<div style="text-align:center">SYF 2021</div>
+
+![](/images/StudDevelopment/CCAs/PerformingArts/Guzheng/2Chinese%20New%20Year%202021.jpeg)
+
+<div style="text-align:center">Chinese New Year 2021</div>
