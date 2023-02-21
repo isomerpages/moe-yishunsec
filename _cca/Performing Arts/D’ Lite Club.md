@@ -56,3 +56,13 @@ express themselves through drama and theatre.
 * Learning Journey to ACJC's Play
 * A Midsummer Night's Dream
 * Learning Journey to Wild Rice Animal Farm
+
+
+### SYF Video
+
+*Click the link below to view*
+
+DRAMA_DRS 069_YSS (A)
+
+DRAMA_DRS 040_YSS (B)
+
