@@ -18,6 +18,7 @@ third_nav_title: Performing Arts
 ### Reporting venue
 * Multi-Purpose Centre (MPC)
 
+### CCA Exco Structure
 
 |   |   |
 | -------- | -------- |
