@@ -17,3 +17,36 @@ third_nav_title: Performing Arts
 
 ### Reporting venue
 * Multi-Purpose Centre (MPC)
+
+
+
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Text     | Text     |
+
+### Key Student Outcomes
+
+D’lite Club aims to provide opportunities for budding thespians to:
+discover and develop their strengths, their skills and their fullest potential
+express themselves through drama and theatre.
+
+### Highlights / Achievements
+
+* Singapore Youth Festival (SYF) Arts Presentation 2021
+	* Certificate of Achievement for the play, Fly High
+	* Certificate of Achievement for the play, Hashtag Family
+* International Science Drama Competition (ISDC) 2021
+	* “The Green Block” by Dlite Sec 1 (Yishun Secondary School)
+		* Grand Finals (Open Category): Merit Award
+		* Singapore Finals (Open Category): 3rd Place
+* Singapore Youth Festival (SYF) Arts Presentation 2019
+	* Certificate of Distinction for the play, The Strangest Town
+	* Certificate of Commendation for the play, A Bowl of Mee Sua
+
+### Events in 2022
+
+* Arts Extravaganza
+* Learning Journey to ACJC's Play
+* A Midsummer Night's Dream
+* Learning Journey to Wild Rice Animal Farm
+
