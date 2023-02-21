@@ -62,8 +62,8 @@ express themselves through drama and theatre.
 
 *Click the link below to view*
 
-* DRAMA_DRS 069_YSS (A)
-* DRAMA_DRS 040_YSS (B)
+* [DRAMA_DRS 069_YSS (A)](https://youtu.be/lnD_Ou8Qy_0)
+* [DRAMA_DRS 040_YSS (B)](https://youtu.be/YC2Q5F3Mbd0)
 
 ### Student’s Quotes
 
