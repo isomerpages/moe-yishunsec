@@ -96,4 +96,8 @@ express themselves through drama and theatre.
 <div style= "text-align:right">Lucas Seng Ru Kang (Junior Member)</div>
 
 ### Photos
+![](/images/StudDevelopment/CCAs/PerformingArts/PA-1.jpg)
 
+![](/images/StudDevelopment/CCAs/PerformingArts/PA-2.jpg)
+
+![](/images/StudDevelopment/CCAs/PerformingArts/PA-3.jpg)
