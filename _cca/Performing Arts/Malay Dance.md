@@ -14,5 +14,7 @@ third_nav_title: Performing Arts
 * Time of CCA: 4pm – 6pm
 
 ### Reporting Venue
-Hall
+* Hall
+
+### CCA Exco Structure
 
