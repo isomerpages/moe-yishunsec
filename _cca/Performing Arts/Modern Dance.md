@@ -19,7 +19,18 @@ third_nav_title: Performing Arts
 ### CCA Exco Structure
 
 
-| Column 1 | Column 2 | Column 3 |
+|  | |  |
 | -------- | -------- | -------- |
 | Chairperson     | SHARIFFAH RASHIDAH BINTE SYED ABDUL RAHMAN AL-YAHYA     | S3-E5     |
-| Text    | Text     | Text   |
+| Vice - Chairperson    | PHAM MINH LI, SOPHIE     | S3-E3   |
+| Vice - Chairperson    | POON YU YI     | S3-N1  |
+| Head of Logistics    | 	HANNA QARISSA BINTE MOHD HAFIZZ YUSRI     | S2-N2  |
+| Head of Well-Being    | KWAN JING YI JOLIE     | S3-E3  |
+| Head of Fitness    | CHAN SZE TENG     | S2-E2  |
+| Head of Publicity    | POH SHAE QI, PHOEBE     | S2-E1  |
+| Assistant Logistics (Lower Sec)    | NURIN QISTINA BINTI JAMIL ABDUL NAJIB     | S2-N2  |
+| Assistant Well-Being (Lower Sec)    | JAYOMA JAHZARRA PHOEBE TOLETE     | S2-E1  |
+| Assistant Fitness (Lower Sec)    | NUR SHAFIQAH BINTE MUHAMMAD HAFIDZ     | S2-N2  |
+| Assistant Publicity (Lower Sec)    | ONG EN NING GENEVE     | S2-E1  |
+
+
