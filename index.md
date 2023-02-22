@@ -16,7 +16,7 @@ sections:
           url: /parents/schoolcalendar/
         - title: Quick Links
           description: Self-help Tools & Web Pages
-          url: /links/
+          url: /yss/links/
   - infopic:
       title: "Distinctive Programme: Arts for Life and Community"
       description: "In Yishun Secondary School, Sonic Arts involves Music, Media and
