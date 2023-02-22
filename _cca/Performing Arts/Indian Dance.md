@@ -55,7 +55,6 @@ third_nav_title: Performing Arts
 ![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance5.jpg)
 <div style="text-align:center">SYF 2021 team NUS university cultural centre</div>
 
-
 ![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance6.jpg)
 <div style="text-align:center">SYF Performance</div>
 
