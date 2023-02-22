@@ -40,8 +40,9 @@ third_nav_title: Performing Arts
 
 *“I learnt different styles of dances originated from different parts of India. This helped me to understand the different cultures all over India and its values.”*
 
-– Jasmitha
+<div style="text-align:right">– Jasmitha</div>
 
 *“Indian Dance is an amazing CCA. I have learnt a lot of values like perseverance especially when the dance steps are hard, teamwork for the best co-ordination in dance. It has also helped me improve my overall fitness and stamina.”*
 
-– Srivardhini
+<div style="text-align:right">– Srivardhini</div>
+
