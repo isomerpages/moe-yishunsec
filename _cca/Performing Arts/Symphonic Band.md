@@ -47,8 +47,8 @@ One Band, One Sound, One Family
 
 ### SYF 2021 Video
 
-* FLEXIBLE BAND_BCS 233_YSS (A)
-* FLEXIBLE BAND_BCS 062_YSS (B)
+* [FLEXIBLE BAND_BCS 233_YSS (A)](https://youtu.be/kXx08esl18I)
+* [FLEXIBLE BAND_BCS 062_YSS (B)](https://youtu.be/6n5RrQeZVuQ)
 
 ### Student’s quotes
 
