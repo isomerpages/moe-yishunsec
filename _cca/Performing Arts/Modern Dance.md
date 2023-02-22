@@ -70,3 +70,9 @@ third_nav_title: Performing Arts
 *"Modern dance has taught me many values such as perseverance and teamwork. I have learnt that I should always aim to do my best during training and performances. Events such as Super 24 gave me the exposure to perform on a public stage which allows me to grow as a dancer. My coach, teachers-in-charge, and friends are always there to encourage me and push me beyond my limits. Overall, I enjoy my time in the modern dance club. "*
 
 <div style="text-align:right">Poh Shae Qi, Phoebe (2022)</div>
+
+![](/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance2.jpg)
+
+![](/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance3.jpg)
+
+![](/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance4.jpg)
