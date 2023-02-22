@@ -85,19 +85,19 @@ Mastering Malay Dance choreography and providing exposure to students in stage p
 <div style="text-align:center">Performance for MT Fortnight Opening Ceremony CNY 2020</div>
 
 ![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance9.png)
-Combined Dance Performance for MT Fortnight Opening Ceremony
+<div style="text-align:center">Combined Dance Performance for MT Fortnight Opening Ceremony</div>
 
 ![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance10.png)
-Combined Dance Practice with Clementi Town Secondary School
+<div style="text-align:center">Combined Dance Practice with Clementi Town Secondary School</div>
 
 ![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance11.png)
-Combined Dance Practice with Clementi Town Secondary School 1
+<div style="text-align:center">Combined Dance Practice with Clementi Town Secondary School 1</div>
 
 ![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance12.png)
-Combined Dance Practice with Clementi Town Secondary School 2
+<div style="text-align:center">Combined Dance Practice with Clementi Town Secondary School 2</div>
 
 ![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance13.jpg)
-Muara Festival 2019 Esplanade
+<div style="text-align:center">Muara Festival 2019 Esplanade</div>
 
 ![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance14.jpg)
-Performing at Nee Soon Central
+<div style="text-align:center">Performing at Nee Soon Central</div>
