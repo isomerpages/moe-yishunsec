@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 ---
 ![S24 competition](/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance1.jpg)
-<div style="text-align:right">S24 competition</div>
+<div style="text-align:center">S24 competition</div>
 
 ### Teacher-in-charge
 * Mrs Ng Yulin (I/C)
