@@ -65,7 +65,10 @@ One Band, One Sound, One Family
 <div style="text-align:right">Lim Chun Hong, Concertmaster</div>
 
 ![](/images/StudDevelopment/CCAs/PerformingArts/Band/Band-3.jpeg)
+<div style="text-align:center">After the performance</div>
 
 ![](/images/StudDevelopment/CCAs/PerformingArts/Band/Band-2.jpeg)
+<div style="text-align:center">Practising hard</div>
 
 ![](/images/StudDevelopment/CCAs/PerformingArts/Band/Band-1.jpeg)
+<div style="text-align:center">SYF Performance</div>
