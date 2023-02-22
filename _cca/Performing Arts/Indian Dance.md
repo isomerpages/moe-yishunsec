@@ -15,3 +15,5 @@ third_nav_title: Performing Arts
 ### Venue
 * Performing Arts Room
 
+### CCA Exco Structure
+
