@@ -54,12 +54,12 @@ One Band, One Sound, One Family
 
 *“I joined Symphonic Band in 2018 because I love music and I wanted to learn music beyond the classroom. I enjoy band as it has given me many wonderful memories and helped me build stronger bonds with my fellow band members. I made many new friends, learnt how to communicate effectively with others, and also got the chance to lead and develop my public speaking skills. As a member of the percussion section, I also got the chance to learn many different percussion instruments, which makes band practices very cool and fun! Most importantly, being a band member helped to strengthen values such as responsibility, respect, positivity, independence, commitment and patience in me. I really appreciate all the experiences I had in band!”*
 
-Claudine Toh En Ya, Band Major
+<div style="text-align:right">Claudine Toh En Ya, Band Major</div>
 
 *“I really enjoyed the 3 years that I’ve spent in Symphonic Band. There are caring seniors who remain patient with us while they teach us and guide us through our band journey. The teachers are also always there when we need them. Being in band has helped me to develop perseverance and my ability to work well in a team. Perseverance is very important in band as it ensures that we are able to remain resilient despite the long hours of practices. Teamwork is key in ensuring that the band works together to overcome challenges. The band needs to have a positive mind set to accept the mistakes that we made as a team and learn from them. As a Band Major, I have also benefitted by learning to be more open-minded when solving problems and having the courage to explore different problem-solving methods.”*
 
-Toh Yu Ming, Band Major
+<div style="text-align:right">Toh Yu Ming, Band Major</div>
 
 *“My experiences in Symphonic Band so far is great! I feel that throughout the years in band, I have developed perseverance as each song holds its own challenges, but together with my bandmates, it makes trying my best easier. Moreover, the conductors have never given up on the band despite our difficulties trying to play new pieces. As the Concertmaster of the band, I am very eager to learn how the different instruments work so I can lead my fellow CCA peers. The band has provided me many opportunities to learn by letting me attend different workshops such as the WBAS workshop, where I have honed my leadership and musicianship skills, and gained knowledge on how I can become a better leader now and in the future.”*
 
-Lim Chun Hong, Concertmaster
+<div style="text-align:right">Lim Chun Hong, Concertmaster</div>
