@@ -55,9 +55,9 @@ third_nav_title: Performing Arts
 
 ### Performances Video
 
-* Super 24
-* Arts Extravaganza Concert
-* SYF 2021 Competition
+* [Super 24](https://youtu.be/kimEIwDD2Iw)
+* [Arts Extravaganza Concert](https://youtu.be/F8NTEbUV2K4)
+* [SYF 2021 Competition](https://youtu.be/loZSoL-93kU)
 
 ### Student’s Quotes
 
