@@ -46,6 +46,12 @@ third_nav_title: Performing Arts
 
 <div style="text-align:right">– Srivardhini</div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SISnDbEv5Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align:center">Performing at the Nee Soon Central National Day Carnival 2022</div>
+
+### Photos
+
 ![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance5.jpg)
 
 ![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance6.jpg)
