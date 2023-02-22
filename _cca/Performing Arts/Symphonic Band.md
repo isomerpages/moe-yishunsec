@@ -63,3 +63,9 @@ One Band, One Sound, One Family
 *“My experiences in Symphonic Band so far is great! I feel that throughout the years in band, I have developed perseverance as each song holds its own challenges, but together with my bandmates, it makes trying my best easier. Moreover, the conductors have never given up on the band despite our difficulties trying to play new pieces. As the Concertmaster of the band, I am very eager to learn how the different instruments work so I can lead my fellow CCA peers. The band has provided me many opportunities to learn by letting me attend different workshops such as the WBAS workshop, where I have honed my leadership and musicianship skills, and gained knowledge on how I can become a better leader now and in the future.”*
 
 <div style="text-align:right">Lim Chun Hong, Concertmaster</div>
+
+![](/images/StudDevelopment/CCAs/PerformingArts/Band/Band-3.jpeg)
+
+![](/images/StudDevelopment/CCAs/PerformingArts/Band/Band-2.jpeg)
+
+![](/images/StudDevelopment/CCAs/PerformingArts/Band/Band-1.jpeg)
