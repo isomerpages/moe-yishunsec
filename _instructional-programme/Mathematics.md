@@ -50,11 +50,42 @@ To stimulate greater interest and enrich students’ knowledge in Mathematics fo
 Secondary 1 cohort participated in this inter-class challenge through which they demonstrated resilience, creative thinking and teamwork for the first time in 2022. Students learned Arithmetic and Geometry when playing the board game. Sec 2E game facilitators were trained to guide players in the competition rounds.
 
 
-| Award | Student Name | Class |
-| -------- | -------- | -------- |
-| CHAMPION     |<ul><li>ADNIEL YEO KAI KEE (YANG KAIQI)</li><li>ZION KOH</li></ul>   | 1 STRIVE    |
-| FIRST RUNNER UP    |<ul><li>IDHAN AKIL BIN ASHRAF MARICAR</li><li>JOY TAY LIKE XIN </li></ul>| 1 SEEK    |
-| SECOND RUNNER UP  |<ul><li>NUR NABILA BINTE MOHAMAD HANIF</li><li>XIE JIATONG</li></ul>| 1 INNOVATE   |
+<table>
+<thead>
+  <tr>
+    <th>Award</th>
+    <th>Student Name</th>
+    <th>Class</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>CHAMPION</td>
+<td><ul>
+  <li>ADNIEL YEO KAI KEE (YANG KAIQI)</li>
+  <li>ZION KOH</li>
+</td></ul>  
+    <td>1 STRIVE</td>
+  </tr>
+  <tr>
+    <td>FIRST RUNNER UP</td>
+<td><ul>
+  <li>IDHAN AKIL BIN ASHRAF MARICAR</li>
+  <li>JOY TAY LIKE XIN</li>
+</td></ul>  
+
+    <td>1 SEEK</td>
+  </tr>
+  <tr>
+    <td>SECOND RUNNER UP</td>
+<td><ul>
+  <li>NUR NABILA BINTE MOHAMAD HANIF</li>
+  <li>XIE JIATONG</li>
+</td></ul>  
+    <td>1 INNOVATE</td>
+  </tr>
+</tbody>
+</table>
 
 * <b>Sec 3E Experiential Learning Journey to Gardens by the Bay </b><br>
 To make the learning of mathematics relevant and interesting, students used mathematical concepts and skills to real-life applications.
