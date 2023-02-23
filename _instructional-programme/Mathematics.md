@@ -64,7 +64,7 @@ Secondary 1 cohort participated in this inter-class challenge through which they
 <td><ul>
   <li>ADNIEL YEO KAI KEE (YANG KAIQI)</li>
   <li>ZION KOH</li>
-</td></ul>  
+</ul>  
     <td>1 STRIVE</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ Secondary 1 cohort participated in this inter-class challenge through which they
 <td><ul>
   <li>IDHAN AKIL BIN ASHRAF MARICAR</li>
   <li>JOY TAY LIKE XIN</li>
-</td></ul>  
+</ul>  
 
     <td>1 SEEK</td>
   </tr>
@@ -81,7 +81,7 @@ Secondary 1 cohort participated in this inter-class challenge through which they
 <td><ul>
   <li>NUR NABILA BINTE MOHAMAD HANIF</li>
   <li>XIE JIATONG</li>
-</td></ul>  
+</ul>  
     <td>1 INNOVATE</td>
   </tr>
 </tbody>
