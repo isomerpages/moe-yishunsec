@@ -127,4 +127,24 @@ Class Activity Part 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hw8vhMq7FK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Class Activity Part 2
-	
+
+YSS @ THE HTNS NATIONAL DAY OBSERVANCE CEREMONY
+-----------------------------------------------
+
+On 5 Aug, the YSS NPCC and NCDCC were honoured to form the main contingent for the Home TeamNS National Day Observance Ceremony held at the Khatib Clubhouse. The guest of honour for the event was A/P Muhammad Faishal Ibrahim, President of HomeTeamNS, Minister of State, Ministry for Home Affairs, and National Development. The event was also graced by the Commissioner of SCDF and SPF.
+
+
+<figure><img src="/images/Picture4%20(1).jpg" style="width:100%"><figcaption> Our NPCC and NCDCC in formation.</figcaption></figure>
+
+<figure><img src="/images/Picture5%20(1).jpg" style="width:100%"><figcaption> Our cadets are happy and proud to have represented YSS.</figcaption></figure>
+
+YSS Art Extravaganza 2022
+-------------------------
+
+<a href="https://sites.google.com/moe.edu.sg/yssartextravaganza">
+<img src="/images/YSS%20Exp/YSSArtsExtravaganza2022.jpg" alt="yss ArtsExtravaganza">
+</a>
+
+Back to School 2022 & CNY Celebration
+-------------------------------------
+
