@@ -47,9 +47,8 @@ third_nav_title: Sports and Games
 
 ### Student’s quotes
 
-*“Netball taught me that a sport is not just about gameplay or skills. It is about perseverance and teamwork. When I was first appointed as the captain, I did not have confidence. However, with encouragement from my teachers, teammates, and coach I gained my confidence and believed in myself. I learned to lead and motivate the team. Lastly, through these three years, with guidance from my teachers, teammates, and coach, I learned to be a better person, teammate, and netball player.”       *
+*“Netball taught me that a sport is not just about gameplay or skills. It is about perseverance and teamwork. When I was first appointed as the captain, I did not have confidence. However, with encouragement from my teachers, teammates, and coach I gained my confidence and believed in myself. I learned to lead and motivate the team. Lastly, through these three years, with guidance from my teachers, teammates, and coach, I learned to be a better person, teammate, and netball player.” *
 
-Chloe (Sec 3 Captain)
+<div style="text-align:right">Chloe (Sec 3 Captain)</div>
 
 ### Photos
-
