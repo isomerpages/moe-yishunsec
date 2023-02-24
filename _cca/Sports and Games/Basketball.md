@@ -44,3 +44,24 @@ third_nav_title: Sports and Games
 | Logistics IC: EAN PANG YI HUAN 2E2     | Logistics IC: GOH QI EN, VALERIE 2N2     |
 | Publicity IC: OH ZHI YANG CHESTER 2T1     | Publicity IC: JOLENE LEO LI XUAN 2E2     |
 | Training IC: RALPH KHANG LI JIE 2T1     | Training IC: SEAH KAI LING 2E3     |
+
+### Key Student Outcomes
+
+* As student athletes, they need to
+* acquire relevant skills to excel as a sports person and a student
+* instill discipline and resilience
+* display values such as sportsmanship, respect, responsibility and teamwork
+
+### Highlights / Achievements
+
+* 2022 North Zone Basketball Competition - ‘B’ Division girls emerged as the top 8 
+* 2014 North Zone Basketball Championship - ‘C' Division girls emerged as 4th 
+* 2013 North Zone Basketball Competition - ‘B’ Division boys emerged as 4th
+* 2012 North Zone Basketball Championship - ‘C' Division girls emerged as 2nd Runner Up
+* 2010 National Basketball Championship - ‘B' Division boys emerged as 2nd Runner Up
+
+### Photos
+
+![](/images/StudDevelopment/CCAs/SportsGames/Basketball/B-Division-Basketball-Team-Boys.jpg)
+
+![](/images/StudDevelopment/CCAs/SportsGames/Basketball/KC2_5133_Basketball-Girls_P1.jpg)
