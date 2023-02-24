@@ -30,7 +30,8 @@ To stimulate greater interest and enrich students’ knowledge in Mathematics fo
 | 1 CARE	  | AVENAASHSREE D/O NEELAMOHAN  | Individual and Team Category  |
 | 1 INNOVATE	  | KWAN YU HONG JEREMY  | Team Category  |
  
- 
+<p></p>
+
 * SASMO Competition Silver, Bronze and Honorable Mention Awardees 
 
 | Class | Student Name | Award |
