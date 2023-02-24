@@ -54,5 +54,7 @@ third_nav_title: Sports and Games
 ### Photos
 
 ![](/images/StudDevelopment/CCAs/SportsGames/Netball/Netball-1.jpg)
+<div style="text-align:center">Training</div>
 
 ![](/images/StudDevelopment/CCAs/SportsGames/Netball/Netball-3.png)
+<div style="text-align:center">Working on our game play</div>
