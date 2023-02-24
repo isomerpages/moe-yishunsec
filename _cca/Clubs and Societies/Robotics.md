@@ -56,13 +56,12 @@ style="text-align:center">Drone flying
 style="text-align:center">eCCA on Microbit 29Jul
 </div>
 
-
+![](/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-3a.jpeg)
 <div
 style="text-align:center">Jadon Lim with award
 </div>
 
-
-
+![](/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-4a.jpg)
 <div
 style="text-align:center">Jadon Lims project
 </div>
