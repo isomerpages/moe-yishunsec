@@ -46,9 +46,8 @@ To stimulate greater interest and enrich students’ knowledge in Mathematics fo
 | 2E1   |MOHAMAD HAKIM BIN MOHAMAD KHALIK   | HONORABLE MENTION    |
 | 3E1   |JENNA TAN JIA XUAN  | HONORABLE MENTION    |
 
-* <b>Inter-class ArithmetEQ Challenge: </b><br>
+* <b>Inter-class ArithmetEQ Challenge: </b>
 Secondary 1 cohort participated in this inter-class challenge through which they demonstrated resilience, creative thinking and teamwork for the first time in 2022. Students learned Arithmetic and Geometry when playing the board game. Sec 2E game facilitators were trained to guide players in the competition rounds.
-
 <table>
 <thead>
   <tr>
