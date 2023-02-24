@@ -32,12 +32,6 @@ sections:
       alt: DSA in YSS
       url: /the-yss-experience/dsa/
       image: /images/YSSDSA_1.jpg
-  - infopic:
-      title: New Admission Criteria to Yishun Secondary
-      description: Details on the changes to the new PSLE Scoring and S1 Posting systems...
-      button: Read more...
-      url: /news/new-admission-criteria-to-yss
-      alt: Image alt text
   - resources:
       title: News
       button: Read more...
