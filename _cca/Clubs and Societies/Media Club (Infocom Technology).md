@@ -99,3 +99,6 @@ style="text-align:right">Katrina Tan (Backstage Ic)
 
 ### AVA Photos
 
+![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/AVA-1.jpg)
+
+![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/AVA-2.jpg)
