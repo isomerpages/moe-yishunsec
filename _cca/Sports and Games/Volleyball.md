@@ -35,6 +35,3 @@ third_nav_title: Sports and Games
 
 ![](/images/StudDevelopment/CCAs/SportsGames/Volleyball/Volleyball-2.jpeg)
 <div style="text-align:center">Formation Training</div>
-
-
-
