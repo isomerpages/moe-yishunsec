@@ -47,9 +47,13 @@ HACK@AC is a Capture-The-Flag competition, where participants play to earn point
 ### Photos
 
 ![](/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-1.jpg)
+Drone flying
 
 ![](/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-2.jpg)
+eCCA on Microbit 29Jul
 
 ![](/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-3.jpeg)
+Jadon Lim with award
 
 ![](/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-4.jpg)
+Jadon Lims project
