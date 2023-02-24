@@ -54,5 +54,7 @@ third_nav_title: Sports and Games
 ### Photos
 
 ![](/images/StudDevelopment/CCAs/SportsGames/Football/Football-1.jpg)
+<div style="text-align:center">Our Graduating Boys</div>
 
 ![](/images/StudDevelopment/CCAs/SportsGames/Football/Football-2.jpg)
+<div style="text-align:center">YSS Under-18 Football League</div>
