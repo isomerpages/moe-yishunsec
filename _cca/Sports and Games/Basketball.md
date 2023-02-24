@@ -63,5 +63,7 @@ third_nav_title: Sports and Games
 ### Photos
 
 ![](/images/StudDevelopment/CCAs/SportsGames/Basketball/B-Division-Basketball-Team-Boys.jpg)
+<div style="text-align:center">YSS ‘B’ Boys Basketball Team</div>
 
 ![](/images/StudDevelopment/CCAs/SportsGames/Basketball/KC2_5133_Basketball-Girls_P1.jpg)
+<div style="text-align:center">YSS ‘B’ Girls Basketball Team</div>
