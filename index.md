@@ -38,4 +38,7 @@ sections:
       button: Read more...
       url: /news/new-admission-criteria-to-yss
       alt: Image alt text
+  - resources:
+      title: News
+      button: Read more...
 ---
