@@ -44,7 +44,3 @@ third_nav_title: Sports and Games
 | Logistics IC: EAN PANG YI HUAN 2E2     | Logistics IC: GOH QI EN, VALERIE 2N2     |
 | Publicity IC: OH ZHI YANG CHESTER 2T1     | Publicity IC: JOLENE LEO LI XUAN 2E2     |
 | Training IC: RALPH KHANG LI JIE 2T1     | Training IC: SEAH KAI LING 2E3     |
-
-
-
-
