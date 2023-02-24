@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 On Saturday, 13 August, our NCC Precision Drill Squad, Indian and Malay dancers proudly represented YSS as we joined in the celebrations at Nee Soon Central’s National Day Carnival. Our performances were part of the festivities and were warmly received by the crowd.  Our students thoroughly enjoyed themselves and are proud to have contributed to the nation’s 57th birthday celebrations.
-<center>
+
 	
 ![](/images/YSS%20Exp/Picture1.jpg)
 Our Indian Dancers in their resplendent costumes
@@ -26,4 +26,3 @@ Our proud NCC cadets receiving a token of appreciation from Associate Professor 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RtdBONcEi3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	
-</center>
