@@ -3,6 +3,9 @@ title: Direct School Admission to Yishun Secondary
 permalink: /the-yss-experience/dsa/
 description: ""
 ---
+![](/images/YSSDSA_1.jpg)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ea_swGnMzGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 DSA Experience Video – Watch the video of YSS DSA Talent Areas.
 
