@@ -4,6 +4,9 @@ permalink: /cca/Clubs-and-Societies/mediaclub/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+Media Club (Infocom Technology)
+----------------------
+
 ![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-1.jpg)
 
 
@@ -49,3 +52,7 @@ We want to build a community of thinking photographers who are dedicated to deep
 ![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-5.jpg)
 
 ![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-6.jpg)
+
+
+Audio Visual Aid (AVA)
+----------------------
