@@ -52,3 +52,6 @@ third_nav_title: Sports and Games
 
 ### Photos
 
+![](/images/StudDevelopment/CCAs/SportsGames/Badminton-1.jpg)
+
+![](/images/StudDevelopment/CCAs/SportsGames/Badminton-2.jpg)
