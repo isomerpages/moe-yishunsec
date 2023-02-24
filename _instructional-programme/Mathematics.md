@@ -49,7 +49,6 @@ To stimulate greater interest and enrich students’ knowledge in Mathematics fo
 * <b>Inter-class ArithmetEQ Challenge: </b>
 Secondary 1 cohort participated in this inter-class challenge through which they demonstrated resilience, creative thinking and teamwork for the first time in 2022. Students learned Arithmetic and Geometry when playing the board game. Sec 2E game facilitators were trained to guide players in the competition rounds.
 
-<div>
 <table>
 <thead>
   <tr>
@@ -86,7 +85,6 @@ Secondary 1 cohort participated in this inter-class challenge through which they
 </tbody>
 </table>
 
-</div>
 
 * <b>Sec 3E Experiential Learning Journey to Gardens by the Bay </b><br>
 To make the learning of mathematics relevant and interesting, students used mathematical concepts and skills to real-life applications.
