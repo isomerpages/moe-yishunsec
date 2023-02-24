@@ -3,7 +3,8 @@ title: Principal's Message
 permalink: /yss/principalmessage/
 description: ""
 ---
-
+<div 
+style="text-align: justify;">
 
 Dear Parents, Students and Partners of Yishun Secondary School
 
@@ -31,5 +32,7 @@ Best regards and wishing everyone a good year ahead!
 
 Mrs Regina Lee
 <br>Principal
+	
+</div>
 
 <img src="/images/Principal-2.jpg" style="width:30%" align="left">
