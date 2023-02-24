@@ -122,11 +122,11 @@ A dance number by the group formed by five students from Class 1 Soar and 1 Stri
 The celebration ended off with the community singing of the evergreen song ‘Our Singapore’ and this year’s National Day theme song ‘Stronger Together’.
 	
 	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jPEAh2ygAl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Class Activity Part 1
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/jPEAh2ygAl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption>Class Activity Part 1</figcaption></figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hw8vhMq7FK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Class Activity Part 2
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/Hw8vhMq7FK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption>Class Activity Part 2</figcaption></figure>
 
 YSS @ THE HTNS NATIONAL DAY OBSERVANCE CEREMONY
 -----------------------------------------------
@@ -147,4 +147,3 @@ YSS Art Extravaganza 2022
 
 Back to School 2022 & CNY Celebration
 -------------------------------------
-
