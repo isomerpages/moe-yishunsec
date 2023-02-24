@@ -59,3 +59,43 @@ Audio Visual Aid (AVA)
 ### AVA CCA Exco Structure
 
 
+| No | Name | Leadership Roles |
+| -------- | -------- | -------- |
+| 1    | 	Nick Loh Jian Xiang     | CCA Chairperson     |
+| 2    | 	Choong Jia Yun     | CCA Vice-Chairperson   |
+| 3    | 	Katrina Tan     | 	Backstage IC   |
+| 4    | 	Mok Kai Xiang     | Control IC   |
+| 5   | 	Chua Li Kang     | Lighting IC   |
+| 6   | 	Kwok Bing Hay     | Logistics IC  |
+
+
+### Key Student Outcomes
+
+Students to learn communication and teamwork skills through AVA events
+Students to be proficient in the use of standard AV hardware and software
+Students to all be proficient leaders by the end of their CCA experience
+Highlights / Achievements
+Provided seamless AV support for key school events, such as Speech Day, Arts Extravaganza and Vocalistic
+Provided routine AV support for daily FRC and weekly assembly programs
+
+### Events in 2021
+
+All school events requiring AV support
+
+### Student’s Quotes
+
+*“AVA has taught me patience as well as teamwork and communication skills. I have also learnt how to properly lead and coach other students.”*
+
+<div
+style="text-align:right">Choong Jia Yun (Vice-chairman)
+</div>
+
+*“AVA has taught me how to work efficiently as a team and to use each other’s strengths to do our best!”*
+<div
+style="text-align:right">Katrina Tan (Backstage Ic)
+</div>
+
+
+
+### AVA Photos
+
