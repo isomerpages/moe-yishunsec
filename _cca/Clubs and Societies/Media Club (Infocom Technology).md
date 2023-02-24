@@ -4,6 +4,9 @@ permalink: /cca/Clubs-and-Societies/mediaclub/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-1.jpg)
+
+
 ### Teacher-in-charge
 * Mr Zul Idham (I/C)
 * Mdm Vemala
@@ -37,8 +40,6 @@ We want to build a community of thinking photographers who are dedicated to deep
 
 ### Aperture Photos
 
-![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-1.jpg)
-
 ![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-2.jpg)
 
 ![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-3.jpg)
@@ -48,4 +49,3 @@ We want to build a community of thinking photographers who are dedicated to deep
 ![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-5.jpg)
 
 ![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-6.jpg)
-
