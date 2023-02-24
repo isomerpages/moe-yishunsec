@@ -31,5 +31,10 @@ third_nav_title: Sports and Games
 ### Photos
 
 ![](/images/StudDevelopment/CCAs/SportsGames/Volleyball/Volleyball-1.jpg)
+<div style="text-align:center">E-CCA</div>
 
 ![](/images/StudDevelopment/CCAs/SportsGames/Volleyball/Volleyball-2.jpeg)
+<div style="text-align:center">Formation Training</div>
+
+
+
