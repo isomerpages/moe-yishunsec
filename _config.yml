@@ -3,18 +3,18 @@ url: https://yishunsec.moe.edu.sg
 favicon: /images/yss-logo.png
 colors:
   primary-color: "#2034b0"
-  secondary-color: "#e49d27"
+  secondary-color: "#febd0e"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#252161"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#252161"
     - title: media-color-three
-      color: "#00838f"
+      color: "#252161"
     - title: media-color-four
-      color: "#00838f"
+      color: "#252161"
     - title: media-color-five
-      color: "#00838f"
+      color: "#252161"
 description: Yishun Secondary School is a co-educational government secondary
   school in Yishun, Singapore. Located at 4 Yishun Street 71, YSS is the first
   school to establish the Applied Learning Programme in Sonic Arts.
