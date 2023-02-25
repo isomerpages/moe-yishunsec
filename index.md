@@ -18,6 +18,12 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
+      title: Announcements
+      description: Latest Letter to Parents
+      button: Read more...
+      url: /parents/lettertoparents
+      alt: Image alt text
+  - infopic:
       title: "Distinctive Programme: Arts for Life and Community"
       description: "In Yishun Secondary School, Sonic Arts involves Music, Media and
         Technology... "
@@ -35,10 +41,4 @@ sections:
   - resources:
       title: Information from YSS
       button: Read more...
-  - infopic:
-      title: Announcments
-      description: Latest Letter to Parents
-      button: Read more...
-      url: /parents/lettertoparents
-      alt: Image alt text
 ---
