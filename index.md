@@ -33,6 +33,6 @@ sections:
       url: /the-yss-experience/dsa/
       image: /images/YSSDSA_1.jpg
   - resources:
-      title: News
+      title: Information from YSS
       button: Read more...
 ---
