@@ -21,7 +21,7 @@ sections:
       title: Announcements
       description: Latest Letter to Parents
       button: Read more...
-      url: /parents/lettertoparents
+      url: /parents/Information-for-Parents/Letters/
       alt: Image alt text
   - infopic:
       title: "Distinctive Programme: Arts for Life and Community"
