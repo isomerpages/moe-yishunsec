@@ -35,4 +35,10 @@ sections:
   - resources:
       title: Information from YSS
       button: Read more...
+  - infopic:
+      title: Announcments
+      description: Latest Letter to Parents
+      button: Read more...
+      url: /parents/lettertoparents
+      alt: Image alt text
 ---
