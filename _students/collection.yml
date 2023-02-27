@@ -3,18 +3,18 @@ collections:
     output: true
     order:
       - Content Outlines/.keep
-      - Content Outlines/Content Outlines For English & Literature.md
-      - Content Outlines/Content Outlines For Chinese Language.md
-      - Content Outlines/Content Outlines For Malay Language.md
-      - Content Outlines/Content Outlines For Tamil Language.md
-      - Content Outlines/Content Outlines for Mathematics.md
-      - Content Outlines/Content Outlines For Science.md
-      - Content Outlines/Content Outlines For Humanities.md
       - Content Outlines/Content Outlines For Art.md
+      - Content Outlines/Content Outlines For Chinese Language.md
       - Content Outlines/Content Outlines For Design & Technology.md
+      - Content Outlines/Content Outlines For English & Literature.md
       - Content Outlines/Content Outlines For Food & Consumer Education or Food
         & Nutrition.md
+      - Content Outlines/Content Outlines For Humanities.md
+      - Content Outlines/Content Outlines For Malay Language.md
+      - Content Outlines/Content Outlines for Mathematics.md
       - Content Outlines/Content Outlines For Other Elective Subjects.md
+      - Content Outlines/Content Outlines For Science.md
+      - Content Outlines/Content Outlines For Tamil Language.md
       - Announcements for Students.md
       - Students’ Timetable.md
       - SIL YSS Inspired.md
