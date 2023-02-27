@@ -50,13 +50,19 @@ To stimulate greater interest and enrich students’ knowledge in Mathematics fo
 * Inter-class ArithmetEQ Challenge: <br>
 Secondary 1 cohort participated in this inter-class challenge through which they demonstrated resilience, creative thinking and teamwork for the first time in 2022. Students learned Arithmetic and Geometry when playing the board game. Sec 2E game facilitators were trained to guide players in the competition rounds.
 
+Sec 3E Experiential Learning Journey to Gardens by the Bay: <br>
+To make the learning of mathematics relevant and interesting, students used mathematical concepts and skills to real-life applications.
 
+
+<div>
 <table>  
 <thead>  
   <tr>  
     <th>Award</th>  
     <th>Student Name</th>  
     <th>Class</th>  
+  </tr>  
+</thead>  
 <tbody>  
   <tr>  
     <td>CHAMPION</td>  
@@ -64,7 +70,8 @@ Secondary 1 cohort participated in this inter-class challenge through which they
   <li>ADNIEL YEO KAI KEE (YANG KAIQI)</li>  
   <li>ZION KOH</li>  
 </ul>  
-    <td>1 STRIVE</td>   
+    <td>1 STRIVE</td>  
+  </tr>  
   <tr>  
     <td>FIRST RUNNER UP</td>  
 <td><ul>  
@@ -72,25 +79,43 @@ Secondary 1 cohort participated in this inter-class challenge through which they
   <li>JOY TAY LIKE XIN</li>  
 </ul>  
     <td>1 SEEK</td>  
+  </tr>  
   <tr>  
     <td>SECOND RUNNER UP</td>  
 <td><ul>  
   <li>NUR NABILA BINTE MOHAMAD HANIF</li>  
   <li>XIE JIATONG</li>  
 </ul>  
-    <td>1 INNOVATE</td>
+    <td>1 INNOVATE</td>  
+  </tr>  
+</tbody>  
+</table>
+</div>
 
 
-Sec 3E Experiential Learning Journey to Gardens by the Bay: <br>
-To make the learning of mathematics relevant and interesting, students used mathematical concepts and skills to real-life applications.
+
+		
 ### Mathematics, CPA and POA Teachers
+		
 ![](/images/IP/Math/Math1.png)
+		
 ![](/images/IP/Math/Math2.png)
+		
 ![](/images/IP/Math/Math3.png)
+		
 ![](/images/IP/Math/Math4.png)
+		
 ### Photos
-![](/images/IP/Math/MathSlide1.jpg)
+		
+![](/images/IP/Math/MathSlide1.jpg
+		
 ![](/images/IP/Math/MathSlide2.jpg)
+		
 ![](/images/IP/Math/MathSlide3.jpg)
+		
 ![](/images/IP/Math/MathSlide4.jpg)
+		
 ![](/images/IP/Math/MathSlide5.jpg)
+		
+		
+
