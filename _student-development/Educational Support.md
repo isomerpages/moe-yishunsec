@@ -32,7 +32,7 @@ StAR programme is conducted for our Lower Secondary Normal Technical (NT) studen
 <div align="center">Crafting catapult shootout during Toy-making module</div>
 
 <br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-5.jpeg" style="width:70%" align="center">
+<img src="/images/StudDevelopment/EduSupport/EduSupport-5.jpeg" style="width:50%" align="center">
 <div align="center">Winning team from class 2T1 for sports module (pre-COVID period)</div>
 
 <br>
