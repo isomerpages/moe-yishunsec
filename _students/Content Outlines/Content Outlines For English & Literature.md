@@ -34,12 +34,14 @@ Literature
 ----------
 
 ###   Sec 1
-
+* [Content Outlines_Sec 1E & NA_2023](/files/Content%20Outlines%20For%20English/Content%20Outlines_Sec%201E%20%20NA_2023.pdf)
 
 ### Sec 2
-
+* [Content Outlines Sec 2E & NA_2023](/files/Content%20Outlines%20For%20English/Content%20Outlines%20Sec%202E%20%20NA_2023.pdf)
 
 ### Sec 3
+* [Content Outlines_Sec 3_2023](/files/Content%20Outlines%20For%20English/Content%20Outlines_Sec%203_2023.pdf)
 
 
 ### Sec 4
+* [Content Outlines_Sec 4_2023](/files/Content%20Outlines%20For%20English/Content%20Outlines_Sec%204_2023.pdf)
