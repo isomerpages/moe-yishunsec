@@ -18,4 +18,4 @@ third_nav_title: Content Outlines
 
 ### Sec 4 & 5
 
-* [2023 Curriculum Outline - DT Sec 4 5](/files/Content%20Outlines%20DesignTech/2023%20Curriculum%20Outline%20-%20DT%20Sec%204%20%205.pdf)
+* [2023 Curriculum Outline - DT Sec 4 & 5](/files/Content%20Outlines%20DesignTech/2023%20Curriculum%20Outline%20-%20DT%20Sec%204%20%205.pdf)
