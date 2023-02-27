@@ -4,8 +4,6 @@ permalink: /students/Content-Outlines/Chinese/
 description: ""
 third_nav_title: Content Outlines
 ---
-![](/images/Students%20Banner.png)
-
 **Sec 1:**
 
 * [Content Outline 1E CL](/files/Content%20Outlines%20For%20Chinese/Content%20Outline%201E%20CL.pdf)
