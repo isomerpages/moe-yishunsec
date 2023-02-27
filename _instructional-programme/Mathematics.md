@@ -113,7 +113,7 @@ To make the learning of mathematics relevant and interesting, students used math
 		
 ### Photos
 		
-![](/images/IP/Math/MathSlide1.jpg
+![](/images/IP/Math/MathSlide1.jpg)
 		
 ![](/images/IP/Math/MathSlide2.jpg)
 		
