@@ -17,7 +17,7 @@ The Educational Support consists of a team of officers who develop upstream stra
 StAR programme is conducted for our Lower Secondary Normal Technical (NT) students on weekly Mondays (Marvellous Monday for the Sec 1s) and Fridays (Fabulous Friday for the Sec 2s). There are infusion of Sports, Aesthetics and S.T.E.A.M through modules such as the Toy-making, Aeronautics and F1 in schools. Different activities were carried out every term with the assistance of external partners such as SHINE Children & Youth Services, partnership with Sports Cares, Vivarch and Singapore Association of Counsellors for Motivational Workshop to engage our students.
 
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Wk5_G-F0nM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Wk5_G-F0nM" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 <div style="text-align:center">StAR showcase 2020 Bollywood Dance</div>
 
 <br>
