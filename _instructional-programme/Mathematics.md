@@ -57,7 +57,6 @@ Secondary 1 cohort participated in this inter-class challenge through which they
     <th>Award</th>  
     <th>Student Name</th>  
     <th>Class</th>  
-  </tr>  
 </thead>  
 <tbody>  
   <tr>  
@@ -66,8 +65,7 @@ Secondary 1 cohort participated in this inter-class challenge through which they
   <li>ADNIEL YEO KAI KEE (YANG KAIQI)</li>  
   <li>ZION KOH</li>  
 </ul>  
-    <td>1 STRIVE</td>  
-  </tr>  
+    <td>1 STRIVE</td>   
   <tr>  
     <td>FIRST RUNNER UP</td>  
 <td><ul>  
@@ -75,7 +73,6 @@ Secondary 1 cohort participated in this inter-class challenge through which they
   <li>JOY TAY LIKE XIN</li>  
 </ul>  
     <td>1 SEEK</td>  
-  </tr>  
   <tr>  
     <td>SECOND RUNNER UP</td>  
 <td><ul>  
@@ -83,6 +80,3 @@ Secondary 1 cohort participated in this inter-class challenge through which they
   <li>XIE JIATONG</li>  
 </ul>  
     <td>1 INNOVATE</td>  
-  </tr>  
-</tbody>  
-</table>
