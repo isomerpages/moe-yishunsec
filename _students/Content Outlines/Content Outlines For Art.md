@@ -7,4 +7,5 @@ third_nav_title: Content Outlines
 ### Levels
 
 * [Lower Secondary](/files/Content%20Outlines%20For%20Art/Content-Outline-Art-Lower-Secondary-2021.pdf)
+
 * [Upper Secondary](/files/Content%20Outlines%20For%20Art/Content-Outline-Art-Upper-Secondary-2021.pdf)
