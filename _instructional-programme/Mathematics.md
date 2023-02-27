@@ -57,7 +57,6 @@ Secondary 1 cohort participated in this inter-class challenge through which they
     <th>Award</th>  
     <th>Student Name</th>  
     <th>Class</th>  
-</thead>  
 <tbody>  
   <tr>  
     <td>CHAMPION</td>  
@@ -79,4 +78,19 @@ Secondary 1 cohort participated in this inter-class challenge through which they
   <li>NUR NABILA BINTE MOHAMAD HANIF</li>  
   <li>XIE JIATONG</li>  
 </ul>  
-    <td>1 INNOVATE</td>  
+    <td>1 INNOVATE</td>
+
+
+Sec 3E Experiential Learning Journey to Gardens by the Bay: <br>
+To make the learning of mathematics relevant and interesting, students used mathematical concepts and skills to real-life applications.
+### Mathematics, CPA and POA Teachers
+![](/images/IP/Math/Math1.png)
+![](/images/IP/Math/Math2.png)
+![](/images/IP/Math/Math3.png)
+![](/images/IP/Math/Math4.png)
+### Photos
+![](/images/IP/Math/MathSlide1.jpg)
+![](/images/IP/Math/MathSlide2.jpg)
+![](/images/IP/Math/MathSlide3.jpg)
+![](/images/IP/Math/MathSlide4.jpg)
+![](/images/IP/Math/MathSlide5.jpg)
