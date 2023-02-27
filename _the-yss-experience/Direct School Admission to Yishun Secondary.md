@@ -3,7 +3,7 @@ title: Direct School Admission to Yishun Secondary
 permalink: /the-yss-experience/dsa/
 description: ""
 ---
-![](/images/YSSDSA_1.jpg)
+![](/images/YSS_DSA.jpg)
 
 
 
