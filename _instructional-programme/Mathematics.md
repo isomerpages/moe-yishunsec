@@ -66,26 +66,32 @@ To make the learning of mathematics relevant and interesting, students used math
 <tbody>  
   <tr>  
     <td>CHAMPION</td>  
-<td><ul>  
-  <li>ADNIEL YEO KAI KEE (YANG KAIQI)</li>  
-  <li>ZION KOH</li>  
-</ul>  
+		<td>
+			<ul>  
+				<li>ADNIEL YEO KAI KEE (YANG KAIQI)</li>  
+				<li>ZION KOH</li>  
+			</ul> 
+		</td>
     <td>1 STRIVE</td>  
   </tr>  
   <tr>  
     <td>FIRST RUNNER UP</td>  
-<td><ul>  
-  <li>IDHAN AKIL BIN ASHRAF MARICAR</li>  
-  <li>JOY TAY LIKE XIN</li>  
-</ul>  
+		<td>
+			<ul>  
+					<li>IDHAN AKIL BIN ASHRAF MARICAR</li>  
+					<li>JOY TAY LIKE XIN</li>  
+				</ul>
+		</td>
     <td>1 SEEK</td>  
   </tr>  
   <tr>  
     <td>SECOND RUNNER UP</td>  
-<td><ul>  
-  <li>NUR NABILA BINTE MOHAMAD HANIF</li>  
-  <li>XIE JIATONG</li>  
-</ul>  
+		<td>
+			<ul>  
+				<li>NUR NABILA BINTE MOHAMAD HANIF</li>  
+				<li>XIE JIATONG</li>  
+			</ul>
+		</td>
     <td>1 INNOVATE</td>  
   </tr>  
 </tbody>  
@@ -116,6 +122,3 @@ To make the learning of mathematics relevant and interesting, students used math
 ![](/images/IP/Math/MathSlide4.jpg)
 		
 ![](/images/IP/Math/MathSlide5.jpg)
-		
-		
-
