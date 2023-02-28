@@ -87,7 +87,7 @@ tr:nth-child(even) {
 			  <tr>
     <td>7</td>
     <td>PDS course certification </td>
-    <td>42ND NCC ENHANCED PDS COURSE </td>
+    <td>42nd NCC ENHANCED PDS COURSE </td>
 		<td>Auxillary Instructor Certification</td>
 		<td>SSG LIM KAI JUN/ 4E4</td>
 		<td>CCA</td>
