@@ -12,7 +12,7 @@ third_nav_title: Uniformed Groups
 
 ### CCA Schedule	
 **Official Training Sessions:**
-* Day 3 & 8 (Wednesday), 4 pm – 6 pm
+* Day 3 & 8 (Wednesday), 4 pm to 6 pm
 
 **Items to bring for all training:**
 1. Filled water bottle (minimum 500 mℓ)
@@ -24,9 +24,9 @@ Note: Some Area or HQ activities may be conducted on other days or timings
 
 
 ### Venue
-* Outside NPCC Room
 * Parade Square
-* 4T1 / 2E4/ Classroom (B1-03)
+* 4T1 / 2E4 Classrooms
+* B1-03 Classroom
 
 
 ### CCA Exco Structure
