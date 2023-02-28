@@ -9,14 +9,14 @@ third_nav_title: Uniformed Groups
 * Ms Pak Wanni
 * Mr Yeung Chun Nam
 
-### CCA Schedule	Day of CCA
+### CCA Schedule
 * Wednesday
-
-### Time of CCA
 * 4.00 pm to 6.00 pm
 
-### Reporting Venue
-* Behind NCDCC Room
+### Venue
+* NCDCC Room
+* Parade Square
+* 3T1/ 3T2 / 4N3 Classrooms
 
 Compulsory items to bring: Water bottle (at least 1L), personal medication (if any), oral digital thermometer.
 
