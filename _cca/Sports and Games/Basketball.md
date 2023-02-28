@@ -12,15 +12,16 @@ third_nav_title: Sports and Games
 
 ### CCA Schedule
 **Girls**
-* Monday 1600 – 1800
-* Wednesday 1600 – 1800
+* Monday 4pm to 6pm
+* Wednesday 4pm to 6pm
 
 **Boys**
-* Tuesday 1600 – 1800
-* Thursday 1600 – 1800
+* Monday 4pm to 6pm
+* Thursday 4pm to 6pm
 
-### Venue
+### Venues
 * Basketball Court
+* ISH
 
 ### CCA Exco Structure
 
