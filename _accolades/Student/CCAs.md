@@ -94,6 +94,9 @@ tr:nth-child(even) {
   </tr>
 </table>
 
+![](/images/Accolades/Student/CCA/Pic-1.jpeg)
+
+![](/images/Accolades/Student/CCA/Pic-2.jpeg)
 
 
 
