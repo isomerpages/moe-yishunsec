@@ -12,10 +12,9 @@ third_nav_title: Performing Arts
 
 ### CCA Schedule
 
-* Monday & Wednesday (4 pm – 6pm)
+* Monday & Wednesday from 4 pm to 6 pm
 
 ### Venue
-
 * Monday: Music Room, 1E1, 1E2, 1E3, 2E4, 1T1, 1N2 Classrooms
 * Thursday: Hall and Music Room, 1E1, 1E2, 1E3, 2E4, 1T1, 1N2 Classrooms
 
