@@ -11,11 +11,11 @@ third_nav_title: Uniformed Groups
 * Teacher officer: 2LT (NCC) Ms Germaine Goh
 
 ### CCA Schedule
-* Wednesdays 4pm to 6pm
+* Wednesdays 4 pm to 6 pm
 * PDS on alternate Tuesday 3 to 5:30pm (if necessary)
 
 ### Venue
-* Parade square
+* Parade Square
 * 2E1/ 2E2 / 2E3 Classrooms
 
 ### CCA Exco Structure
