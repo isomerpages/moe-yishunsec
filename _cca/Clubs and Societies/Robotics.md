@@ -10,7 +10,7 @@ third_nav_title: Clubs and Societies
 * Ms Yoong Hai Ling
 
 ### CCA Schedule
-* Wednesday 4-6pm
+* Wednesday from 4 to 6 pm
 
 ### Venue
 * Computer Lab 1 & 3
