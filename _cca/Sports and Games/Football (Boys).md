@@ -11,7 +11,8 @@ third_nav_title: Sports and Games
 * Ms Syhella
 
 ### CCA Schedule
-* Tuesdays and Thursdays: 4 – 6pm
+* FOOTBALL (C Boys): Monday and Wednesday: 4 – 6pm
+* FOOTBALL (B Boys): Tuesday and Thursday: 4 - 6pm
 
 ### Venue
 * Field
