@@ -21,7 +21,6 @@ Media Club (Infocom Technology)
 ### Venue
 * Computer Lab 1
 * Computer Lab 4
-* MPC
 * Control Room
 
 ### Aperture Exco Structure
