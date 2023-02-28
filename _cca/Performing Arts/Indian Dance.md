@@ -10,7 +10,7 @@ third_nav_title: Performing Arts
 * Ms Zhang Hui (T1)
 
 ### CCA Schedule
-* Tuesday (4pm-6:30pm)
+* Tuesday from 4 pm to 6 pm
 
 ### Venue
 * Performing Arts Room
