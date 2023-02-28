@@ -11,7 +11,7 @@ third_nav_title: Sports and Games
 * Ms Lim Sin Yee
 
 ### CCA Schedule
-* Every Tuesday and Thursday from 4pm to 6pm
+* Tuesday and Thursday from 4 pm to 6 pm
 
 ### Venues
 * Hall
