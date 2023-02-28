@@ -10,11 +10,10 @@ third_nav_title: Sports and Games
 * Miss. Cassandra Tay (Sem 2)
 
 ### CCA Schedule
-* Mondays and Wednesdays
-* 4pm – 6pm
+* Mondays and Wednesdays from 4pm to 6pm
 
 ### Venue
-* Indoor School Hall (ISH)
+* School Hall
 
 
 ### CCA Exco Structure
