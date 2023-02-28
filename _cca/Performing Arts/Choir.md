@@ -14,7 +14,7 @@ third_nav_title: Performing Arts
 * Tuesday (4 - 6pm) and
 * Thursday (4 - 6pm)
 
-### Venue
+### Venues
 * LT@3
 * Recording Studio
 * Lower Sec Block Level 4 Classrooms
