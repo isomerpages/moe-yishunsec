@@ -12,8 +12,7 @@ third_nav_title: Uniformed Groups
 
 ### CCA Schedule	
 **Official Training Sessions:**
-* Day 3 (Wednesday), 4 pm – 6 pm
-* Day 8 (Wednesday), 4 pm – 6 pm
+* Day 3 & 8 (Wednesday), 4 pm – 6 pm
 
 **Items to bring for all training:**
 1. Filled water bottle (minimum 500 mℓ)
