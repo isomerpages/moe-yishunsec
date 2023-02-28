@@ -11,7 +11,7 @@ third_nav_title: Sports and Games
 * Ms Joan Chin
 
 ### CCA Schedule
-* Every Tuesdays and Thursdays (4 - 6pm)
+* Tuesdays and Thursdays (4 - 6pm)
 
 ### Venue
 * Parade Square
