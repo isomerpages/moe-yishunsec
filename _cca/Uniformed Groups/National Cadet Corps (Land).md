@@ -12,11 +12,11 @@ third_nav_title: Uniformed Groups
 
 ### CCA Schedule
 * Wednesdays 4pm to 6pm
-* Sec 4s 6:30pm
 * PDS on alternate Tuesday 3 to 5:30pm (if necessary)
 
 ### Venue
 * Parade square
+* 2E1/ 2E2 / 2E3 Classrooms
 
 ### CCA Exco Structure
 
