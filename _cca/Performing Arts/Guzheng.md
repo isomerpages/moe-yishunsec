@@ -9,7 +9,8 @@ third_nav_title: Performing Arts
 * Mdm Cheng Sin Yee
 
 ### CCA Schedule
-* Monday, 4pm – 6pm
+* Monday from 4 pm – 6 pm and
+* Alternative Friday from 4 pm to 6 pm
 
 ### Venue
 * MPC
