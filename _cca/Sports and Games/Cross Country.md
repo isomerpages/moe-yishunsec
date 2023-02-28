@@ -12,7 +12,7 @@ third_nav_title: Sports and Games
 * Monday and Wednesday 7 am to 7:25 am
 * Friday 4 pm - 6 pm
 
-### Venue
+### Venues
 * School Field
 * Yishun Stadium
 
