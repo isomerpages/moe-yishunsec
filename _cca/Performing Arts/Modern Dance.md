@@ -13,8 +13,8 @@ third_nav_title: Performing Arts
 * Mr Mohammad Rizal
 
 ### CCA Schedule
-* Tuesday 4pm – 6pm
-* Thursday 4pm – 6pm
+* Tuesday from 4 pm to 6 pm and
+* Thursday from 4 pm to 6 pm
 
 ### Venue
 * Music Room
