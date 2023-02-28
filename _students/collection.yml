@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Content Outlines/.keep
-      - Content Outlines/For Art.md
+      - Content Outlines/Art.md
       - Content Outlines/For Chinese Language.md
       - Content Outlines/Content Outlines For Design & Technology.md
       - Content Outlines/Content Outlines For English & Literature.md
