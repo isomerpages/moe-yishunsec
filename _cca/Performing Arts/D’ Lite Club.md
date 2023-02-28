@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 ---
 ### Teacher-in-charge
-* Ms Nithiya Mariappan (Advisor)
 * Mdm Malar Velee Perusal (IC)
 * Mr Jonathan Ong
 * Ms Sonam Vijaykumar Kusurkar
