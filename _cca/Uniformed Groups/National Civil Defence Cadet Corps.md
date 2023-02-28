@@ -10,8 +10,7 @@ third_nav_title: Uniformed Groups
 * Mr Yeung Chun Nam
 
 ### CCA Schedule
-* Wednesday
-* 4.00 pm to 6.00 pm
+* Wednesday from 4.00 pm to 6.00 pm
 
 ### Venue
 * NCDCC Room
