@@ -9,7 +9,7 @@ third_nav_title: Uniformed Groups
 * Ms Ummu Sumaiyah Binte Eliase
 
 ### CCA Schedule
-* Wednesday (4 pm to 6 pm)
+* Wednesday from 4 pm to 6 pm
 
 ### Venues
 * Girl Guides Room
