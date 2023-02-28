@@ -9,12 +9,11 @@ third_nav_title: Performing Arts
 * Ms Shahidah Borhan
 
 ### CCA Schedule
-
-* Day of CCA: Monday
-* Time of CCA: 4pm – 6pm
+* Wednesday and Thursday from 4 pm to 6 pm
 
 ### Reporting Venue
-* Hall
+* MPC
+* The PLACE
 
 ### CCA Exco Structure
 ![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/Malay-Dance-Exco.jpg)
