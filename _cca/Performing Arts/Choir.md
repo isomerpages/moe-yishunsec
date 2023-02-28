@@ -11,8 +11,7 @@ third_nav_title: Performing Arts
 * Mdm Azizah
 
 ### CCA Schedule
-* Tuesday (4 - 6pm) and
-* Thursday (4 - 6pm)
+* Tuesday and Thursday from 4 to 6pm
 
 ### Venues
 * LT@3
