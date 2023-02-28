@@ -10,13 +10,13 @@ third_nav_title: Performing Arts
 * Ms Sonam Vijaykumar Kusurkar
 
 ### CCA Schedule	
-* Tuesday and Thursday from 4 to 6 pm.
+* Tuesday and Thursday from 4 to 6 pm
 
 *Note: There may be more training sessions during the months in the lead up to the Singapore Youth Festival.*
 
 ### Venues
 * MPC
-* The Place
+* The PLACE
 * Performing Arts Room
 
 ### CCA Exco Structure
