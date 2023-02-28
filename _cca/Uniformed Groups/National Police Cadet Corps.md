@@ -29,17 +29,6 @@ Note: Some Area or HQ activities may be conducted on other days or timings
 * Parade Square
 * 4T1 / 2E4/ Classroom (B1-03)
 
-### Items to bring for all training
-* Filled water bottle (minimum 500 mℓ)
-* Writing materials (pen & notebook)
-* Oral digital thermometer
-* Personal medication, if applicable (e.g. inhaler)
-
-### Official Training Sessions
-* Day 3 (Wednesday), 4 pm – 6 pm
-* Day 8 (Wednesday), 4 pm – 6 pm
-
-Note: Some Area or HQ activities may be conducted on other days or timings
 
 ### CCA Exco Structure
 [NPCC Hierarchy Charts](/files/CCA/NPCC/NPCC%20Hierarchy%20Charts%20Updated%2022%20Nov%202021.pdf)
