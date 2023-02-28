@@ -12,12 +12,12 @@ third_nav_title: Sports and Games
 
 ### CCA Schedule
 **Girls**
-* Monday from 4pm to 6pm
-* Wednesday from 4pm to 6pm
+* Monday from 4 pm to 6 pm
+* Wednesday from 4 pm to 6 pm
 
 **Boys**
-* Monday from 4pm to 6pm
-* Thursday from 4pm to 6pm
+* Monday from 4 pm to 6 pm
+* Thursday from 4 pm to 6 pm
 
 ### Venues
 * Basketball Court
