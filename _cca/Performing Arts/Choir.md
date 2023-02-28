@@ -11,10 +11,11 @@ third_nav_title: Performing Arts
 * Mdm Azizah
 
 ### CCA Schedule
-* Tuesday (4 - 6pm) and Thursday (4 - 6pm)
+* Tuesday (4 - 6pm) and
+* Thursday (4 - 6pm)
 
 ### Venue
-* MPC
+* LT@3
 * Recording Studio
 * Lower Sec Block Level 4 Classrooms
 * 1T1
