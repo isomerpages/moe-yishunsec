@@ -15,7 +15,7 @@ third_nav_title: Performing Arts
 
 *Note: There may be more training sessions during the months in the lead up to the Singapore Youth Festival.*
 
-### Reporting venue
+### Venues
 * MPC
 * The Place
 * Performing Arts Room
