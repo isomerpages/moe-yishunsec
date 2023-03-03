@@ -26,4 +26,3 @@ third_nav_title: Sports and Games
 | Captain     | Text     | Text     |
 | Vice Captain    | Text     | Text     |
 |  Exco     | Text     | Text     |
-
