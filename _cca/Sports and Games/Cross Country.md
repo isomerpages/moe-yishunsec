@@ -9,8 +9,9 @@ third_nav_title: Sports and Games
 * Mr Aidil
 
 ### CCA Schedule
-* Monday and Wednesday 7 am to 7:25 am
-* Friday 4 pm - 6 pm
+* Mondays and Wednesdays - 6:50 am at School Field
+* Fridays: 4 pm at Yishun Stadium
+
 
 ### Venues
 * School Field
