@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports and Games
 ---
 ### Teacher-in-charge
-* Mrs Jaya
+* Mrs Jayalaxmi
 * Mr Aidil
 
 ### CCA Schedule
