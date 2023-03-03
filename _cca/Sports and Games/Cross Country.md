@@ -19,3 +19,11 @@ third_nav_title: Sports and Games
 
 
 ### CCA Exco Structure
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Captain     | Text     | Text     |
+| Vice Captain    | Text     | Text     |
+|  Exco     | Text     | Text     |
+
