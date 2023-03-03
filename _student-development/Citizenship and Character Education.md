@@ -34,6 +34,18 @@ Our school also received the following awards:
 
 ![](/images/StudDevelopment/CCE/CCE-2.jpg)
 
+#### Secondary 1 Welcome Tea Party for International, Permanent Resident and Returning Singaporean students
+
+A ‘Welcome Tea Party’ for International Students and Permanent Resident (ISPR) as well as returning Singaporean students from Secondary 1 to mingle with NE & VIA Champs of their classes, was held on Friday 24 February. There were three Secondary 2 students who joined in, returning Singaporeans (two students) and newly transferred in to our school (one student). Their class NE & VIA Champs were also invited. 
+The session started with the introduction of why they were selected for the welcome party and the aim of the programme. The students were then asked to introduce themselves and share one fun fact about themselves. 
+
+They proceed to paint on canvas using acrylic paints and used wires to form words to be pasted on the canvas. Students had curry puffs, egg tarts, soyabean and grass jelly drinks to bond over food. The finale was ‘The Red Dot’ Kahoot quiz testing how much they know about the places, culture and history of Singapore. The top three winners were presented with a prize each!  
+
+The students had fun and bonded well with each other in the group. Following up from this session, the NE & VIA Champs will be sharing what they have learnt (through interview) about the food, festival or culture from the origin country of their ISPR classmates while the ISPR students will be sharing about their experience in Singapore or their perspective of what makes Singapore, Singapore. The video clips will be compiled and featured during IFD celebration in April.
+
+
+
+
 
 
 #### Racial Harmony Day (RHD) Celebration 2022
