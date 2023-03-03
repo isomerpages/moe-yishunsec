@@ -44,22 +44,22 @@ They proceed to paint on canvas using acrylic paints and used wires to form word
 The students had fun and bonded well with each other in the group. Following up from this session, the NE & VIA Champs will be sharing what they have learnt (through interview) about the food, festival or culture from the origin country of their ISPR classmates while the ISPR students will be sharing about their experience in Singapore or their perspective of what makes Singapore, Singapore. The video clips will be compiled and featured during IFD celebration in April.
 
 ![Group photo of all the attendees and teachers](/images/StudDevelopment/CCE/Photo%201_Group%20photo%20with%20art%20creations.jpeg)
-Group photo of all the attendees and teachers
+<div style="text-align:center">Group photo of all the attendees and teachers</div>
 
 ![Students bond over food](/images/StudDevelopment/CCE/Photo%202_Bond%20over%20food%201.jpeg)
-Students bond over food
+<div style="text-align:center">Students bond over food</div>
 
 ![Students bond over food](/images/StudDevelopment/CCE/Photo%203_Bond%20over%20food%202.jpeg)
-Students bond over food
+<div style="text-align:center">Students bond over food</div>
 
 ![Students bond over food](/images/StudDevelopment/CCE/Photo%204_Bond%20over%20food%203.jpeg)
-Students bond over food
+<div style="text-align:center">Students bond over food</div>
 
 ![Students bond over food](/images/StudDevelopment/CCE/Photo%205_Bond%20over%20food%204.jpeg)
-Students bond over food
+<div style="text-align:center">Students bond over food</div>
 
 ![Proud moment for the winner of ‘The Red Dot’ Kahoot quiz](/images/StudDevelopment/CCE/Photo%206_Kahoot%20Quiz%202.jpeg)
-Proud moment for the winner of ‘The Red Dot’ Kahoot quiz
+<div style="text-align:center">Proud moment for the winner of ‘The Red Dot’ Kahoot quiz</div>
 
 ![Proud moment for the winner of ‘The Red Dot’ Kahoot quiz](/images/StudDevelopment/CCE/Photo%207_Kahoot%20Quiz%201.jpeg)
 <div style="text-align:center">Proud moment for the winner of ‘The Red Dot’ Kahoot quiz</div>
