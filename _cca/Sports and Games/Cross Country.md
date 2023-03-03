@@ -23,6 +23,6 @@ third_nav_title: Sports and Games
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Captain     | Text     | Text     |
-| Vice Captain    | Text     | Text     |
-|  Exco     | Text     | Text     |
+| Captain     | SHAHRIL MAREKAN | Sec 4E5     |
+| Vice Captain    | LUCAS SENG | Sec 4E5     |
+|  Exco     |  P. SARVESH     | Sec 4E1    |
