@@ -28,10 +28,10 @@ third_nav_title: Content Outlines
 ### History
 
 ##### Sec 1
-* [Sec 1 Content Outline](/files/Content%20Outlines_Humanities/History/Sec%201%20Content%20Outline.pdf)
+* [Sec 1 History Content Outline](/files/Content%20Outlines_Humanities/History/Sec%201%20Content%20Outline.pdf)
 
 ##### Sec 2
-* [Sec 2 Content Outline](/files/Content%20Outlines_Humanities/History/Sec%202%20Content%20Outline.pdf)
+* [Sec 2 History Content Outline](/files/Content%20Outlines_Humanities/History/Sec%202%20Content%20Outline.pdf)
 
 ##### Sec 3
 * [Sec 3 Pure History Content Outline](/files/Content%20Outlines_Humanities/History/2023%20Sec%203%20Pure%20History%20Content%20Outline.pdf)
@@ -51,13 +51,16 @@ third_nav_title: Content Outlines
 ### Social Studies
 
 ##### Sec 1
-* 
+* [1NT SS Content Outline](/files/Content%20Outlines_Humanities/SS/1NT%20SS%20Content%20Outline%202022.pdf)
 
 ##### Sec 2
+* [2NT SS Content Outline](/files/Content%20Outlines_Humanities/SS/2NT%20SS%20Content%20Outline%202022.pdf)
 
 
 ##### Sec 3
-
+* [3E SS Content Outline](/files/Content%20Outlines_Humanities/SS/3E%20SS%20Content%20Outline.pdf)
+* [3N SS Content Outline](/files/Content%20Outlines_Humanities/SS/3N%20SS%20Content%20Outline.pdf)
+* [3T SS Content Outline](/files/Content%20Outlines_Humanities/SS/3T%20SS%20Content%20Outline.pdf)
 
 ##### Sec 4
 
