@@ -4,7 +4,7 @@ permalink: /students/Content-Outlines/Humanities/
 description: ""
 third_nav_title: Content Outlines
 ---
-### Geography
+## Geography
 
 ##### Sec 1
 * [Sec 1 Express & Normal Academic Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%201%20Express%20%20Normal%20Academic%20Geography%20Content%20Outline.pdf)
@@ -25,7 +25,7 @@ third_nav_title: Content Outlines
 * [Sec 5 Normal Academic Elective Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%205%20Normal%20Academic%20Elective%20Geography%20Content%20Outline%202023.pdf)
 
 
-### History
+## History
 
 ##### Sec 1
 * [Sec 1 History Content Outline](/files/Content%20Outlines_Humanities/History/Sec%201%20Content%20Outline.pdf)
@@ -48,7 +48,7 @@ third_nav_title: Content Outlines
 * [5N Elective Content Outline](/files/Content%20Outlines_Humanities/History/4E5N%20Elective%20Content%20Outline.pdf)
 
 
-### Social Studies
+## Social Studies
 
 ##### Sec 1
 * [1NT SS Content Outline](/files/Content%20Outlines_Humanities/SS/1NT%20SS%20Content%20Outline%202022.pdf)
