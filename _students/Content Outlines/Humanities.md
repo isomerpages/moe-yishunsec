@@ -34,6 +34,7 @@ third_nav_title: Content Outlines
 * [Sec 2 Content Outline](/files/Content%20Outlines_Humanities/History/Sec%202%20Content%20Outline.pdf)
 
 ##### Sec 3
+* [Sec 3 Pure History Content Outline](/files/Content%20Outlines_Humanities/History/2023%20Sec%203%20Pure%20History%20Content%20Outline.pdf)
 * [Sec 3E Elective History Content Outline](/files/Content%20Outlines_Humanities/History/Sec%203E%20Elective%20History%20Content%20Outline.pdf)
 * [Sec 3NA Elective History Content Outline](/files/Content%20Outlines_Humanities/History/Sec%203NA%20Elective%20History%20Content%20Outline.pdf)
 
@@ -50,7 +51,7 @@ third_nav_title: Content Outlines
 ### Social Studies
 
 ##### Sec 1
-
+* 
 
 ##### Sec 2
 
