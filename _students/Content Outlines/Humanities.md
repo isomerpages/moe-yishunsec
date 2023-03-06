@@ -64,7 +64,7 @@ third_nav_title: Content Outlines
 
 ##### Sec 4
 * [Content Outline_4E SS](/files/Content%20Outlines_Humanities/SS/Content%20Outline_4E%20SS.pdf)
-* [4N SS Content Outline 2022](/files/Content%20Outlines_Humanities/SS/4N%20SS%20Content%20Outline%202022.pdf)
+* [4N SS Content Outline](/files/Content%20Outlines_Humanities/SS/4N%20SS%20Content%20Outline%202022.pdf)
 * [4NT SS Content Outline](/files/Content%20Outlines_Humanities/SS/4NT%20SS%20Content%20Outline%202022.pdf)
 
 ##### Sec 5
