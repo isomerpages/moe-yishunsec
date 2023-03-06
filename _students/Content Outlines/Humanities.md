@@ -28,18 +28,23 @@ third_nav_title: Content Outlines
 ### History
 
 ##### Sec 1
-
+* [Sec 1 Content Outline](/files/Content%20Outlines_Humanities/History/Sec%201%20Content%20Outline.pdf)
 
 ##### Sec 2
-
+* [Sec 2 Content Outline](/files/Content%20Outlines_Humanities/History/Sec%202%20Content%20Outline.pdf)
 
 ##### Sec 3
+* [Sec 3E Elective History Content Outline](/files/Content%20Outlines_Humanities/History/Sec%203E%20Elective%20History%20Content%20Outline.pdf)
+* [Sec 3NA Elective History Content Outline](/files/Content%20Outlines_Humanities/History/Sec%203NA%20Elective%20History%20Content%20Outline.pdf)
 
 
 ##### Sec 4
-
+* [4E Pure History Content Outline](/files/Content%20Outlines_Humanities/History/4E%20Pure%20History%20Content%20Outline.pdf)
+* [4E Elective Content Outline](/files/Content%20Outlines_Humanities/History/4E5N%20Elective%20Content%20Outline.pdf)
+* [4N Elective Content Outline](/files/Content%20Outlines_Humanities/History/4N%20Elective%20Content%20Outline.pdf)
 
 ##### Sec 5
+* [5N Elective Content Outline](/files/Content%20Outlines_Humanities/History/4E5N%20Elective%20Content%20Outline.pdf)
 
 
 ### Social Studies
