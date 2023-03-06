@@ -4,19 +4,18 @@ permalink: /students/Content-Outlines/Elective/
 description: ""
 third_nav_title: Content Outlines
 ---
-
 Music
 ---------------
 
 ##### Sec 1
 
-* [Sec 1 Music](/files/Sec%201%20Music.pdf)
+* [Sec 1 Music](/files/Content%20Outlines%20for%20Electives/Sec%201%20Music.pdf)
 
 ##### Sec 2
-* [Sec 2 Music](/files/Sec%202%20Music.pdf)
+* [Sec 2 Music](/files/Content%20Outlines%20for%20Electives/Sec%202%20Music.pdf)
 
 ##### Sec 3 & 4
-* [Sec 3 & 4 Music](/files/Sec%203%20%204%20Music.pdf)
+* [Sec 3 & 4 Music](/files/Content%20Outlines%20for%20Electives/Sec%203%20%204%20Music.pdf)
 
 Retail Operations
 -----------------
