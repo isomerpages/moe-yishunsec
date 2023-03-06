@@ -29,25 +29,25 @@ Retail Operations
 Computer Applications
 ---------------------
 ##### Sec 1
-* [Content Outline 1NT](/files/Content%20Outline%202022_1NT.pdf)
+* [Content Outline_1NT](/files/Content%20Outlines%20for%20Electives/Content%20Outline%202022_1NT.pdf)
 
 ##### Sec 2
-* [Content Outline 2NT](/files/Content%20Outline%202022_2NT.pdf)
+* [Content Outline_2NT](/files/Content%20Outlines%20for%20Electives/Content%20Outline%202022_2NT.pdf)
 
 ##### Sec 3
-* [Content Outline 3NT](/files/Content%20Outline%202022_3NT.pdf)
+* [Content Outline_3NT](/files/Content%20Outlines%20for%20Electives/Content%20Outline%202022_3NT.pdf)
 
 ##### Sec 4
-* [Content Outline 4NT](/files/Content%20Outline%202022_4NT.pdf)
+* [Content Outline_4NT](/files/Content%20Outlines%20for%20Electives/Content%20Outline%202022_4NT.pdf)
 
 Principles Of Accounts
 ----------------------
 
 ##### Sec 3
-* [POA Sec 3NA Content Outline](/files/POA%20Sec%203NA%20Content%20Outline.pdf)
+* [POA Sec 3NA Content Outline](/files/Content%20Outlines%20for%20Electives/POA%20Sec%203NA%20Content%20Outline.pdf)
 
 ##### Sec 4
-* [POA Sec 4NA Content Outline](/files/POA%20Sec%204NA%20Content%20Outline.pdf)
+* [POA Sec 4NA Content Outline](/files/Content%20Outlines%20for%20Electives/POA%20Sec%204NA%20Content%20Outline.pdf)
 
 ##### Sec 5
-* [POA Sec 5NA Content Outline](/files/POA%20Sec%205NA%20Content%20Outline.pdf)
+* [POA Sec 5NA Content Outline](/files/Content%20Outlines%20for%20Electives/POA%20Sec%205NA%20Content%20Outline.pdf)
