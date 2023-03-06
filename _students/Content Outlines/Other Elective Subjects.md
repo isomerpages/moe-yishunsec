@@ -21,10 +21,10 @@ Retail Operations
 -----------------
 
 ##### Sec 3
-* [RO 3NT SOW Summary](/files/RO%203NT%20SOW%20Summary%202022.pdf)
+* [RO 3NT SOW Summary](/files/Content%20Outlines%20for%20Electives/RO%203NT%20SOW%20Summary%202022.pdf)
 
 ##### Sec 4
-* [RO 4NT SOW Summary](/files/RO%204NT%20SOW%20Summary%202022.pdf)
+* [RO 4NT SOW Summary](/files/Content%20Outlines%20for%20Electives/RO%204NT%20SOW%20Summary%202022.pdf)
 
 Computer Applications
 ---------------------
