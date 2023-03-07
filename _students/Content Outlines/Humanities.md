@@ -55,7 +55,6 @@ third_nav_title: Content Outlines
 **Sec 2**
 * [2NT SS Content Outline](/files/Content%20Outlines_Humanities/SS/2NT%20SS%20Content%20Outline%202022.pdf)
 
-
 **Sec 3**
 * [3E SS Content Outline](/files/Content%20Outlines_Humanities/SS/3E%20SS%20Content%20Outline.pdf)
 * [3N SS Content Outline](/files/Content%20Outlines_Humanities/SS/3N%20SS%20Content%20Outline.pdf)
