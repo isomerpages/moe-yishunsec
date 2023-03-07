@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Content Outlines
 ---
 
-![](/images/Students%20Banner.png)
 
 **Sec 1:**
 
