@@ -16,7 +16,7 @@ description: ""
 
 * [O Level Result Release Admin Matters](/files/Announcements%20for%20Students/2023/O%20Level%20Result%20Release_Admin%20brief-%2012%20Jan%202023.pdf)
 
-### 2022
+### ======= 2022 ========
 
 **Release of GCE N(A) & N(T) Results - 19 Dec 2022**  
 
