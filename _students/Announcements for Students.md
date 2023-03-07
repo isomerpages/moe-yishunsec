@@ -3,9 +3,10 @@ title: Announcements for Students
 permalink: /students/Announcements/
 description: ""
 ---
-![](/images/Students%20Banner.png)
-
 ### 2023
+
+
+
 
 **Release of GCE O-Level Results - 12 Jan 2023**
 
@@ -98,14 +99,7 @@ description: ""
 * [2022 GCE NT NA O-Level Registration Information for School Candidates](/files/Announcements/2022%20GCE%20NT%20NA%20O-Level%20Registration%20Information%20for%20School%20Candidates.pdf)
 * [2022 Registration Poster](/files/Announcements/2022%20Registration%201%20Page%20Poster.pdf)
 
-**Sec 1 CCA Experience and Selection Exercise**
-
-* Link
-
 **Release of GCE O Level Results**
 
 * [O-Level Results Release 2021](/files/Announcements/O-Level%20Results%202021.pdf)
 
-**Release of GCE N(A)/N(T) Results**
-
-* Link
