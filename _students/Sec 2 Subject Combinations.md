@@ -3,8 +3,6 @@ title: Sec 2 Subject Combinations
 permalink: /students/Subject-Combinations/
 description: ""
 ---
-![](/images/Students%20Banner.png)
-
 #### _Click the link below to access_
 
 [Sec 2 Streaming Exercise Result 2022](https://sites.google.com/moe.edu.sg/sec2posting/home)
