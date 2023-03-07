@@ -4,9 +4,6 @@ permalink: /students/Content-Outlines/Science/
 description: ""
 third_nav_title: Content Outlines
 ---
-
-![](/images/Students%20Banner.png)
-
 **Lower Secondary**
 
 * [2023 1E & NA LSS](/files/Content%20Outlines%20For%20Science/2023%201ENA%20LSS.pdf)
