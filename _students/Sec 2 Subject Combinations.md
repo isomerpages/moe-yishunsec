@@ -3,10 +3,6 @@ title: Sec 2 Subject Combinations
 permalink: /students/Subject-Combinations/
 description: ""
 ---
-#### _Click the link below to access_
-
-[Sec 2 Streaming Exercise Result 2022](https://sites.google.com/moe.edu.sg/sec2posting/home)
-
 **Information Booklet:**
 
 * [Yishun Secondary School Information Booklet for Express 2022](/files/Yishun%20Secondary%20School%20Information%20Booket%20for%20Express_2022.pdf)
