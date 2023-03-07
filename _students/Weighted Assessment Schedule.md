@@ -5,7 +5,7 @@ description: ""
 ---
 ### Weighted Assessment Schedule for 2023
 
-### Term 2 - WA 2
+#### Term 2 - WA 2
 
 **Sec 1**
 * [Term 2 Weighted Assessment Sec 1](/files/Weighted%20Assessment/2023/Term%202%20Weighted%20Assessment%20Sec%201%202023.pdf)
@@ -19,7 +19,7 @@ description: ""
 **Sec 4 & 5**
 * [Term 2 Weighted Assessment Sec 4 & 5 ](/files/Weighted%20Assessment/2023/Term%202%20Weighted%20Assessment%20Sec%204_5%202023.pdf)
 
-### Term 1 - WA 1
+#### Term 1 - WA 1
 
 **Sec 1**
 * [Term 1 Weighted Assessment - Sec 1](/files/Weighted%20Assessment/2023/Term%201%20Weighted%20Assessment%20-%20Sec%201%202023.pdf)
@@ -34,28 +34,9 @@ description: ""
 * [Term 1 Weighted Assessment - Sec 4 & 5](/files/Weighted%20Assessment/2023/Term%201%20Weighted%20Assessment%20-%20Sec%204_5%202023.pdf)
 
 
-2022
--------------
+### Weighted Assessment Schedule for 2022
 
-### Term 4 - WA 4
-
-**Sec 1**
-* 
-
-**Sec 2**
-* 
-
-
-**Sec 3**
-* 
-
-
-**Sec 4 & 5**
-* 
-
-
-
-### Term 3 - WA 3
+#### Term 4 - WA 4
 
 **Sec 1**
 * 
@@ -71,7 +52,9 @@ description: ""
 **Sec 4 & 5**
 * 
 
-### Term 2 - WA 2
+
+
+#### Term 3 - WA 3
 
 **Sec 1**
 * 
@@ -87,7 +70,23 @@ description: ""
 **Sec 4 & 5**
 * 
 
-### Term 1 - WA 1
+#### Term 2 - WA 2
+
+**Sec 1**
+* 
+
+**Sec 2**
+* 
+
+
+**Sec 3**
+* 
+
+
+**Sec 4 & 5**
+* 
+
+#### Term 1 - WA 1
 
 **Sec 1**
 * 
