@@ -3,11 +3,7 @@ title: Home based Learning
 permalink: /students/HBL/
 description: ""
 ---
-![](/images/Students%20Banner.png)
-
-Home-based Learning
-===================
-
+### Resources
 * [Personalised Digital Learning Programme (PDLP)](https://sites.google.com/moe.edu.sg/ysspdlp/home)
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 * [Verification of Email on SLS](/files/HBL/Verification-of-Email-on-SLS.pdf)
@@ -24,7 +20,7 @@ Home-based Learning
 * [FHBL Resource 2_Clear browsing history and Cache](/files/HBL/FHBL-Resource-2_Clear-browsing-history-and-Cache-for-students.pdf)
 * [FHBL Resource 4 – Search MOE Library](/files/HBL/FHBL-Resource-4-Search-MOE-Library.pdf)
 
-**SLS Support for Home-based Learning**
+#### SLS Support for Home-based Learning
 
   
 
