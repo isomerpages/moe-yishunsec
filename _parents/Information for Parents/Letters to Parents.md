@@ -4,11 +4,9 @@ permalink: /parents/Information-for-Parents/Letters/
 description: ""
 third_nav_title: Information for Parents
 ---
-![](/images/Parents%20Banner.png)
+### Parents Termly Letter
 
-**Parents Termly Letter**
-
-**Term 1**  
+##### Term 1
 
 * [YSS NDLP 2023 - 16 Jan 2023](/files/YSS%20NDLP%202023%20-%2016%20Jan%202023.pdf)
 	* [YSS - Parent Engagement Deck 2023](/files/YSS%20-%20Parent%20Engagement%20Deck_2023.pdf)
