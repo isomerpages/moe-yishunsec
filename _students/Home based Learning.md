@@ -19,6 +19,9 @@ description: ""
 * [FHBL Resource 1 – Uploading of Audio and Video Files](/files/HBL/FHBL-Resource-1-Uploading-of-Audio-and-Video-Files.pdf)
 * [FHBL Resource 2_Clear browsing history and Cache](/files/HBL/FHBL-Resource-2_Clear-browsing-history-and-Cache-for-students.pdf)
 * [FHBL Resource 4 – Search MOE Library](/files/HBL/FHBL-Resource-4-Search-MOE-Library.pdf)
+* [MS Office 365 on PLD](/files/HBL/MS%20Office%20365%20on%20PLD.pdf)
+
+
 
 #### SLS Support for Home-based Learning
 
