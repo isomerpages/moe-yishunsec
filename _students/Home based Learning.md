@@ -31,11 +31,7 @@ description: ""
 
 During school operating hours, students should contact the **School-based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
-  
-
-**Login SLS using MIMS ID and password.**
-
-  
+*   Login SLS using MIMS ID and password.
 
   
 
@@ -43,13 +39,9 @@ During school operating hours, students should contact the **School-based Helpl
 
   
 
-**Mondays – Fridays:**
-
-**8:30 am – 4:30 pm**
-
-  
-
-**\*Closed on Saturdays, Sundays & Public Holidays**
+* Mondays – Fridays
+* 8:30 am – 4:30 pm
+* Closed on Saturdays, Sundays & Public Holidays
 
   
 
