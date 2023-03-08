@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Weighted Assessment Schedule.md
       - Content Outlines/.keep
       - Content Outlines/Art.md
       - Content Outlines/Chinese Language.md
@@ -18,8 +17,9 @@ collections:
       - Announcements for Students.md
       - Students’ Timetable.md
       - SIL YSS Inspired.md
-      - Sec 2 Subject Combinations.md
+      - Weighted Assessment Schedule.md
       - School Rules and Regulations.md
+      - Sec 2 Subject Combinations.md
       - CCA Schedule.md
       - Consultation Schedule.md
       - Library.md
