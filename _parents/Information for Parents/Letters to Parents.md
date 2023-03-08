@@ -33,3 +33,17 @@ third_nav_title: Information for Parents
 * [Parent Engagement Talk -8 Aug 2022](/files/Parents/Letter%20to%20Parents/2022/Parent%20Engagement%20Talk%20-8%20Aug%202022.pdf)
 * [Letter of Notification - 20 Jul 2022](/files/Parents/Letter%20to%20Parents/2022/Letter%20of%20Notification%20-%2020%20Jul%202022.pdf)
 * [Letter to Parents Term 3 - 29 June 2022](/files/Parents/Letter%20to%20Parents/2022/Letter%20to%20Parents_Term%203%20-%2029%20June.pdf)
+
+##### Term 2
+* [Letter to Parents End of term 2 - 27 May 2022](/files/Parents/Letter%20to%20Parents/2022/Letter%20to%20Parents_End%20of%20term%202%202022.pdf)
+* [Week 10 Letter to Parents - 13 May 2022](/files/Parents/Letter%20to%20Parents/2022/Week%2010%20Letter%20to%20Parents%20-%2013%20May%202022.pdf)
+* [Positive Parenting Programme - 9 May 2022](/files/Parents/Letter%20to%20Parents/2022/Positive%20Parenting%20Programme-%209%20May%202022.pdf)
+* [Letter to Parents Term 2 - 9 Mar 2022](/files/Parents/Letter%20to%20Parents/2022/Letter%20to%20Parents_Term%202%202022.pdf)
+
+##### Term 1
+* [36th Annual Speech Prize Giving Day - 23 Feb 2022](/files/Parents/Letter%20to%20Parents/2022/36th%20Annual%20Speech%20%20Prize%20Giving%20Day%20-%2023%20Feb%202022.pdf)
+* [Student-Initiated Learning Sessions - 8 Feb 2022](/files/Parents/Letter%20to%20Parents/2022/Student-Initiated%20Learning%20Sessions%20-%208%20Feb%202022.pdf)
+* [Sexuality Education Programme 2022 - 31 Jan 2022](/files/Parents/Letter%20to%20Parents/2022/Sexuality%20Education%20Programme%202022.pdf)
+* [Breakfast Meeting with Parents - 28 Jan 2022](/files/Parents/Letter%20to%20Parents/2022/Breakfast%20Meeting%20with%20Parents%20-%2028%20Jan%202022.pdf)
+* [National Digital Literacy Programme NDLP 2022 - 21 Jan 2022](/files/Parents/Letter%20to%20Parents/2022/National%20Digital%20Literacy%20Programme%20NDLP%202022%20-%2021%20Jan%202022.pdf)
+	* 
