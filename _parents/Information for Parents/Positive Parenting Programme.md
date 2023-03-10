@@ -4,11 +4,6 @@ permalink: /parents/Positive-Parenting-Programme/
 description: ""
 third_nav_title: Information for Parents
 ---
-Positive Parenting Programme
-============================
-
-  
-
 During your child’s developmental years, you may from time-to-time encounter parenting challenges, from disobedience to temper tantrums. Some of these challenges may intensify over time, particularly when children reach their teens.
 
   
