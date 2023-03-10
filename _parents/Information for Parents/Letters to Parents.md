@@ -47,4 +47,8 @@ third_nav_title: Information for Parents
 * [Sexuality Education Programme 2022 - 31 Jan 2022](/files/Parents/Letter%20to%20Parents/2022/Sexuality%20Education%20Programme%202022.pdf)
 * [Breakfast Meeting with Parents - 28 Jan 2022](/files/Parents/Letter%20to%20Parents/2022/Breakfast%20Meeting%20with%20Parents%20-%2028%20Jan%202022.pdf)
 * [National Digital Literacy Programme NDLP 2022 - 21 Jan 2022](/files/Parents/Letter%20to%20Parents/2022/National%20Digital%20Literacy%20Programme%20NDLP%202022%20-%2021%20Jan%202022.pdf)
-	*
+	* [YSS Parent Slides 2022](/files/Parents/Letter%20to%20Parents/2022/YSS%20Parent%20Slides%202022.pdf)
+	* [IP2 - Parent Handbook I on Learning with a PLD](/files/Parents/Letter%20to%20Parents/2022/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
+	* [IP3 - Parent Handbook II on Learning with a PLD](/files/Parents/Letter%20to%20Parents/2022/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
+
+* 
