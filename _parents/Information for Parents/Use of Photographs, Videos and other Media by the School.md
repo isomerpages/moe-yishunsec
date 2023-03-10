@@ -4,8 +4,7 @@ permalink: /parents/Information-for-Parents/Privacy/
 description: ""
 third_nav_title: Information for Parents
 ---
-
-**PHOTOGRAPHS AND VIDEOS OF STUDENTS IN SCHOOL PUBLICATIONS**
+#### PHOTOGRAPHS AND VIDEOS OF STUDENTS IN SCHOOL PUBLICATIONS
 
 It is the practice of the school to document school events with photographs and videos, which are published on our official media platforms (both online and hard copy publications) – such as our website, termly newsletter, yearbook, official social media accounts and publicity materials – as well as on posters and banners within our premises and on our external wall.
 
