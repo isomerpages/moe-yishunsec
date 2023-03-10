@@ -36,39 +36,20 @@ description: ""
 
 ### Weighted Assessment Schedule for 2022
 
-#### Term 4 - WA 4
-
-**Sec 1**
-* 
-
-**Sec 2**
-* 
-
-
-**Sec 3**
-* 
-
-
-**Sec 4 & 5**
-* 
-
-
-
 #### Term 3 - WA 3
 
 **Sec 1**
-* 
+* [Sec 1 Weighted Assessment Term 3](/files/Weighted%20Assessment/2022/Sec%201%20Weighted%20Assessment%20Term%203.pdf)
 
 **Sec 2**
-* 
+* [Sec 2 Weighted Assessment Term 3](/files/Weighted%20Assessment/2022/Sec%202%20Weighted%20Assessment%20Term%203.pdf)
 
 
 **Sec 3**
-* 
+* [Sec 3 Weighted Assessment Term 3](/files/Weighted%20Assessment/2022/Sec%203%20Weighted%20Assessment%20Term%203.pdf)
 
 
-**Sec 4 & 5**
-* 
+
 
 #### Term 2 - WA 2
 
@@ -83,8 +64,6 @@ description: ""
 * 
 
 
-**Sec 4 & 5**
-* 
 
 #### Term 1 - WA 1
 
