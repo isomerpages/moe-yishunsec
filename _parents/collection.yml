@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - YSS Curriculum and Blended Learning.md
       - Cyber Wellness Resources for Parents.md
       - Information for Parents/Teachers' Timetable.md
       - Information for Parents/.keep
