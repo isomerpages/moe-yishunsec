@@ -4,19 +4,8 @@ permalink: /parents/Edusave/
 description: ""
 third_nav_title: Information for Parents
 ---
-
-![](/images/Parents%20Banner.png)
-
-Edusave Character Award
-=======================
-
-  
-
 **EDUSAVE CHARACTER AWARD 2022 NOMINATIONS**
 
-  
-
-  
 
 [ECHA 2022 Parent Nomination Form](https://form.gov.sg/62eb74e7fedc3600131290c8)
 
