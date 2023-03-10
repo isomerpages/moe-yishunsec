@@ -54,14 +54,14 @@ description: ""
 #### Term 2 - WA 2
 
 **Sec 1**
-* 
+* [Sec 1 Weighted Assessment_Term 2](/files/Weighted%20Assessment/2022/Sec%201%20Weighted%20Assessment_Term%202.pdf)
 
 **Sec 2**
-* 
+* [Sec 2 Weighted Assessment_Term 2](/files/Weighted%20Assessment/2022/Sec%202%20Weighted%20Assessment_Term%202.pdf)
 
 
 **Sec 3**
-* 
+* [Sec 3 Weighted Assessment_Term 2](/files/Weighted%20Assessment/2022/Sec%203%20Weighted%20Assessment_Term%202.pdf)
 
 
 
