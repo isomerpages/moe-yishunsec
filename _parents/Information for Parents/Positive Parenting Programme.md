@@ -4,8 +4,6 @@ permalink: /parents/Positive-Parenting-Programme/
 description: ""
 third_nav_title: Information for Parents
 ---
-![](/images/Parents%20Banner.png)
-
 Positive Parenting Programme
 ============================
 
@@ -21,7 +19,7 @@ To support you in your journey towards building a confident and resilient child,
 
 **Publicity video**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gq5ogYNaXOc" title="Parenting Support Programme by Fam4Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gq5ogYNaXOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 [EBPs for Secondary Schools](/files/Parents/PositiveParentingProg/EBPs%20for%20Secondary%20Schools.pdf)
