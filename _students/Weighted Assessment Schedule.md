@@ -68,13 +68,13 @@ description: ""
 #### Term 1 - WA 1
 
 **Sec 1**
-* 
+* [Sec 1_Weighted Assessment_Term1](/files/Weighted%20Assessment/2022/Sec%201_Weighted%20Assessment_Term1.pdf)
 
 **Sec 2**
-* 
+* [Sec 2_Weighted Assessment_Term1](/files/Weighted%20Assessment/2022/Sec%202_Weighted%20Assessment_Term1.pdf)
 
 **Sec 3**
-* 
+* [Sec 3_Weighted Assessment_Term1](/files/Weighted%20Assessment/2022/Sec%203_Weighted%20Assessment_Term1.pdf)
 
 **Sec 4 & 5**
-*
+* [Sec 4 & 5 Weighted Assessment_Term1](/files/Weighted%20Assessment/2022/Sec%2045_Weighted%20Assessment_Term1.pdf)
