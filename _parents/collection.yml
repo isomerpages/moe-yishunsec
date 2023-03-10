@@ -2,11 +2,11 @@ collections:
   parents:
     output: true
     order:
-      - Information for Parents/Dialogue with Parents.md
       - Information for Parents/.keep
+      - Information for Parents/Dialogue with Parents.md
       - Information for Parents/Letters to Parents.md
-      - Information for Parents/Positive Parenting Programme.md
       - Information for Parents/Edusave Character Award.md
+      - Information for Parents/Positive Parenting Programme.md
       - Information for Parents/School and Miscellaneous Fees.md
       - Information for Parents/MOE Group Personal Accident (GPA) Insurance.md
       - Information for Parents/Use of Photographs, Videos and other Media by
