@@ -3,12 +3,6 @@ title: Students’ Timetable
 permalink: /students/Timetable/
 description: ""
 ---
-Students’ Timetable
-===================
-
-  
-**Click the link below to access 2023 Semester 1 Timetable.**  
-  
 
 ### 2023 Sem 1
 
