@@ -2,10 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - YSS Curriculum and Blended Learning.md
-      - Cyber Wellness Resources for Parents.md
-      - Information for Parents/Teachers' Timetable.md
       - Information for Parents/.keep
+      - Information for Parents/Teachers' Timetable.md
       - Information for Parents/Letters to Parents.md
       - Information for Parents/Positive Parenting Programme.md
       - Information for Parents/Dialogue with Parents.md
@@ -15,4 +13,6 @@ collections:
       - Information for Parents/Use of Photographs, Videos and other Media by
         the School.md
       - Information for Parents/Activation of DMA Parent Portal.md
+      - Cyber Wellness Resources for Parents.md
       - School Calendar.md
+      - YSS Curriculum and Blended Learning.md
