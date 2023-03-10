@@ -51,4 +51,10 @@ third_nav_title: Information for Parents
 	* [IP2 - Parent Handbook I on Learning with a PLD](/files/Parents/Letter%20to%20Parents/2022/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
 	* [IP3 - Parent Handbook II on Learning with a PLD](/files/Parents/Letter%20to%20Parents/2022/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
 
-* 
+* [Home-based Learning - 19 Jan 2022](/files/Parents/Letter%20to%20Parents/2022/Home-based%20Learning%20-%2019%20Jan%202022.pdf)
+* [Term 1 2022 - 13 Jan 2022](/files/Parents/Letter%20to%20Parents/2022/Term%201%202022%2013%20Jan%202022.pdf)
+* [Student Initiated Learning Programme YSS Inspired -13 Jan 2022](/files/Parents/Letter%20to%20Parents/2022/Student%20Initiated%20Learning%20Programme%20YSS%20Inspired%2013%20Jan%202022.pdf)
+* [Overview of the Secondary Humanities Syllabus](/files/Parents/Letter%20to%20Parents/2022/Overview%20of%20the%20Secondary%20Humanities%20Syllabus.pdf)
+* [Release of GCE O-Level Results - 11 Jan 2022](/files/Parents/Letter%20to%20Parents/2022/Release%20of%20GCE%20O-Level%20Results.pdf)
+* [Release of GCE O-Level Exam 2021 Results - 11 Jan 2022](/files/Parents/Letter%20to%20Parents/2022/Release%20of%20GCE%20O-Level%20Exam%202021%20Results.pdf)
+* [New Academic Year 2022 - 30 Dec 2021](/files/Parents/Letter%20to%20Parents/2022/New%20Academic%20Year%202022%20-%2030%20Dec%202021.pdf)
