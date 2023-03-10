@@ -4,15 +4,8 @@ permalink: /parents/Fees/
 description: ""
 third_nav_title: Information for Parents
 ---
-
-![](/images/Parents%20Banner.png)
-
-School and Miscellaneous Fees
-=============================
-
-  
-
 The monthly school fees payable by Singaporean, International Student (IS) and Singapore Permanent Resident (SPR)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
