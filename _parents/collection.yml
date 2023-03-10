@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - YSS Assessment Policy.md
       - Information for Parents/.keep
       - Information for Parents/Teachers' Timetable.md
       - Information for Parents/Letters to Parents.md
@@ -17,3 +16,4 @@ collections:
       - School Calendar.md
       - Cyber Wellness Resources for Parents.md
       - YSS Curriculum and Blended Learning.md
+      - YSS Assessment Policy.md
