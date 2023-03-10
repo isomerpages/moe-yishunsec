@@ -1,5 +1,0 @@
-collections:
-  information-for-parents:
-    output: true
-    order:
-      - Letter to Parents/.keep
