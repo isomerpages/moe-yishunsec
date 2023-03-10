@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Information for Parents/Activation of DMA Parent Portal.md
       - Information for Parents/.keep
       - Information for Parents/Letters to Parents.md
       - Information for Parents/Positive Parenting Programme.md
@@ -12,4 +11,5 @@ collections:
       - Information for Parents/MOE Group Personal Accident (GPA) Insurance.md
       - Information for Parents/Use of Photographs, Videos and other Media by
         the School.md
+      - Information for Parents/Activation of DMA Parent Portal.md
       - School Calendar.md
