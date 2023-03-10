@@ -17,6 +17,5 @@ To support you in your journey towards building a confident and resilient child,
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gq5ogYNaXOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-[EBPs for Secondary Schools](/files/Parents/PositiveParentingProg/EBPs%20for%20Secondary%20Schools.pdf)
-
-[(Mandarin) Triple P Individual Consultation](/files/Parents/PositiveParentingProg/(Mandarin)%20Triple%20P%20Individual%20Consultation.pdf)
+* [EBPs for Secondary Schools](/files/Parents/PositiveParentingProg/EBPs%20for%20Secondary%20Schools.pdf)
+* [(Mandarin) Triple P Individual Consultation](/files/Parents/PositiveParentingProg/(Mandarin)%20Triple%20P%20Individual%20Consultation.pdf)
