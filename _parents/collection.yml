@@ -2,7 +2,7 @@ collections:
   parents:
     output: true
     order:
-      - Cyberwellness Resources for Parents.md
+      - Cyber Wellness Resources for Parents.md
       - Information for Parents/Teachers' Timetable.md
       - Information for Parents/.keep
       - Information for Parents/Letters to Parents.md
