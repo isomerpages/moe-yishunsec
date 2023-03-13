@@ -48,3 +48,6 @@ The school organised a Mother’s day Appreciation activity where students made 
 
 *I learnt a new skill. I think it is quite cool. Thank you to the parent volunteers who were very skillful and patient in teaching me how to make the bouquet. It was easy to make the bouquet and my mother liked it very much.*
 ~ Russell 2E2
+
+#### Photos:
+
