@@ -2,8 +2,8 @@ collections:
   the-yss-experience:
     output: true
     order:
-      - My Experience in YSS.md
       - The YSS Experience.md
+      - My Experience in YSS.md
       - Direct School Admission to Yishun Secondary.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Distinctive Programmes.md
