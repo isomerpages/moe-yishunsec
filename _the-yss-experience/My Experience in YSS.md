@@ -109,8 +109,8 @@ A duet performance by Ahmad from class 1 Innovate and Chloe from class 1 Integri
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/quv7Eo7Wyo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>
 A dance number by the group formed by five students from Class 1 Soar and 1 Strive. The infusion of a Korean pop-song to the 2005 NDP theme song ‘Reach Out For The Skies’ was such a complement to the entire choreographed dance.</figcaption></figure>
 	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iYaEwTthm_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-The celebration ended off with the community singing of the evergreen song ‘Our Singapore’ and this year’s National Day theme song ‘Stronger Together’.
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/iYaEwTthm_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>
+The celebration ended off with the community singing of the evergreen song ‘Our Singapore’ and this year’s National Day theme song ‘Stronger Together’</figcaption></figure>
 	
 	
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/jPEAh2ygAl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
