@@ -3,8 +3,6 @@ title: Executive and Administration
 permalink: /yss/eas/
 description: ""
 ---
-
-
 <h4>Admin Executive</h4>
 
 *   Ms Lim Siew Huay
@@ -15,9 +13,7 @@ description: ""
 <h4>Corporate Support Officer</h4>
 
 *   Ms Elaine Ng (Adj CSO)  
-     
 *   Mdm Siti Suhaidah (Adj CSO)
-*   Mdm Sue Dass (Contract CSO)
 
   
 
