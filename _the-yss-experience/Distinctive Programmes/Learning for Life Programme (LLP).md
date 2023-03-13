@@ -4,7 +4,7 @@ permalink: /the-yss-experience/Distinctive-Programmes/llp/
 description: ""
 third_nav_title: Distinctive Programmes
 ---
-### **‘LEADING WITH EMPATHY, SERVING WITH COMPASSION THROUGH THE ARTS’**   
+### ‘LEADING WITH EMPATHY, SERVING WITH COMPASSION THROUGH THE ARTS’
 
   
 
@@ -57,15 +57,15 @@ School Generic Email: [_yishun\_ss@moe.edu.sg_](mailto:yishun_ss@moe.edu.sg)
 
 ![](/images/YSS%20Exp/LLP/Sec%203_photo%202.jpeg)
 
-<figure><img src="images/YSS%20Exp/LLP/Sec%203_photo%203.jpeg" style="width:100%"><figcaption> Some of the beautiful creations from the students!</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Sec%203_photo%203.jpeg"><figcaption> Some of the beautiful creations from the students!</figcaption></figure>
 
-<figure><img src="images/YSS%20Exp/LLP/Sec%203_photo%204.jpeg" style="width:100%"><figcaption> Social game sets and dot-painted coin pouch packed in decorated brown paper bags all set for delivery! The project is organised by our students and supported by North West Community Development Council (CDC), as part of the Community Cares @ North West.</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Sec%203_photo%204.jpeg"><figcaption> Social game sets and dot-painted coin pouch packed in decorated brown paper bags all set for delivery! The project is organised by our students and supported by North West Community Development Council (CDC), as part of the Community Cares @ North West.</figcaption></figure>
 
-<center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zxIQY6aRHCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-A video produced to show how Jenga game can be played in a fun and engaging way
-</center>
+
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/zxIQY6aRHCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>
+A video produced to show how Jenga game can be played in a fun and engaging way</figcaption></figure>
+
 
 
 
@@ -75,19 +75,19 @@ A video produced to show how Jenga game can be played in a fun and engaging way
 
 *   Our second outreach project with North West CDC involved students from 2T1 where they connected with residents in Yishun rental blocks and Anglican Senior Centre (Yishun) through Do-It-Yourself (DIY) crafts. Our students prepared and packed materials such as yarn, non-slip mat, pom-pom cardboard template, scissors and penknife into tote bags to be delivered to the homes of the residents and the centre. Residents learnt step by step to make a pom-pom rug through an instructional video produced by our students. The activity encourages creativity and hands-on skills of the residents.
 
-<figure><img src="images/YSS%20Exp/LLP/Sec%202T1_photo%202.jpeg" style="width:100%"><figcaption>Making of the pom-pom from scratch using yarn and pom-pom template.</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Sec%202T1_photo%202.jpeg"><figcaption>Making of the pom-pom from scratch using yarn and pom-pom template.</figcaption></figure>
 
-<figure><img src="images/YSS%20Exp/LLP/Sec%202T1_photo%201.jpeg" style="width:100%"><figcaption> Attaching pom-poms to the anti-slip mat to form a pom-pom rug.</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Sec%202T1_photo%201.jpeg"><figcaption> Attaching pom-poms to the anti-slip mat to form a pom-pom rug.</figcaption></figure>
 
-<figure><img src="images/YSS%20Exp/LLP/Sec%202T1_photo%203.jpeg" style="width:100%"><figcaption> Tote bags containing the pom-pom rug materials for DIY are all ready for delivery.</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Sec%202T1_photo%203.jpeg"><figcaption> Tote bags containing the pom-pom rug materials for DIY are all ready for delivery.</figcaption></figure>
 
 *   Another outreach project with North West CDC involved students from 2T2 where they packed 300 festive goodie bags for the needy families within the North West District. The annual Festive Goodies Packing and Distribution aims to spread festive cheers to the needy families in conjunction with the Lunar Chinese New Year. The goodie bags were then couriered over to the rental blocks in Yishun where they were distributed by the corporate partners.  
       
     Our students geared up their energy to pack and arrange the groceries such as instant noodles, beverages, can food, biscuits and cereals into tote bags. The class organised themselves into various stations for the packing to be done in an orderly manner while observing safety management measures (SMM). All in all, the students sweat it out in a fun and meaningful way!
 		
-<figure><img src="images/YSS%20Exp/LLP/Sec%202T2_photo%201.jpeg" style="width:100%"><figcaption> Students feeling proud and accomplished to be able to contribute in their own ways.</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Sec%202T2_photo%201.jpeg"><figcaption> Students feeling proud and accomplished to be able to contribute in their own ways.</figcaption></figure>
 
-![](/images/YSS%20Exp/LLP/Sec%202T2_photo%202.jpeg)
+<figure><img src="/images/YSS%20Exp/LLP/Sec%202T2_photo%202.jpeg"></figure>
 
 <figure><img src="images/YSS%20Exp/LLP/Sec%202T2_photo%203.jpeg" style="width:100%"><figcaption> Teachers displaying values-in-action in a concerted effort with their students!</figcaption></figure>
 
