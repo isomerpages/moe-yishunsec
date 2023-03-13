@@ -3,7 +3,7 @@ title: Staff
 permalink: /accolades/
 description: ""
 ---
-<h4>Staff Professional Development </h4>
+#### Staff Professional Development
 
 
 In Yishun Secondary, our dedicated and innovative staff exemplifies the Learn for Life mantra. Teachers meet in their subject-based Professional Learning Teams (PLTs) to study students’ learning needs, review literature for possible strategies, co-design and implement innovative student-centric lesson packages to meet those needs and to nurture the Joy of Learning in Yishunites.
@@ -101,7 +101,7 @@ At the end of each year, PLTs share their learning at the annual school-based Le
 
 ![](/images/Staff1.png)
 
-<h4> Staff Well-being </h4>
+#### Staff Well-being
 
   
 
@@ -112,10 +112,26 @@ In Yishun Secondary, we strongly believe that the staff is at the center of ever
 ![](/images/Staff4.png)
 ![](/images/Staff5.png)
 
-<h4> Staff Awards </h4>
+#### Staff Awards
   
 
 The following staff were recognised for their continued excellence in their service to the school and their care for the students.
+
+
+| S/No | Award| Name of Staff |
+| -------- | -------- | -------- |
+| 1     | National Day Award: The Public Administration Medal (Bronze)    | **2022:** Mr Tay Hiang Soon (Vice-Principal)     |
+| 2     | National Day Award: The Commendation Medal     | **2022:** Mr Gary Sim (Head of Dept/Science) <br>**2021:** Mr Chia Victor (School Staff Developer)     |
+| 3     | National Day Award: The Long Service Medal     | **2022:** <br>Mr Ng Yew Long (Head of Dept /Discipline) <br>Mdm Faziah Bte Abu Bakar (Head of Dept /Learning Innovation) <br><br>**2021:**<br>Mr P Tamil Selvam (Assistant Year Head/Sec 2)<br>Mrs Tay Ai Tee (Teacher)     |
+| 4     | MOE Long Service Award 2022 by Date of Appointment in MOE     | **35 Years of Service:** <br>Mdm Vemala Naguran (Teacher)<br><br> **25 Years of Service:**<br>Mdm Faizah Bte Abu Bakar (Head of Dept /Learning Innovation)<br>Mr Ng Yew Long (Head of Dept /Discipline)<br>Mrs Tay Ai Ti (Teacher)<br><br>**20 Years of Service:**<br>Mr Aidil Bin Idris (Head of Dept /PE & CCA)<br>Mdm Hairul Bariyah Bte Maksom (Head of Dept /Normal Technical)<br>Mr Tan Kok Young (Assistant Year Head/Sec 2)<br>Mr Li Bin (Teacher)<br>Mr Yeung Chun Nam (Teacher)<br><br>15 Years of Service: <br>
+Mr Koh Yong Cheng (Year Head/Upper Secondary)Mr Poh Chee Jian (Subject Head/Chinese Language)  
+Mr Zakir Hussain (Teacher)  
+Mdm Zhang Hui (Teacher)  |
+| 5     | Text     | Text     |
+| 6     | Text     | Text     |
+
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
