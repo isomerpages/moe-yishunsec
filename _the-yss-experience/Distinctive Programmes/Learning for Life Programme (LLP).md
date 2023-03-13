@@ -109,7 +109,7 @@ A video produced to show how Jenga game can be played in a fun and engaging way<
 
 <figure><img src="images/YSS%20Exp/LLP/SKHArts_photo%203.jpeg" style="width:100%"><figcaption> Some of the ‘Nature’ themed art works.</figcaption></figure>
 
-**HIGHLIGHT**
+#### HIGHLIGHT
 
   
 
