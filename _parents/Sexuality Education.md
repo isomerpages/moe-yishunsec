@@ -79,8 +79,6 @@ You may [click here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 
 12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 11/01/2023.
 
-13. Parents can contact the school at 68767129 or email: yishun_ss@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
+13. Parents can contact the school at 68767129 or email: [yishun_ss@moe.edu.sg](mailto:yishun_ss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
-14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements. 
-
-
+14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
