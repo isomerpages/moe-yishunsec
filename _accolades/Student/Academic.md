@@ -4,9 +4,8 @@ permalink: /accolades/Student/academic/
 description: ""
 third_nav_title: Student
 ---
+### 2022 GCE O-Level Examination 5 Normal (Academic) Results
 
-2022 GCE O-Level Examination 5 Normal (Academic) Results
---------------------------------------------------------
 
 _Congratulations to our Secondary 5 Normal Academic students!_   
   
@@ -64,8 +63,7 @@ _Congratulations to our Secondary 5 Normal Academic students!_ 
 
 ![](/images/5NA_2.jpeg)
 
-2022 GCE O-Level Examination 4 Express Results
-----------------------------------------------
+### 2022 GCE O-Level Examination 4 Express Results
 
   
 _Congratulations to our Secondary 4 Express students!_   
@@ -243,8 +241,7 @@ _Congratulations to our Secondary 4 Express students!_ 
 </tbody>
 </table>
 
-2022 GCE N-Level Examination 4 Normal (Technical) Results
----------------------------------------------------------
+### 2022 GCE N-Level Examination 4 Normal (Technical) Results
 
 _Congratulations to our Secondary 4 Normal (Technical) students!_  
   
@@ -328,8 +325,7 @@ _Congratulations to our Secondary 4 Normal (Technical) students!_
 
 ![](/images/4NTimpStud.png)
 
-2022 GCE N-Level Examination 4 Normal (Academic) Results
---------------------------------------------------------
+### 2022 GCE N-Level Examination 4 Normal (Academic) Results
 
 _Congratulations to our Secondary 4 Normal (Academic) students!_
 
@@ -474,8 +470,7 @@ _Congratulations to our Secondary 4 Normal (Academic) students!_
 *   4T1
 *   4N1
 
-Historical Scene Investigation Challenge 2022
----------------------------------------------
+### Historical Scene Investigation Challenge 2022
 
   
 
@@ -529,8 +524,7 @@ We are proud to announce that the following students have been awarded ‘Gold.�
 
 ![](/images/Picture1.png)
 
-2021 Competitions/Activities
-----------------------------
+### 2021 Competitions/Activities
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -662,10 +656,9 @@ We are proud to announce that the following students have been awarded ‘Gold.�
 </tbody>
 </table>
 
-<center> 
+
 	
 ![](/images/orchard%20exhibition.jpeg)
 
 ![](/images/YSS%20Yellowren%202021.jpeg)
 	
-</center>
