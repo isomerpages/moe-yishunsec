@@ -15,7 +15,7 @@ On Saturday, 13 August, our NCC Precision Drill Squad, Indian and Malay dancers 
 <figure><img src="/images/YSS%20Exp/Picture2.jpg"><figcaption>The Malay Dancers posing after a dynamic routine</figcaption></figure>
 
 
-<figure><img src="/images/YSS%20Exp/Picture3.jpg"><figcaption>Our proud NCC cadets receiving a token of appreciation from Associate Professor Muhammad Faishal Ibrahim Minister of State for Ministry of Home Affairs & Ministry of National Development Grassroots Adviser to Nee Soon GRC Grassroots Organisations.</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/Picture3.jpg"><figcaption>Our proud NCC cadets receiving a token of appreciation from Associate Professor Muhammad Faishal Ibrahim Minister of State for Ministry of Home Affairs & Ministry of National Development Grassroots Adviser to Nee Soon GRC Grassroots Organisations</figcaption></figure>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VHw2sSXNePU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
@@ -35,8 +35,8 @@ YSS National Day Celebration 2022
 Marching of contingents from the uniformed groups and the ceremonial conducts of the observance ceremony.
 
 Theme: **Stronger Together, Majulah!**
-<br>Date: 8 August 2022 (Monday)
-<br>Time: 07:35 am – 10:30 am
+* Date: 8 August 2022 (Monday)
+* Time: 07:35 am – 10:30 am
 
 The National Day celebration returns in full swing to the parade square and hall this year. Centered around the theme ‘Stronger Together, Majulah!’, the commemoration encapsulates our hopes and spirit as a nation since our independence 57 years ago. It is a call for Singaporeans to strive for a better future and grow from strength to strength as we emerge from COVID-19.
 
