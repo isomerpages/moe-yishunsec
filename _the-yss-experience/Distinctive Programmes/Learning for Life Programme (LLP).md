@@ -103,9 +103,9 @@ A video produced to show how Jenga game can be played in a fun and engaging way<
 
 *   Through the Art curriculum and classroom experience, a selected group of 20 students produced 20 pieces of art works with the theme of ‘Nature’. The art works were delivered to Sengkang Community Hospital (SCH) for display and exhibition in the building, as part of the SchoolARTS@SKH Campus Programme. Our students were able to show care and bring joy to the community (staff, patients and public) in hospitals especially SCH Campus through artwork.
 
-![](/images/YSS%20Exp/LLP/SKHArts_photo%201.jpeg)
+<figure><img src="/images/YSS%20Exp/LLP/SKHArts_photo%201.jpeg"></figure>
 
-![](/images/YSS%20Exp/LLP/SKHArts_photo%202.jpeg)
+<figure><img src="/images/YSS%20Exp/LLP/SKHArts_photo%202.jpeg"></figure>
 
 <figure><img src="images/YSS%20Exp/LLP/SKHArts_photo%203.jpeg" style="width:100%"><figcaption> Some of the ‘Nature’ themed art works.</figcaption></figure>
 
