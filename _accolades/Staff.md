@@ -24,97 +24,17 @@ At the end of each year, PLTs share their learning at the annual school-based Le
 
 | S/No | 	Staff/Unit | Title| Platform |
 | -------- | -------- | -------- | -------- |
-| 1     | 	Dr Goh Poh Huat <br>Master Teacher/ Chinese Language     | Keynote Address: What is e-Pedagogy?     | N2 Cluster Teachers’ Leader Symposium 2022     |
-| 2     | Mrs Simmi Govindani <br>Lead Teacher/ Mathematics     | Brain Based Learning     | North Zone Subject Group (Secondary Mathematics)     |
-| 3     | Mrs Simmi Govindani <br>Lead Teacher / Mathematics <br>Mrs Leong Sin Yee <br>Senior Teacher/ Biology     | Text     | Text     |
-| 4     | Text     | Text     | Text     |
-| 5     | Text     | Text     | Text     |
-| 6     | Text     | Text     | Text     |
-| 7     | Text     | Text     | Text     |
-| 8     | Text     | Text     | Text     |
-| 9     | Text     | Text     | Text     |
+| 1     | 	Dr Goh Poh Huat <br>(Master Teacher/ Chinese Language)     | Keynote Address: What is e-Pedagogy?     | N2 Cluster Teachers’ Leader Symposium 2022     |
+| 2     | Mrs Simmi Govindani <br>(Lead Teacher/ Mathematics)     | Brain Based Learning     | North Zone Subject Group (Secondary Mathematics)     |
+| 3     | - Mrs Simmi Govindani <br>(Lead Teacher / Mathematics) <br>- Mrs Leong Sin Yee <br>(Senior Teacher/ Biology)     | Design of End-to-End Blended Learnining Experience     | N2 Cluster Teachers' Leader Symposium 2022     |
+| 4     | 	Mrs Ow Puay Hoon <br>(Senior Teacher/Chemistry)     | The use of Nearpod as an Assessment for Learning tool in the teaching of Atomic Structure and Chemical Bonding for Middle & Lower-achieving Students     | SG Learning Design Circle Virtual Meet 2     |
+| 5     | Mr A Murugapa (Senior Teacher/Physical Education)     | An Introductory Workshop on Functional Fitness Training for Students     | PE Teachers & Sports Coaches     |
+| 6     | Mdm Cheng Sin Yee (Senior Teacher/Chinese Language)     | Sharing of Unit 5 Teaching Materials of Sec 2E New Syllabus     | North Zone Digital Learning Interest Group     |
+| 7     | Mrs Leong Sin Yee (Senior Teacher (ST) / Biology) with STs from other schools     | Improving our students’ self-efficacy in answering questions in novel context through Questioning (Claim-Evidence-Reasoning) framework     | Teacher Leader Programme, NIE     |
+| 8     | Ms Nithya d/o Selvaraju (Ag Senior Teacher/Social Studies (SS)) and her SS PLT collaborated with Master Teacher/SS and Northland Secondary SS Unit     | Concept-based teaching in Social Studies classroom     | N2 Cluster Social Studies Cluster Professional Development     |
+| 9     | Ms Dimas Nurr Aidilin Bte Mas'od Teacher     | Using Pear Deck to Deepen Student's Learning in Lower Secondary Science     | SG Learning Design Circle Virtual Meet 2     |
 
 
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jbyc{background-color:#E5E5E5;color:#6B6B6B;text-align:left;vertical-align:middle}
-.tg .tg-e4io{background-color:#FFF;border-color:inherit;color:#6B6B6B;font-weight:bold;text-align:left;text-decoration:underline;
-  vertical-align:top}
-.tg .tg-jm4h{background-color:#FFF;color:#6B6B6B;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-7xv2{background-color:#FFF;color:#6B6B6B;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e4io">S/No</th>
-    <th class="tg-jm4h">Staff/Unit</th>
-    <th class="tg-jm4h">Title</th>
-    <th class="tg-jm4h">Platform</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-jbyc">1</td>
-    <td class="tg-jbyc">Dr Goh Poh Huat<br>Master Teacher/Chinese Language</td>
-    <td class="tg-jbyc">Keynote Address: What is e-Pedagogy?</td>
-    <td class="tg-jbyc">N2 Cluster Teachers’ Leader Symposium 2022</td>
-  </tr>
-  <tr>
-    <td class="tg-7xv2">2</td>
-    <td class="tg-7xv2">Mrs Simmi Govindani<br>Lead Teacher/Mathematics</td>
-    <td class="tg-7xv2">Brain Based Learning</td>
-    <td class="tg-7xv2">North Zone Subject Group <br>(Secondary Mathematics)</td>
-  </tr>
-  <tr>
-    <td class="tg-jbyc">3<br></td>
-    <td class="tg-jbyc">Mrs Simmi Govindani<br>Lead Teacher/Mathematics<br>Mrs Leong Sin Yee<br>Senior Teacher/Biology</td>
-    <td class="tg-jbyc">Design of End-to-End Blended Learnining Experience</td>
-    <td class="tg-jbyc">N2 Cluster Teachers' Leader Symposium 2022</td>
-  </tr>
-  <tr>
-    <td class="tg-7xv2"> 4</td>
-    <td class="tg-7xv2">Mrs Ow Puay Hoon<br>Senior Teacher/Chemistry</td>
-    <td class="tg-7xv2">The use of Nearpod as an Assessment for Learning tool in the teaching of Atomic Structure and Chemical Bonding for Middle &amp; Lower-achieving Students</td>
-    <td class="tg-7xv2">SG Learning Design Circle Virtual Meet 2</td>
-  </tr>
-  <tr>
-    <td class="tg-jbyc"> 5</td>
-    <td class="tg-jbyc">Mr A Murugapa<br>Senior Teacher/Physical Education</td>
-    <td class="tg-jbyc">An Introductory Workshop on Functional Fitness Training for Students</td>
-    <td class="tg-jbyc">PE Teachers &amp; Sports Coaches</td>
-  </tr>
-  <tr>
-    <td class="tg-7xv2"> 6</td>
-    <td class="tg-7xv2">Mdm Cheng Sin Yee<br>Senior Teacher/Chinese Language</td>
-    <td class="tg-7xv2">Sharing of Unit 5 Teaching Materials of Sec 2E New Syllabus</td>
-    <td class="tg-7xv2">North Zone Digital Learning Interest Group</td>
-  </tr>
-  <tr>
-    <td class="tg-jbyc"> 7</td>
-    <td class="tg-jbyc">Mrs Leong Sin Yee<br>Senior Teacher (ST) / Biology with STs from other schools</td>
-    <td class="tg-jbyc">Improving our students’ self-efficacy in answering questions in novel context through Questioning (Claim-Evidence-Reasoning) framework</td>
-    <td class="tg-jbyc">Teacher Leader Programme, NIE</td>
-  </tr>
-  <tr>
-    <td class="tg-7xv2"> 8</td>
-    <td class="tg-7xv2">Ms Nithya d/o Selvaraju<br>Ag Senior Teacher/Social Studies (SS) and her SS PLT collaborated with Master Teacher/SS and Northland Secondary SS Unit</td>
-    <td class="tg-7xv2">Concept-based teaching in Social Studies classroom</td>
-    <td class="tg-7xv2">N2 Cluster Social Studies Cluster Professional Development </td>
-  </tr>
-  <tr>
-    <td class="tg-jbyc"> 9</td>
-    <td class="tg-jbyc"> Ms Dimas Nurr Aidilin Bte Mas'od Teacher</td>
-    <td class="tg-jbyc">Using Pear Deck to Deepen Student's Learning in Lower Secondary Science</td>
-    <td class="tg-jbyc">SG Learning Design Circle Virtual Meet 2</td>
-  </tr>
-</tbody>
-</table>
 
 ![](/images/Staff1.png)
 
