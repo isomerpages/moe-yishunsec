@@ -4,8 +4,9 @@ permalink: /the-yss-experience/Distinctive-Programmes/alp/
 description: ""
 third_nav_title: Distinctive Programmes
 ---
-<figure><a href="https://sites.google.com/moe.edu.sg/yssartextravaganza">
-	<img src="images/YSS%20Exp/YSSArtsExtravaganza2022.jpg" style="width:100%" ></a></figure>
+<a href="https://sites.google.com/moe.edu.sg/yssartextravaganza">
+<img src="/images/YSS%20Exp/YSSArtsExtravaganza2022.jpg" alt="yss ArtsExtravaganza">
+</a>
 
 
 ![](/images/ALP%20(1).png)
