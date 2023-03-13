@@ -18,10 +18,7 @@ On Saturday, 13 August, our NCC Precision Drill Squad, Indian and Malay dancers 
 <figure><img src="/images/YSS%20Exp/Picture3.jpg"><figcaption>Our proud NCC cadets receiving a token of appreciation from Associate Professor Muhammad Faishal Ibrahim Minister of State for Ministry of Home Affairs & Ministry of National Development Grassroots Adviser to Nee Soon GRC Grassroots Organisations.</figcaption></figure>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VHw2sSXNePU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHw2sSXNePU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SISnDbEv5Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
