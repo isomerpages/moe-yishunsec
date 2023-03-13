@@ -130,6 +130,16 @@ The following staff were recognised for their continued excellence in their serv
 
 ![](/images/Staff6.png)
 
+
+
+| S/No | Award | Name of Staff |
+| -------- | -------- | -------- |
+| 1     | MOE Service Excellence Award (Gold), 2022     | - Mrs Jacqueline Lee (HoD/ICT & eLibrary)<br>- Mr Kong Rui Jia (Subject Head/Geography)<br>- Mrs Adeline Tan (Level Head/Lower Secondary Science)<br>- Mr Fazal Khan Bin Arunkhan (Operations Manager)<br>- Mr Praveen Prakash (IT Manager)<br>- Mdm Juliet Yeo (Teacher)<br>- Mr Jarren Lye (Teacher)<br>- Ms Tham Jia Hui (Teacher)     |
+| 2     | MOE Service Excellence Award (Silver), 2022     | - Mrs Phua-Seah Lee Hoon (HoD/ Mathematics)<br>- Mrs Audrey Ee (HoD/ EL & Media Literacy)<br>- Mrs Hairul Bariyah Maksom (HoD/Normal Technical)<br>- Ms Nelly Guo (HoD/ Craft & Technology)<br>- Mr Tan Hong Peng (Year Head/Lower Sec)<br>- Mr Victor Chia (School Staff Developer)<br>- Mdm Sharidah Sindashah (Subject Head/Malay Language)<br>- Mr Tan Ee Cheng (Subject Head/Data & Knowledge Mgt)<br>- Mr Muhammad Hafiz Bin Mornin (Subject Head /Ed Support)<br>- Ms Rekha Reddy (Subject Head/History)<br>- Mdm Evon Tan (Assistant Year Head/Sec 3)<br>- Mr P Tamil Selvam (Assistant Year Head/Sec 2)<br>- Mr Tan Kok Young (Assistant Year Head/Sec 1)<br>- Ms Nithya d/o Selvaraju (Ag Senior Teacher/Social Studies)<br>- Mr Mohammad Rizal Bin Abdul Rashid (Teacher)<br>- Ms Low Mei Ling (Teacher)<br>- Ms Wu Jianghui (Teacher)<br>- Ms Serena Sim (Teacher)<br>- Mdm Siti Alwiyah Binte Ismail (Sch Lab Technician/Science)<br>- Mr R Subramaniam (Operations Support Staff)     |
+
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
