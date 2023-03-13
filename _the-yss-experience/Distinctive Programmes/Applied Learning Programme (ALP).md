@@ -6,7 +6,6 @@ third_nav_title: Distinctive Programmes
 ---
 <p><a href="https://sites.google.com/moe.edu.sg/yssartextravaganza"><img style="width:100%" src="images/YSS%20Exp/YSSArtsExtravaganza2022.jpg"></a></p>
 
-[Click here for more details](https://sites.google.com/moe.edu.sg/yssartextravaganza)
 
 ![](/images/ALP%20(1).png)
 
@@ -91,4 +90,4 @@ MIDI Keyboard with effects</figcaption></figure>
 
 <figure><img src="images/YSS%20Exp/AVA-Pathfinder.jpg" style="width:100%"><figcaption> AVA Pathfinder Collaboration with Red Roof Records during BecKa’s EP Launch at Sentosa</figcaption></figure>
 	
-</center>	
+</center>
