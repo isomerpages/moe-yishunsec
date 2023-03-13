@@ -661,4 +661,3 @@ We are proud to announce that the following students have been awarded â€˜Gold.â
 ![](/images/orchard%20exhibition.jpeg)
 
 ![](/images/YSS%20Yellowren%202021.jpeg)
-	
