@@ -3,16 +3,7 @@ links:
   - title: YSS
     collection: yss
   - title: The YSS Experience
-    url: /the-yss-experience/
-    sublinks:
-      - title: My Experience in YSS
-        url: /yss/my-experience-in-yss/
-      - title: Direct School Admission to YSS
-        url: /the-yss-experience/dsa
-      - title: Distinctive Programmes
-        url: /the-yss-experience/Distinctive-Programmes/
-      - title: Interdisciplinary Programmes
-        url: /the-yss-experience/Interdisciplinary-Programmes/
+    collection: the-yss-experience
   - title: Accolades
     collection: accolades
   - title: Holistic Education
