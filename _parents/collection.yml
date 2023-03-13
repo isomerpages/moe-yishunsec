@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Parent Support Group.md
       - Information for Parents/.keep
       - Information for Parents/Teachers' Timetable.md
       - Information for Parents/Letters to Parents.md
@@ -19,3 +18,4 @@ collections:
       - Cyber Wellness Resources for Parents.md
       - YSS Curriculum and Blended Learning.md
       - YSS Assessment Policy.md
+      - Parent Support Group.md
