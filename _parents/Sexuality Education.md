@@ -38,3 +38,14 @@ You may [click here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 **At Yishun Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
 
 #### SECONDARY 1
+
+
+#### SECONDARY 2
+
+
+
+#### SECONDARY 3
+
+
+
+#### SECONDARY 4
