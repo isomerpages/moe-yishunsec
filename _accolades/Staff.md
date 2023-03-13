@@ -128,64 +128,6 @@ The following staff were recognised for their continued excellence in their serv
 | 6     | School Long Service Award 2022 by Year of Posting to Yishun Secondary School (YSS) Awards are sponsored by YSS School Advisory Committee     | **20 Years of Service:** <br>Mdm Tan Chew Hsia Jacqueline<br><br>**10 Years of Service:** <br> Mr Hoo Yin Hong Alvin (Assistant Year Head/Sec 3) <br>Mdm Maimunah Binte Abdullah (Operations Support Staff)<br><br>**5 Years of Service:** <br> Mr Tay Hiang Soon (Vice-Principal)<br>Mr Jayakumar s/o Navaretnam (Vice-Principal Administration)<br>Ms Widayah Bte Othman (Subject Head/Chemistry)<br>Ms Nithiya d/o Mariappan (Subject Head/English Language)<br>Mdm Cheng Sin Yee (Senior Teacher/Chinese Language)<br>Mr Foung Seng Huat (Teacher)<br>Mr Lee Chye Sheng (Teacher)<br>Mr Lim Meng Teck (Teacher)<br>Mr Shu Yunchao (Teacher)  |
 
 
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-64ni{background-color:#FFF;color:#6B6B6B;text-align:left;vertical-align:top}
-.tg .tg-gaqo{background-color:#FFF;color:#6B6B6B;text-align:center;vertical-align:middle}
-.tg .tg-bfp1{background-color:#9B9B9B;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;text-decoration:underline;
-  vertical-align:top}
-.tg .tg-vra2{background-color:#9B9B9B;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-7xv2{background-color:#FFF;color:#6B6B6B;text-align:left;vertical-align:middle}
-.tg .tg-c7lg{background-color:#FFF;color:#6B6B6B;text-align:left;text-decoration:underline;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bfp1"><span style="font-weight:bold;color:#FFF;background-color:#9B9B9B">S/No</span></th>
-    <th class="tg-vra2"><span style="font-weight:bold;color:#FFF;background-color:#9B9B9B">Award</span></th>
-    <th class="tg-vra2"><span style="font-weight:bold;color:#FFF;background-color:#9B9B9B">Name of Staff</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-gaqo"><span style="color:#000;background-color:transparent">1</span></td>
-    <td class="tg-7xv2"><span style="color:#000;background-color:transparent">National Day Award:</span><br><span style="color:#000;background-color:transparent">The Public Administration Medal (Bronze)</span><br></td>
-    <td class="tg-7xv2"><span style="font-weight:bold">2022</span>: Mr Tay Hiang Soon (Vice-Principal)</td>
-  </tr>
-  <tr>
-    <td class="tg-gaqo"><span style="color:#000;background-color:transparent">2</span></td>
-    <td class="tg-7xv2"><span style="color:#000;background-color:transparent">National Day Award:</span><br><span style="color:#000;background-color:transparent">The Commendation Medal</span><br></td>
-    <td class="tg-7xv2"><span style="font-weight:bold">2022</span>: Mr Gary Sim (Head of Dept/Science)<br><span style="font-weight:bold">2021</span>: Mr Chia Victor (School Staff Developer)</td>
-  </tr>
-  <tr>
-    <td class="tg-gaqo"><span style="color:#000;background-color:transparent">3</span></td>
-    <td class="tg-7xv2"><span style="color:#000;background-color:transparent">National Day Award:</span><br><span style="color:#000;background-color:transparent">The Long Service Medal</span><br></td>
-    <td class="tg-c7lg"><span style="font-weight:bold">2022</span><br> Mr Ng Yew Long (Head of Dept /Discipline)<br>Mdm Faziah Bte Abu Bakar (Head of Dept /Learning Innovation)<br><br><span style="font-weight:bold">2021</span><br>Mr P Tamil Selvam (Assistant Year Head/Sec 2)<br>Mrs Tay Ai Tee (Teacher)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-gaqo"><span style="color:#000;background-color:transparent">4 </span></td>
-    <td class="tg-64ni"><br><br><br><br><br><br><br><br><br><br><br><br><br><span style="color:#000;background-color:transparent">MOE Long Service Award 2022</span><br><span style="color:#000;background-color:transparent">by Date of Appointment in MOE</span><br></td>
-    <td class="tg-c7lg"><span style="font-weight:bold">35 Years of Service</span><br>Mdm Vemala Naguran (Teacher)<br><br><span style="font-weight:bold">25 Years of Service</span><br><span style="background-color:transparent">Mdm Faizah Bte Abu Bakar (Head of Dept /Learning Innovation)</span><br>Mr Ng Yew Long (Head of Dept /Discipline)<br>Mrs Tay Ai Ti (Teacher)<br><br><span style="font-weight:bold">20 Years of Service</span><br><span style="background-color:transparent">Mr Aidil Bin Idris (Head of Dept /PE &amp; CCA)</span><br>Mdm Hairul Bariyah Bte Maksom (Head of Dept /Normal Technical)<br>Mr Tan Kok Young (Assistant Year Head/Sec 2)<br>Mr Li Bin (Teacher)<br>Mr Yeung Chun Nam (Teacher)<br><br><span style="font-weight:bold">15 Years of Service</span><br>Mr Koh Yong Cheng (Year Head/Upper Secondary)Mr Poh Chee Jian (Subject Head/Chinese Language)<br>Mr Zakir Hussain (Teacher)<br>Mdm Zhang Hui (Teacher)<br><br><span style="font-weight:bold">10 Years of Service</span><br>Mdm Rekha Manohar Reddy (Subject Head/History)<br>Mrs Leong Sin Yee (Senior Teacher/Biology)<br>Mr Shu Yunchao (Teacher)<br>Mdm Aisah Bte Bakar (Special Educational Needs Officer)<br><br><span style="font-weight:bold">5 Years of Service</span><br>Mdm Athifah Binte Mohamad Isa (Teacher)<br>Ms Goh Gek Noi Joanne (Teacher)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-gaqo"><span style="color:#000;background-color:transparent"> 5</span></td>
-    <td class="tg-7xv2"><span style="color:#000;background-color:transparent">CCA Service Award 2022</span><br><span style="color:#000;background-color:transparent">5 Years of Service</span><br><span style="color:#000;background-color:transparent">in the National Police Cadet Corps</span></td>
-    <td class="tg-7xv2"> Ms Syhella Binte Sulaiman (Teacher)</td>
-  </tr>
-  <tr>
-    <td class="tg-gaqo"><span style="color:#000;background-color:transparent">6</span></td>
-    <td class="tg-64ni"><br><br><br><br><br><span style="color:#000;background-color:transparent">School Long Service Award 2022</span><br><br><span style="color:#000;background-color:transparent">by Year of Posting to Yishun </span><br><span style="color:#000;background-color:transparent">Secondary School (YSS)</span><br><br><span style="color:#000;background-color:transparent">Awards are sponsored by </span><br><span style="color:#000;background-color:transparent">YSS School Advisory Committee</span><br></td>
-    <td class="tg-c7lg"><span style="font-weight:bold">20 Years of Service</span><br>Mdm Tan Chew Hsia Jacqueline<br><br><br><span style="font-weight:bold">10 Years of Service</span><br>Mr Hoo Yin Hong Alvin (Assistant Year Head/Sec 3)<br>Mdm Maimunah Binte Abdullah (Operations Support Staff)<br><br><br><span style="font-weight:bold">5 Years of Service</span><br>Mr Tay Hiang Soon (Vice-Principal)<br>Mr Jayakumar s/o Navaretnam (Vice-Principal Administration)<br>Ms Widayah Bte Othman (Subject Head/Chemistry)<br>Ms Nithiya d/o Mariappan (Subject Head/English Language)<br>Mdm Cheng Sin Yee (Senior Teacher/Chinese Language)<br>Mr Foung Seng Huat (Teacher)<br>Mr Lee Chye Sheng (Teacher)<br>Mr Lim Meng Teck (Teacher)<br>Mr Shu Yunchao (Teacher)</td>
-  </tr>
-</tbody>
-</table>
-
 ![](/images/Staff6.png)
 
 <style type="text/css">
