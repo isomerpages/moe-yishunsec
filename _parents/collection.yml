@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Parents Gateway.md
       - Information for Parents/.keep
       - Information for Parents/Teachers' Timetable.md
       - Information for Parents/Letters to Parents.md
@@ -14,6 +13,7 @@ collections:
       - Information for Parents/Use of Photographs, Videos and other Media by
         the School.md
       - Information for Parents/Activation of DMA Parent Portal.md
+      - Parents Gateway.md
       - School Calendar.md
       - Cyber Wellness Resources for Parents.md
       - YSS Curriculum and Blended Learning.md
