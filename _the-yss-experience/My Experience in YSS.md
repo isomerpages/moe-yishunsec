@@ -18,12 +18,12 @@ On Saturday, 13 August, our NCC Precision Drill Squad, Indian and Malay dancers 
 <figure><img src="/images/YSS%20Exp/Picture3.jpg"><figcaption>Our proud NCC cadets receiving a token of appreciation from Associate Professor Muhammad Faishal Ibrahim Minister of State for Ministry of Home Affairs & Ministry of National Development Grassroots Adviser to Nee Soon GRC Grassroots Organisations</figcaption></figure>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VHw2sSXNePU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/VHw2sSXNePU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SISnDbEv5Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/SISnDbEv5Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RtdBONcEi3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/RtdBONcEi3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
 
 YSS National Day Celebration 2022
 ---------------------------------
@@ -42,25 +42,23 @@ The National Day celebration returns in full swing to the parade square and hall
 
 Our school’s SAC Chairperson, Mr Andrew Foong and SAC Vice-Chairperson, Mdm Penny Ang were the invited guests for the celebration. The celebration started in the morning on Monday 8 August when our Uniform Groups cadets kick-started the observance ceremony at the parade square. The parade was led by the National Cadet Corps together with contingents from the other Uniformed Groups. This was followed by the singing of the national anthem and reciting of the pledge. After which, Mr Tay, our Vice-Principal, delivered the National Day message to the school. The segment ended on a high note with recitation of the ‘Recollections’ which reminded us of the challenges overcame by Singapore as a young nation.
 
-	
-![](/images/YSS%20Exp/Picture1%20(1).jpg)
-From left: Vice-Principal Mr Michael Tan, SAC Vice-Chairperson Mdm Penny Ang, SAC Chairperson Mr Andrew Foong, Vice-Principal Mr Jayakumar.
+<figure><img src="/images/YSS%20Exp/Picture1%20(1).jpg"><figcaption>From left: Vice-Principal Mr Michael Tan, SAC Vice-Chairperson Mdm Penny Ang, SAC Chairperson Mr Andrew Foong, Vice-Principal Mr Jayakumar</figcaption></figure>
 
-![](/images/YSS%20Exp/Picture2%20(1).jpg)
-The parade commander inviting our Vice-Principal Mr Tay to inspect the parade.
-	
-![](/images/YSS%20Exp/Picture3%20(1).jpg)	Ceremonial conduct of reciting the pledge during observance ceremony.
 
-![](/images/YSS%20Exp/Picture4.jpg)
-Proud moment for the cadets of the uniformed groups as they posed after a well-coordinated parade.
+<figure><img src="/images/YSS%20Exp/Picture2%20(1).jpg"><figcaption>The parade commander inviting our Vice-Principal Mr Tay to inspect the parade</figcaption></figure>
+
+<figure><img src="/images/YSS%20Exp/Picture3%20(1).jpg"><figcaption>Ceremonial conduct of reciting the pledge during observance ceremony</figcaption></figure>
+	
+
+<figure><img src="/images/YSS%20Exp/Picture4.jpg"><figcaption>Proud moment for the cadets of the uniformed groups as they posed after a well-coordinated parade.</figcaption></figure>
+
 
 
 Next, students immersed themselves in a craft activity in the classrooms to create coasters from red and white Perler beads. Students are reminded of the values of unity and equality of all races represented by the colours of the Singapore flag.
 
 
+<figure><img src="/images/YSS%20Exp/Picture5.jpg"><figcaption>Fun during class activity, teacher and students showing their Perler beads creations which symbolise their love and pride for the nation.	</figcaption></figure>
 
-![](/images/YSS%20Exp/Picture5.jpg)
-Fun during class activity, teacher and students showing their Perler beads creations which symbolise their love and pride for the nation.	
 
 
 All staff and students congregated at the hall for the last segment. The concert segment was a manifestation of the vibrance of youth and diversity of Singapore. 
@@ -68,19 +66,16 @@ All staff and students congregated at the hall for the last segment. The concert
 The school witnessed an eye-opening performance from NCC Precision Drill Squad (PDS) which showcased their rifle drills.
 
 
+<figure><img src="/images/YSS%20Exp/Picture6.jpg"><figcaption>The sleek precise moves of the NCC PDS during their rifle drills showcase.	</figcaption></figure>
 	
-![](/images/YSS%20Exp/Picture6.jpg)
-The sleek precise moves of the NCC PDS during their rifle drills showcase.
 
 
 In conjunction with the 55th anniversary of National Service in Singapore, students were engaged through a sharing of personal stories and successes in the face of adversity from a SAF veteran who is a Commitment to Defence (C2D) ambassador. 
 
 As part of the school’s recognition and affirmation to the efforts and sacrifices contributed by NSmen, an in-house ceremony to present the certificate of appreciation to staff who are NSmen currently serving the Operationally Ready National Service (ORNS) was carried out. The special moment inspires the students to play a part and contribute to the security and solidarity of our nation.
 
-
+<figure><img src="/images/YSS%20Exp/Picture7.jpg"><figcaption>A memorable photo of Vice-Princpals, SAC Chairperson and SAC Vice-Chairperson taken with our male staff who are NSmen currently serving the Operationally Ready National Service.</figcaption></figure>
 	
-![](/images/YSS%20Exp/Picture7.jpg)
-A memorable photo of Vice-Princpals, SAC Chairperson and SAC Vice-Chairperson taken with our male staff who are NSmen currently serving the Operationally Ready National Service.
 
 
 The concert band gave a spectacular performance which simulated the experience in a grand concert hall. 
