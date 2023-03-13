@@ -4,8 +4,8 @@ permalink: /the-yss-experience/Distinctive-Programmes/llp/
 description: ""
 third_nav_title: Distinctive Programmes
 ---
-**‘LEADING WITH EMPATHY, SERVING WITH COMPASSION THROUGH THE ARTS’**   
----
+### **‘LEADING WITH EMPATHY, SERVING WITH COMPASSION THROUGH THE ARTS’**   
+
   
 
 Yishun Secondary School’s (YSS) LLP in Community Youth Leadership (CYL) focuses on honing leadership skills in students and cultivating a sense of belonging to the community through purposeful service.  
