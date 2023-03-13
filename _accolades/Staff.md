@@ -20,6 +20,23 @@ Besides the once-in-10 days Timetabled Time within curriculum time for the PLTs 
 
 At the end of each year, PLTs share their learning at the annual school-based Learning Festival.  Some PLTs and individuals have also shared their lesson packages at national platforms organised by our partners. Our School Leaders would like to acknowledge the following PLT and staff who shared at various beyond school-level platforms in 2022:
 
+
+
+| S/No | 	Staff/Unit | Title| Platform |
+| -------- | -------- | -------- | -------- |
+| 1     | 	Dr Goh Poh Huat <br>Master Teacher/ Chinese Language     | Keynote Address: What is e-Pedagogy?     | N2 Cluster Teachers’ Leader Symposium 2022     |
+| 2     | Mrs Simmi Govindani <br>Lead Teacher/ Mathematics     | Brain Based Learning     | North Zone Subject Group (Secondary Mathematics)     |
+| 3     | Mrs Simmi Govindani <br>Lead Teacher / Mathematics <br>Mrs Leong Sin Yee <br>Senior Teacher/ Biology     | Text     | Text     |
+| 4     | Text     | Text     | Text     |
+| 5     | Text     | Text     | Text     |
+| 6     | Text     | Text     | Text     |
+| 7     | Text     | Text     | Text     |
+| 8     | Text     | Text     | Text     |
+| 9     | Text     | Text     | Text     |
+
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
