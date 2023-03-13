@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Personalised Digital Learning Programme (PDLP).md
       - Information for Parents/.keep
       - Information for Parents/Teachers' Timetable.md
       - Information for Parents/Letters to Parents.md
