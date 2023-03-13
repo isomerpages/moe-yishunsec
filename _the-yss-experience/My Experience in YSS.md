@@ -80,10 +80,8 @@ As part of the school’s recognition and affirmation to the efforts and sacrifi
 
 The concert band gave a spectacular performance which simulated the experience in a grand concert hall. 
 
-
+<figure><img src="/images/YSS%20Exp/Picture8.jpg"><figcaption>YSS Concert Band played two pieces, titled Portrait of a Clown by Frank Ticheli and Pirates of the Caribbean arranged by Michael Sweeney.</figcaption></figure>
 	
-![](/images/YSS%20Exp/Picture8.jpg)
-YSS Concert Band played two pieces, titled Portrait of a Clown by Frank Ticheli and Pirates of the Caribbean arranged by Michael Sweeney.
 
 
 There was an air of excitement on the next segment as the contestants of the Vocalistic finals competition battled it out to give their rendition of yester year’s National Day songs. The results will be released during Teachers’ Day celebration.
@@ -95,9 +93,8 @@ Students were treated with an inspiring version of ‘We Are Singapore’ perfor
 This celebration ended off with the community singing of the evergreen song ‘Our Singapore’ and this year’s National Day theme song ‘Stronger Together’. Despite being masked, Yishunites gamely sang along with much gusto to the rendition of the songs. 
 
 
+<figure><img src="/images/YSS%20Exp/Picture9.jpg"><figcaption>All the performers for the day were on stage, leading the community singing during the finale of the concert</figcaption></figure>
 
-![](/images/YSS%20Exp/Picture9.jpg)
-All the performers for the day were on stage, leading the community singing during the finale of the concert.
 
 
 It is heartening to see students enjoyed the unique celebration and the togetherness shown in all the classes, embodying the theme for this year’s national day, ‘Stronger Together, Majulah!’.
