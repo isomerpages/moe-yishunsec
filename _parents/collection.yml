@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Sexuality Education.md
       - Information for Parents/.keep
       - Information for Parents/Teachers' Timetable.md
       - Information for Parents/Letters to Parents.md
@@ -21,3 +20,4 @@ collections:
       - YSS Curriculum and Blended Learning.md
       - YSS Assessment Policy.md
       - Parent Support Group.md
+      - Sexuality Education.md
