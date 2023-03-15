@@ -14,7 +14,7 @@ sections:
         - title: School Calendar
           description: Upcoming Events & Activities
           url: /parents/schoolcalendar/
-        - title: Quick Links
+        - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
