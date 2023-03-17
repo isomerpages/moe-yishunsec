@@ -6,6 +6,11 @@ third_nav_title: Information for Parents
 ---
 ### Parents Termly Letters
 
+##### Term 2
+* [Information letter to parents term 2- 17 Mar 2023](/files/Letter%20to%20Parents/Information%20letter%20to%20parents_term%202_2023.pdf)
+* [POSITIVE PARENTING PROGRAMME - 15 Mar 2023](/files/Letter%20to%20Parents/POSITIVE%20PARENTING%20PROGRAMME.pdf)
+
+
 ##### Term 1
 
 * [End of Term 1 2023 - 8 Mar 2023](/files/Parents/Letter%20to%20Parents/End%20of%20Term%201%202023%20-%208%20Mar%202023.pdf)
