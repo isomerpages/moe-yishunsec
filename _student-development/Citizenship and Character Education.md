@@ -34,6 +34,14 @@ Our school also received the following awards:
 
 ![](/images/StudDevelopment/CCE/CCE-2.jpg)
 
+#### North West Outstanding School Partner Award (SPA) 2023
+We are pleased to share that our school has achieved the Silver for North West Outstanding School Partner Award (SPA) 2023. The award is given to schools that had participated actively in North West CDC programmes in 2022.
+
+Let us continue to nurture our students to be socially responsible citizens and affirm their effort in contributing to the community!
+
+![](/images/StudDevelopment/CCE/CCE-2.png)
+
+
 #### Secondary 1 Welcome Tea Party for International, Permanent Resident and Returning Singaporean students
 
 A ‘Welcome Tea Party’ for International Students and Permanent Resident (ISPR) as well as returning Singaporean students from Secondary 1 to mingle with NE & VIA Champs of their classes, was held on Friday 24 February. There were three Secondary 2 students who joined in, returning Singaporeans (two students) and newly transferred in to our school (one student). Their class NE & VIA Champs were also invited. 
