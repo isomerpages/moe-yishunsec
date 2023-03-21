@@ -204,16 +204,9 @@ understand that we need moral courage and wisdom to recognise and end relationsh
 		<td>Term 2 Week 1</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
-  </tr>
-	  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>There’s Always More to a Story Lesson 4 (60 mins)</td>
+    <td>In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger.</td>
+    <td><ul><li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</ul></li></td>
 		<td></td>
 		<td></td>
   </tr>
