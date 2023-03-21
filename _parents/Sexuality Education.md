@@ -212,20 +212,6 @@ Lesson 1 (60 mins)</td>
 		<td></td>
 		<td></td>
   </tr>
-		  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
-  </tr>
-			  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
-  </tr>
 </table>
 
 
