@@ -59,34 +59,35 @@ tr:nth-child(even) {
 <table>
   <tr>
     <th>UNIT</th>
-    <th>LESSONS / DURATION</th>
+    <th>LESSONS/DURATION</th>
     <th>LESSON OVERVIEW</th>
-		<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
-		<th>TIME PERIOD</th>
+	<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
+	<th>TIME PERIOD</th>
   </tr>
  <tr>
     <th rowspan="3">Respectful Relationships & Safety</th>
-    <td>Steady or Not
-Lesson 1 (60 mins)</td>
+    <td>Steady or Not Lesson 1 (60 mins)</td>
     <td>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline. </td>
-		<td><ul><li>recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
-			<li>recognize that there are different forms of love (e.g. familial, platonic, romantic love)</li>
-<li>recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li>
-<li>understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li></ul></td>
-		<td>Term 2 Week 1</td>
+	<td><ul><li>recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
+		<li>recognize that there are different forms of love (e.g. familial, platonic, romantic love)</li>
+		<li>recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li>
+		<li>understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li></ul></td>
+	<td>Term 2 Week 1</td>
   </tr>
+  
   <tr>
     <td>Being Aware, Being Safe Lesson 2 (60 mins)</td>
     <td>This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br> <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td><ul><li>understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</ul></li></td>
-		<td>Term 2 Week 4</td>
-  </tr>
+    <td><ul><li>understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</li></ul></td>
+	<td>Term 2 Week 4</td>
+</tr>
+  
   <tr>
     <td>More than Meets the Eye Lesson 3 (60 mins)</td>
     <td>This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. <br> <br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-		<td><ul><li>understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
+	<td><ul><li>understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
 <li>recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li></ul></td>
-		<td>Term 2 Week 8</td>
+	<td>Term 2 Week 8</td>
 </tr>
 </table>
 
@@ -139,10 +140,10 @@ Lesson 1 (60 mins)</td>
     <td rowspan="3">Respectful Relationships & Safety</td>
     <td>Love Yourself, Love Others Lesson 1A (60 mins)</td>
     <td>This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</td>
-		<td><ul><li>know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline. </li>
+	<td><ul><li>know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline. </li>
 <li>understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours. </li>
 <li>recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship. </li></ul></td>
-		<td>Term 1 Week 2</td>
+	<td>Term 1 Week 2</td>
  </tr>
  <tr>
     <td>Mending a Broken Heart Lesson 1B (60 mins)</td>
@@ -170,17 +171,17 @@ Lesson 1 (60 mins)</td>
     <th>UNIT</th>
     <th>LESSONS / DURATION</th>
     <th>LESSON OVERVIEW</th>
-		<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
-		<th>TIME PERIOD</th>		
+	<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
+	<th>TIME PERIOD</th>		
   </tr>
   <tr>
     <td rowspan="4">Respectful Relationships & Safety</td>
     <td>Levelling the Ground Lesson 1 (60 mins)</td>
     <td>This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
-		<td><ul><li>understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</li>
+	<td><ul><li>understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</li>
 <li>understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li> 
 <li>know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. </li></ul></td>
-		<td>Term 1 Week 6</td>
+	<td>Term 1 Week 6</td>
  </tr>
  <tr>
     <td>When Love Hurts Lesson 2 (60 mins)</td>
@@ -189,7 +190,7 @@ Lesson 1 (60 mins)</td>
 <li>recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims. 
 understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.</li> 
 <li>understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</li></ul></td>
-		<td>Term 1 Week 9</td>
+	<td>Term 1 Week 9</td>
  </tr>
  <tr>
     <td>For Better or For Worse Lesson 3 (60 mins)</td>
@@ -197,13 +198,13 @@ understand that we need moral courage and wisdom to recognise and end relationsh
     <td><ul><li>know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  </li>
 <li>know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort. </li>
 <li>understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</li></ul></td>
-		<td>Term 2 Week 1</td>
+	<td>Term 2 Week 1</td>
  </tr>
  <tr>
     <td>There’s Always More to a Story Lesson 4 (60 mins)</td>
     <td>In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger.</td>
     <td><ul><li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li></ul></td>
-		<td>Term 3 Week 2</td>
+	<td>Term 3 Week 2</td>
 </tr>
 </table>
 
@@ -214,16 +215,16 @@ understand that we need moral courage and wisdom to recognise and end relationsh
     <th>UNIT</th>
     <th>LESSONS / DURATION</th>
     <th>LESSON OVERVIEW</th>
-		<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
-		<th>TIME PERIOD</th>		
+	<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
+	<th>TIME PERIOD</th>		
  </tr>
  <tr>
     <td rowspan="3">Respectful Relationships & Safety</td>
     <td>This is Where I Draw the Line (60 mins)</td>
     <td>In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </td>
 		<td><ul><li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li></ul></td>
-		<td>Term 1 Week 6</td>
- </tr>
+	<td>Term 1 Week 6</td>
+</tr>
 </table>
 
 
