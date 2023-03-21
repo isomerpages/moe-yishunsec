@@ -178,7 +178,7 @@ Lesson 1 (60 mins)</td>
 				
   </tr>
   <tr>
-    <td>Respectful Relationships & Safety</td>
+    <td rowspan="3">Respectful Relationships & Safety</td>
     <td>Levelling the Ground Lesson 1 (60 mins)</td>
     <td>This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
 		<td><ul><li>understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</li>
@@ -193,15 +193,15 @@ Lesson 1 (60 mins)</td>
 <li>recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims. 
 understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.</li> 
 <li>understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</li></ul></td>
-		<td></td>
-		<td></td>
+		<td>Term 1 Week 9</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
+    <td>For Better or For Worse Lesson 3 (60 mins)</td>
+    <td>This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other. </td>
+    <td><ul><li>know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  </li>
+<li>know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort. </li>
+<li>understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</li></ul></td>
+		<td>Term 2 Week 1</td>
   </tr>
   <tr>
     <td></td>
@@ -231,7 +231,7 @@ understand that we need moral courage and wisdom to recognise and end relationsh
 				
   </tr>
   <tr>
-    <td>Respectful Relationships & Safety</td>
+    <td rowspan="3">Respectful Relationships & Safety</td>
     <td> </td>
     <td></td>
 		<td></td>
@@ -265,20 +265,7 @@ understand that we need moral courage and wisdom to recognise and end relationsh
 		<td></td>
 		<td></td>
   </tr>
-		  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
-  </tr>
-			  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
-  </tr>
+
 </table>
 
 
