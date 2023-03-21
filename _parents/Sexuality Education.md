@@ -38,29 +38,81 @@ You may [click here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 **At Yishun Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
 
 <style>
-table, th, td {
-  border:1px solid black;
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
 }
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+
 </style>
-<body>
-
-<h2>A basic HTML table</h2>
-
-<table style="width:100%">
+<h4>SECONDARY 1</h4>
+<table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>UNIT</th>
+    <th>LESSONS / DURATION</th>
+    <th>Lesson Overview</th>
+		<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
+		<th>TIME PERIOD</th>
+				
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Respectful Relationships & Safety</td>
+    <td> </td>
+    <td></td>
+		<td></td>
+		<td></td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td></td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+  </tr>
+	  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+  </tr>
+		  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
+  </tr>
+			  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+		<td></td>
+		<td></td>
   </tr>
 </table>
 
