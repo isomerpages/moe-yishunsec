@@ -163,34 +163,6 @@ Lesson 1 (60 mins)</td>
 		<td>Term 1 Week 9</td>
 
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-
-  </tr>
-	  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-
-  </tr>
-		  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-
-  </tr>
-			  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-
-  </tr>
 </table>
 
 
