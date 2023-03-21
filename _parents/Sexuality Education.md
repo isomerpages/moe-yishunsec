@@ -143,8 +143,8 @@ Lesson 1 (60 mins)</td>
 <li>understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours. </li>
 <li>recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship. </li></ul></td>
 		<td>Term 1 Week 2</td>
-  </tr>
-  <tr>
+ </tr>
+ <tr>
     <td>Mending a Broken Heart Lesson 1B (60 mins)</td>
     <td>Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</td>
     <td><ul><li>know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges. </li>
@@ -152,15 +152,14 @@ Lesson 1 (60 mins)</td>
 <li>know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.</li> 
 <li>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. </li></ul></td>
 		<td>Term 1 Week 6</td>
-  </tr>
-  <tr>
+ </tr>
+ <tr>
     <td>When Respect Takes Centre Stage Lesson 2 (60 mins)</td>
     <td>This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</td>
     <td><ul><li>recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.</li>
 <li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li></ul></td>
-		<td>Term 1 Week 9</td>
-
-  </tr>
+<td>Term 1 Week 9</td>
+</tr>
 </table>
 
 
@@ -172,8 +171,7 @@ Lesson 1 (60 mins)</td>
     <th>LESSONS / DURATION</th>
     <th>LESSON OVERVIEW</th>
 		<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
-		<th>TIME PERIOD</th>
-				
+		<th>TIME PERIOD</th>		
   </tr>
   <tr>
     <td rowspan="4">Respectful Relationships & Safety</td>
@@ -183,8 +181,8 @@ Lesson 1 (60 mins)</td>
 <li>understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li> 
 <li>know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. </li></ul></td>
 		<td>Term 1 Week 6</td>
-  </tr>
-  <tr>
+ </tr>
+ <tr>
     <td>When Love Hurts Lesson 2 (60 mins)</td>
     <td>This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.</td>
     <td><ul><li>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. </li>
@@ -192,21 +190,21 @@ Lesson 1 (60 mins)</td>
 understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.</li> 
 <li>understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</li></ul></td>
 		<td>Term 1 Week 9</td>
-  </tr>
-  <tr>
+ </tr>
+ <tr>
     <td>For Better or For Worse Lesson 3 (60 mins)</td>
     <td>This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other. </td>
     <td><ul><li>know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  </li>
 <li>know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort. </li>
 <li>understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</li></ul></td>
 		<td>Term 2 Week 1</td>
-  </tr>
-  <tr>
+ </tr>
+ <tr>
     <td>There’s Always More to a Story Lesson 4 (60 mins)</td>
     <td>In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger.</td>
-    <td><ul><li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</ul></li></td>
+    <td><ul><li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li></ul></td>
 		<td>Term 3 Week 2</td>
-  </tr>
+</tr>
 </table>
 
 
@@ -217,16 +215,15 @@ understand that we need moral courage and wisdom to recognise and end relationsh
     <th>LESSONS / DURATION</th>
     <th>LESSON OVERVIEW</th>
 		<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
-		<th>TIME PERIOD</th>
-				
-  </tr>
-  <tr>
+		<th>TIME PERIOD</th>		
+ </tr>
+ <tr>
     <td rowspan="3">Respectful Relationships & Safety</td>
     <td>This is Where I Draw the Line (60 mins)</td>
     <td>In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </td>
 		<td><ul><li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li></ul></td>
 		<td>Term 1 Week 6</td>
-  </tr>
+ </tr>
 </table>
 
 
