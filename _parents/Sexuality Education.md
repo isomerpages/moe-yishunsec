@@ -107,7 +107,7 @@ Lesson 1 (60 mins)</td>
     <td>This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses. <br> <br> Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.  <br> <br> Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</td>
 		<td><ul><li>know that one’s understanding of gender roles should not be limited by gender stereotypes</li>
 <li>develop an appreciation of one’s own unique qualities and characteristics as a male or female</li>
-<li>understand what sexual orientation entails</ul></li></td>
+			<li>understand what sexual orientation entails</li></ul></td>
 		<td>Term 2 Week 1</td>
   </tr>
   <tr>
