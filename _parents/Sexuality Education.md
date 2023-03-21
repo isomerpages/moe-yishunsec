@@ -80,7 +80,7 @@ Lesson 1 (60 mins)</td>
     <td>Being Aware, Being Safe Lesson 2 (60 mins)</td>
     <td>This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
     <td><ul><li>understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</ul></li></td>
-		<td></td>
+		<td>Term 2 Week 4</td>
   </tr>
   <tr>
     <td></td>
