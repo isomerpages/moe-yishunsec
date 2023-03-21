@@ -60,7 +60,7 @@ tr:nth-child(even) {
   <tr>
     <th>UNIT</th>
     <th>LESSONS / DURATION</th>
-    <th>Lesson Overview</th>
+    <th>LESSON OVERVIEW</th>
 		<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
 		<th>TIME PERIOD</th>
 				
