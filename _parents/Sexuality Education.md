@@ -97,13 +97,13 @@ Lesson 1 (60 mins)</td>
   <tr>
     <th>UNIT</th>
     <th>LESSONS / DURATION</th>
-    <th>Lesson Overview</th>
+    <th>LESSON OVERVIEW</th>
 		<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
 		<th>TIME PERIOD</th>
 				
   </tr>
   <tr>
-    <td>Respectful Relationships & Safety</td>
+    <td rowspan="3">Respectful Relationships & Safety</td>
     <td> </td>
     <td></td>
 		<td></td>
@@ -137,20 +137,7 @@ Lesson 1 (60 mins)</td>
 		<td></td>
 		<td></td>
   </tr>
-		  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
-  </tr>
-			  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
-  </tr>
+
 </table>
 
 <h4>SECONDARY 3</h4>
@@ -158,7 +145,7 @@ Lesson 1 (60 mins)</td>
   <tr>
     <th>UNIT</th>
     <th>LESSONS / DURATION</th>
-    <th>Lesson Overview</th>
+    <th>LESSON OVERVIEW</th>
 		<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
 		<th>TIME PERIOD</th>
 				
@@ -221,7 +208,7 @@ Lesson 1 (60 mins)</td>
   <tr>
     <th>UNIT</th>
     <th>LESSONS / DURATION</th>
-    <th>Lesson Overview</th>
+    <th>LESSON OVERVIEW</th>
 		<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
 		<th>TIME PERIOD</th>
 				
@@ -283,7 +270,7 @@ Lesson 1 (60 mins)</td>
   <tr>
     <th>UNIT</th>
     <th>LESSONS / DURATION</th>
-    <th>Lesson Overview</th>
+    <th>LESSON OVERVIEW</th>
 		<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
 		<th>TIME PERIOD</th>
 				
