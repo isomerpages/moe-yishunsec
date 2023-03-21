@@ -178,7 +178,7 @@ Lesson 1 (60 mins)</td>
 				
   </tr>
   <tr>
-    <td rowspan="3">Respectful Relationships & Safety</td>
+    <td rowspan="4">Respectful Relationships & Safety</td>
     <td>Levelling the Ground Lesson 1 (60 mins)</td>
     <td>This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
 		<td><ul><li>understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</li>
@@ -207,8 +207,7 @@ understand that we need moral courage and wisdom to recognise and end relationsh
     <td>There’s Always More to a Story Lesson 4 (60 mins)</td>
     <td>In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger.</td>
     <td><ul><li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</ul></li></td>
-		<td></td>
-		<td></td>
+		<td>Term 3 Week 2</td>
   </tr>
 </table>
 
