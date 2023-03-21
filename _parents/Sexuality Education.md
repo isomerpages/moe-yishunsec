@@ -104,7 +104,7 @@ Lesson 1 (60 mins)</td>
   </tr>
   <tr>
     <td rowspan="3">Respectful Relationships & Safety</td>
-    <td> </td>
+    <td>A Role for Everyone Lesson 1 (60 mins)</td>
     <td></td>
 		<td></td>
 		<td></td>
