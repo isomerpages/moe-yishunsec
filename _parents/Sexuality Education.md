@@ -122,8 +122,7 @@ Lesson 1 (60 mins)</td>
     <td><ul><li>recognise the importance of self-respect and respect for others in relating to members of the opposite gender </li>
 <li>recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</li></ul></td>
 		<td>Term 2 Week 8</td>
-  </tr>
-
+</tr>
 </table>
 
 <h4>SECONDARY 3</h4>
