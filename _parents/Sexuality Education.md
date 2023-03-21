@@ -53,8 +53,8 @@ td, th {
 tr:nth-child(even) {
   background-color: #99ccff;
 }
-
 </style>
+
 <h4>SECONDARY 1</h4>
 <table>
   <tr>
@@ -63,9 +63,8 @@ tr:nth-child(even) {
     <th>LESSON OVERVIEW</th>
 		<th>LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
 		<th>TIME PERIOD</th>
-				
   </tr>
-  <tr>
+ <tr>
     <th rowspan="3">Respectful Relationships & Safety</th>
     <td>Steady or Not
 Lesson 1 (60 mins)</td>
