@@ -67,10 +67,14 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Respectful Relationships & Safety</td>
-    <td> </td>
-    <td></td>
-		<td></td>
-		<td></td>
+    <td>Steady or Not
+Lesson 1 (60 mins)</td>
+    <td>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline. </td>
+		<td><ul><li>recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
+			<li>recognize that there are different forms of love (e.g. familial, platonic, romantic love)</li>
+<li>recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li>
+<li>understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li></ul></td>
+		<td>Term 2 Week 1</td>
   </tr>
   <tr>
     <td></td>
