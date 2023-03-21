@@ -138,7 +138,7 @@ Lesson 1 (60 mins)</td>
 				
   </tr>
   <tr>
-    <td>Respectful Relationships & Safety</td>
+    <td rowspan="3">Respectful Relationships & Safety</td>
     <td>Love Yourself, Love Others Lesson 1A (60 mins)</td>
     <td>This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</td>
 		<td><ul><li>know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline. </li>
@@ -147,46 +147,48 @@ Lesson 1 (60 mins)</td>
 		<td>Term 1 Week 2</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
+    <td>Mending a Broken Heart Lesson 1B (60 mins)</td>
+    <td>Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</td>
+    <td><ul><li>know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges. </li>
+			<li>know that a decision to end a relationship will have consequences on oneself and others. </li>
+<li>know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.</li> 
+<li>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. </li></ul></td>
+		<td>Term 1 Week 6</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td></td>
 		<td></td>
-		<td></td>
+
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td></td>
 		<td></td>
-		<td></td>
+
   </tr>
 	  <tr>
     <td></td>
     <td></td>
     <td></td>
 		<td></td>
-		<td></td>
+
   </tr>
 		  <tr>
     <td></td>
     <td></td>
     <td></td>
 		<td></td>
-		<td></td>
+
   </tr>
 			  <tr>
     <td></td>
     <td></td>
     <td></td>
 		<td></td>
-		<td></td>
+
   </tr>
 </table>
 
