@@ -254,8 +254,7 @@ understand that we need moral courage and wisdom to recognise and end relationsh
     <td >Classroom-based Lesson</td>
 		<td><ul><li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</li></ul></td>
     <td>Term 3 Week 8</td>
-  </tr>
-	
+</tr>
 </table>
 
 
