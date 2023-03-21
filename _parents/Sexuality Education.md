@@ -139,10 +139,12 @@ Lesson 1 (60 mins)</td>
   </tr>
   <tr>
     <td>Respectful Relationships & Safety</td>
-    <td> </td>
-    <td></td>
-		<td></td>
-		<td></td>
+    <td>Love Yourself, Love Others Lesson 1A (60 mins)</td>
+    <td>This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</td>
+		<td><ul><li>know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline. </li>
+<li>understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours. </li>
+<li>recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship. </li></ul></td>
+		<td>Term 1 Week 2</td>
   </tr>
   <tr>
     <td></td>
