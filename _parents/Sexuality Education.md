@@ -87,7 +87,7 @@ Lesson 1 (60 mins)</td>
 		<td><ul><li>understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
 <li>recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li></ul></td>
 		<td>Term 2 Week 8</td>
-  </tr>
+</tr>
 </table>
 
 
