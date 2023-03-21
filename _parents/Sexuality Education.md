@@ -224,40 +224,11 @@ understand that we need moral courage and wisdom to recognise and end relationsh
   </tr>
   <tr>
     <td rowspan="3">Respectful Relationships & Safety</td>
-    <td> </td>
-    <td></td>
-		<td></td>
-		<td></td>
+    <td>This is Where I Draw the Line (60 mins)</td>
+    <td>In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </td>
+		<td><ul><li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li></ul></td>
+		<td>Term 1 Week 6</td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
-  </tr>
-	  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-		<td></td>
-		<td></td>
-  </tr>
-
 </table>
 
 
