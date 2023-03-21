@@ -240,7 +240,28 @@ understand that we need moral courage and wisdom to recognise and end relationsh
 
 **At Yishun Secondary School, the eTeens programme will be implemented as follows in 2023:**
 
-
+<table>
+  <tr>
+    <th>Topics / Lessons</th>
+    <th>Programme Learning Objectives</th>
+    <th>Time Period</th>
+					
+  </tr>
+  <tr>
+    <td >Mass Talk by HPB appointed vendor</td>
+		<td><ul><li>Awareness of the different STIs and HIV/AIDS</li>
+			<li>Modes of transmission</li>
+			<li>Modes of protection, specifically on how the condom is used</li>
+<li>Consequences and impact of STIs/HIV</td>
+    <td>Term 3 Week 3</td>
+  </tr>
+	<tr>
+    <td >Classroom-based Lesson</td>
+		<td><ul><li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</li></ul></td>
+    <td>Term 3 Week 3</td>
+  </tr>
+	
+</table>
 
 
 
