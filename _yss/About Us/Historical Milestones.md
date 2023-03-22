@@ -4,9 +4,6 @@ permalink: /yss/milestone/
 description: ""
 third_nav_title: About Us
 ---
-
-
-
 <style>
 table {
   font-family: arial, sans-serif;
@@ -21,9 +18,10 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #99ccff;
 }
 </style>
+
 <table class="tg">
 <tbody>
 	<tr>
