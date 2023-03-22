@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - MOE FAS Application.md
       - Information for Parents/.keep
       - Information for Parents/Letters to Parents.md
       - Information for Parents/Form Teachers List.md
@@ -22,3 +21,4 @@ collections:
       - YSS Assessment Policy.md
       - Parent Support Group.md
       - Sexuality Education.md
+      - MOE FAS Application.md
