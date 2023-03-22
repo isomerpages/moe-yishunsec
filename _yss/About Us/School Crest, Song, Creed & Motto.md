@@ -4,11 +4,8 @@ permalink: /yss/song/
 description: ""
 third_nav_title: About Us
 ---
+### School Crest
 
-
-
-School Crest:
--------------
 <img src="/images/school-crest1.png" style="width:30%">
 
 Our School Crest is in the shape of a drop of water that symbolises the thirst for knowledge.
@@ -22,8 +19,8 @@ The progressive growth of the branches indicates the different stages of learnin
 
 The circle represents the fruits of labour that can be achieved through dedication, determination and self-discipline.
 
-School Song:
-------------
+### School Song
+
 
 **Verse 1**
 
@@ -58,8 +55,8 @@ Music by: J.J de Souza
 
 Lyrics by: Mdm. Azizah Bte Abdul Rahim, Mrs. Lim Poh Khim and Miss Sentha
 
-School Creed:
--------------
+### School Creed
+
 <center>
 As true Yishunites,
 <br>We strive to be committed to our work and play,
@@ -70,7 +67,7 @@ As true Yishunites,
 <br>If it is to be, It is up to you and me.
 </center>	
 	
-Our Motto:
-----------
+### Our Motto
+
 
 <center>We Seek, We Strive, We Soar</center>
