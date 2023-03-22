@@ -21,7 +21,6 @@ tr:nth-child(even) {
   background-color: #99ccff;
 }
 </style>
-
 <table class="tg">
 <tbody>
 	<tr>
