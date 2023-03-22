@@ -51,9 +51,9 @@ Your motto builds a strength of will
 </center>
   
 
-Music by: J.J de Souza
+*Music by: J.J de Souza*
 
-Lyrics by: Mdm. Azizah Bte Abdul Rahim, Mrs. Lim Poh Khim and Miss Sentha
+*Lyrics by: Mdm. Azizah Bte Abdul Rahim, Mrs. Lim Poh Khim and Miss Sentha*
 
 ### School Creed
 
