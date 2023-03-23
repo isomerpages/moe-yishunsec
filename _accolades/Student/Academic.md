@@ -11,46 +11,50 @@ _Congratulations to our Secondary 5 Normal Academic students!_ 
   
 #### 5NA students who achieved L1B4 < 20
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-wxpu{background-color:#E8EDFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;text-decoration:underline;
-  vertical-align:middle}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+
 </style>
-<table class="tg">
-<thead>
+
+<table>
   <tr>
-    <th class="tg-wxpu"><span style="color:#222">Class</span></th>
-    <th class="tg-xwen"><span style="color:#222">Name</span></th>
-    <th class="tg-xwen"><span style="color:#222">L1B4</span></th>
-    <th class="tg-xwen"><span style="color:#222">CCA</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222">5N1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Han Hui Millicent</span></td>
-    <td class="tg-lr6o"><span style="color:#222">11</span></td>
-    <td class="tg-lr6o"><span style="color:#222">NPCC, Staff Sergeant</span></td>
+    <th>Class</th>
+    <th>Name</th>
+    <th>L1B4</th>
+    <th>CCA</th>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">5N1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Akshaya D/O Elangovan</span><br></td>
-    <td class="tg-lr6o"><span style="color:#222">14</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Indian Dance, Upper Sec CCA Executive Committee</span><br></td>
+    <td>5N1</td>
+    <td>Han Hui Millicent</td>
+    <td>11</td>
+    <td>NPCC, Staff Sergeant</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">5N1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Ravishankar Kavitha Deeptee Shivaanee</span><br></td>
-    <td class="tg-lr6o"><span style="color:#222">18</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Indian Dance, Upper Sec CCA Executive Committee</span></td>
+    <td>5N1</td>
+    <td>Akshaya D/O Elangovan</td>
+    <td>14</td>
+    <td>Indian Dance, Upper Sec CCA Executive Committee</td>
   </tr>
-</tbody>
+  <tr>
+    <td>5N1</td>
+    <td>Ravishankar Kavitha Deeptee Shivaanee</td>
+    <td>18</td>
+    <td>Indian Dance, Upper Sec CCA Executive Committee</td>
+  </tr>
 </table>
 
 ![](/images/5NA_1.jpeg)
@@ -70,106 +74,92 @@ _Congratulations to our Secondary 4 Express students!_ 
   
 #### 4E students who achieved L1R5 < 12
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-wxpu{background-color:#E8EDFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;text-decoration:underline;
-  vertical-align:middle}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
+
+<table>
   <tr>
-    <th class="tg-wxpu"><span style="color:#222">Class</span></th>
-    <th class="tg-xwen"><span style="color:#222">Name</span></th>
-    <th class="tg-xwen"><span style="color:#222">L1R5 / Distinction</span></th>
-    <th class="tg-xwen"><span style="color:#222">CCA</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222">4E1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Abdul Latheef Ainul Bina</span><br></td>
-    <td class="tg-lr6o"><span style="color:#222">8/6</span></td>
-    <td class="tg-lr6o"><span style="color:#222">D’Lite (English Drama), Upper Sec CCA Executive Committee</span><br></td>
+    <th>Class</th>
+    <th>Name</th>
+    <th>L1R5 / Distinction</th>
+    <th>CCA</th>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4E1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Cubita Dearon James Almirante</span><br></td>
-    <td class="tg-lr6o"><span style="color:#222">9/6</span></td>
-    <td class="tg-lr6o"><span style="color:#222">D’Lite (English Drama)</span><br></td>
+    <td>4E1</span></td>
+    <td>Abdul Latheef Ainul Bina</td>
+    <td>8/6</td>
+    <td>D’Lite (English Drama), Upper Sec CCA Executive Committee</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4E2</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Toh Yi Xuan</span><br></td>
-    <td class="tg-lr6o"><span style="color:#222">9/7</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Choir, Vice-Chairperson</span><br></td>
+    <td>4E1</td>
+    <td>Cubita Dearon James Almirante</td>
+    <td>9/6</td>
+    <td>D’Lite (English Drama)</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4E2</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Ng Yu Ki</span><br></td>
-    <td class="tg-lr6o"><span style="color:#222">9/7</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Guzheng Ensemble</span></td>
+    <td>4E2</td>
+    <td>Toh Yi Xuan</td>
+    <td>9/7</td>
+    <td>Choir, Vice-Chairperson</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4E2</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Heng Yik Hong</span></td>
-    <td class="tg-lr6o"><span style="color:#222">9/7</span></td>
-    <td class="tg-lr6o"><span style="color:#222">D’Lite (English Drama)</span><br></td>
+    <td>4E2</td>
+    <td>Ng Yu Ki</td>
+    <td>9/7</td>
+    <td>Guzheng Ensemble</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4E1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Nicholas Ng </span></td>
-    <td class="tg-lr6o"><span style="color:#222">10/6 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Media, Chairperson </span></td>
+    <td>4E2</td>
+    <td>Heng Yik Hong</td>
+    <td>9/7</td>
+    <td>D’Lite (English Drama)</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4E2</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Veyshnavi D/O Sivaraman </span></td>
-    <td class="tg-lr6o"><span style="color:#222">10/5 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">D’Lite (English Drama) </span></td>
+    <td>4E1</td>
+    <td>Nicholas Ng</td>
+    <td>10/6</td>
+    <td>Media, Chairperson</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4E2</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Soon Yu Lun </span></td>
-    <td class="tg-lr6o"><span style="color:#222">10/7 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Badminton, Upper Sec CCA Executive Committee </span></td>
+    <td>4E2</td>
+    <td>Veyshnavi D/O Sivaraman</td>
+    <td>10/5</td>
+    <td>D’Lite (English Drama)</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4E3 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Chng Bo Sheng Brayden </span></td>
-    <td class="tg-lr6o"><span style="color:#222">10/5 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Badminton, Captain</span></td>
+    <td>4E2</td>
+    <td>Soon Yu Lun</td>
+    <td>10/7</td>
+    <td>Badminton, Upper Sec CCA Executive Committee</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4E1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mohammed Aaqil Bin Mohammed Rashid </span></td>
-    <td class="tg-lr6o"><span style="color:#222"> 11/6</span></td>
-    <td class="tg-lr6o"><span style="color:#222">NCDCC, Vice-Chairperson</span><br><span style="color:#222">Head Prefect</span></td>
+    <td>4E3</td>
+    <td>Chng Bo Sheng Brayden</td>
+    <td>10/5</td>
+    <td>Badminton, Captain</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4E1 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Toh Kai En Alena </span></td>
-    <td class="tg-lr6o"><span style="color:#222"> 12/4</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Media </span></td>
+    <td>4E1</td>
+    <td>Mohammed Aaqil Bin Mohammed Rashid</td>
+    <td>11/6</td>
+    <td>NCDCC, Vice-Chairperson <br>Head Prefect</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4E2 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Khng Jing Shan Rachel </span></td>
-    <td class="tg-lr6o"><span style="color:#222"> 12/5</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Media, Chairperson </span></td>
+    <td>4E1</td>
+    <td>Toh Kai En Alena</td>
+    <td>12/4</td>
+    <td>Media</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4E3 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Teng Jie Ning </span></td>
-    <td class="tg-lr6o"><span style="color:#222"> 12/3</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Basketball, Upper Sec CCA Executive Committee </span></td>
+    <td>4E2</td>
+    <td>Khng Jing Shan Rachel</td>
+    <td>12/5</td>
+    <td>Media, Chairperson</td>
   </tr>
-</tbody>
+  <tr>
+    <td>4E3</td>
+    <td>Teng Jie Ning</td>
+    <td>12/3</td>
+    <td>Basketball, Upper Sec CCA Executive Committee</td>
+  </tr>
 </table>
 
 ![](/images/4E_1.jpeg)
