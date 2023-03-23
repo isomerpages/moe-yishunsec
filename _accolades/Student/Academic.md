@@ -307,34 +307,34 @@ _Congratulations to our Secondary 4 Normal (Academic) students!_
 
 <table>
   <tr>
-    <th class="tg-xwen"><span style="color:#222">Class</span></th>
-    <th class="tg-xwen"><span style="color:#222">Name</span></th>
-    <th class="tg-xwen"><span style="color:#222">EMB3</span></th>
-    <th class="tg-xwen"><span style="color:#222">CCA</span></th>
+    <th>Class</th>
+    <th>Name</th>
+    <th>EMB3</th>
+    <th>CCA</th>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4N1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Aaron Tan Weirong</span></td>
-    <td class="tg-lr6o"><span style="color:#222">7</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Boy’s Brigade / Warrant Officer</span></td>
+    <td>4N1</td>
+    <td>Aaron Tan Weirong</td>
+    <td>7</td>
+    <td>Boy’s Brigade / Warrant Officer</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4N1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Toh Yong Qiang</span></td>
-    <td class="tg-lr6o"><span style="color:#222">9</span></td>
-    <td class="tg-lr6o"><span style="color:#222">NCDCC / Staff Sergeant</span></td>
+    <td>4N1</td>
+    <td>Toh Yong Qiang</td>
+    <td>9</span></td>
+    <td>NCDCC / Staff Sergeant</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4N1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Loh Zi Xiang</span></td>
-    <td class="tg-lr6o"><span style="color:#222">10 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Boy’s Brigade / Warrant Officer</span></td>
+    <td>4N1</td>
+    <td>Loh Zi Xiang</td>
+    <td>10</td>
+    <td>Boy’s Brigade / Warrant Officer</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4N2 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Shaun Ryan Koh Zhi Jie</span></td>
-    <td class="tg-lr6o"><span style="color:#222">10 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">NCDCC / Staff Sergeant</span></td>
+    <td>4N2</td>
+    <td>Shaun Ryan Koh Zhi Jie</td>
+    <td>10</td>
+    <td>NCDCC / Staff Sergeant</td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">4N1 </span></td>
