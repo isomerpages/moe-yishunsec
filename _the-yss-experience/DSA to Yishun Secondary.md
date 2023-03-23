@@ -3,14 +3,11 @@ title: DSA to Yishun Secondary
 permalink: /the-yss-experience/dsa/
 description: ""
 ---
-
 ![](/images/YSS_DSA.jpg)
 
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ea_swGnMzGE" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<div style="text-align:center">DSA Experience Video – Watch the video of YSS DSA Talent Areas.</div>
+<br>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/Ea_swGnMzGE" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption>DSA Experience Video – Watch the video of YSS DSA Talent Areas.</figcaption></figure>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W8aq4VI-3Hc" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div style="text-align:center">DSA Student’s Voice – Learn how our current DSA students have benefitted from joining YSS through DSA.</div>
