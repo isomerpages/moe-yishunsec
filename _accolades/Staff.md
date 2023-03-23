@@ -8,15 +8,12 @@ description: ""
 
 In Yishun Secondary, our dedicated and innovative staff exemplifies the Learn for Life mantra. Teachers meet in their subject-based Professional Learning Teams (PLTs) to study students’ learning needs, review literature for possible strategies, co-design and implement innovative student-centric lesson packages to meet those needs and to nurture the Joy of Learning in Yishunites.
 
-  
 
 Several PLTs have collaborated with partners from the MOE Divisions such as Curriculum Planning & Development Division (CPDD) and Educational Technology Division (ETD), as well as the National Institute of Education (NIE).  Support from our partners have helped to enhance our student-centric lesson packages.
 
-  
 
 Besides the once-in-10 days Timetabled Time within curriculum time for the PLTs to come together, the “**S**taff **P**D: **A**cquisition of **R**esources and **K**nowledge **S**essions” (**SPARKS**) is another platform for regular sharing of best practices by teachers to their colleagues. There were a total of 10 SPARKS sessions in Semester 1, with 2-3 sharing per session.
 
-  
 
 At the end of each year, PLTs share their learning at the annual school-based Learning Festival.  Some PLTs and individuals have also shared their lesson packages at national platforms organised by our partners. Our School Leaders would like to acknowledge the following PLT and staff who shared at various beyond school-level platforms in 2022:
 
