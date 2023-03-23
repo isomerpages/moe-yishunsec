@@ -3,8 +3,7 @@ title: My Experience in YSS
 permalink: /the-yss-experience/myexperienceinyss/
 description: ""
 ---
-YSS at the Nee Soon Central National Day Carnival 2022
-------------------------------------------------------
+### YSS at the Nee Soon Central National Day Carnival 2022
 
 On Saturday, 13 August, our NCC Precision Drill Squad, Indian and Malay dancers proudly represented YSS as we joined in the celebrations at Nee Soon Central’s National Day Carnival. Our performances were part of the festivities and were warmly received by the crowd.  Our students thoroughly enjoyed themselves and are proud to have contributed to the nation’s 57th birthday celebrations.
 
@@ -25,8 +24,7 @@ On Saturday, 13 August, our NCC Precision Drill Squad, Indian and Malay dancers 
 
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/RtdBONcEi3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
 
-YSS National Day Celebration 2022
----------------------------------
+### YSS National Day Celebration 2022
 
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/c_K0TAFtno8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
 
@@ -119,8 +117,7 @@ The celebration ended off with the community singing of the evergreen song ‘Ou
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/Hw8vhMq7FK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <figcaption>Class Activity Part 2</figcaption></figure>
 
-YSS @ THE HTNS NATIONAL DAY OBSERVANCE CEREMONY
------------------------------------------------
+### YSS @ THE HTNS NATIONAL DAY OBSERVANCE CEREMONY
 
 On 5 Aug, the YSS NPCC and NCDCC were honoured to form the main contingent for the Home TeamNS National Day Observance Ceremony held at the Khatib Clubhouse. The guest of honour for the event was A/P Muhammad Faishal Ibrahim, President of HomeTeamNS, Minister of State, Ministry for Home Affairs, and National Development. The event was also graced by the Commissioner of SCDF and SPF.
 
@@ -129,14 +126,12 @@ On 5 Aug, the YSS NPCC and NCDCC were honoured to form the main contingent for t
 
 <figure><img src="/images/Picture5%20(1).jpg"><figcaption> Our cadets are happy and proud to have represented YSS.</figcaption></figure>
 
-YSS Art Extravaganza 2022
--------------------------
+### YSS Art Extravaganza 2022
 
 <a href="https://sites.google.com/moe.edu.sg/yssartextravaganza">
 <img src="/images/YSS%20Exp/YSSArtsExtravaganza2022.jpg" alt="yss ArtsExtravaganza">
 </a>
 
-Back to School 2022 & CNY Celebration
--------------------------------------
+### Back to School 2022 & CNY Celebration
 
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/Ivdmet67Rvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
