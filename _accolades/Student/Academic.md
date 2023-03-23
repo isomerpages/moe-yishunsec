@@ -197,38 +197,23 @@ _Congratulations to our Secondary 4 Express students!_ 
 
 #### Eligibility for Higher Institutions
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6vi0{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;text-decoration:underline;
-  vertical-align:middle}
-.tg .tg-gaqo{background-color:#FFF;color:#6B6B6B;text-align:center;vertical-align:middle}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-6vi0"><span style="color:#666;background-color:#DDD">Level / Institutions</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">2022</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-gaqo">4 Express Junior College or Pre U</td>
-    <td class="tg-gaqo">79.5%</td>
+<table>
+<tr>
+    <th>Level / Institutions</th>
+    <th>2022</th>
   </tr>
   <tr>
-    <td class="tg-gaqo">4 Express Polytechnics</td>
-    <td class="tg-gaqo">94.2%</td>
+    <td>4 Express Junior College or Pre U</td>
+    <td>79.5%</td>
   </tr>
   <tr>
-    <td class="tg-gaqo"> Sec 5 Normal Academic Polytechnics</td>
-    <td class="tg-gaqo"> 75%</td>
+    <td>4 Express Polytechnics</td>
+    <td>94.2%</td>
   </tr>
-</tbody>
+  <tr>
+    <td>Sec 5 Normal Academic Polytechnics</td>
+    <td>75%</td>
+  </tr>
 </table>
 
 ### 2022 GCE N-Level Examination 4 Normal (Technical) Results
