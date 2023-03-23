@@ -6,23 +6,19 @@ third_nav_title: Distinctive Programmes
 ---
 ### ‘LEADING WITH EMPATHY, SERVING WITH COMPASSION THROUGH THE ARTS’
 
-  
 
 Yishun Secondary School’s (YSS) LLP in Community Youth Leadership (CYL) focuses on honing leadership skills in students and cultivating a sense of belonging to the community through purposeful service.  
 
-  
 
 In YSS, we believe in nurturing every Yishunite to have the confidence to lead and be committed to serving the needs of the underprivileged and disadvantaged. This we hope will cultivate an attitude of life-long volunteerism applying various elements of the arts. 
 
-  
 
 The programme ‘Leading with Empathy, Serving with Compassion through the Arts’ aims to support students in developing themselves so that they are able to serve their peers and continue on to impact the community through different forms of arts, fulfilling our school’s vision of Quality Mind Caring Heart. Through the provision of structured leadership trainings and authentic learning experiences, students will be able to lead and participate actively based on the understanding and identification of school and community needs. 
 
   
 
-**Objectives of the programme:**
+#### Objectives of the programme
 
-  
 
 1.  To develop skills and attributes, including student leadership competencies, as well as arts-related attributes, that enable the students to contribute to the betterment of society as socially responsible citizens
 2.  To leverage arts as a means to reach out and engage the community, from the youths to the elderly, with diverse social backgrounds (including the disabled and disadvantaged)
@@ -47,7 +43,7 @@ Contact Person(s): Ms Doris Choong, Subject Head NE & VIA ([_doris\_choong\_wen\
 
 School Generic Email: [_yishun\_ss@moe.edu.sg_](mailto:yishun_ss@moe.edu.sg)
 
-**LLP KEY PROGRAMMES 2021**
+#### LLP KEY PROGRAMMES 2021
 
   
 
@@ -62,11 +58,8 @@ School Generic Email: [_yishun\_ss@moe.edu.sg_](mailto:yishun_ss@moe.edu.sg)
 <figure><img src="images/YSS%20Exp/LLP/Sec%203_photo%204.jpeg"><figcaption> Social game sets and dot-painted coin pouch packed in decorated brown paper bags all set for delivery! The project is organised by our students and supported by North West Community Development Council (CDC), as part of the Community Cares @ North West.</figcaption></figure>
 
 
-
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/zxIQY6aRHCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>
 A video produced to show how Jenga game can be played in a fun and engaging way</figcaption></figure>
-
-
 
 
 <figure><img src="images/YSS%20Exp/LLP/Sec%203_photo%205.jpeg" style="width:100%"><figcaption> North West CDC pathfinder in collaboration with Sree Narayana Mission Home for the Aged in receiving the care packages.</figcaption></figure>
@@ -110,12 +103,10 @@ A video produced to show how Jenga game can be played in a fun and engaging way<
 <figure><img src="images/YSS%20Exp/LLP/SKHArts_photo%203.jpeg" style="width:100%"><figcaption> Some of the ‘Nature’ themed art works.</figcaption></figure>
 
 #### HIGHLIGHT
-
   
 
-**North West Outstanding School Partner Award (SPA) 2021**
+###### North West Outstanding School Partner Award (SPA) 2021
 
-  
 
 We are pleased to share that our school has achieved the Gold for North West Outstanding School Partner Award (SPA) 2021. The award is given to schools that had participated actively in North West CDC programmes in 2020.
 
