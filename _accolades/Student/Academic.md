@@ -223,71 +223,57 @@ _Congratulations to our Secondary 4 Normal (Technical) students!_
 
 #### 4NT students with 2 or more distinctions
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-wxpu{background-color:#E8EDFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;text-decoration:underline;
-  vertical-align:middle}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
+
+<table>
   <tr>
-    <th class="tg-wxpu"><span style="color:#222">Class</span></th>
-    <th class="tg-xwen"><span style="color:#222">Name</span></th>
-    <th class="tg-xwen"><span style="color:#222">EMB1</span></th>
-    <th class="tg-xwen"><span style="color:#222">Distinction</span></th>
-    <th class="tg-xwen"><span style="color:#222">CCA</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222">4T1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Lim Jin Huei Javier</span></td>
-    <td class="tg-lr6o"><span style="color:#222">4</span></td>
-    <td class="tg-lr6o"><span style="color:#222">BCL, MA, SC, CPA, RO</span></td>
-    <td class="tg-lr6o"><span style="color:#222">NCC(Land) / Staff Sergeant</span></td>
+    <th>Class</th>
+    <th>Name</th>
+    <th>EMB1</th>
+    <th>Distinction</th>
+    <th>CCA</th>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4T1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Elfie Adrian Bin Mohammad Herianto</span></td>
-    <td class="tg-lr6o"><span style="color:#222">4</span></td>
-    <td class="tg-lr6o"><span style="color:#222">EL, BML, RO</span></td>
-    <td class="tg-lr6o"><span style="color:#222">NCDCC / Staff Sergeant</span></td>
+    <td>4T1</td>
+    <td>Lim Jin Huei Javier</td>
+    <td>4</td>
+    <td>BCL, MA, SC, CPA, RO</td>
+    <td>NCC(Land) / Staff Sergeant</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4T1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Halilah Binte Rashid</span></td>
-    <td class="tg-lr6o"><span style="color:#222">8</span></td>
-    <td class="tg-lr6o"><span style="color:#222">BML, CPA, MU</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Malay Dance/ Chairperson</span></td>
+    <td>4T1</td>
+    <td>Elfie Adrian Bin Mohammad Herianto</td>
+    <td>4</td>
+    <td>EL, BML, RO</td>
+    <td>NCDCC / Staff Sergeant</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4T1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Leong Jia Qi</span></td>
-    <td class="tg-lr6o"><span style="color:#222">8</span></td>
-    <td class="tg-lr6o"><span style="color:#222">BCL, CPA</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Netball / Member </span></td>
+    <td>4T1</td>
+    <td>Halilah Binte Rashid</td>
+    <td>8</td>
+    <td>BML, CPA, MU</td>
+    <td>Malay Dance/ Chairperson</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4T1</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Kieren Tan Hou Wen </span></td>
-    <td class="tg-lr6o"><span style="color:#222">8</span></td>
-    <td class="tg-lr6o"><span style="color:#222">BCL, CPA </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Basketball / Member</span></td>
+    <td>4T1</td>
+    <td>Leong Jia Qi</td>
+    <td>8</td>
+    <td>BCL, CPA</td>
+    <td>Netball / Member</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4T1 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Muhammad Irfan Bin Abdullah </span></td>
-    <td class="tg-lr6o"><span style="color:#222">7</span></td>
-    <td class="tg-lr6o"><span style="color:#222">BML, CPA </span></td>
-    <td class="tg-lr6o"><span style="color:#222">NCC(Land) / Sergeant</span></td>
+    <td>4T1</td>
+    <td>Kieren Tan Hou Wen</td>
+    <td>8</td>
+    <td>BCL, CPA</td>
+    <td>Basketball / Member</td>
   </tr>
-</tbody>
+  <tr>
+    <td>>4T1</td>
+    <td>Muhammad Irfan Bin Abdullah</td>
+    <td>7</td>
+    <td>BML, CPA</td>
+    <td>NCC(Land) / Sergeant</td>
+  </tr>
 </table>
 
 ![](/images/4NT.png)
