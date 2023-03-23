@@ -6,7 +6,7 @@ third_nav_title: Student
 ---
 ### Achievements
 
-#### **2023**
+#### 2023
 <style>
 table {
   font-family: arial, sans-serif;
@@ -100,7 +100,7 @@ tr:nth-child(even) {
 
 
 
-#### **2022**
+#### 2022
 
 <style>
 table {
@@ -166,7 +166,7 @@ tr:nth-child(even) {
 </table>
 
 
-#### **2021**
+#### 2021
 
 <style>
 table {
@@ -281,7 +281,7 @@ tr:nth-child(even) {
 </table>
 
 
-###### **2021 SYF Arts Presentation Results**
+###### 2021 SYF Arts Presentation Results
 
 
 <table>
@@ -328,10 +328,8 @@ tr:nth-child(even) {
 </table>
 
 
-<center>
 
-<iframe width="560" height="316" src="https://www.youtube.com/embed/EuqTEtioT5Y" title="YSS BAND National Day Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
-Concert Band - 2021 National Day Performance for MOE
+
+<figure><iframe width="560" height="316" src="https://www.youtube.com/embed/EuqTEtioT5Y" title="YSS BAND National Day Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption>Concert Band - 2021 National Day Performance for MOE</figcaption></figure>
 	
-</center>
