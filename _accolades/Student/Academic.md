@@ -9,7 +9,7 @@ third_nav_title: Student
 
 _Congratulations to our Secondary 5 Normal Academic students!_   
   
-#### **5NA students who achieved L1B4 < 20**
+#### 5NA students who achieved L1B4 < 20
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -55,7 +55,7 @@ _Congratulations to our Secondary 5 Normal Academic students!_ 
 
 ![](/images/5NA_1.jpeg)
 
-#### **Most improved students from 5N:**
+#### Most improved students from 5N
 
 *   Han Hui Millicent  
     
@@ -68,7 +68,7 @@ _Congratulations to our Secondary 5 Normal Academic students!_ 
   
 _Congratulations to our Secondary 4 Express students!_   
   
-#### **4E students who achieved L1R5 < 12:**
+#### 4E students who achieved L1R5 < 12
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -178,7 +178,7 @@ _Congratulations to our Secondary 4 Express students!_ 
 
 ![](/images/4E_4.jpeg)
 
-#### **Most Value-added Students from 4 EXP:**  
+#### Most Value-added Students from 4 EXP 
 
 *   Chang Shin Hui      
 *   Toh Yu Qi
@@ -201,11 +201,11 @@ _Congratulations to our Secondary 4 Express students!_ 
 
 ![](/images/Most%20Value-added%20Students%204E.jpeg)
 
-#### **Most Value-added Class 2022:**  
+#### Most Value-added Class 2022  
 
 *   4E2
 
-#### **Eligibility for Higher Institutions:**
+#### Eligibility for Higher Institutions
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -246,7 +246,7 @@ _Congratulations to our Secondary 4 Express students!_ 
 _Congratulations to our Secondary 4 Normal (Technical) students!_  
   
 
-#### **4NT students with 2 or more distinctions:**
+#### 4NT students with 2 or more distinctions
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -317,7 +317,7 @@ _Congratulations to our Secondary 4 Normal (Technical) students!_
 
 ![](/images/4NT.png)
 
-#### **Most improved students from 4NT:**
+#### Most improved students from 4NT
 
 *   Mia Aqilah
 *   Wang Zhen Xuan
@@ -329,7 +329,7 @@ _Congratulations to our Secondary 4 Normal (Technical) students!_
 
 _Congratulations to our Secondary 4 Normal (Academic) students!_
 
-#### **Percentage of 4NA students eligible for promotion to 5NA:**
+#### Percentage of 4NA students eligible for promotion to 5NA
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -355,7 +355,7 @@ _Congratulations to our Secondary 4 Normal (Academic) students!_
 </tbody>
 </table>
 
-#### **4NA students who achieved ELMAB3 < 12**
+#### 4NA students who achieved ELMAB3 < 12
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -441,14 +441,14 @@ _Congratulations to our Secondary 4 Normal (Academic) students!_
 
 ![](/images/4NA.png)
 
-#### **Most improved students from 4N1:**  
+#### Most improved students from 4N1
 
 *   Ang Joon Ghee Sky      
 *   Farzana D/O Mohamed Asaraffali       
 
   
 
-#### **Most improved students from 4N2:**  
+#### Most improved students from 4N2
 
 *   Nur Anis Insyirah Binte Mohd Yazid  
 *   Nurul Aini Binti Rahmat  
@@ -458,14 +458,14 @@ _Congratulations to our Secondary 4 Normal (Academic) students!_
 
   
 
-#### **Most improved students from 4N3:**  
+#### Most improved students from 4N3
 
 *   Eunice Lim Tze Yi  
 *   Ng Yi Qiang
 
 ![](/images/4NAimpStud.png)
 
-#### **Best Improved Class:**
+#### Best Improved Class
 
 *   4T1
 *   4N1
@@ -474,7 +474,7 @@ _Congratulations to our Secondary 4 Normal (Academic) students!_
 
   
 
-#### **Congratulations to our Secondary 2 students for achieving the Gold Award:**
+#### Congratulations to our Secondary 2 students for achieving the Gold Award
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
