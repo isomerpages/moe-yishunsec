@@ -337,40 +337,40 @@ _Congratulations to our Secondary 4 Normal (Academic) students!_
     <td>NCDCC / Staff Sergeant</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4N1 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Yap Zhao You, Bernard </span></td>
-    <td class="tg-lr6o"><span style="color:#222">11 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">NPCC / Lance Corporal</span></td>
+    <td>4N1</td>
+    <td>Yap Zhao You, Bernard</td>
+    <td>11</td>
+    <td>NPCC / Lance Corporal</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4N1 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Sivasundar Shailaja</span></td>
-    <td class="tg-lr6o"><span style="color:#222">12</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Girl Guides / Asst. Squad IC </span></td>
+    <td>4N1</td>
+    <td>Sivasundar Shailaja</td>
+    <td>12</td>
+    <td>Girl Guides / Asst. Squad IC</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4N1 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Ang Rui Heng Rayson </span></td>
-    <td class="tg-lr6o"><span style="color:#222">12</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Choir / Member </span></td>
+    <td>4N1</td>
+    <td>Ang Rui Heng Rayson</td>
+    <td>12</td>
+    <td>Choir / Member</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4N1 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Lien Jia Ee </span></td>
-    <td class="tg-lr6o"><span style="color:#222">12 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Basketball / Member </span></td>
+    <td>4N1</td>
+    <td>Lien Jia Ee</td>
+    <td>12</td>
+    <td>Basketball / Member</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4N2 </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Muhammad Ariff Bin Arman </span></td>
-    <td class="tg-lr6o"><span style="color:#222">12</span></td>
-    <td class="tg-lr6o"><span style="color:#222">NCDCC / Sergeant </span></td>
+    <td>4N2</td>
+    <td>Muhammad Ariff Bin Arman</td>
+    <td>12</td>
+    <td>NCDCC / Sergeant</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">4N3</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Yeo Jun Yi , Justin </span></td>
-    <td class="tg-lr6o"><span style="color:#222">12</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Boy’s Brigade / Sergeant</span></td>
+    <td>4N3</td>
+    <td>Yeo Jun Yi , Justin</td>
+    <td>12</td>
+    <td>Boy’s Brigade / Sergeant</td>
   </tr>
 </table>
 
