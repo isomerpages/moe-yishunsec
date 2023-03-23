@@ -291,52 +291,27 @@ _Congratulations to our Secondary 4 Normal (Technical) students!_
 _Congratulations to our Secondary 4 Normal (Academic) students!_
 
 #### Percentage of 4NA students eligible for promotion to 5NA
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-kyf4{background-color:#FFF;color:#6B6B6B;text-align:center;vertical-align:top}
-.tg .tg-64ni{background-color:#FFF;color:#6B6B6B;text-align:left;vertical-align:top}
-.tg .tg-mr14{background-color:#9B9B9B;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mr14" colspan="2"><span style="font-weight:bold;color:#FFF;background-color:#9B9B9B">2022</span></th>
+##### 2022
+<table>
+	  <tr>
+    <td></td>
+    <td></td>
   </tr>
-</thead>
-<tbody>
   <tr>
-    <td class="tg-kyf4"><span style="color:#000;background-color:transparent">School %</span></td>
-    <td class="tg-64ni"><span style="color:#000;background-color:transparent">74.7</span></td>
+    <td>School %</td>
+    <td>74.7</td>
   </tr>
-</tbody>
 </table>
 
 #### 4NA students who achieved ELMAB3 < 12
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
+<table>
   <tr>
     <th class="tg-xwen"><span style="color:#222">Class</span></th>
     <th class="tg-xwen"><span style="color:#222">Name</span></th>
     <th class="tg-xwen"><span style="color:#222">EMB3</span></th>
     <th class="tg-xwen"><span style="color:#222">CCA</span></th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">4N1</span></td>
     <td class="tg-lr6o"><span style="color:#222">Aaron Tan Weirong</span></td>
@@ -397,7 +372,6 @@ _Congratulations to our Secondary 4 Normal (Academic) students!_
     <td class="tg-lr6o"><span style="color:#222">12</span></td>
     <td class="tg-lr6o"><span style="color:#222">Boy’s Brigade / Sergeant</span></td>
   </tr>
-</tbody>
 </table>
 
 ![](/images/4NA.png)
