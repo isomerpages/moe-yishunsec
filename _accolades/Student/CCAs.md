@@ -281,7 +281,7 @@ tr:nth-child(even) {
 </table>
 
 
-###### 2021 SYF Arts Presentation Results
+##### 2021 SYF Arts Presentation Results
 
 
 <table>
