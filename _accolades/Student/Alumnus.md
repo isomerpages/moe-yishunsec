@@ -6,31 +6,27 @@ third_nav_title: Student
 ---
 <img src="/images/Accolades/Student/Congratulations%20on%20Outstanding%20A-Level%20Results.png" style="width:50%" align="center">
 
-<center>
 
-#### Cedric Tay Shi Han
-#### Tan Su Xin
+#### Cedric Tay Shi Han and  Tan Su Xin
 
-</center>
 
 *   Yishun Alumni (2019)
 *   Outstanding Results at the 2021 GCE A-Level Examinations
-----
-<center>
+
+------------------------------------
 	
 #### Sally Gloria Manik
 
-</center>
+
 
 * Yishun Alumni (2017)
 * School of Management and Communication <br>
 (Recipient of Ngee Ann Kongsi Scholarship)
 ------
-<center>
+
 
 #### Baey Kok Wee
 
-</center>
 	
 * Yishun Alumni (2011)
 * School of Management and Communication
@@ -41,11 +37,11 @@ third_nav_title: Student
 	* Module Prize – Employment Laws and Labour Relations
 	* Module Prize – Manpower Planning, Resourcing and Management
 -----
-<center>
+
 
 #### Ryan Tan Yi En
 
-</center>
+
 
 * Yishun Alumni (2017)
 * School of Technology for the Arts (Recipient of Republic Award)
@@ -54,11 +50,11 @@ third_nav_title: Student
 <br>
 <img src="/images/Accolades/Student/PHYLLIS-OH-YU-HUI_1.jpg" style="width:50%" align="center">
 
-<center>
+
 	
 #### Phyllis Oh Yu Hui
 
-</center>
+
 
 * Yishun Alumni (2015)
 * Recipient of Swan & Maclaren Gold Medal
@@ -85,11 +81,11 @@ src="/images/Accolades/Student/Huang%20Caihong.jpg" style="width:50%" align="cen
 src="/images/Accolades/Student/Yeo%20Si%20Qi%20Levin.jpg" style="width:50%" align="center">	
 
 
-<center>
+
 
 #### Yeo Si Qi Levin
 
-</center>
+
 
 * YSS (2012-2015)
 * Nanyang Polytechnic (Recipient of the Infinite Frameworks Silver Medal and Award for Outstanding Project Work)
@@ -99,11 +95,11 @@ src="/images/Accolades/Student/Yeo%20Si%20Qi%20Levin.jpg" style="width:50%" alig
 <img
 src="/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg" style="width:70%" align="center">	
 
-<center>
+
 
 #### Raiyan Mikael Suhairi
 
-</center>
+
 
 * YSS (2013-2016)
 * Singapore Polytechnic (Recipient of the SP Engineering Scholarship)
@@ -112,12 +108,12 @@ src="/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg" style="width:70%" 
 <img
 src="/images/Accolades/Student/Denise%20Ong%20Li%20Jie.jpg" style="width:50%" align="center">	
 
-<center>
+
 
 
 #### Denise Ong Li Jie
 
-</center>
+
 
 * YSS (2013-2016) – (7As for 2016 O Levels)
 * NJC (2017-2018) 3 H2 distinctions and distinctions in GP, PW
@@ -137,12 +133,12 @@ addition, I am very thankful to have made some true friends.”*
 src="/images/Accolades/Student/Michel%20Sim.png" style="width:50%" align="center">	
 
 
-<center>
+
 
 
 #### Michel Sim
 
-</center>
+
 
 * YSS (2008-2011) (7 A1s in 2011 GCE O-Level Exam)
 * AJC( 2012-2013) AJC Alpha Programme
@@ -160,12 +156,12 @@ the teachers and B.E. Project.”*
 <img
 src="/images/Accolades/Student/Raphael%20Khoo.png" style="width:50%" align="center">	
 
-<center>
+
 
 
 #### Raphael Khoo
 
-</center>
+
 
 * YSS (2009-2012) (7 A1s in 2011 GCE O-Level Exam)
 * HCI (2013-2014)
@@ -182,12 +178,12 @@ remember our roots and give back to society in whatever ways I can.”*
 <img
 src="/images/Accolades/Student/Yoh%20Kai%20Xiang.jpg" style="width:70%" align="center">	
 
-<center>
+
 
 
 #### Yoh Kai Xiang
 
-</center>
+
 
 
 * Currently Year 1student of Ngee Ann poly (FILM, SOUND, and Video)
@@ -219,11 +215,11 @@ grateful for what they have done for me.”*
 <img
 src="/images/Accolades/Student/Salmah%20Sng%20Mei%20Wen.jpg" style="width:50%" align="center">	
 
-<center>
+
 
 #### Salmah Sng Mei Wen
 
-</center>
+
 
 * Year 1 Student, Anderson Junior College
 * Currently a Student Council in AJC
