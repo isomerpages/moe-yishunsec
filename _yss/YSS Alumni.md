@@ -23,7 +23,7 @@ We implore you to continue your ties with us, truly imbuing our alma mater’s v
 
   
 
-#### The YSSAC:
+#### The YSSAC
 
 
 The YSSAC was formed in 2011 comprising of alumni members from various batches.  
@@ -32,6 +32,6 @@ The YSSAC was formed in 2011 comprising of alumni members from various batches.
 
 The primary objective of YSSAC is to forge stronger links between alumni members and contribute back to the school, community and nation at large.
 
-#### Our Motto:
+#### Our Motto
 
 Quality Relationships, Caring Community
