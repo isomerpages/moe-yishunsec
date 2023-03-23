@@ -9,7 +9,7 @@ description: ""
 
 ![](/images/pic-3.png)
 
-**_Translation:_**
+#### Translation
 
   
 
@@ -17,7 +17,7 @@ The article features ND celebration of 2 schools, namely Kranji Pri, and Yishun 
 
 ![](/images/Media-release.jpg)
 
-**_Translation:_**
+#### Translation
 
   
 
