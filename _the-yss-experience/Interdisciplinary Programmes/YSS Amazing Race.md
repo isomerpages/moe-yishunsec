@@ -4,7 +4,7 @@ permalink: /the-yss-experience/Interdisciplinary-Programmes/amazingrace/
 description: ""
 third_nav_title: Interdisciplinary Programmes
 ---
-#### Goals:
+#### Goals
 
   
 
@@ -15,7 +15,7 @@ third_nav_title: Interdisciplinary Programmes
 
   
 
-#### Photos:
+#### Photos
 
 ![](/images/yss1.png)
 ![](/images/yss2.png)
