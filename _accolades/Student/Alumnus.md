@@ -37,6 +37,7 @@ third_nav_title: Student
 	* Module Prize – Accounting
 	* Module Prize – Employment Laws and Labour Relations
 	* Module Prize – Manpower Planning, Resourcing and Management
+
 -------------------------------------------
 
 
@@ -46,6 +47,7 @@ third_nav_title: Student
 
 * Yishun Alumni (2017)
 * School of Technology for the Arts (Recipient of Republic Award)
+
 -------------------------------------------
 
 <br>
@@ -60,6 +62,7 @@ third_nav_title: Student
 * Yishun Alumni (2015)
 * Recipient of Swan & Maclaren Gold Medal
 * Diploma with Merit (Diploma in Media Design) from Singapore Polytechnic
+
 -----------------------------------------
 
 
@@ -104,6 +107,7 @@ src="/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg" style="width:70%" 
 
 * YSS (2013-2016)
 * Singapore Polytechnic (Recipient of the SP Engineering Scholarship)
+
 -----------------------------------
 
 <img
