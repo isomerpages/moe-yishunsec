@@ -3,11 +3,9 @@ title: School Advisory Committee (SAC)
 permalink: /yss/sac/
 description: ""
 ---
-
-
 ![](/images/Group-of-SAC-Members.jpg)
 
-#### **School Advisory Committee (SAC):**
+#### **School Advisory Committee (SAC)**
 
   
 
@@ -32,8 +30,6 @@ description: ""
   
 
 **Member:** Mr Mike Koh
-
-  
 
   
 
