@@ -27,9 +27,9 @@ To nurture a community of confident, socially responsible and future-ready learn
 
 ### Photos
 
-<figure><img src="/images/IP/ICT/ICT-3.jpg"><figcaption>Code-for-Fun training session</figcaption></figure>
+<figure><img src="/images/IP/ICT/ICT-3.jpg"><figcaption>Sec 1 Code-for-Fun training session</figcaption></figure>
 
-<figure><img src="/images/IP/ICT/ICT-4.jpg"><figcaption>Code-for-Fun training session</figcaption></figure>
+<figure><img src="/images/IP/ICT/ICT-4.jpg"><figcaption>Sec 1 Code-for-Fun training session</figcaption></figure>
 
 
 <figure><img src="/images/IP/ICT/Nearpod%20Training.jpeg"><figcaption>Training Teachers</figcaption></figure>
