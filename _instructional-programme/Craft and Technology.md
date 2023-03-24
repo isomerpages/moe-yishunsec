@@ -113,5 +113,4 @@ As a department, various ways are explored to give back to the Community:
 ![](/images/IP/CraftandTech/pic%2019.png)
 
 <br>
-<iframe width="496" height="882" src="https://www.youtube.com/embed/Pmfmn2kObkc" title="Craft and Technology 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<div style="text-align:center;">Constructed a voltmeter for battery testing using the PLD and micro:bit </div>
+<figure><iframe width="496" height="882" src="https://www.youtube.com/embed/Pmfmn2kObkc" title="Craft and Technology 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>Constructed a voltmeter for battery testing using the PLD and micro:bit </figcaption></figure>
