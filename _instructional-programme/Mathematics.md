@@ -99,9 +99,7 @@ Secondary 1 cohort participated in this inter-class challenge through which they
 		</td>
     <td>1 INNOVATE</td>  
   </tr>  
-</tbody>  
 </table>
-</div>
 
 * Sec 3E Experiential Learning Journey to Gardens by the Bay: <br>
 To make the learning of mathematics relevant and interesting, students used mathematical concepts and skills to real-life applications.
