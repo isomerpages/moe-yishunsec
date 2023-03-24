@@ -14,7 +14,7 @@ third_nav_title: Student
 <style>
 table {
   font-family: arial, sans-serif;
-  border-collapse: collapse;
+	border-collapse: collapse;
   width: 100%;
 }
 
