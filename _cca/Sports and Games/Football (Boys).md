@@ -18,11 +18,34 @@ third_nav_title: Sports and Games
 * Field
 
 ### CCA Exco Structure
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-* Captain: Muhammad Rabbani Bin Buhari (3E4)
-* Vice-Captain: Ziqkry Yadiy Bin Zenny Jumari (3N1)
-* Head of Fitness: Thinnesh S/O Raj Kumar (3N1), Iskandar Shah Bin Muhammad Shahrizal (3N3)
-* Head of Logistics: Annamalai Bharat (3E2), See Min An (3E4)
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+</style>
+
+
+
+| |  |
+| -------- | -------- |
+| Captain:     | Muhammad Rabbani Bin Buhari (3E4)     |
+| Vice-Captain:     | Ziqkry Yadiy Bin Zenny Jumari (3N1)     |
+| Head of Fitness:     | Thinnesh S/O Raj Kumar (3N1) <br> Iskandar Shah Bin Muhammad Shahrizal (3N3)    |
+| Head of Logistics:     | Annamalai Bharat (3E2) <br>  See Min An (3E4)   |
+
+
 
 ### Key Student Outcomes
 
