@@ -17,6 +17,24 @@ Besides the once-in-10 days Timetabled Time within curriculum time for the PLTs 
 
 At the end of each year, PLTs share their learning at the annual school-based Learning Festival.  Some PLTs and individuals have also shared their lesson packages at national platforms organised by our partners. Our School Leaders would like to acknowledge the following PLT and staff who shared at various beyond school-level platforms in 2022:
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+
+</style>
 
 
 | S/No | 	Staff/Unit | Title| Platform |
