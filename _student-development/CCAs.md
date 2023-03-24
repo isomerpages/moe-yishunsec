@@ -3,8 +3,7 @@ title: CCAs
 permalink: /student-development/cca/
 description: ""
 ---
-Co-Curricular Activities (CCAs)
-===============================
+## Co-Curricular Activities (CCAs)
 
 In Yishun Secondary, students take part in one CCA from the following categories. 
 
