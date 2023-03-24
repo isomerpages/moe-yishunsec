@@ -51,14 +51,10 @@ third_nav_title: Performing Arts
 
 ### Photos
 
-![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance5.jpg)
-<div style="text-align:center">SYF 2021 team NUS university cultural centre</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance5.jpg"><figcaption>SYF 2021 team NUS university cultural centre</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance6.jpg)
-<div style="text-align:center">SYF Performance</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance6.jpg"><figcaption>SYF Performance</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance7.jpg)
-<div style="text-align:center">Bhangra Performance</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance7.jpg"><figcaption>Bhangra Performance</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance8.jpg)
-<div style="text-align:center">Performing at Nee Soon Central 1</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance8.jpg"><figcaption>Performing at Nee Soon Central 1</figcaption></figure>
