@@ -4,8 +4,7 @@ permalink: /cca/PerformingArts/moderndance/
 description: ""
 third_nav_title: Performing Arts
 ---
-![S24 competition](/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance1.jpg)
-<div style="text-align:center">S24 competition</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance1.jpg"><figcaption>S24 competition</figcaption></figure>
 
 ### Teacher-in-charge
 * Mrs Ng Yulin (I/C)
@@ -20,6 +19,25 @@ third_nav_title: Performing Arts
 * Music Room
 
 ### CCA Exco Structure
+
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+</style>
+
 
 
 |  | |  |
