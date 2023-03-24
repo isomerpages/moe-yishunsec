@@ -94,8 +94,8 @@ tr:nth-child(even) {
 * WAGGGS Leadership Mindset
 
 ### Student’s Quotes
-A voice for all girls, a chance to learn, a light that guides.
-<div style="text-align: right;"><em>Lin Yunfang, Company Leader</em></div>
+*"A voice for all girls, a chance to learn, a light that guides."*
+<div style="text-align: right;">Lin Yunfang, Company Leader</div>
 
 
 ### Photos
