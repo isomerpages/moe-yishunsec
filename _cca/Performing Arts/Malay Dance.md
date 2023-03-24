@@ -89,18 +89,8 @@ Mastering Malay Dance choreography and providing exposure to students in stage p
 
 <figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance11.png"><figcaption>Combined Dance Practice with Clementi Town Secondary School 1</figcaption></figure>
 
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance12.png"><figcaption>Combined Dance Practice with Clementi Town Secondary School 2</figcaption></figure>
 
-<figure><img src="/…"><figcaption>…  </figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance13.jpg"><figcaption>Muara Festival 2019 Esplanade</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance12.png)
-<div style="text-align:center">Combined Dance Practice with Clementi Town Secondary School 2</div>
-
-<figure><img src="/…"><figcaption>…  </figcaption></figure>
-
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance13.jpg)
-<div style="text-align:center">Muara Festival 2019 Esplanade</div>
-
-<figure><img src="/…"><figcaption>…  </figcaption></figure>
-
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance14.jpg)
-<div style="text-align:center">Performing at Nee Soon Central</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance14.jpg"><figcaption>Performing at Nee Soon Central</figcaption></figure>
