@@ -20,6 +20,24 @@ third_nav_title: Sports and Games
 
 ### CCA Exco Structure
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+</style>
+
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -40,18 +58,18 @@ third_nav_title: Sports and Games
 * Participation in NSG Track and Field competition
 * Participation at various competitions
 
-![](/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-1.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-1.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-2.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-2.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-3.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-3.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-4.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-4.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-5.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-5.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-6.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-6.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-7.jpeg)
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-7.jpeg"></figure>
 
-![](/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-8.jpeg)
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-8.jpeg"></figure>
