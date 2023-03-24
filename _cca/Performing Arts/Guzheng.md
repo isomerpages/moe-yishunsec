@@ -17,6 +17,24 @@ third_nav_title: Performing Arts
 
 
 ### CCA Exco Structure
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+</style>
+
 
 
 | Guzheng Executive Committee |  |
@@ -69,10 +87,6 @@ For students to
 
 ### Photos
 
-![](/images/StudDevelopment/CCAs/PerformingArts/Guzheng/1SYF%202021.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/1SYF%202021.jpg"><figcaption>SYF 2021</figcaption></figure>
 
-<div style="text-align:center">SYF 2021</div>
-
-![](/images/StudDevelopment/CCAs/PerformingArts/Guzheng/2Chinese%20New%20Year%202021.jpeg)
-
-<div style="text-align:center">Chinese New Year 2021</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/2Chinese%20New%20Year%202021.jpeg"><figcaption>Chinese New Year 2021</figcaption></figure>
