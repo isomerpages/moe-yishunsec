@@ -18,10 +18,11 @@ To nurture a community of confident, socially responsible and future-ready learn
 
 
 ### ICT Department Staff and Teachers
+<figure><img src=/images/IP/ICT/ICT1.png></figure>
 
-![](/images/IP/ICT/ICT1.png)
+<figure><img src=/images/IP/ICT/ICT2.png></figure>
 
-![](/images/IP/ICT/ICT2.png)
+
 
 
 ### Photos
@@ -29,7 +30,3 @@ To nurture a community of confident, socially responsible and future-ready learn
 <figure><img src=/images/IP/ICT/Nearpod%20Training.jpeg><figcaption>Training Teachers</figcaption></figure>
 <figure><img src=/images/IP/ICT/Photo_2-Online-Self-Directed-Learning.jpg><figcaption>Online Self-Directed Learning</figcaption></figure>
 <figure><img src=/images/IP/ICT/Photo_3-Online-Cyber-Wellness-Talk.jpg><figcaption>Online Cyber Wellness Talk</figcaption></figure>
-
-
-
-
