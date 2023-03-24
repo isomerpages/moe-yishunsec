@@ -57,46 +57,50 @@ Mastering Malay Dance choreography and providing exposure to students in stage p
 * [MALAY DANCE_MLDS 035_YSS](https://youtu.be/-AU73J_u80g)
 
 ### Student’s Quotes
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/Malay-Dance-Quote.jpg)
 
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance1.jpg)
-<div style="text-align:center">Dance training on Zoom</div>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance2.jpg)
-<div style="text-align:center">Muara Festival 2019</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/Malay-Dance-Quote.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance3.jpg)
-<div style="text-align:center">SYF Arts Presentation in school</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance1.jpg"><figcaption>Dance training on Zoom</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance4.jpg)
-<div style="text-align:center">SYF Arts Presentation in school</div>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance5.png)
-<div style="text-align:center">Gempak Cheer</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance2.jpg"><figcaption>Muara Festival 2019</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance6.jpg)
-<div style="text-align:center">2020 CCA Open House</div>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance7.jpg)
-<div style="text-align:center">Farewell celebration for our Secondary 4 seniors</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance3.jpg"><figcaption>SYF Arts Presentation in school</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance8.jpg)
-<div style="text-align:center">Performance for MT Fortnight Opening Ceremony CNY 2020</div>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance9.png)
-<div style="text-align:center">Combined Dance Performance for MT Fortnight Opening Ceremony</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance4.jpg"><figcaption>SYF Arts Presentation in school</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance10.png)
-<div style="text-align:center">Combined Dance Practice with Clementi Town Secondary School</div>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance11.png)
-<div style="text-align:center">Combined Dance Practice with Clementi Town Secondary School 1</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance5.png"><figcaption>Gempak Cheer</figcaption></figure>
+
+
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance6.jpg"><figcaption>2020 CCA Open House</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance7.jpg"><figcaption>Farewell celebration for our Secondary 4 seniors</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance8.jpg"><figcaption>Performance for MT Fortnight Opening Ceremony CNY 2020</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance9.png"><figcaption>Combined Dance Performance for MT Fortnight Opening Ceremony</figcaption></figure>
+
+
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance10.png"><figcaption>Combined Dance Practice with Clementi Town Secondary School</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance11.png"><figcaption>Combined Dance Practice with Clementi Town Secondary School 1</figcaption></figure>
+
+
+<figure><img src="/…"><figcaption>…  </figcaption></figure>
 
 ![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance12.png)
 <div style="text-align:center">Combined Dance Practice with Clementi Town Secondary School 2</div>
 
+<figure><img src="/…"><figcaption>…  </figcaption></figure>
+
 ![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance13.jpg)
 <div style="text-align:center">Muara Festival 2019 Esplanade</div>
+
+<figure><img src="/…"><figcaption>…  </figcaption></figure>
 
 ![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance14.jpg)
 <div style="text-align:center">Performing at Nee Soon Central</div>
