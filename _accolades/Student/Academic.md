@@ -563,7 +563,6 @@ We are proud to announce that the following students have been awarded â€˜Gold.â
     <td>Alaina Arwen Juat Natividad (3E5)<br><br>Yong Jun Xiang (3E5)<br><br>Prianka Rani Saha (3E5)<br><br>Bryan Teng (3E5)<br><br>Ng Jia Qi (3E2)</td>
     <td>Art Unit</td>
   </tr>
-</tbody>
 </table>
 
 
