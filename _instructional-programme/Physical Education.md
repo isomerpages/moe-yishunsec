@@ -38,4 +38,4 @@ Reinforce pro-social behavior through participation and performance
 
 ![](/images/IP/PE/PE3.png)
 
-![](/images/IP/PE/PE4.png)
+<figure><img src="/images/IP/PE/PE4.png"></figure>
