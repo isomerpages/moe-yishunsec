@@ -4,10 +4,7 @@ permalink: /cca/Clubs-and-Societies/mediaclub/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-Media Club (Infocom Technology)
-----------------------
-
-![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-1.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-1.jpg"></figure>
 
 
 ### Teacher-in-charge
