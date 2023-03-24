@@ -7,7 +7,7 @@ third_nav_title: Student
 ### 2022 GCE O-Level Examination 5 Normal (Academic) Results
 
 
-_Congratulations to our Secondary 5 Normal Academic students!_   
+*Congratulations to our Secondary 5 Normal Academic students!*
   
 #### 5NA students who achieved L1B4 < 20
 
@@ -218,7 +218,7 @@ tr:nth-child(even) {
 
 ### 2022 GCE N-Level Examination 4 Normal (Technical) Results
 
-_Congratulations to our Secondary 4 Normal (Technical) students!_  
+*Congratulations to our Secondary 4 Normal (Technical) students!*
   
 
 #### 4NT students with 2 or more distinctions
@@ -288,7 +288,7 @@ _Congratulations to our Secondary 4 Normal (Technical) students!_
 
 ### 2022 GCE N-Level Examination 4 Normal (Academic) Results
 
-_Congratulations to our Secondary 4 Normal (Academic) students!_
+*Congratulations to our Secondary 4 Normal (Academic) students!*
 
 #### Percentage of 4NA students eligible for promotion to 5NA
 ##### 2022
@@ -381,8 +381,6 @@ _Congratulations to our Secondary 4 Normal (Academic) students!_
 *   Ang Joon Ghee Sky      
 *   Farzana D/O Mohamed Asaraffali       
 
-  
-
 #### Most improved students from 4N2
 
 *   Nur Anis Insyirah Binte Mohd Yazid  
@@ -390,9 +388,6 @@ _Congratulations to our Secondary 4 Normal (Academic) students!_
 *   Yogindra Ravichander      
 *   Muhammad Ariff Bin Arman  
     
-
-  
-
 #### Most improved students from 4N3
 
 *   Eunice Lim Tze Yi  
@@ -564,7 +559,6 @@ We are proud to announce that the following students have been awarded ‘Gold.�
     <td>Art Unit</td>
   </tr>
 </table>
-
 
 	
 ![](/images/orchard%20exhibition.jpeg)
