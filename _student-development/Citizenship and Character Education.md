@@ -86,26 +86,22 @@ Teachers engaged students to address ‘racism’ which may occur in schools, pu
 
 As part of the celebration, three types of childhood snacks were catered. They are eyeglass candy, dried fish fillet and muruku ikan snack. While it brings back memories of their school and neighbourhood, the shared connections among multicultural communities would be something for students to reminisce about.
 
-<br>
-<img src="/images/StudDevelopment/CCE/RHD-1.png" align="center">
+<figure><img src="/images/StudDevelopment/CCE/RHD-1.png"></figure>
 
-<br>
-<img src="/images/StudDevelopment/CCE/RHD-2.png" align="center">
+<figure><img src="/images/StudDevelopment/CCE/RHD-2.png"></figure>
 
-<br>
-<img src="/images/StudDevelopment/CCE/RHD-3.png" align="center">
+<figure><img src="/images/StudDevelopment/CCE/RHD-3.png"></figure>
 
-<br>
-<img src="/images/StudDevelopment/CCE/RHD-4.png" style="width:70%" align="center">
+<figure><img src="/images/StudDevelopment/CCE/RHD-4.png" style="width:70%"></figure>
 
-<br>
-<img src="/images/StudDevelopment/CCE/RHD-5.png" style="width:70%" align="center">
+<figure>
+<img src="/images/StudDevelopment/CCE/RHD-5.png" style="width:70%"></figure>
 
-<br>
-<img src="/images/StudDevelopment/CCE/RHD-6.png" style="width:70%" align="center">
+<figure>
+<img src="/images/StudDevelopment/CCE/RHD-6.png" style="width:70%"></figure>
 
-<br>
-<img src="/images/StudDevelopment/CCE/RHD-7.png" style="width:70%" align="center">
+<figure>
+<img src="/images/StudDevelopment/CCE/RHD-7.png" style="width:70%"></figure>
 
 
 
