@@ -411,40 +411,28 @@ _Congratulations to our Secondary 4 Normal (Academic) students!_
 
 #### Congratulations to our Secondary 2 students for achieving the Gold Award
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
+
+<table>
   <tr>
-    <th class="tg-xwen"><span style="color:#222">Class</span></th>
-    <th class="tg-xwen"><span style="color:#222">Name</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222">2E2</span></td>
-    <td class="tg-lr6o"><span style="color:#222">CHLOE LIM KAI XIN</span></td>
+    <th>Class</th>
+    <th>Name</th>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">2E2</span></td>
-    <td class="tg-lr6o"><span style="color:#222">LOH QIAN TING </span></td>
+    <td>2E2</td>
+    <td>CHLOE LIM KAI XIN</td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">2E2</span></td>
-    <td class="tg-lr6o"><span style="color:#222">GOH HAN NAH</span></td>
+    <td>2E2</td>
+    <td>LOH QIAN TING </td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">2E3</span></td>
-    <td class="tg-lr6o"><span style="color:#222">CHEYENNE YEW SHI EN</span></td>
+    <td>2E2</td>
+    <td>GOH HAN NAH</td>
   </tr>
-</tbody>
+  <tr>
+    <td>2E3</td>
+    <td>CHEYENNE YEW SHI EN</td>
+  </tr>
 </table>
 
 The Historical Scene Investigation Challenge is an inter-school contest in which Lower Secondary students put their historical inquiry and research skills to the test. 
