@@ -449,36 +449,23 @@ We are proud to announce that the following students have been awarded ‘Gold.�
 
 ### 2021 Competitions/Activities
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pkxd{background-color:#FFF;color:#6B6B6B;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-64ni{background-color:#FFF;color:#6B6B6B;text-align:left;vertical-align:top}
-.tg .tg-gaqo{background-color:#FFF;color:#6B6B6B;text-align:center;vertical-align:middle}
-.tg .tg-7xv2{background-color:#FFF;color:#6B6B6B;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-pkxd">S/N</th>
-    <th class="tg-pkxd">Name of Activity / Competition</th>
-    <th class="tg-pkxd">Description of the Activity / Competition</th>
-    <th class="tg-pkxd">Achievements / Placing</th>
-    <th class="tg-pkxd">Name / Class of students Involved</th>
-    <th class="tg-pkxd">Department</th>
+    <th>S/N</th>
+    <th>Name of Activity / Competition</th>
+    <th>Description of the Activity / Competition</th>
+    <th>Achievements / Placing</th>
+    <th>Name / Class of students Involved</th>
+    <th>Department</th>
   </tr>
-</thead>
-<tbody>
   <tr>
-    <td class="tg-gaqo">1</td>
-    <td class="tg-7xv2">Budding Writers’ and Artistes’ Programme in Tamil Language for Secondary school students</td>
-    <td class="tg-64ni"><span style="background-color:initial">This year’s programme was conducted by TLU as a series of 3 online workshops. These workshops provided the students the opportunity to hone their literary and artistic skills and appreciation.</span><br><br><span style="background-color:initial">Objectives of the programme were to:</span><br><br><span style="background-color:initial">a. Provide an opportunity for students to explore their talents and flare for writing.</span><br><br><span style="background-color:initial">b. Provide an opportunity for students to interact with local writers and scriptwriters while being trained by them in literary and creative writing techniques and to immerse themselves in literary appreciation.</span><br><br><span style="background-color:initial">c. Harness the synergy across community partners and agencies to nurture the passion in students to create local literary works of quality and to ensure a continued pipeline of local writers in Tamil Language.</span></td>
-    <td class="tg-7xv2">Chosen as one of the ‘Budding writer’ in Tamil Language and her story that she wrote will be published as i-book in the MOE library at SLS.</td>
-    <td class="tg-64ni">Sankaramani Kaviya(3E4)</td>
-    <td class="tg-gaqo">TL Unit</td>
+    <td>1</td>
+    <td>Budding Writers’ and Artistes’ Programme in Tamil Language for Secondary school students</td>
+    <td>This year’s programme was conducted by TLU as a series of 3 online workshops. These workshops provided the students the opportunity to hone their literary and artistic skills and appreciation.<br><br>Objectives of the programme were to:<br><br>a. Provide an opportunity for students to explore their talents and flare for writing. <br><br>b. Provide an opportunity for students to interact with local writers and scriptwriters while being trained by them in literary and creative writing techniques and to immerse themselves in literary appreciation.<br><br>c. Harness the synergy across community partners and agencies to nurture the passion in students to create local literary works of quality and to ensure a continued pipeline of local writers in Tamil Language.</td>
+    <td>Chosen as one of the ‘Budding writer’ in Tamil Language and her story that she wrote will be published as i-book in the MOE library at SLS.</td>
+    <td>Sankaramani Kaviya(3E4)</td>
+    <td>TL Unit</td>
   </tr>
   <tr>
     <td class="tg-gaqo">2</td>
