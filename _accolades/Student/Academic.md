@@ -548,20 +548,20 @@ We are proud to announce that the following students have been awarded ‘Gold.�
     <td>Math Dept</td>
   </tr>
   <tr>
-    <td class="tg-gaqo">12</td>
-    <td class="tg-7xv2">7th ArithmetEQ Challenge</td>
-    <td class="tg-7xv2">This Challenge is hosted by YSS virtually for the first time this year for 5 schools,. The Challenge aims to allow students to form equations on the score board using concepts of Arithmetics and Coordinate geometry within a minute. It is a platform for students to communicate mathematically in the use of numbers, powers and its operations in each equation.</td>
-    <td class="tg-7xv2">4th placing in the final round</td>
-    <td class="tg-64ni">Amir Hakim bin Rizal (2E1)<br>Shahril Azree Marekan bin Norazhar (2E2)</td>
-    <td class="tg-gaqo">Math Dept</td>
+    <td>12</td>
+    <td>7th ArithmetEQ Challenge</td>
+    <td>This Challenge is hosted by YSS virtually for the first time this year for 5 schools,. The Challenge aims to allow students to form equations on the score board using concepts of Arithmetics and Coordinate geometry within a minute. It is a platform for students to communicate mathematically in the use of numbers, powers and its operations in each equation.</td>
+    <td>4th placing in the final round</td>
+    <td>Amir Hakim bin Rizal (2E1)<br><br>Shahril Azree Marekan bin Norazhar (2E2)</td>
+    <td>Math Dept</td>
   </tr>
   <tr>
-    <td class="tg-gaqo"> 13</td>
-    <td class="tg-7xv2">Yellowren Canvas Art Competition 2021</td>
-    <td class="tg-7xv2">In Sep 2021, Our Secondary 3 students competed in the Yellowren Canvas Art Competition. Our students chose to paint Haji Lane, a popular place among the youths to express themselves freely through art. They painted themselves in the artwork showing themselves painting the streets of haji lane as they look forward to a  brighter future. Our students emerged 1st in the Viewer’s Choice awards and was given an Honorable mention award by the esteemed panel of judges. Their artwork was also exhibited in Orchard Central and Woodlands Library. </td>
-    <td class="tg-7xv2">1st in the Viewer’s Choice Awards  </td>
-    <td class="tg-64ni">Alaina Arwen Juat Natividad (3E5)<br>Yong Jun Xiang (3E5)<br>Prianka Rani Saha (3E5) <br>Bryan Teng (3E5)<br>Ng Jia Qi (3E2)  </td>
-    <td class="tg-gaqo">Art Unit</td>
+    <td> 13</td>
+    <td>Yellowren Canvas Art Competition 2021</td>
+    <td>In Sep 2021, Our Secondary 3 students competed in the Yellowren Canvas Art Competition. Our students chose to paint Haji Lane, a popular place among the youths to express themselves freely through art. They painted themselves in the artwork showing themselves painting the streets of haji lane as they look forward to a  brighter future. Our students emerged 1st in the Viewer’s Choice awards and was given an Honorable mention award by the esteemed panel of judges. Their artwork was also exhibited in Orchard Central and Woodlands Library. </td>
+    <td>1st in the Viewer’s Choice Awards  </td>
+    <td>Alaina Arwen Juat Natividad (3E5)<br><br>Yong Jun Xiang (3E5)<br><br>Prianka Rani Saha (3E5)<br><br>Bryan Teng (3E5)<br><br>Ng Jia Qi (3E2)</td>
+    <td>Art Unit</td>
   </tr>
 </tbody>
 </table>
