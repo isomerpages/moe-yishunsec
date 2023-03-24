@@ -75,14 +75,11 @@ To nurture and develop our youths into resilient and responsible citizens throug
 
 <div style="text-align:right;">Dylan Teh Zhibin, RSM 2021-2022</div>
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-1.jpg)
-<div style="text-align:center;">Keeping Singapore safe with fire safety</div>
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-2.jpg)
-<div style="text-align:center;">Learning to save lives with CPR and AED</div>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-1.jpg"><figcaption>Keeping Singapore safe with fire safety</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-3.jpg)
-<div style="text-align:center;">Our Pinnacle Award winner 2021 WO Dahlia Aniqa Binte Mohamad Zainol</div>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-2.jpg"><figcaption>Learning to save lives with CPR and AED</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-4.jpg)
-<div style="text-align:center;">Sharing lifesaving skills with the Girl Guides</div>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-3.jpg"><figcaption>Our Pinnacle Award winner 2021 WO Dahlia Aniqa Binte Mohamad Zainol</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-4.jpg"><figcaption>Sharing lifesaving skills with the Girl Guides</figcaption></figure>
