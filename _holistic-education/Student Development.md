@@ -5,7 +5,7 @@ description: ""
 ---
 **[Co-Curricular Activities (CCAs)](/student-development/cca/)**
 
-**[Citizenship and Character Education](/student-development/cce/)**
+**[Citizenship and Character Education (CCE)](/student-development/cce/)**
 
 **[Level System@YSS](/student-development/levelsystem/)**
 
