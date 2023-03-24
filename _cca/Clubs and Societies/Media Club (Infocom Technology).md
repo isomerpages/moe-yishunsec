@@ -7,37 +7,37 @@ third_nav_title: Clubs and Societies
 <figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-1.jpg"></figure>
 
 
-### Teacher-in-charge
+#### Teacher-in-charge
 * Mr Zul Idham (I/C)
 * Mdm Vemala
 * Mr Zainal
 
-### CCA Schedule
+#### CCA Schedule
 * Tuesday, 4 to 6pm
 
-### Venue
+#### Venue
 * Computer Lab 1
 * Computer Lab 4
 * Control Room
 
-### Aperture Exco Structure
+#### Aperture Exco Structure
 
 ![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media.png)
 
-### Key Student Outcomes
+#### Key Student Outcomes
 
 We want to build a community of thinking photographers who are dedicated to deepen their craft and have the courage to explore beyond what they know. We hope to build this community so that everyone will have more confidence to step out of their comfort zone and be resilient in putting in our 100% into the work that we are assigned to.
 
-### Aperture Events in 2022
+#### Aperture Events in 2022
 
 * Participated in Our Schools, Our Stories Photo Contest 2022
 
-### Student’s Quotes
+#### Student’s Quotes
 
 *"Being in aperture has shown me what it is like to be living life through a lens -with special moments that are caught in a second, but to be treasured for a lifetime.’'*
 <div style="text-align:right">Bernice Wang</div>
 
-### Aperture Photos
+#### Aperture Photos
 
 <figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-2.jpg"></figure>
 
@@ -51,7 +51,7 @@ We want to build a community of thinking photographers who are dedicated to deep
 
 ### Audio Visual Aid (AVA)
 
-### AVA CCA Exco Structure
+#### AVA CCA Exco Structure
 
 <style>
 table {
@@ -72,7 +72,6 @@ tr:nth-child(even) {
 </style>
 
 
-
 | No | Name | Leadership Roles |
 | -------- | -------- | -------- |
 | 1    | 	Nick Loh Jian Xiang     | CCA Chairperson     |
@@ -83,7 +82,7 @@ tr:nth-child(even) {
 | 6   | 	Kwok Bing Hay     | Logistics IC  |
 
 
-### Key Student Outcomes
+#### Key Student Outcomes
 
 Students to learn communication and teamwork skills through AVA events
 Students to be proficient in the use of standard AV hardware and software
@@ -92,11 +91,11 @@ Highlights / Achievements
 Provided seamless AV support for key school events, such as Speech Day, Arts Extravaganza and Vocalistic
 Provided routine AV support for daily FRC and weekly assembly programs
 
-### Events in 2021
+#### Events in 2021
 
 All school events requiring AV support
 
-### Student’s Quotes
+#### Student’s Quotes
 
 *“AVA has taught me patience as well as teamwork and communication skills. I have also learnt how to properly lead and coach other students.”*
 
@@ -111,7 +110,7 @@ style="text-align:right">Katrina Tan (Backstage Ic)
 
 
 
-### AVA Photos
+#### AVA Photos
 
 <img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/AVA-1.jpg" style="width:500px;"><br>
 
