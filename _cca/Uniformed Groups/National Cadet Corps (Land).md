@@ -20,6 +20,23 @@ third_nav_title: Uniformed Groups
 
 ### CCA Exco Structure
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+</style>
 
 
 | Position | Name | Class |
@@ -54,9 +71,9 @@ Singapore Kindness Movement Initiative by Senior cadets – awarded the Kindness
 
 Cadet Leaders, USM and ASM were nominated to participate in the Virtual International Cadet Exchange Programme Singapore (ICEP Singapore) 2021.
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VHw2sSXNePU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-NCC Cadets at Nee Soon GRC National Day Carnival 2022</p>
+
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/VHw2sSXNePU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>
+	NCC Cadets at Nee Soon GRC National Day Carnival 2022</figcaption></figure>
 
 ### Photos
 
