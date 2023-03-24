@@ -21,6 +21,25 @@ third_nav_title: Performing Arts
 
 ### CCA Exco Structure
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+</style>
+
+
 
 | SN | DESIGNATION | KEY PERSON |
 | -------- | -------- | -------- |
@@ -61,6 +80,4 @@ third_nav_title: Performing Arts
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VNNvCxgetwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
-
-<div style="text-align:center"> What We Do</div>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/VNNvCxgetwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>What We Do</figcaption></figure>
