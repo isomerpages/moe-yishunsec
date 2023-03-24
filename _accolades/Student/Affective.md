@@ -67,10 +67,7 @@ tr:nth-child(even) {
 
 <figure><img src="/images/Yashwita.jpeg" style="width:100%"><figcaption> Recipient of The Lee Kuan Yew Award for All – Round Excellence</figcaption></figure>
 
-**North West Outstanding School Partner Award (SPA) 2021** We are pleased to share that our school has achieved the Gold for North West Outstanding School Partner Award (SPA) 2021! The award is given to schools that had participated actively in North West CDC programmes in 2020. Our students, under the careful guidance of teachers, have shown acts of empathy and resilience to care for the vulnerable and less fortunate in the community, in their own little ways amid the unprecedented Covid-19 situation. We would like to take this opportunity to thank all teachers who have contributed their hard work and ‘heart’ work in guiding the students, while making every experience we have at school count! Let us continue to affirm the effort of our students in promoting a sustainable environment for all in the long run. Thank you!
-
-![](/images/Yishun-Secondary-School.jpg)
-<br> 
+**North West Outstanding School Partner Award (SPA) 2021** We are pleased to share that our school has achieved the Gold for North West Outstanding School Partner Award (SPA) 2021! The award is given to schools that had participated actively in North West CDC programmes in 2020. Our students, under the careful guidance of teachers, have shown acts of empathy and resilience to care for the vulnerable and less fortunate in the community, in their own little ways amid the unprecedented Covid-19 situation. We would like to take this opportunity to thank all teachers who have contributed their hard work and ‘heart’ work in guiding the students, while making every experience we have at school count! Let us continue to affirm the effort of our students in promoting a sustainable environment for all in the long run. Thank you! 
 
 ![](/images/Yishun-Secondary-School_with-photos.jpg)
 
