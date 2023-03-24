@@ -26,9 +26,9 @@ Reinforce pro-social behavior through participation and performance
 
 ### PE Department Teachers
 
-![](/images/IP/PE/PE1.png)
+<figure><img src="/images/IP/PE/PE1.png"></figure>
 
-![](/images/IP/PE/PE2.png)
+<figure><img src="/images/IP/PE/PE2.png"></figure>
 
 ### Photos
 
