@@ -103,14 +103,11 @@ VIA opportunities (Yellow Ribbon Project)
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-5.jpeg"><figcaption>Our SPF NPCC badge awardee SSGT NPCC Priyakumar Hari Krishna</figcaption></figure>
 
 
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-6.jpeg"><figcaption>Snippets of our cadets during the Inter Unit Drills Competition</figcaption></figure>
 
 
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-6.jpeg"><figcaption>Snippets of our cadets during the Inter Unit Drills Competition</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-6.jpeg)
-<div style="text-align:center;">Snippets of our cadets during the Inter Unit Drills Competition</div>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-7.jpeg"><figcaption>Our unit participating in the Yellow Ribbon Run</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-7.jpeg)
-<div style="text-align:center;">Our unit participating in the Yellow Ribbon Run</div>
-
-![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-8.jpeg)
-<div style="text-align:center;">Snippets of our cadets having fun during our Unit Cohesion to Hay Dairies Goat Farm</div>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-8.jpeg"><figcaption>Snippets of our cadets having fun during our Unit Cohesion to Hay Dairies Goat Farm</figcaption></figure>
