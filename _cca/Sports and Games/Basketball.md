@@ -83,8 +83,6 @@ tr:nth-child(even) {
 
 ### Photos
 
-![](/images/StudDevelopment/CCAs/SportsGames/Basketball/B-Division-Basketball-Team-Boys.jpg)
-<div style="text-align:center">YSS ‘B’ Boys Basketball Team</div>
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Basketball/B-Division-Basketball-Team-Boys.jpg"><figcaption>YSS ‘B’ Boys Basketball Team</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/SportsGames/Basketball/KC2_5133_Basketball-Girls_P1.jpg)
-<div style="text-align:center">YSS ‘B’ Girls Basketball Team</div>
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Basketball/KC2_5133_Basketball-Girls_P1.jpg"><figcaption>YSS ‘B’ Girls Basketball Team</figcaption></figure>
