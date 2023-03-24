@@ -23,9 +23,9 @@ Through engaging experiences in the Humanities classroom and the supplementation
 
 The inquiry process, whereby students are guided through the ability to ask questions about the content they are learning and draw conclusions from sources of information, forms the core of the Humanities. To support this process of inquiry, each unit has designed engaging learning journeys that will allow students to learn beyond the confines of their classroom and to apply their learning to the actual real-world context. Learning journeys include: 
 
-1.  Sec 1 Historical Investigation to Eurasian Heritage Gallery, Indian Heritage Centre and Sun Yat Sen Nanyang Memorial Hall 
-2.  Sec 3 Pure Geography Investigation at East Coast Beach 
-3.  Sec 3 Social Studies Investigation at The Enabling Village
+	1.  Sec 1 Historical Investigation to Eurasian Heritage Gallery, Indian Heritage Centre and Sun Yat Sen Nanyang Memorial Hall 
+	2.  Sec 3 Pure Geography Investigation at East Coast Beach 
+	3.  Sec 3 Social Studies Investigation at The Enabling Village
 		
 
 **Humanities Talent Management**
