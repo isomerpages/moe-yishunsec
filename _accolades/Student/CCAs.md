@@ -102,25 +102,6 @@ tr:nth-child(even) {
 
 #### 2022
 
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #99ccff;
-}
-
-</style>
-
 <table>
   <tr>
     <th>S/N</th>
@@ -167,25 +148,6 @@ tr:nth-child(even) {
 
 
 #### 2021
-
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #99ccff;
-}
-
-</style>
 
 <table>
 
