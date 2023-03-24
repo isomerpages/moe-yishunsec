@@ -37,7 +37,7 @@ At the upper secondary level, the aim is to inculcate creativity and innovative 
 
 <div style="color:blue;"><b>Art Programme</b></div>
 
-***Lower Secondary Programme***
+**Lower Secondary Programme**
 
 At the lower secondary level, students are exposed to not only 2-dimensional art-making. Students get to develop their visual-spatial intelligence through the mixed medium sculptures.  These enable students to immerse and explore 3-dimensional constructs to communicate their thoughts, ideas and be adept at understanding and appreciating the form of an object.  This is to cultivate a sense of wonder whilst enjoying the process of discovery.
 
