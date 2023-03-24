@@ -100,8 +100,6 @@ tr:nth-child(even) {
 
 ### Photos
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/GG.jpeg)
-<div style="text-align: center;">Plogathon an eco friendly exercise where one picks up litter while working out</div>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/GG.jpeg"><figcaption>Plogathon an eco friendly exercise where one picks up litter while working out</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/GG-2.jpeg)
-<div style="text-align: center;">Pose for Peace Competition on Zoom</div>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/GG-2.jpeg"><figcaption>Pose for Peace Competition on Zoom</figcaption></figure>
