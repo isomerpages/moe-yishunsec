@@ -22,13 +22,13 @@ This event provided a more authentic learning experience for the Secondary Three
 
 These partnerships provide more authentic learning experiences for the Secondary Three Retail Operation students as well as selected music students. They also allow for more internship opportunities in the retail sectors and masterclasses to learn from the music professionals.
 
-### Highlights / Achievements:
+### Highlights / Achievements
 
 <u> iPad Band Performance at Sree Narayana Mission Home (SNMH) </u>
 
 Selected Secondary Two students performed for the residents at SNMH and taught them how to make music on the iPad.
 
-### Aesthetics Department Teachers:
+### Aesthetics Department Teachers
 
 ![](/images/IP/Aesthetics/Ast1.png)
 
