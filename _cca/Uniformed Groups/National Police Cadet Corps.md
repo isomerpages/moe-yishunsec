@@ -91,20 +91,20 @@ VIA opportunities (Yellow Ribbon Project)
 
 <div style="text-align:right;">SSGT (NPCC) Md Musassir, Outdoors Instructor from 2018 – 2019</div>
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-1.jpeg)
-<div style="text-align:center;">Our Vice Principal donning on the SI rank for our cadet</div>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-1.jpeg"><figcaption>Our Vice Principal donning on the SI rank for our cadet</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-2.jpeg)
-<div style="text-align:center;">Field cooking during the Leadership Training Camp</div>
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-3.jpeg)
-<div style="text-align:center;">Zoom sharing by police officers from Yishun South NPC</div>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-2.jpeg"><figcaption>Field cooking during the Leadership Training Camp</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-4.jpeg)
-<div style="text-align:center;">Air pistol enrichment program for our cadets</div>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-3.jpeg"><figcaption>Zoom sharing by police officers from Yishun South NPC</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-5.jpeg)
-<div style="text-align:center;">Our SPF NPCC badge awardee SSGT NPCC Priyakumar Hari Krishna</div>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-4.jpeg"><figcaption>Air pistol enrichment program for our cadets</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-5.jpeg"><figcaption>Our SPF NPCC badge awardee SSGT NPCC Priyakumar Hari Krishna</figcaption></figure>
+
+
+
+
 
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-6.jpeg)
 <div style="text-align:center;">Snippets of our cadets during the Inter Unit Drills Competition</div>
