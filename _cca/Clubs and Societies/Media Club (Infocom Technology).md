@@ -39,20 +39,38 @@ We want to build a community of thinking photographers who are dedicated to deep
 
 ### Aperture Photos
 
-![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-2.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-2.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-3.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-3.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-4.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-4.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-5.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-5.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-6.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-6.jpg"></figure>
 
+### Audio Visual Aid (AVA)
 
-Audio Visual Aid (AVA)
-----------------------
 ### AVA CCA Exco Structure
+
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+</style>
+
 
 
 | No | Name | Leadership Roles |
