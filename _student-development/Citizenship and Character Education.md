@@ -30,16 +30,17 @@ Our school also received the following awards:
 
 ### CCE Teachers
 
-![](/images/StudDevelopment/CCE/CCE-1.jpg)
+<figure><img src="/images/StudDevelopment/CCE/CCE-1.jpg"></figure>
 
-![](/images/StudDevelopment/CCE/CCE-2.jpg)
+<figure><img src="/images/StudDevelopment/CCE/CCE-2.jpg"></figure>
+
 
 #### North West Outstanding School Partner Award (SPA) 2023
 We are pleased to share that our school has achieved the Silver for North West Outstanding School Partner Award (SPA) 2023. The award is given to schools that had participated actively in North West CDC programmes in 2022.
 
 Let us continue to nurture our students to be socially responsible citizens and affirm their effort in contributing to the community!
 
-![](/images/StudDevelopment/CCE/CCE-2.png)
+<figure><img src="/images/StudDevelopment/CCE/CCE-2.png"></figure>
 
 
 #### Secondary 1 Welcome Tea Party for International, Permanent Resident and Returning Singaporean students
@@ -51,29 +52,25 @@ They proceed to paint on canvas using acrylic paints and used wires to form word
 
 The students had fun and bonded well with each other in the group. Following up from this session, the NE & VIA Champs will be sharing what they have learnt (through interview) about the food, festival or culture from the origin country of their ISPR classmates while the ISPR students will be sharing about their experience in Singapore or their perspective of what makes Singapore, Singapore. The video clips will be compiled and featured during IFD celebration in April.
 
-![Group photo of all the attendees and teachers](/images/StudDevelopment/CCE/Photo%201_Group%20photo%20with%20art%20creations.jpeg)
-<div style="text-align:center">Group photo of all the attendees and teachers</div>
+<figure><img src="/images/StudDevelopment/CCE/Photo%201_Group%20photo%20with%20art%20creations.jpeg"><figcaption>Group photo of all the attendees and teachers</figcaption></figure>
 
-![Students bond over food](/images/StudDevelopment/CCE/Photo%202_Bond%20over%20food%201.jpeg)
-<div style="text-align:center">Students bond over food</div>
+<figure><img src="/images/StudDevelopment/CCE/Photo%202_Bond%20over%20food%201.jpeg"><figcaption>Students bond over food</figcaption></figure>
 
-![Students bond over food](/images/StudDevelopment/CCE/Photo%203_Bond%20over%20food%202.jpeg)
-<div style="text-align:center">Students bond over food</div>
+<figure><img src="/images/StudDevelopment/CCE/Photo%203_Bond%20over%20food%202.jpeg"><figcaption>Students bond over food</figcaption></figure>
 
-![Students bond over food](/images/StudDevelopment/CCE/Photo%204_Bond%20over%20food%203.jpeg)
-<div style="text-align:center">Students bond over food</div>
 
-![Students bond over food](/images/StudDevelopment/CCE/Photo%205_Bond%20over%20food%204.jpeg)
-<div style="text-align:center">Students bond over food</div>
+<figure><img src="/images/StudDevelopment/CCE/Photo%204_Bond%20over%20food%203.jpeg"><figcaption>Students bond over food</figcaption></figure>
 
-![Proud moment for the winner of ‘The Red Dot’ Kahoot quiz](/images/StudDevelopment/CCE/Photo%206_Kahoot%20Quiz%202.jpeg)
-<div style="text-align:center">Proud moment for the winner of ‘The Red Dot’ Kahoot quiz</div>
+<figure><img src="/images/StudDevelopment/CCE/Photo%205_Bond%20over%20food%204.jpeg"><figcaption>Students bond over food</figcaption></figure>
 
-![Proud moment for the winner of ‘The Red Dot’ Kahoot quiz](/images/StudDevelopment/CCE/Photo%207_Kahoot%20Quiz%201.jpeg)
-<div style="text-align:center">Proud moment for the winner of ‘The Red Dot’ Kahoot quiz</div>
+<figure><img src="/images/StudDevelopment/CCE/Photo%206_Kahoot%20Quiz%202.jpeg"><figcaption>Proud moment for the winner of ‘The Red Dot’ Kahoot quiz</figcaption></figure>
 
-![Proud moment for the winner of ‘The Red Dot’ Kahoot quiz](/images/StudDevelopment/CCE/Photo%208_Kahoot%20Quiz%203.jpeg)
-<div style="text-align:center"> Proud moment for the winner of ‘The Red Dot’ Kahoot quiz </div>
+
+<figure><img src="/images/StudDevelopment/CCE/Photo%207_Kahoot%20Quiz%201.jpeg"><figcaption>Proud moment for the winner of ‘The Red Dot’ Kahoot quiz</figcaption></figure>
+
+
+<figure><img src="/images/StudDevelopment/CCE/Photo%208_Kahoot%20Quiz%203.jpeg"><figcaption>Proud moment for the winner of ‘The Red Dot’ Kahoot quiz</figcaption></figure>
+
 
 
 #### Racial Harmony Day (RHD) Celebration 2022
