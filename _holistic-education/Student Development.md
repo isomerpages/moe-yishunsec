@@ -7,8 +7,8 @@ description: ""
 
 **[Citizenship and Character Education (CCE)](/student-development/cce/)**
 
+**[Educational Support](/student-development/edu-support/)**
+
 **[Level System@YSS](/student-development/levelsystem/)**
 
 **[Prefectorial Board](/student-development/prefectorial-board/)**
-
-**[Educational Support](/student-development/edu-support/)**
