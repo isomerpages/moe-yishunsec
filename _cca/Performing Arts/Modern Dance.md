@@ -88,8 +88,8 @@ tr:nth-child(even) {
 
 <div style="text-align:right">Poh Shae Qi, Phoebe (2022)</div>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance2.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance2.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance3.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance3.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance4.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance4.jpg"></figure>
