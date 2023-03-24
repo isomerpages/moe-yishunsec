@@ -59,7 +59,7 @@ Robotics continues to provide enriching learning opportunities for our YSS Robot
 ### Events in 2021
 * HACK@AC
 
-**Competition Details:**
+##### Competition Details:
 
 HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues.
 
