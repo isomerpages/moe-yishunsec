@@ -20,6 +20,24 @@ third_nav_title: Performing Arts
 
 ### CCA Exco Structure
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+</style>
+
 
 
 | Position  | Name | Class |
@@ -63,11 +81,8 @@ One Band, One Sound, One Family
 
 <div style="text-align:right">Lim Chun Hong, Concertmaster</div>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/Band/Band-3.jpeg)
-<div style="text-align:center">After the performance</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Band/Band-3.jpeg"><figcaption>After the performance</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/Band/Band-2.jpeg)
-<div style="text-align:center">Practising hard</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Band/Band-2.jpeg"><figcaption>Practising hard</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/PerformingArts/Band/Band-1.jpeg)
-<div style="text-align:center">SYF Performance</div>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Band/Band-1.jpeg"><figcaption>SYF Performance</figcaption></figure>
