@@ -11,7 +11,7 @@ description: ""
 <img src="/images/IP/Literature/Literature%20Department1.png">
 
 
-<h4>Desired Outcomes of Literature</h4>
+### Desired Outcomes of Literature
 
 We aim to develop students to be:
 <ul>
@@ -20,7 +20,8 @@ We aim to develop students to be:
 <li>Creative Meaning Makers</li>
 <li>Convincing Communicators</li>
 </ul>
-<h4>Empathetic and Global Thinkers</h4>
+
+### Empathetic and Global Thinkers
 
 Students will learn to:
 <ul>
@@ -29,7 +30,8 @@ Students will learn to:
 <li>develop global awareness through the study of texts from different parts of the world</li>
 <li>reflect on their own values, perspectives and identities as they consider the impact of their beliefs and actions on society</li>
 </ul>
-<h4>Critical Readers</h4>
+
+### Critical Readers
 
 Students will learn to:
 <ul>
@@ -37,14 +39,16 @@ Students will learn to:
 <li>read widely and independently, from a variety of genres for the appreciation of genre conventions</li>
 <li>appreciate the contexts in which literary texts are written, read and understood</li>
 </ul>
-<h4>Creative Meaning Makers</h4>
+
+### Creative Meaning Makers
 
 Students will learn to:
 <ul>
 <li>embrace ambiguity and uncertainty as necessary in the meaning making process</li>
 <li>actively and creatively construct their understanding and interpretation of texts</li>
 </ul>
-<h4>Convincing Communicators</h4>
+
+### Convincing Communicators
 
 Students will learn to:
 
@@ -56,7 +60,7 @@ Students will learn to:
 
 <img src="/images/IP/Literature/yss%20logo%20100px.jpg" style="width:100px; height:134px;">
 
-<h3>Literature Programme</h3>
+### Literature Programme
 
 <style>
 table { border: 2px; colour: solid blue; }
