@@ -70,7 +70,7 @@ tr:nth-child(even) {
 ### 2022 GCE O-Level Examination 4 Express Results
 
   
-_Congratulations to our Secondary 4 Express students!_   
+*Congratulations to our Secondary 4 Express students! *
   
 #### 4E students who achieved L1R5 < 12
 
@@ -268,7 +268,7 @@ _Congratulations to our Secondary 4 Normal (Technical) students!_
     <td>Basketball / Member</td>
   </tr>
   <tr>
-    <td>>4T1</td>
+    <td>4T1</td>
     <td>Muhammad Irfan Bin Abdullah</td>
     <td>7</td>
     <td>BML, CPA</td>
