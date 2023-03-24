@@ -19,6 +19,25 @@ third_nav_title: Sports and Games
 
 ### CCA Exco Structure
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+</style>
+
+
 
 | Position | Name | 	Class |
 | -------- | -------- | -------- |
@@ -53,8 +72,6 @@ third_nav_title: Sports and Games
 
 ### Photos
 
-![](/images/StudDevelopment/CCAs/SportsGames/Netball/Netball-1.jpg)
-<div style="text-align:center">Training</div>
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Netball/Netball-1.jpg"><figcaption>Training</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/SportsGames/Netball/Netball-3.png)
-<div style="text-align:center">Working on our game play</div>
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Netball/Netball-3.png"><figcaption>Working on our game play</figcaption></figure>
