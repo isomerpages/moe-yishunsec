@@ -19,6 +19,24 @@ To stimulate greater interest and enrich students’ knowledge in Mathematics fo
 
 • <b>All Singapore Secondary Mathematics Competition for Normal Course Students 2022. </b> Our Sec 1 Normal Academic and Normal Technical students won the Top five in the Individual Category and top five in Team Category.
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+
+</style>
 
 
 | Class | Student Name | Award |
@@ -51,43 +69,33 @@ To stimulate greater interest and enrich students’ knowledge in Mathematics fo
 Secondary 1 cohort participated in this inter-class challenge through which they demonstrated resilience, creative thinking and teamwork for the first time in 2022. Students learned Arithmetic and Geometry when playing the board game. Sec 2E game facilitators were trained to guide players in the competition rounds.
 
 
-<div>
 <table>  
-<thead>  
-  <tr>  
+ <tr>  
     <th>Award</th>  
     <th>Student Name</th>  
     <th>Class</th>  
   </tr>  
-</thead>  
-<tbody>  
-  <tr>  
+ <tr>  
     <td>CHAMPION</td>  
 		<td>
-			<ul>  
-				<li>ADNIEL YEO KAI KEE (YANG KAIQI)</li>  
-				<li>ZION KOH</li>  
-			</ul> 
+			  1. ADNIEL YEO KAI KEE (YANG KAIQI)<br>  
+				2. ZION KOH 
 		</td>
     <td>1 STRIVE</td>  
   </tr>  
   <tr>  
     <td>FIRST RUNNER UP</td>  
 		<td>
-			<ul>  
-					<li>IDHAN AKIL BIN ASHRAF MARICAR</li>  
-					<li>JOY TAY LIKE XIN</li>  
-				</ul>
-		</td>
+				1. IDHAN AKIL BIN ASHRAF MARICAR<br>
+				2. JOY TAY LIKE XIN  
+			</td>
     <td>1 SEEK</td>  
   </tr>  
   <tr>  
     <td>SECOND RUNNER UP</td>  
 		<td>
-			<ul>  
-				<li>NUR NABILA BINTE MOHAMAD HANIF</li>  
-				<li>XIE JIATONG</li>  
-			</ul>
+			1. NUR NABILA BINTE MOHAMAD HANIF<br>  
+			2. XIE JIATONG
 		</td>
     <td>1 INNOVATE</td>  
   </tr>  
