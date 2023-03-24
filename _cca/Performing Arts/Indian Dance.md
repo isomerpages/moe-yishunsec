@@ -49,6 +49,7 @@ third_nav_title: Performing Arts
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/SISnDbEv5Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>Performing at the Nee Soon Central National Day Carnival 2022</figcaption></figure>
 
 
+
 ### Photos
 
 <figure><img src="/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance5.jpg"><figcaption>SYF 2021 team NUS university cultural centre</figcaption></figure>
