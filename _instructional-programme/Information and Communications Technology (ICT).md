@@ -26,7 +26,7 @@ To nurture a community of confident, socially responsible and future-ready learn
 
 ### Photos
 
-<figure><img src=/images/IP/ICT/Photo_1-Consulation-in-The-SPACE.jpg><figcaption>Consulation in The SPACE</figcaption></figure>
+<figure><img src=/images/IP/ICT/Nearpod%20Training.jpeg><figcaption>Training Teachers</figcaption></figure>
 
 <figure><img src=/images/IP/ICT/Photo_2-Online-Self-Directed-Learning.jpg><figcaption>Online Self-Directed Learning</figcaption></figure>
 
