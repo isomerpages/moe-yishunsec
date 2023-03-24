@@ -19,7 +19,7 @@ Through engaging experiences in the Humanities classroom and the supplementation
 
 ### Department Key Initiatives
 
-**Humanities Inquiry**
+##### Humanities Inquiry
 
 The inquiry process, whereby students are guided through the ability to ask questions about the content they are learning and draw conclusions from sources of information, forms the core of the Humanities. To support this process of inquiry, each unit has designed engaging learning journeys that will allow students to learn beyond the confines of their classroom and to apply their learning to the actual real-world context. Learning journeys include: 
 
@@ -28,11 +28,11 @@ The inquiry process, whereby students are guided through the ability to ask ques
 3. Sec 3 Social Studies Investigation at The Enabling Village
 		
 
-**Humanities Talent Management**
+##### Humanities Talent Management
 
 Year-round, students from across the various levels and streams are selected to represent the school in competitions. Most notable ones include the NUS Geography Challenge, NLB S.U.R.E competition, Historical Scene Investigation and the MOE History challenge. 
 
-**Southeast Asian Programme**
+##### Southeast Asian Programme
 
 Every year, a group of Secondary 2 students are selected to take part in the Southeast Asian Programme where they learn more about the region they live in through talks by academics as well as sharing by their peers on how the interconnection between Southeast Asian countries are vital to the survival of this region. This year, they will also embark on interactive sessions such as trying their hands on the Gamelan and Batik painting as they learn about the deep cultural heritage of the region. They will also be going on a learning journey to the National Gallery Singapore where they will learn more about art and architecture that defines Southeast Asia.
 
