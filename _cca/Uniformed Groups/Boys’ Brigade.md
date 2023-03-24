@@ -49,6 +49,6 @@ third_nav_title: Uniformed Groups
 
 ### Photos
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/BoysBrigade/bb_1.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/BoysBrigade/bb_1.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/BoysBrigade/bb_2.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/BoysBrigade/bb_2.jpg"></figure>
