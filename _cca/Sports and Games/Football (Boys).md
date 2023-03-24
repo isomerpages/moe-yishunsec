@@ -37,7 +37,6 @@ tr:nth-child(even) {
 </style>
 
 
-
 | |  |
 | -------- | -------- |
 | Captain:     | Muhammad Rabbani Bin Buhari (3E4)     |
@@ -77,8 +76,6 @@ tr:nth-child(even) {
 
 ### Photos
 
-![](/images/StudDevelopment/CCAs/SportsGames/Football/Football-1.jpg)
-<div style="text-align:center">Our Graduating Boys</div>
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Football/Football-1.jpg"><figcaption>Our Graduating Boys</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/SportsGames/Football/Football-2.jpg)
-<div style="text-align:center">YSS Under-18 Football League</div>
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Football/Football-2.jpg"><figcaption>YSS Under-18 Football League</figcaption></figure>
