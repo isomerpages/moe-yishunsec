@@ -4,7 +4,7 @@ permalink: /accolades/Student/alumnus/
 description: ""
 third_nav_title: Student
 ---
-<img src="/images/Accolades/Student/Congratulations%20on%20Outstanding%20A-Level%20Results.png" style="width:50%" align="center">
+<figure><img src="/images/Accolades/Student/Congratulations%20on%20Outstanding%20A-Level%20Results.png" style="width:50%"></figure>
 
 
 #### Cedric Tay Shi Han and  Tan Su Xin
@@ -51,7 +51,7 @@ third_nav_title: Student
 -------------------------------------------
 
 <br>
-<img src="/images/Accolades/Student/PHYLLIS-OH-YU-HUI_1.jpg" style="width:50%" align="center">
+<figure><img src="/images/Accolades/Student/PHYLLIS-OH-YU-HUI_1.jpg" style="width:50%"></figure>
 
 
 	
@@ -67,8 +67,8 @@ third_nav_title: Student
 
 
 
-<img
-src="/images/Accolades/Student/Huang%20Caihong.jpg" style="width:50%" align="center">	
+<figure><img
+src="/images/Accolades/Student/Huang%20Caihong.jpg" style="width:50%"></figure>
 
 
 
@@ -81,8 +81,8 @@ src="/images/Accolades/Student/Huang%20Caihong.jpg" style="width:50%" align="cen
 
 -----------------------------------
 
-<img
-src="/images/Accolades/Student/Yeo%20Si%20Qi%20Levin.jpg" style="width:50%" align="center">	
+<figure><img
+src="/images/Accolades/Student/Yeo%20Si%20Qi%20Levin.jpg" style="width:50%"></figure>
 
 
 
@@ -96,8 +96,8 @@ src="/images/Accolades/Student/Yeo%20Si%20Qi%20Levin.jpg" style="width:50%" alig
 
 -----------------------------------
 
-<img
-src="/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg" style="width:70%" align="center">	
+<figure><img
+src="/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg" style="width:70%"></figure>
 
 
 
@@ -110,8 +110,8 @@ src="/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg" style="width:70%" 
 
 -----------------------------------
 
-<img
-src="/images/Accolades/Student/Denise%20Ong%20Li%20Jie.jpg" style="width:50%" align="center">	
+<figure><img
+src="/images/Accolades/Student/Denise%20Ong%20Li%20Jie.jpg" style="width:50%"></figure>
 
 
 
@@ -134,11 +134,8 @@ addition, I am very thankful to have made some true friends.”*
 
 -------------------------------
 
-<img
-src="/images/Accolades/Student/Michel%20Sim.png" style="width:50%" align="center">	
-
-
-
+<figure><img
+src="/images/Accolades/Student/Michel%20Sim.png" style="width:50%"></figure>
 
 
 #### Michel Sim
@@ -158,8 +155,8 @@ the teachers and B.E. Project.”*
 
 ---------------------------------
 
-<img
-src="/images/Accolades/Student/Raphael%20Khoo.png" style="width:50%" align="center">	
+<figure><img
+src="/images/Accolades/Student/Raphael%20Khoo.png" style="width:50%"></figure>
 
 
 
@@ -180,10 +177,8 @@ remember our roots and give back to society in whatever ways I can.”*
 
 ----------------------------------
 
-<img
-src="/images/Accolades/Student/Yoh%20Kai%20Xiang.jpg" style="width:70%" align="center">	
-
-
+<figure><img
+src="/images/Accolades/Student/Yoh%20Kai%20Xiang.jpg" style="width:70%"></figure>
 
 
 #### Yoh Kai Xiang
@@ -217,8 +212,8 @@ grateful for what they have done for me.”*
 
 ---------------------------------
 
-<img
-src="/images/Accolades/Student/Salmah%20Sng%20Mei%20Wen.jpg" style="width:50%" align="center">	
+<figure><img
+src="/images/Accolades/Student/Salmah%20Sng%20Mei%20Wen.jpg" style="width:50%"></figure>
 
 
 
