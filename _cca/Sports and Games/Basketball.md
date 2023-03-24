@@ -25,7 +25,27 @@ third_nav_title: Sports and Games
 
 ### CCA Exco Structure
 
-**B DIVISION**
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #99ccff;
+}
+</style>
+
+
+
+##### B DIVISION
 
 | Basketball (Boys) | Basketball (Girls) |
 | -------- | -------- |
@@ -35,7 +55,7 @@ third_nav_title: Sports and Games
 | Publicity IC: KIERAN JAMES NOLLOTH 3E2     | Logistics IC: LEE YU EN DYAN 3E2     |
 | Training IC: TAN JHON ALBERT SEDILLO 3T1     | Training IC: TOH KAI XUAN GWENDOLYN 3N1     |
 
-**C DIVISION**
+##### C DIVISION
 
 
 | Basketball (Boys) | Basketball (Girls) |
