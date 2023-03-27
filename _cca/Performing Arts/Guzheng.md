@@ -67,8 +67,6 @@ For students to
 
 ### SYF 2021 Video 
 
-*Click the link below to view the video*
-
 * [GUZHENG_GZS 023_YSS](https://youtu.be/0NJe78sp52o)
 
 ### Student’s Quotes
