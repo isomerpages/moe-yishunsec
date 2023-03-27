@@ -31,7 +31,6 @@ third_nav_title: Uniformed Groups
     <td>Assistant Company Leader</td>
     <td>NASRIN NAJEEB</td>
   </tr>
-	  </tr>
 	  <tr>
     <td> </td>
     <td> </td>
@@ -48,7 +47,6 @@ third_nav_title: Uniformed Groups
     <td>Patrol Second</td>
     <td>NG YUN RU ERICA</td>
   </tr>
-	</tr>
 	  <tr>
     <td> </td>
     <td> </td>
