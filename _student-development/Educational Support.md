@@ -65,17 +65,12 @@ YE@H is an After School Engagement (ASE) programme tailored to engage a targeted
 
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/CJlycQj_pBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <figcaption>Claymation Masterpiece</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-13.jpg" style="width:70%" align="center">
-<div align="center">Tile art session with Mr Ahmad</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-13.jpg" style="width:70%"><figcaption>Tile art session with Mr Ahmad</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-14.jpg" style="width:70%" align="center">
-<div align="center">Monthly birthday celebrations</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-14.jpg" style="width:70%">
+<figcaption>Monthly birthday celebrations</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-15.jpg" style="width:70%" align="center">
-<div align="center">Cooking session (pre-COVID period)</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-15.jpg" style="width:70%"><figcaption>Cooking session (pre-COVID period)</figcaption></figure>
 
 
 It is held from Mondays to Fridays from 2.30pm to 5.00pm at the HangOutz.
