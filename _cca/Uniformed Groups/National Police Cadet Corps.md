@@ -100,7 +100,7 @@ VIA opportunities (Yellow Ribbon Project)
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-4.jpeg"><figcaption>Air pistol enrichment program for our cadets</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-5.jpeg"><figcaption>Our SPF NPCC badge awardee SSGT NPCC Priyakumar Hari Krishna</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-5.jpeg" style="width:70%"><figcaption>Our SPF NPCC badge awardee SSGT NPCC Priyakumar Hari Krishna</figcaption></figure>
 
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-6.jpeg"><figcaption>Snippets of our cadets during the Inter Unit Drills Competition</figcaption></figure>
