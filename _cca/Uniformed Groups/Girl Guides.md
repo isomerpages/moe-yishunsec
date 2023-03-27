@@ -27,11 +27,11 @@ third_nav_title: Uniformed Groups
     <td>Company Leader</td>
     <td>LIN YUNFANG</td>
   </tr>
-	  <tr>
+	<tr>
     <td>Assistant Company Leader</td>
     <td>NASRIN NAJEEB</td>
   </tr>
-	  <tr>
+	<tr>
     <td> </td>
     <td> </td>
   </tr>
@@ -39,7 +39,7 @@ third_nav_title: Uniformed Groups
 		<td><b><u>Jasmine Patro:</u></b></td>
 		<td></td>
   </tr>
-	 <tr>
+	<tr>
     <td>Patrol Second</td>
     <td>SIVASUNDAR SHAILAJA</td>
   </tr>
@@ -47,15 +47,15 @@ third_nav_title: Uniformed Groups
     <td>Patrol Second</td>
     <td>NG YUN RU ERICA</td>
   </tr>
-	  <tr>
+	<tr>
     <td> </td>
     <td> </td>
   </tr>
-		<tr>
+	<tr>
 		<td><b><u>Orchid Patrol:</u></b></td>
 		<td></td>
   </tr>
-	 <tr>
+	<tr>
     <td>Senior Patrol Leader</td>
     <td>ELISE LIM WEN HUI</td>
   </tr>
@@ -64,8 +64,6 @@ third_nav_title: Uniformed Groups
     <td>LOOK JIA JUN, ALICE</td>
   </tr>
 	<tr>
-	</tr>
-	  <tr>
     <td> </td>
     <td> </td>
   </tr>
@@ -73,7 +71,7 @@ third_nav_title: Uniformed Groups
 		<td><b><u>Sunflower Patrol:</u></b></td>
 		<td></td>
   </tr>
-	 <tr>
+	<tr>
     <td>Patrol Leader</td>
     <td>WONG LE YI, GRACE</td>
   </tr>
@@ -85,10 +83,11 @@ third_nav_title: Uniformed Groups
     <td></td>
     <td></td>
   </tr>
+	<tr>
 		<td><b><u>Ixora Patrol:</u></b></td>
 		<td></td>
   </tr>
-	 <tr>
+	<tr>
     <td>Patrol Second</td>
     <td>FARZANA D/O MOHAMED ASARAFFALI </td>
   </tr>
@@ -96,7 +95,6 @@ third_nav_title: Uniformed Groups
     <td>Patrol Second</td>
     <td>LEE JIA XUAN</td>
   </tr>
-	
 </table>
 
 ### Key Student Outcomes
