@@ -60,11 +60,11 @@ tr:nth-child(even) {
 
 | Basketball (Boys) | Basketball (Girls) |
 | -------- | -------- |
-| Captain: TAN JIAN YU (CHEN JIANYU) 2N2     | Captain: SARAH FALISHA LIM BINTE HAILRUL NIZAM 2E4     |
-| Vice-Captain: HO DE XUN, HAYDEN 2E1     | Vice-Captain: KUA EN XI JAZE 2T1     |
-| Logistics IC: EAN PANG YI HUAN 2E2     | Logistics IC: GOH QI EN, VALERIE 2N2     |
-| Publicity IC: OH ZHI YANG CHESTER 2T1     | Publicity IC: JOLENE LEO LI XUAN 2E2     |
-| Training IC: RALPH KHANG LI JIE 2T1     | Training IC: SEAH KAI LING 2E3     |
+| **Captain:** TAN JIAN YU (CHEN JIANYU) 2N2     | **Captain:** SARAH FALISHA LIM BINTE HAILRUL NIZAM 2E4     |
+| **Vice-Captain:** HO DE XUN, HAYDEN 2E1     | **Vice-Captain:** KUA EN XI JAZE 2T1     |
+| **Logistics IC:** EAN PANG YI HUAN 2E2     | **Logistics IC:** GOH QI EN, VALERIE 2N2     |
+| **Publicity IC:** OH ZHI YANG CHESTER 2T1     | **Publicity IC:** JOLENE LEO LI XUAN 2E2     |
+| **Training IC:** RALPH KHANG LI JIE 2T1     | **Training IC:** SEAH KAI LING 2E3     |
 
 ### Key Student Outcomes
 
