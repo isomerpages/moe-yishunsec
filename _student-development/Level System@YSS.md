@@ -22,7 +22,25 @@ The Student Development Team is also supported by the CCE Team (led by HOD CCE, 
 
 ### Key Programmes
 
+<style> 
 
+table { 
+  font-family: arial, sans-serif; 
+  border-collapse: collapse; 
+  width: 100%; 
+} 
+ 
+
+td, th { 
+  border: 1px solid #dddddd; 
+  text-align: left; 
+  padding: 8px; 
+} 
+tr:nth-child(even) { 
+  background-color: #99ccff; 
+} 
+
+</style> 
 
 
 |  | Secondary 1| Secondary 2| Secondary 3| Secondary 4 & 5| 
