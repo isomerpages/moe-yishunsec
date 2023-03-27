@@ -5,13 +5,13 @@ description: ""
 ---
 Dear Parents, Students and Partners of Yishun Secondary School,
 
-As we begin 2023, I would like to thank all parents, students and stakeholders for working closely with us last year in providing quality education to all Yishunites. 
+As we begin 2023, I would like to thank all parents, students and stakeholders for working closely with us last year in providing quality education to all Yishunites.
 
 I believe the synergy between the school and her partners has been a good one. We were able to stay focused on our goals and continue with providing meaningful learning experiences for our students.
 
-2022 was a fruitful year as safety measurement measures were gradually relaxed.  We explored new grounds on the home-based learning front. We also reinstated many of the activities that make school life engaging and meaningful for our students. These included CCAs, national competitions, cohort camps and learning journeys. 
+2022 was a fruitful year as safety measurement measures were gradually relaxed.  We explored new grounds on the home-based learning front. We also reinstated many of the activities that make school life engaging and meaningful for our students. These included CCAs, national competitions, cohort camps and learning journeys.
 
-In 2023, as we move deeper into normalcy, we have value-added to many of the programmes in school and come up with new ones that will make learning more Exciting, Engaging and Enriching for all Yishunites. 
+In 2023, as we move deeper into normalcy, we have value-added to many of the programmes in school and come up with new ones that will make learning more Exciting, Engaging and Enriching for all Yishunites.
 
 In Term Two of 2023, we look forward to the inaugural YSS Learning Festival for Students. The learning festival takes learning beyond the classroom where students can experience for themselves what they have learnt in the textbooks.  A total of 3 days have been set aside for this experiential learning venture for our students. 
 
