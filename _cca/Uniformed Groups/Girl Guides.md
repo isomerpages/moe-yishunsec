@@ -36,7 +36,7 @@ third_nav_title: Uniformed Groups
     <td> </td>
   </tr>
 	<tr>
-		<td><b><u>Jasmine Patro:</u></b></td>
+		<td><b><u>Jasmine Patrol:</u></b></td>
 		<td></td>
   </tr>
 	<tr>
