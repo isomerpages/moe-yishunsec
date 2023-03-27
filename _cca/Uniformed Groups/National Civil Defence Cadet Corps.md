@@ -80,6 +80,6 @@ To nurture and develop our youths into resilient and responsible citizens throug
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-2.jpg"><figcaption>Learning to save lives with CPR and AED</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-3.jpg"><figcaption>Our Pinnacle Award winner 2021 WO Dahlia Aniqa Binte Mohamad Zainol</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-3.jpg" style="width:50%"><figcaption>Our Pinnacle Award winner 2021 WO Dahlia Aniqa Binte Mohamad Zainol</figcaption></figure>
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-4.jpg"><figcaption>Sharing lifesaving skills with the Girl Guides</figcaption></figure>
