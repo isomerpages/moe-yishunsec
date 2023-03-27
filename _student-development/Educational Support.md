@@ -42,12 +42,9 @@ StAR programme is conducted for our Lower Secondary Normal Technical (NT) studen
 
 This clinic is specialised to guide our students with special needs by our dedicated team of Allied Educators specializing in Learning and Behavioural Support (AED/LBS).
 
-<img src="/images/StudDevelopment/EduSupport/EduSupport-10.jpeg" style="width:70%" align="center">
-<div align="center">Celebration of students’ success and journey with AED(LBS)</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-10.jpeg" style="width:70%"><figcaption>Celebration of students’ success and journey with AED(LBS)</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-11.jpg" style="width:70%" align="center">
-<div align="center">Words of encouragement</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-11.jpg" style="width:70%"><figcaption>Words of encouragement</figcaption></figure>
 
 Our AED/LBS team is always on task and take the extra mile to support our students with learning needs. This will help to maximise the students’ learning potential. They work together with parents as the key stakeholders to ensure that students are fully supported in their journey in YSS.
 
