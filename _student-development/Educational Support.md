@@ -67,8 +67,7 @@ YE@H is an After School Engagement (ASE) programme tailored to engage a targeted
 
 <figure><img src="/images/StudDevelopment/EduSupport/EduSupport-13.jpg" style="width:70%"><figcaption>Tile art session with Mr Ahmad</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-14.jpg" style="width:70%">
-<figcaption>Monthly birthday celebrations</figcaption></figure>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-14.jpg" style="width:70%"><figcaption>Monthly birthday celebrations</figcaption></figure>
 
 <figure><img src="/images/StudDevelopment/EduSupport/EduSupport-15.jpg" style="width:70%"><figcaption>Cooking session (pre-COVID period)</figcaption></figure>
 
@@ -85,13 +84,9 @@ This programme serves to engage our at-risk students through counselling therapy
 
 This is a platform conducted by our School Counsellors and School Health Advisor (SHA) to engage students in having a healthy body and mind.
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-16.jpeg" style="width:70%" align="center">
-<div align="center">Chat@Recess session (pre-COVID period)</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-16.jpeg" style="width:70%"><figcaption>Chat@Recess session (pre-COVID period)</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-17.jpeg" style="width:70%" align="center">
-<div align="center">A preview of session content</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-17.jpeg" style="width:70%"><figcaption>A preview of session content</figcaption></figure>
 
 
 **(3) Connectedness within the larger community**
@@ -100,8 +95,7 @@ This is a platform conducted by our School Counsellors and School Health Advisor
 
 Our YE@H students performed at the Singapore Kindness Movement (SKM) Award Ceremony in 2018. Students made a spectacular performance with the Cajon which they learnt during their YE@H sessions. They are certainly looking forward to serve the community in the post-Circuit Breaker period in the future.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jm_3S-_qPB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<div align="center">YE@H students’ performance at SKM Award Ceremony</div>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/jm_3S-_qPB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>YE@H students’ performance at SKM Award Ceremony</figcaption></figure>
 
 **(B) Values-in-Action (VIA) in School**
 
