@@ -23,6 +23,8 @@ The Student Development Team is also supported by the CCE Team (led by HOD CCE, 
 ### Key Programmes
 
 
+
+
 |  | Secondary 1| Secondary 2| Secondary 3| Secondary 4 & 5| 
 | -------- | -------- | -------- | -------- | -------- |
 | **Theme**   | **We Seek:** <br>Developing Self     | **We Seek:** <br>Collaborating With Others       | **We Strive:** <br>Contributing to Community     | **We Strive:** <br> Striving for Excellence     |
