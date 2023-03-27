@@ -18,7 +18,7 @@ third_nav_title: Uniformed Groups
 
 ### CCA Exco Structure
 
-<table>
+<table style= "background-color: rgb(232, 237, 255);">
   <tr>
     <th>Position</th>
     <th>Name</th>
