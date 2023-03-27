@@ -41,9 +41,9 @@ tr:nth-child(even) {
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Captain:**     | SHAHRIL MAREKAN | Sec 4E5     |
-| **Vice Captain:**    | LUCAS SENG | Sec 4E5     |
-|  **Exco:**   |  P. SARVESH     | Sec 4E1    |
+| **Captain**     | SHAHRIL MAREKAN | Sec 4E5     |
+| **Vice Captain**    | LUCAS SENG | Sec 4E5     |
+|  **Exco**   |  P. SARVESH     | Sec 4E1    |
 
 ### CCA Goals
 
