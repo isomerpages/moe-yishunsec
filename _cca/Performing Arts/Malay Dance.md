@@ -21,7 +21,7 @@ third_nav_title: Performing Arts
 * **Chairman:** Nursyafawati Binte Norazhar (3E2)
 * **Vice-chairman:** Nurul Ashiqin Binte Jubree (3E3)
 
-**EXCO member:**
+**EXCO members:**
 * Zahwa Nur Jannah Binte Zain (3E2)
 * Danish Shahredza Bin Sharikin (2N1)
 * Alyssa Binte Mohd Razim (2E3)
