@@ -69,6 +69,7 @@ third_nav_title: Uniformed Groups
     <td> </td>
     <td> </td>
   </tr>
+	<tr>
 		<td><b><u>Sunflower Patrol:</u></b></td>
 		<td></td>
   </tr>
@@ -81,8 +82,6 @@ third_nav_title: Uniformed Groups
     <td>CHUA TING YU ANTHEA</td>
   </tr>
 	<tr>
- </tr>
-	  <tr>
     <td></td>
     <td></td>
   </tr>
