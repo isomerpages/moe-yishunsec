@@ -101,18 +101,11 @@ Our YE@H students performed at the Singapore Kindness Movement (SKM) Award Cerem
 
 For Teachers’ Day, the YE@H students designed and crafted their own Thank You notes. They also served them Barista and Dalgona coffee specially hand-made using their knowledge during YE@H sessions. YE@H! programme serves as a great platform for the students to internalise and exhibit the values of Respect, Integrity and Unity.
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-18.jpeg" style="width:70%" align="center">
-<div align="center">Our YE@H students serving self-made barista coffee during teachers’ meeting (pre-COVID period)</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-18.jpeg" style="width:70%" align="center">
+<figcaption>Our YE@H students serving self-made barista coffee during teachers’ meeting (pre-COVID period)</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-19.jpg" style="width:70%" align="center">
-<div align="center">Study café session during YE@H programme (pre-COVID period)</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-19.jpg" style="width:70%"><figcaption>Study café session during YE@H programme (pre-COVID period)</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-20.jpg" style="width:70%" align="center">
-<div align="center">YE@H students serving Barista coffee</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-20.jpg" style="width:70%"><figcaption>YE@H students serving Barista coffee</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-21.jpg" style="width:70%" align="center">
-<div align="center">Teachers’ Day Thank You note</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-21.jpg" style="width:70%"><figcaption>Teachers’ Day Thank You note</figcaption></figure>
