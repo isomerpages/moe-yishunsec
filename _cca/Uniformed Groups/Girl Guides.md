@@ -18,58 +18,90 @@ third_nav_title: Uniformed Groups
 
 ### CCA Exco Structure
 
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #99ccff;
-}
-
-</style>
-
-
-| Position | Name |
-| -------- | -------- |
-| Company Leader    | LIN YUNFANG    |
-| Assistant Company Leader  | NASRIN NAJEEB     |
-
-<br>
-
-| Jasmine Patrol | Name  |
-| -------- | -------- |
-| Patrol Second    | SIVASUNDAR SHAILAJA   |
-| Patrol Second    | NG YUN RU ERICA    |
-
-<br>
-
-| Orchid Patrol | Name |
-| -------- | -------- |
-| Senior Patrol Leader   | ELISE LIM WEN HUI   |
-| Patrol Second    | LOOK JIA JUN, ALICE  |
-
-<br>
-
-| Sunflower Patrol | Name |
-| -------- | -------- |
-| Patrol Leader   | WONG LE YI, GRACE   |
-| Patrol Second    | CHUA TING YU ANTHEA |
-
-<br>
-
-| Ixora Patrol | Name |
-| -------- | -------- |
-| Patrol Second   | FARZANA D/O MOHAMED ASARAFFALI  |
-| Patrol Second    | LEE JIA XUAN  |
+<table>
+  <tr>
+    <th>Position</th>
+    <th>Name</th>
+  </tr>
+  <tr>
+    <td>Company Leader</td>
+    <td>LIN YUNFANG</td>
+  </tr>
+	  <tr>
+    <td>Assistant Company Leader</td>
+    <td>NASRIN NAJEEB</td>
+  </tr>
+	  </tr>
+	  <tr>
+    <td> </td>
+    <td> </td>
+  </tr>
+	<tr>
+		<td><b><u>Jasmine Patro:</u></b></td>
+		<td></td>
+  </tr>
+	 <tr>
+    <td>Patrol Second</td>
+    <td>SIVASUNDAR SHAILAJA</td>
+  </tr>
+	<tr>
+    <td>Patrol Second</td>
+    <td>NG YUN RU ERICA</td>
+  </tr>
+	</tr>
+	  <tr>
+    <td> </td>
+    <td> </td>
+  </tr>
+		<tr>
+		<td><b><u>Orchid Patrol:</u></b></td>
+		<td></td>
+  </tr>
+	 <tr>
+    <td>Senior Patrol Leader</td>
+    <td>ELISE LIM WEN HUI</td>
+  </tr>
+	<tr>
+    <td>Patrol Second</td>
+    <td>LOOK JIA JUN, ALICE</td>
+  </tr>
+	<tr>
+	</tr>
+	  <tr>
+    <td> </td>
+    <td> </td>
+  </tr>
+		<td><b><u>Sunflower Patrol:</u></b></td>
+		<td></td>
+  </tr>
+	 <tr>
+    <td>Patrol Leader</td>
+    <td>WONG LE YI, GRACE</td>
+  </tr>
+	<tr>
+    <td>Patrol Second</td>
+    <td>CHUA TING YU ANTHEA</td>
+  </tr>
+	<tr>
+ </tr>
+	  <tr>
+    <td> </td>
+    <td> </td>
+  </tr>
+		<td><b><u>Ixora Patrol:</u></b></td>
+		<td></td>
+  </tr>
+	 <tr>
+    <td>Patrol Second</td>
+    <td>FARZANA D/O MOHAMED ASARAFFALI </td>
+  </tr>
+	<tr>
+    <td>Patrol Second</td>
+    <td>LEE JIA XUAN</td>
+  </tr>
+	
+	
+</table>
 
 ### Key Student Outcomes
 
