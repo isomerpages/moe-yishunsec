@@ -35,9 +35,9 @@ tr:nth-child(even) {
 }
 </style>
 
+##### Guzheng Executive Committee
 
-
-| Guzheng Executive Committee |  |
+|  |  |
 | -------- | -------- |
 | Chairperson     | Chen Haoran     |
 | Vice-Chairperson     | Angel Wong En Ze     |
