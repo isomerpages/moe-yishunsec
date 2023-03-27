@@ -11,11 +11,11 @@ third_nav_title: Sports and Games
 * Mr Shu Yun Chao
 
 ### CCA Schedule
-**Girls:**
+##### Girls:
 * Monday from 4 pm to 6 pm and
 * Wednesday from 4 pm to 6 pm
 
-**Boys:**
+##### Boys:
 * Monday from 4 pm to 6 pm and
 * Thursday from 4 pm to 6 pm
 
