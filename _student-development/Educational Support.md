@@ -16,42 +16,26 @@ The Educational Support consists of a team of officers who develop upstream stra
 
 StAR programme is conducted for our Lower Secondary Normal Technical (NT) students on weekly Mondays (Marvellous Monday for the Sec 1s) and Fridays (Fabulous Friday for the Sec 2s). There are infusion of Sports, Aesthetics and S.T.E.A.M through modules such as the Toy-making, Aeronautics and F1 in schools. Different activities were carried out every term with the assistance of external partners such as SHINE Children & Youth Services, partnership with Sports Cares, Vivarch and Singapore Association of Counsellors for Motivational Workshop to engage our students.
 
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Wk5_G-F0nM" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-<div style="text-align:center">StAR showcase 2020 Bollywood Dance</div>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/3Wk5_G-F0nM" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>StAR showcase 2020 Bollywood Dance</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-2.jpg" style="width:50%" align="center">
-<div align="center">Students trying out the toy-making product during StAR Showcase 2020</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-2.jpg" style="width:50%">
+<figcaption>Students trying out the toy-making product during StAR Showcase 2020</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-3.jpeg" style="width:70%" align="center">
-<div align="center">Bollywood dance practice for StAR module</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-3.jpeg" style="width:70%">
+<figcaption>Bollywood dance practice for StAR module</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-4.jpeg" style="width:70%" align="center">
-<div align="center">Crafting catapult shootout during Toy-making module</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-4.jpeg" style="width:70%"><figcaption>Crafting catapult shootout during Toy-making module</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-5.jpeg" style="width:50%" align="center">
-<div align="center">Winning team from class 2T1 for sports module (pre-COVID period)</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-5.jpeg" style="width:50%"><figcaption>Winning team from class 2T1 for sports module (pre-COVID period)</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-6.jpeg" style="width:70%" align="center">
-<div align="center">Celebration of success with PALS trainers after end of StAR Sports Fiesta (pre-COVID period)</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-6.jpeg" style="width:70%"><figcaption>Celebration of success with PALS trainers after end of StAR Sports Fiesta (pre-COVID period)</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-7.jpg" style="width:70%" align="center">
-<div align="center">Online learning session conducted by SHINE during the Circuit-Breaker period</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-7.jpg" style="width:70%"><figcaption>Online learning session conducted by SHINE during the Circuit-Breaker period</figcaption></figure>
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-8.jpg" style="width:70%" align="center">
-<div align="center">Sessions conducted by SHINE during The Scaffold Programme (TSP) (pre-COVID period)</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-8.jpg" style="width:70%"><figcaption>Sessions conducted by SHINE during The Scaffold Programme (TSP) (pre-COVID period)</figcaption></figure>
 
 
-<br>
-<img src="/images/StudDevelopment/EduSupport/EduSupport-9.jpeg" style="width:70%" align="center">
-<div align="center">Sessions conducted by SHINE during The Scaffold Programme (TSP) (pre-COVID period)</div>
+<figure><img src="/images/StudDevelopment/EduSupport/EduSupport-9.jpeg" style="width:70%"><figcaption>Sessions conducted by SHINE during The Scaffold Programme (TSP) (pre-COVID period)</figcaption></figure>
 
 
 **(B) Study Clinic**
