@@ -83,8 +83,8 @@ third_nav_title: Uniformed Groups
 	<tr>
  </tr>
 	  <tr>
-    <td> </td>
-    <td> </td>
+    <td></td>
+    <td></td>
   </tr>
 		<td><b><u>Ixora Patrol:</u></b></td>
 		<td></td>
