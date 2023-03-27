@@ -31,5 +31,4 @@ Mrs Regina Lee
 <br>Principal
 	
 
-
 <img src="/images/Principal-2.jpg" style="width:30%" align="left">
