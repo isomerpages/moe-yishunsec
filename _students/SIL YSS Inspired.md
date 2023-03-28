@@ -3,8 +3,6 @@ title: SIL YSS Inspired
 permalink: /students/SIL/
 description: ""
 ---
-SIL- YSS Inspired!
-==================
 
 ### Objective
 
@@ -37,13 +35,13 @@ Module 2 will be carried out in Term 3. In this module, the Secondary 1 students
 
 [Click here to view more student’s work](https://sites.google.com/moe.edu.sg/sil-beyond-our-classroom/home)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aw2m9yYO-_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/aw2m9yYO-_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y63kFg2HXSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HS3WBW5knxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/y63kFg2HXSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KQc-ydHE8zY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/HS3WBW5knxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+
+
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/KQc-ydHE8zY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
