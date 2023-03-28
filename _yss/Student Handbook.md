@@ -3,6 +3,5 @@ title: Student Handbook
 permalink: /yss/student-handbook/
 description: ""
 ---
-* [Student Handbook 2023](/files/YSS/School%20Handbook%202023_FINAL.pdf)
-
-![](/images/YSS/SchoolHandbook.png)
+<figure><a href="/files/YSS/School%20Handbook%202023_FINAL.pdf">
+<img src="/images/YSS/SchoolHandbook.png" style="width:350px;" align="center;">YSS Student Handbook 2023</a></figure>
