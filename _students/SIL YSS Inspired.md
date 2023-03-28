@@ -3,7 +3,6 @@ title: SIL YSS Inspired
 permalink: /students/SIL/
 description: ""
 ---
-
 ### Objective
 
 YSS Inspired! is a Student-Initiated Learning (SIL) programme offered in YSS. It forms part of the school’s effort to nurture self-directed learning and intrinsic motivation in our students. This is in line with MOE’s initiative to enable students to explore their interests and passions, and learn within and beyond the curriculum. This programme, formerly known as “Beyond Our Classrooms” was piloted in YSS in 2021 for secondary one students. It will be offered to all Secondary 1 and 2 students in 2022.
