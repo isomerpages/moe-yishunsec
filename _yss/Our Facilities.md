@@ -6,80 +6,89 @@ description: ""
 [Click here to view our Facilities in 360](https://kuula.co/share/collection/7PDqZ?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1)
 
 #### Lecture Theater at 3 (LT@3)
+<figure><img src="/images/YSS/LT@3.png"><figcaption>LT@3</figcaption></figure> 
 
-![](/images/YSS/LT@3.png)
 
 #### The S.P.A.C.E. (Library)
-![](/images/YSS/Library.png)
+<figure><img src="/images/YSS/Library.png"><figcaption>The S.P.A.C.E.</figcaption></figure> 
+
+
+#### Chat Room
+<figure><img src="/.."><figcaption>Chat Room</figcaption></figure> 
 
 #### Multi Purpose Center (MPC)
-![](/images/YSS/MPC.png)
+<figure><img src="/images/YSS/MPC.png"><figcaption>MPC</figcaption></figure> 
+
 
 #### School Hall
-![](/images/YSS/SchoolHall.png)
+<figure><img src="/images/YSS/SchoolHall.png"><figcaption>School Hall</figcaption></figure> 
 
 #### School Garden
-![](/images/YSS/Garden.jpg)
+<figure><img src="/images/YSS/Garden.jpg"><figcaption>Garden</figcaption></figure> 
+
 
 #### The PLACE
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Performing Arts Room
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Retail and Operation Room (RO Room)
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Music Room
-![](/images/YSS/Music_Room.jpg)
+<figure><img src="/images/YSS/Music_Room.jpg"><figcaption>Music Room</figcaption></figure>
+
 
 #### Recording Studio
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 
 #### Computer Lab 1
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Computer Lab 2
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Computer Lab 3
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Computer Lab 4
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Music Lab
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### The HIVE
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Physics Lab
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Chemistry Lab
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Biology Lab
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### D&T Workshop
-![](/images/YSS/DnTWorkshop.jpeg)
+<figure><img src="/images/YSS/DnTWorkshop.jpeg"><figcaption>D&T Workshop</figcaption></figure> 
+
 
 #### Indoor Sports Hall
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Basketball Court
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Football Field
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Parade Square
-
-![](/images/YSS/ParadeSquare.jpg)
+<figure><img src="/images/YSS/ParadeSquare.jpg"><figcaption>Parade Square</figcaption></figure> 
 
 #### School Canteen
-
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
 
 #### Hangoutz
+<figure><img src="/…"><figcaption>…  </figcaption></figure> 
