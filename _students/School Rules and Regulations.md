@@ -6,3 +6,4 @@ description: ""
 * [School Rules Regulations](/files/Students/School_rules_regulations.pdf)
 
 
+![](/images/Students/School_Rules.png)
