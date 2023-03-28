@@ -4,7 +4,8 @@ permalink: /students/Content-Outlines/English/
 description: ""
 third_nav_title: Content Outlines
 ---
-### English
+English
+------------------
 
 ##### Sec 1
 * [2023 1E 1NA Curriculum Outline](/files/Content%20Outlines%20For%20English/2023%201E%20%201NA%20Curriculum%20Outline.pdf)
@@ -30,7 +31,8 @@ third_nav_title: Content Outlines
 
 
 
-### Literature
+Literature
+-----------------------
 
 #####   Sec 1
 * [Content Outlines_Sec 1E & NA_2023](/files/Content%20Outlines%20For%20English/Content%20Outlines_Sec%201E%20%20NA_2023.pdf)
