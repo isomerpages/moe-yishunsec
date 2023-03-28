@@ -12,7 +12,7 @@ third_nav_title: Information for Parents
 
 **Sec 2 Breakfast Meeting with Parents - 22 Feb 2023**
 
-* [22 Feb 2023 breakfast meeting for sec 2](/files/Parents/Dialogue%20with%20Parents/22%20Feb%202023%20breakfast%20meeting%20for%20sec%202.pdf)
+* [22 Feb 2023 breakfast meeting for Sec 2](/files/Parents/Dialogue%20with%20Parents/22%20Feb%202023%20breakfast%20meeting%20for%20sec%202.pdf)
 
 **Sec 4 & 5 Breakfast Meeting with Parents - 20 Feb 2023**
 * [20 Feb 2022 breakfast meeting for Sec 4 & 5](/files/Parents/Dialogue%20with%20Parents/20%20Feb%202022%20breakfast%20meeting%20for%20Sec%204_5.pdf)
