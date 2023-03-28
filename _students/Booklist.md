@@ -7,7 +7,6 @@ Booklist for 2023
 ----------------
 
 
-
 * [Details for Purchase of School Uniforms](/files/Students/Booklist/Sale%20of%20Uniform%20Instruction-1.pdf)
 
 #### Sec 1
