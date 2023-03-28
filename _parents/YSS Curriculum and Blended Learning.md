@@ -3,9 +3,5 @@ title: YSS Curriculum and Blended Learning
 permalink: /parents/curriculum-blended-learning/
 description: ""
 ---
-
-
-![](/images/Parents/YSS-CBL.png)
-
-
-* [YSS Curriculum and Blended Learning](/files/Parents/YSS-Curriculum-n-Blended-Learning.pdf)
+<figure><a href="/files/Parents/YSS-Curriculum-n-Blended-Learning.pdf">
+<img src="/images/Parents/YSS-CBL.png" style="width:500px;" align="center;">YSS Curriculum and Blended Learning</a></figure>
