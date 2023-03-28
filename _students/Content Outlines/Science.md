@@ -4,7 +4,7 @@ permalink: /students/Content-Outlines/Science/
 description: ""
 third_nav_title: Content Outlines
 ---
-### Lower Secondary
+#### Lower Secondary
 
 ##### Sec 1
 * [2023 1E & NA LSS](/files/Content%20Outlines%20For%20Science/2023%201ENA%20LSS.pdf)
@@ -14,7 +14,7 @@ third_nav_title: Content Outlines
 * [2023 2E & NA LSS](/files/Content%20Outlines%20For%20Science/2023%202ENA%20LSS.pdf)
 * [2023 2NT LSS](/files/Content%20Outlines%20For%20Science/2023%202NT%20LSS.pdf)
 
-### Upper Secondary – Normal Technical
+#### Upper Secondary – Normal Technical
 
 ##### Sec 3
 * [2023 3NT Science - 5148](/files/Content%20Outlines%20For%20Science/2023%203NT%20Science%205148.pdf)
@@ -22,7 +22,8 @@ third_nav_title: Content Outlines
 ##### Sec 4
 * [2023 4NT Science - 5148](/files/Content%20Outlines%20For%20Science/2023%204NT%20Science%205148.pdf)
 
-### Biology
+Biology
+----------------------
 
 ##### Sec 3
 * [2023 3E Pure Biology - 6093](/files/Content%20Outlines%20For%20Science/2023%203E%20Pure%20Biology%206093.pdf)
@@ -34,7 +35,8 @@ third_nav_title: Content Outlines
 * [2023 4E & 5N Sci Biology - 5078](/files/Content%20Outlines%20For%20Science/2023%204E5N%20Sci%20Biology%205078.pdf)
 * [2023 4N Science Biology - 5107](/files/Content%20Outlines%20For%20Science/2023%204N%20Science%20Biology%205107.pdf)
 
-### Chemistry
+Chemistry
+------------------------
 
 ##### Sec 3
 * [2023 3E P Chem - 6092](/files/Content%20Outlines%20For%20Science/2023%203E%20P%20Chem%206092.pdf)
@@ -46,7 +48,8 @@ third_nav_title: Content Outlines
 * [2023 4E5NA ScChem - 5076_5078](/files/Content%20Outlines%20For%20Science/2023%204E5NA%20ScChem%205076_5078.pdf)
 * [2023 4NA ScChem - 5105_5107](/files/Content%20Outlines%20For%20Science/2023%204NA%20ScChem%205105_5107.pdf)
 
-### Physics
+Physics
+-----------------------
 
 ##### Sec 3
 * [2023 3E Physics - 6091](/files/Content%20Outlines%20For%20Science/2023%203E%20Physics%206091.pdf)
