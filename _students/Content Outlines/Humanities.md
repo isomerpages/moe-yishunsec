@@ -8,22 +8,22 @@ Geography
 ----------------------
 
 #### Sec 1
-* [Sec 1 Express & Normal Academic Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%201%20Express%20%20Normal%20Academic%20Geography%20Content%20Outline.pdf)
+* [Sec 1 Exp & NA Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%201%20Express%20%20Normal%20Academic%20Geography%20Content%20Outline.pdf)
 
 #### Sec 2
-* [Sec 2 Express & Normal Academic Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%202%20Express%20%20Normal%20Academic%20Geography%20Content%20Outline.pdf)
+* [Sec 2 Exp & NA Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%202%20Express%20%20Normal%20Academic%20Geography%20Content%20Outline.pdf)
 
 #### Sec 3
-* [S3 Express Pure Geography - 2023](/files/Content%20Outlines_Humanities/Geography/S3%20Express%20Pure%20Geography%20Content%20Outline%202023.pdf)
-* [S3 Express Pure Geography - 2023](/files/Content%20Outlines_Humanities/Geography/S3%20Express%20Pure%20Geography%20Content%20Outline%202023.pdf)
+* [S3 Exp Pure Geography - 2023](/files/Content%20Outlines_Humanities/Geography/S3%20Express%20Pure%20Geography%20Content%20Outline%202023.pdf)
+* [S3 Exp Pure Geography - 2023](/files/Content%20Outlines_Humanities/Geography/S3%20Express%20Pure%20Geography%20Content%20Outline%202023.pdf)
 
 #### Sec 4
-* [Sec 4 Express Elective Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%204%20Express%20Elective%20Geography%20Content%20Outline%202023.pdf)
-* [Sec 4 Express Pure Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%204%20Express%20Pure%20Geography%20Content%20Outline%202023.pdf)
-* [Sec 4 Normal Academic Elective Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%204%20Normal%20Academic%20Elective%20Geography%20Content%20Outline%202023.pdf)
+* [Sec 4 Exp Elective Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%204%20Express%20Elective%20Geography%20Content%20Outline%202023.pdf)
+* [Sec 4 Exp Pure Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%204%20Express%20Pure%20Geography%20Content%20Outline%202023.pdf)
+* [Sec 4 NA Elective Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%204%20Normal%20Academic%20Elective%20Geography%20Content%20Outline%202023.pdf)
 
 #### Sec 5
-* [Sec 5 Normal Academic Elective Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%205%20Normal%20Academic%20Elective%20Geography%20Content%20Outline%202023.pdf)
+* [Sec 5 NA Elective Geography - 2023](/files/Content%20Outlines_Humanities/Geography/Sec%205%20Normal%20Academic%20Elective%20Geography%20Content%20Outline%202023.pdf)
 
 
 History
@@ -64,9 +64,9 @@ Social Studies
 * [3T SS Content Outline](/files/Content%20Outlines_Humanities/SS/3T%20SS%20Content%20Outline.pdf)
 
 #### Sec 4
-* [Content Outline_4E SS](/files/Content%20Outlines_Humanities/SS/Content%20Outline_4E%20SS.pdf)
+* [4E SS Content Outline](/files/Content%20Outlines_Humanities/SS/Content%20Outline_4E%20SS.pdf)
 * [4N SS Content Outline](/files/Content%20Outlines_Humanities/SS/4N%20SS%20Content%20Outline%202022.pdf)
 * [4NT SS Content Outline](/files/Content%20Outlines_Humanities/SS/4NT%20SS%20Content%20Outline%202022.pdf)
 
 #### Sec 5
-* [Content Outline_5N SS](/files/Content%20Outlines_Humanities/SS/Content%20Outline_5N%20SS.pdf)
+* [5N SS Content Outline](/files/Content%20Outlines_Humanities/SS/Content%20Outline_5N%20SS.pdf)
