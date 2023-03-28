@@ -15,7 +15,7 @@ description: ""
 * [Guide for Joining Zoom in Chromebooks (Guest Mode)](/files/HBL/Accessing-Zoom-in-Chromebooks-Guest-Mode.pdf)
 * [Parents Guide to Device Use for HBL](/files/HBL/Parents-Guide-to-Device-Use-for-Home-Based-Learning_Final.pdf)
 * [Parents' Resource Kit – HBL](https://www.moe.gov.sg/parentkit)
-* [YSS Beyond Our Classrooms Guide](https://yishunsec-moe-edu-sg-admin.cwp.sg/students/sil-beyond-our-classrooms)
+* [YSS Beyond Our Classrooms Guide](https://yishunsec.moe.edu.sg/students/sil/)
 * [FHBL Resource 1 – Uploading of Audio and Video Files](/files/HBL/FHBL-Resource-1-Uploading-of-Audio-and-Video-Files.pdf)
 * [FHBL Resource 2_Clear browsing history and Cache](/files/HBL/FHBL-Resource-2_Clear-browsing-history-and-Cache-for-students.pdf)
 * [FHBL Resource 4 – Search MOE Library](/files/HBL/FHBL-Resource-4-Search-MOE-Library.pdf)
