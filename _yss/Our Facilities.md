@@ -42,37 +42,37 @@ description: ""
 <figure><img src="/…"><figcaption>Football Field</figcaption></figure> 
 
 #### Hangoutz
-<figure><img src="/…"><figcaption>…  </figcaption></figure>
+<figure><img src="/…"><figcaption>Hangoutz</figcaption></figure>
 
-#### Indoor Sports Hall
-<figure><img src="/…"><figcaption>…  </figcaption></figure> 
+#### Indoor Sports Hall (ISH)
+<figure><img src="/…"><figcaption>Indoor Sports Hall</figcaption></figure> 
 
 #### Multi Purpose Center (MPC)
 <figure><img src="/images/YSS/MPC.png"><figcaption>MPC</figcaption></figure> 
 
 #### Music Lab
-<figure><img src="/…"><figcaption>…  </figcaption></figure> 
+<figure><img src="/…"><figcaption>Music Lab</figcaption></figure> 
 
 #### Music Room
 <figure><img src="/images/YSS/Music_Room.jpg"><figcaption>Music Room</figcaption></figure>
 
 #### Performing Arts Room
-<figure><img src="/…"><figcaption>…  </figcaption></figure> 
+<figure><img src="/…"><figcaption>Performing Arts Room</figcaption></figure> 
 
 #### Physics Lab
-<figure><img src="/…"><figcaption>…  </figcaption></figure> 
+<figure><img src="/…"><figcaption>Physics Lab</figcaption></figure> 
 
 #### Parade Square
 <figure><img src="/images/YSS/ParadeSquare.jpg"><figcaption>Parade Square</figcaption></figure> 
 
 #### Retail and Operation Room (RO Room)
-<figure><img src="/…"><figcaption>…  </figcaption></figure> 
+<figure><img src="/…"><figcaption>RO Room</figcaption></figure> 
 
 #### Recording Studio
-<figure><img src="/…"><figcaption>…  </figcaption></figure> 
+<figure><img src="/…"><figcaption>Recording Studio</figcaption></figure> 
 
 #### School Canteen
-<figure><img src="/…"><figcaption>…  </figcaption></figure>
+<figure><img src="/…"><figcaption>Canteen</figcaption></figure>
 
 #### School Hall
 <figure><img src="/images/YSS/SchoolHall.png"><figcaption>School Hall</figcaption></figure> 
@@ -81,8 +81,7 @@ description: ""
 <figure><img src="/images/YSS/Garden.jpg"><figcaption>Garden</figcaption></figure> 
 
 #### The HIVE
-<figure><img src="/…"><figcaption>…  </figcaption></figure> 
+<figure><img src="/…"><figcaption>The HIVE</figcaption></figure> 
 
 #### The PLACE
-<figure><img src="/…"><figcaption>…  </figcaption></figure> 
-
+<figure><img src="/…"><figcaption>The PLACE</figcaption></figure>
