@@ -17,6 +17,7 @@ Please click the link or scan QR code below to search for books in Yishun Second
 
 
 
-<img src="/images/Library-QR-code-276x300.png" style="width:50%">
+<figure><img src="/images/Library-QR-code-276x300.png" style="width:30%"></figure>
+
 
 ![](/images/Library.png)
