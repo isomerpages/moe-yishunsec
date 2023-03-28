@@ -82,7 +82,4 @@ description: ""
 #### School Canteen
 
 
-#### Innotec Room
-
-
 #### Hangoutz
