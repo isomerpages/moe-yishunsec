@@ -27,10 +27,10 @@ Module 2 will be carried out in Term 3. In this module, the Secondary 1 students
 
 ### Sample of our Students Work
 
-![](/images/1-1536x1187.jpg)
-![](/images/Done-by-Alexis-1536x1187.jpg)
-![](/images/2-1536x1187.jpg)
-![](/images/Will_Draw_For_FUN.jpg)
+<figure><img src="/images/1-1536x1187.jpg" style="width:500px;"></figure>
+<figure><img src="/images/Done-by-Alexis-1536x1187.jpg" style="width:500px;"></figure>
+<figure><img src="/images/2-1536x1187.jpg" style="width:500px;"></figure>
+<figure><img src="/images/Will_Draw_For_FUN.jpg" style="width:500px;"></figure>
 
 [Click here to view more student’s work](https://sites.google.com/moe.edu.sg/sil-beyond-our-classroom/home)
 
