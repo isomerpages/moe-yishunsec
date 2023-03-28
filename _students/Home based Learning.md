@@ -36,7 +36,7 @@ During school operating hours, students should contact the **School-based Helpl
 
   
 
-**School-based Helpline: 6876 7129 Ext 167**
+**School-based Helpline: 6876 7129** Ext **167**
 
   
 
