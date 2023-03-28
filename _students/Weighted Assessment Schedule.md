@@ -3,7 +3,8 @@ title: Weighted Assessment Schedule
 permalink: /students/WA/
 description: ""
 ---
-### 2023
+2023
+-----------------
 
 #### Term 2 - WA 2
 
@@ -34,7 +35,8 @@ description: ""
 * [Term 1 Weighted Assessment - Sec 4 & 5](/files/Weighted%20Assessment/2023/Term%201%20Weighted%20Assessment%20-%20Sec%204_5%202023.pdf)
 
 
-###  2022
+2022
+------------------
 
 #### Term 3 - WA 3
 
