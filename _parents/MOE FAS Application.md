@@ -3,7 +3,7 @@ title: MOE FAS Application
 permalink: /parents/fas/
 description: ""
 ---
-##### Hardcopy form submission is required for:
+#### Hardcopy form submission is required for
 1. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
 2. family with more than 5 children in GGAS
 3. family with more than 4 unmarried children not in GGAS
