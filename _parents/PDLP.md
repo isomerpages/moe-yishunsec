@@ -167,7 +167,7 @@ Acer Service Centre Email: acercare.sg@acer.com
 * Sat: 0900 – 1200
 * Sun and Public Holiday: Closed
 
-![](/images/Parents/Acer_Service_Centre.png)
+<figure><img src="/images/Parents/Acer_Service_Centre.png" style="width:500px;"><figcaption>Acer Service Centre</figcaption></figure>
 
 
 ##### Lenovo Laptop Service Centre
@@ -192,4 +192,7 @@ Pre-Registration (For Faster Service/Drop-off): https://smartcares.com/lenovo
 **Opening hours:**
 * Mon – Sat: 1100h – 1900h 
 * Closed on Sun and Public Holidays
+
+<figure><img src="/images/Parents/lenovo%20SC.png" style="width:500px;"><figcaption>Lenovo Service Centre</figcaption></figure></figure>
+
 
