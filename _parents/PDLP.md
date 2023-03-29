@@ -17,12 +17,10 @@ description: ""
 *   [DMA Parent Guide v2- Option B Chrome OS](https://cms.isomer.gov.sg/files/HBL/DMA%20Parent%20Guide%20v2-%20Option%20B%20Chrome%20OS.pdf)
 
 ### Resources
-* [MS Office 365 on PLD](/files/HBL/MS%20Office%20365%20on%20PLD.pdf)
 * IP2 - Parent Handbook I on Learning with a PLD
 * IP3 - Parent Handbook II on Learning with a PLD
 * [Resource Kit for Parents - HBL](https://www.moe.gov.sg/parentkit)
 * [Parents' Guide To Device Use for HBL](/files/HBL/Parents-Guide-to-Device-Use-for-Home-Based-Learning_Final.pdf)
-* [Verification of Email on SLS](/files/HBL/Verification-of-Email-on-SLS.pdf)
 * Cyber Wellness for Your Child
 * MOE - Practising Cyber Wellness
 * MLC - Better Internet (Latest Resources for Parents)
