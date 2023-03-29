@@ -114,3 +114,8 @@ description: ""
 **Additional accessory:**
 * 3.5mm In-Ear Headphones
 
+### Warranty
+* This warranty warrants that the product will be free from manufacturing defects in materials and workmanship for the limited warranty period of 3 years.
+* Allows for 2 repairs or 1 replacement
+
+
