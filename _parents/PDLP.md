@@ -10,11 +10,14 @@ description: ""
 
 [https://sites.google.com/moe.edu.sg/ysspdlp](https://sites.google.com/moe.edu.sg/ysspdlp)
 
-#### DMA guide for parents:
+### DMA guide for parents:
 
 *   [DMA Parent Guide v2 - Default Chrome OS](https://cms.isomer.gov.sg/files/HBL/DMA%20Parent%20Guide%20v2%20-%20Default%20Chrome%20OS.pdf)
 *   [DMA Parent Guide v2 - Option A Chrome OS](https://cms.isomer.gov.sg/files/HBL/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20Chrome%20OS.pdf)
 *   [DMA Parent Guide v2- Option B Chrome OS](https://cms.isomer.gov.sg/files/HBL/DMA%20Parent%20Guide%20v2-%20Option%20B%20Chrome%20OS.pdf)
+
+### Resources
+
 
 ### Device Details for Sec 1 2023
 
