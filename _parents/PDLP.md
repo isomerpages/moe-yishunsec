@@ -21,8 +21,8 @@ description: ""
 * [IP3 - Parent Handbook II on Learning with a PLD](/files/Parents/PDLP/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
 * [Resource Kit for Parents - HBL](https://www.moe.gov.sg/parentkit)
 * [Parents' Guide To Device Use for HBL](/files/HBL/Parents-Guide-to-Device-Use-for-Home-Based-Learning_Final.pdf)
-* Cyber Wellness for Your Child
-* MOE - Practising Cyber Wellness
+* [Cyber Wellness for Your Child](/files/Parents/PDLP/cyber-wellness-for-your-child.pdf)
+* [MOE - Practising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 * MLC - Better Internet (Latest Resources for Parents)
 * Learn How to Keep Your Family Safe Online - HELP 123
 * National Library's Learning & Information Literacy resources
