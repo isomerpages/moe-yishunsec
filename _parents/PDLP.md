@@ -195,4 +195,30 @@ Pre-Registration (For Faster Service/Drop-off): https://smartcares.com/lenovo
 
 <figure><img src="/images/Parents/lenovo%20SC.png" style="width:500px;"><figcaption>Lenovo Service Centre</figcaption></figure></figure>
 
+### School-based Helpline
 
+Mondays – Fridays: 8:30 am – 4:30 pm
+
+During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
+
+* School-based Helpline: **6876 7129**
+* Closed on Saturdays, Sundays & Public Holidays
+
+For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, include your full name, name of the school and form class.
+
+### SLS Helpdesk
+
+Students can only contact the SLS Helpdesk outside the school operating hours.
+
+SLS Helpdesk: 6702 6513
+
+
+* Mondays ― Fridays:
+* 4:00 pm ― 9:00 pm (School Days)
+* 9:00 am ― 9:00 pm (School Holidays)
+* Saturdays: 9:00 am ― 3:00 pm
+* Closed on Sundays & Public Holidays
+
+Email: helpdesk@sls.ufinity.com
+
+Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, include your full name, name of the school and form class.
