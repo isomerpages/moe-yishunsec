@@ -10,7 +10,7 @@ description: ""
 
 [https://sites.google.com/moe.edu.sg/ysspdlp](https://sites.google.com/moe.edu.sg/ysspdlp)
 
-### DMA guide for parents:
+### DMA guide for parents
 
 *   [DMA Parent Guide v2 - Default Chrome OS](https://cms.isomer.gov.sg/files/HBL/DMA%20Parent%20Guide%20v2%20-%20Default%20Chrome%20OS.pdf)
 *   [DMA Parent Guide v2 - Option A Chrome OS](https://cms.isomer.gov.sg/files/HBL/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20Chrome%20OS.pdf)
@@ -19,8 +19,8 @@ description: ""
 ### Resources
 * IP2 - Parent Handbook I on Learning with a PLD
 * IP3 - Parent Handbook II on Learning with a PLD
-* Resource Kit for Parents - HBL
-* Parents' Guide To Device Use for HBL
+* [Resource Kit for Parents - HBL](https://www.moe.gov.sg/parentkit)
+* [Parents' Guide To Device Use for HBL](/files/HBL/Parents-Guide-to-Device-Use-for-Home-Based-Learning_Final.pdf)
 * SLS Email Verification Exercise
 * Cyber Wellness for Your Child
 * MOE - Practising Cyber Wellness
