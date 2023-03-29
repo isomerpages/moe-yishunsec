@@ -77,13 +77,13 @@ tr:nth-child(even) {
   <tr>
     <td>Being Aware, Being Safe Lesson 2 (60 mins)</td>
     <td>This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br> <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td><ul><li>understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</li></ul></td>
+    <td style="font-size:100%;"><ul><li>understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</li></ul></td>
 	<td>Term 2 Week 4</td>
 </tr>
   <tr>
     <td>More than Meets the Eye Lesson 3 (60 mins)</td>
     <td>This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. <br> <br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-	<td><ul><li>understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
+	<td style="font-size:100%;"><ul><li>understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
 <li>recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li></ul></td>
 	<td>Term 2 Week 8</td>
 </tr>
@@ -104,7 +104,7 @@ tr:nth-child(even) {
     <td rowspan="3">Respectful Relationships & Safety</td>
     <td>A Role for Everyone Lesson 1 (60 mins)</td>
     <td>This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses. <br> <br> Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.  <br> <br> Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</td>
-		<td><ul><li>know that one’s understanding of gender roles should not be limited by gender stereotypes</li>
+		<td style="font-size:100%;"><ul><li>know that one’s understanding of gender roles should not be limited by gender stereotypes</li>
 <li>develop an appreciation of one’s own unique qualities and characteristics as a male or female</li>
 			<li>understand what sexual orientation entails</li></ul></td>
 		<td>Term 2 Week 1</td>
@@ -112,7 +112,7 @@ tr:nth-child(even) {
   <tr>
     <td>Online Safety Challenge Lesson 2A (60 mins)</td>
     <td>This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. <br> <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td><ul><li>recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li></ul></td>
+    <td style="font-size:100%;"><ul><li>recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li></ul></td>
 		<td>Term 2 Week 4</td>
 	</tr>
   <tr>
@@ -138,7 +138,7 @@ tr:nth-child(even) {
     <td rowspan="3">Respectful Relationships & Safety</td>
     <td>Love Yourself, Love Others Lesson 1A (60 mins)</td>
     <td>This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</td>
-	<td><ul><li>know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline. </li>
+	<td style="font-size:100%;"><ul><li>know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline. </li>
 <li>understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours. </li>
 <li>recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship. </li></ul></td>
 	<td>Term 1 Week 2</td>
@@ -146,7 +146,7 @@ tr:nth-child(even) {
  <tr>
     <td>Mending a Broken Heart Lesson 1B (60 mins)</td>
     <td>Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</td>
-    <td><ul><li>know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges. </li>
+    <td style="font-size:100%;"><ul><li>know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges. </li>
 			<li>know that a decision to end a relationship will have consequences on oneself and others. </li>
 <li>know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.</li> 
 <li>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. </li></ul></td>
@@ -176,7 +176,7 @@ tr:nth-child(even) {
     <td rowspan="4">Respectful Relationships & Safety</td>
     <td>Levelling the Ground Lesson 1 (60 mins)</td>
     <td>This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
-	<td><ul><li>understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</li>
+	<td style="font-size:100%;"><ul><li>understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</li>
 <li>understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li> 
 <li>know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. </li></ul></td>
 	<td>Term 1 Week 6</td>
