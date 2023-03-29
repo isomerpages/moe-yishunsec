@@ -156,13 +156,9 @@ Once insurance is claimed for a replacement device, the insurance coverage will 
 29 International Business Park Singapore 609923<br>
 (1.1km from Jurong East MRT)
 
-
-
 Acer Service Centre Number: <b>6895 6278</b><br>
 Website: https://secured.acer.com.sg/pld (For buying Acer laptop accessories)<br>
 Acer Service Centre Email: acercare.sg@acer.com
-
-
 
 **Opening hours:**
 
@@ -170,5 +166,4 @@ Acer Service Centre Email: acercare.sg@acer.com
 * Wed: 0845 – 1945
 * Sat: 0900 – 1200
 * Sun and Public Holiday: Closed
-
 
