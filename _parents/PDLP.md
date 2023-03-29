@@ -23,7 +23,7 @@ description: ""
 
 **Acer Chromebook Spin R753TN (Chromebook Convertible)**
 
-**Specifications:**
+**Laptop Specifications:**
 * System Unit: Intel Celeron N4500
 * Memory: 8GB RAM
 * Screen Size: 11.6" HD Touch Screen
@@ -55,7 +55,7 @@ description: ""
 
 **Acer R752TN-C 1 MT (Chromebook Convertible)**
 
-**Specifications:**
+**Laptop Specifications:**
 
 * System Unit: Intel Celeron N4120
 * Memory: 8GB RAM
@@ -89,7 +89,7 @@ description: ""
 
 **Lenovo Chromebook 500e 2nd Gen (Convertible)**
 
-**Specifications:**
+**Laptop Specifications:**
 
 * System Unit: Intel Celeron N4100 (1.10 GHz, 4 MB)
 * Memory: 8GB RAM
