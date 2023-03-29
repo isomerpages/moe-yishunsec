@@ -29,6 +29,83 @@ description: ""
 * [Learn How to Keep Your Family Safe Online - HELP 123](https://www.help123.sg/)
 * [National Library’s Learning & Information Literacy resources](https://sure.nlb.gov.sg/)
 
+### Service Centre Details
+
+##### Acer Laptop Service Centre
+
+<b>Location:</b><br>
+29 International Business Park Singapore 609923<br>
+(1.1km from Jurong East MRT)
+
+Acer Service Centre Number: <b>6895 6278</b><br>
+Website: https://secured.acer.com.sg/pld (For buying Acer laptop accessories)<br>
+Acer Service Centre Email: acercare.sg@acer.com
+
+**Opening hours:**
+
+* Mon, Tue, Thu, Fri: 0845 – 1715
+* Wed: 0845 – 1945
+* Sat: 0900 – 1200
+* Sun and Public Holiday: Closed
+
+<figure><img src="/images/Parents/Acer_Service_Centre.png" style="width:500px;"><figcaption>Acer Service Centre</figcaption></figure>
+
+
+##### Lenovo Laptop Service Centre
+
+Lenovo Helpdesk Number: **800 852 8100** <br>
+(After selecting your preferred language, please press “2” for standard warranty customer)
+
+WhatsApp support: 6703 6821 <br>
+Website: https://www.asiapac.com.sg/pld-lenovo (For buying Lenovo laptop accessories)
+
+
+**Lenovo Service Center Location:**<br>
+Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions <br>
+3 Irving Road, #01-17, Singapore 369522<br>
+(Beside Tai Seng MRT station, Exit A)
+
+Lenovo Service Centre Number: **6871 4838** <br>
+Lenovo Service Centre Email: lenovo@smartcares.com <br>
+Pre-Registration (For Faster Service/Drop-off): https://smartcares.com/lenovo
+
+
+**Opening hours:**
+* Mon – Sat: 1100h – 1900h 
+* Closed on Sun and Public Holidays
+
+<figure><img src="/images/Parents/lenovo%20SC.png" style="width:500px;"><figcaption>Lenovo Service Centre</figcaption></figure></figure>
+
+### School-based Helpline
+
+Mondays – Fridays: 8:30 am – 4:30 pm
+
+During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
+
+* School-based Helpline: **6876 7129**
+* Closed on Saturdays, Sundays & Public Holidays
+
+For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, include your full name, name of the school and form class.
+
+### SLS Helpdesk
+
+Students can only contact the SLS Helpdesk outside the school operating hours.
+
+SLS Helpdesk: 6702 6513
+
+
+* Mondays ― Fridays:
+* 4:00 pm ― 9:00 pm (School Days)
+* 9:00 am ― 9:00 pm (School Holidays)
+* Saturdays: 9:00 am ― 3:00 pm
+* Closed on Sundays & Public Holidays
+
+Email: helpdesk@sls.ufinity.com
+
+Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, include your full name, name of the school and form class.
+
+
+
 ### 2023 Device Details for Sec 1
 
 **Acer Chromebook Spin R753TN (Chromebook Convertible)**
@@ -147,78 +224,3 @@ The insurance coverage is only applicable to situations of damages and loss wher
 
 **Note:**
 Once insurance is claimed for a replacement device, the insurance coverage will cease and the replacement device will not be covered by insurance.
-
-### Service Centre Details
-
-##### Acer Laptop Service Centre
-
-<b>Location:</b><br>
-29 International Business Park Singapore 609923<br>
-(1.1km from Jurong East MRT)
-
-Acer Service Centre Number: <b>6895 6278</b><br>
-Website: https://secured.acer.com.sg/pld (For buying Acer laptop accessories)<br>
-Acer Service Centre Email: acercare.sg@acer.com
-
-**Opening hours:**
-
-* Mon, Tue, Thu, Fri: 0845 – 1715
-* Wed: 0845 – 1945
-* Sat: 0900 – 1200
-* Sun and Public Holiday: Closed
-
-<figure><img src="/images/Parents/Acer_Service_Centre.png" style="width:500px;"><figcaption>Acer Service Centre</figcaption></figure>
-
-
-##### Lenovo Laptop Service Centre
-
-Lenovo Helpdesk Number: **800 852 8100** <br>
-(After selecting your preferred language, please press “2” for standard warranty customer)
-
-WhatsApp support: 6703 6821 <br>
-Website: https://www.asiapac.com.sg/pld-lenovo (For buying Lenovo laptop accessories)
-
-
-**Lenovo Service Center Location:**<br>
-Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions <br>
-3 Irving Road, #01-17, Singapore 369522<br>
-(Beside Tai Seng MRT station, Exit A)
-
-Lenovo Service Centre Number: **6871 4838** <br>
-Lenovo Service Centre Email: lenovo@smartcares.com <br>
-Pre-Registration (For Faster Service/Drop-off): https://smartcares.com/lenovo
-
-
-**Opening hours:**
-* Mon – Sat: 1100h – 1900h 
-* Closed on Sun and Public Holidays
-
-<figure><img src="/images/Parents/lenovo%20SC.png" style="width:500px;"><figcaption>Lenovo Service Centre</figcaption></figure></figure>
-
-### School-based Helpline
-
-Mondays – Fridays: 8:30 am – 4:30 pm
-
-During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
-
-* School-based Helpline: **6876 7129**
-* Closed on Saturdays, Sundays & Public Holidays
-
-For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, include your full name, name of the school and form class.
-
-### SLS Helpdesk
-
-Students can only contact the SLS Helpdesk outside the school operating hours.
-
-SLS Helpdesk: 6702 6513
-
-
-* Mondays ― Fridays:
-* 4:00 pm ― 9:00 pm (School Days)
-* 9:00 am ― 9:00 pm (School Holidays)
-* Saturdays: 9:00 am ― 3:00 pm
-* Closed on Sundays & Public Holidays
-
-Email: helpdesk@sls.ufinity.com
-
-Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, include your full name, name of the school and form class.
