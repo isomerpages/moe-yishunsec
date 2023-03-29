@@ -27,6 +27,7 @@ description: ""
 * MLC - Better Internet (Latest Resources for Parents)
 * Learn How to Keep Your Family Safe Online - HELP 123
 * National Library's Learning & Information Literacy resources
+* [MS Office 365 on PLD](/files/HBL/MS%20Office%20365%20on%20PLD.pdf)
 
 ### Device Details for Sec 1 2023
 
