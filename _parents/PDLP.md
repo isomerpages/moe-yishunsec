@@ -17,6 +17,7 @@ description: ""
 *   [DMA Parent Guide v2- Option B Chrome OS](https://cms.isomer.gov.sg/files/HBL/DMA%20Parent%20Guide%20v2-%20Option%20B%20Chrome%20OS.pdf)
 
 ### Resources
+* [MS Office 365 on PLD](/files/HBL/MS%20Office%20365%20on%20PLD.pdf)
 * IP2 - Parent Handbook I on Learning with a PLD
 * IP3 - Parent Handbook II on Learning with a PLD
 * [Resource Kit for Parents - HBL](https://www.moe.gov.sg/parentkit)
@@ -27,7 +28,6 @@ description: ""
 * MLC - Better Internet (Latest Resources for Parents)
 * Learn How to Keep Your Family Safe Online - HELP 123
 * National Library's Learning & Information Literacy resources
-* [MS Office 365 on PLD](/files/HBL/MS%20Office%20365%20on%20PLD.pdf)
 
 ### Device Details for Sec 1 2023
 
