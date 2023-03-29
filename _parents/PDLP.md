@@ -17,6 +17,7 @@ description: ""
 *   [DMA Parent Guide v2- Option B Chrome OS](https://cms.isomer.gov.sg/files/HBL/DMA%20Parent%20Guide%20v2-%20Option%20B%20Chrome%20OS.pdf)
 
 ### Resources
+* [YSS NDLP 2023 - 16 Jan 2023](/files/Parents/PDLP/YSS%20NDLP%202023%20-%2016%20Jan%202023.pdf)
 * [IP2 - Parent Handbook I on Learning with a PLD](/files/Parents/PDLP/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
 * [IP3 - Parent Handbook II on Learning with a PLD](/files/Parents/PDLP/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
 * [Resource Kit for Parents - HBL](https://www.moe.gov.sg/parentkit)
