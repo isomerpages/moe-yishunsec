@@ -17,17 +17,6 @@ description: ""
 *   [DMA Parent Guide v2 - Option A Chrome OS](https://cms.isomer.gov.sg/files/HBL/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20Chrome%20OS.pdf)
 *   [DMA Parent Guide v2- Option B Chrome OS](https://cms.isomer.gov.sg/files/HBL/DMA%20Parent%20Guide%20v2-%20Option%20B%20Chrome%20OS.pdf)
 
-### Resources
-* [YSS NDLP 2023 - 16 Jan 2023](/files/Parents/PDLP/YSS%20NDLP%202023%20-%2016%20Jan%202023.pdf)
-* [IP2 - Parent Handbook I on Learning with a PLD](/files/Parents/PDLP/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
-* [IP3 - Parent Handbook II on Learning with a PLD](/files/Parents/PDLP/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
-* [Resource Kit for Parents - HBL](https://www.moe.gov.sg/parentkit)
-* [Parents' Guide To Device Use for HBL](/files/HBL/Parents-Guide-to-Device-Use-for-Home-Based-Learning_Final.pdf)
-* [Cyber Wellness for Your Child](/files/Parents/PDLP/cyber-wellness-for-your-child.pdf)
-* [MOE - Practising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
-* [MLC - Better internet (Latest Resources for Parents](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)
-* [Learn How to Keep Your Family Safe Online - HELP 123](https://www.help123.sg/)
-* [National Library’s Learning & Information Literacy resources](https://sure.nlb.gov.sg/)
 
 ### Service Centre Details
 
@@ -104,7 +93,17 @@ Email: helpdesk@sls.ufinity.com
 
 Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, include your full name, name of the school and form class.
 
-
+### Resources
+* [YSS NDLP 2023 - 16 Jan 2023](/files/Parents/PDLP/YSS%20NDLP%202023%20-%2016%20Jan%202023.pdf)
+* [IP2 - Parent Handbook I on Learning with a PLD](/files/Parents/PDLP/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
+* [IP3 - Parent Handbook II on Learning with a PLD](/files/Parents/PDLP/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
+* [Resource Kit for Parents - HBL](https://www.moe.gov.sg/parentkit)
+* [Parents' Guide To Device Use for HBL](/files/HBL/Parents-Guide-to-Device-Use-for-Home-Based-Learning_Final.pdf)
+* [Cyber Wellness for Your Child](/files/Parents/PDLP/cyber-wellness-for-your-child.pdf)
+* [MOE - Practising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+* [MLC - Better internet (Latest Resources for Parents](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)
+* [Learn How to Keep Your Family Safe Online - HELP 123](https://www.help123.sg/)
+* [National Library’s Learning & Information Literacy resources](https://sure.nlb.gov.sg/)
 
 ### 2023 Device Details for Sec 1
 
