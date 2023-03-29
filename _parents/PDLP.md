@@ -27,7 +27,7 @@ description: ""
 * [Learn How to Keep Your Family Safe Online - HELP 123](https://www.help123.sg/)
 * [National Library’s Learning & Information Literacy resources](https://sure.nlb.gov.sg/)
 
-### Device Details for Sec 1 2023
+### 2023 Device Details for Sec 1
 
 **Acer Chromebook Spin R753TN (Chromebook Convertible)**
 
@@ -59,7 +59,7 @@ description: ""
 **Additional Accessory:**
 * 3.5mm In-Ear Headphones
 
-### Device Details for Sec 1 2022
+### 2022 Device Details for Sec 1
 
 **Acer R752TN-C 1 MT (Chromebook Convertible)**
 
@@ -93,7 +93,7 @@ description: ""
 * 3.5mm In-Ear Headphones
 
 
-### Device Details for Sec 2 to 4 2022
+### 2022 Device Details for Sec 2 to 4
 
 **Lenovo Chromebook 500e 2nd Gen (Convertible)**
 
