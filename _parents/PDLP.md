@@ -147,3 +147,28 @@ The insurance coverage is only applicable to situations of damages and loss wher
 
 **Note:**
 Once insurance is claimed for a replacement device, the insurance coverage will cease and the replacement device will not be covered by insurance.
+
+### Helpdesk Details
+
+##### Acer Laptop Service Centre
+
+<b>Location:</b><br>
+29 International Business Park Singapore 609923<br>
+(1.1km from Jurong East MRT)
+
+
+
+Acer Service Centre Number: <b>6895 6278</b><br>
+Website: https://secured.acer.com.sg/pld (For buying Acer laptop accessories)<br>
+Acer Service Centre Email: acercare.sg@acer.com
+
+
+
+**Opening hours:**
+
+* Mon, Tue, Thu, Fri: 0845 – 1715
+* Wed: 0845 – 1945
+* Sat: 0900 – 1200
+* Sun and Public Holiday: Closed
+
+
