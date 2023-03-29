@@ -80,3 +80,37 @@ description: ""
 
 **Additional accessory:**
 * 3.5mm In-Ear Headphones
+
+
+### Device Details for Sec 2 to 4 2022
+
+**Lenovo Chromebook 500e 2nd Gen (Convertible)**
+
+**Specifications:**
+
+* System Unit: Intel Celeron N4100 (1.10 GHz, 4 MB)
+* Memory: 8GB RAM
+* Screen Size: 11.6" 1366 x 768 HD Touch Screen
+* Built-in Camera: 720 HD Camera, 5MP
+* Ports: 2x USB C 3.1 Gen1, 2x USB A 3.1 Gen1, MicroSD, Headphone Jack
+* Weight: 1.31 kg
+* Operation System: Chrome OS
+* Storage: 64GB eMMC
+* Stylus Pen: Yes
+* Optical Mouse: USB Optical Mouse
+* Carrying Case: Yes
+
+**What's in the box:**
+* Lenovo Power Adapter
+* Lenovo USB Wired Mouse
+* Lenovo Carrying Case
+* Lenovo Stylus Pen
+
+**Enhanced Package:**
+* 3 Year Carry In Warranty
+* Sealed Battery Warranty
+* Comprehensive Accidental Damage Protection (Insurance)
+
+**Additional accessory:**
+* 3.5mm In-Ear Headphones
+
