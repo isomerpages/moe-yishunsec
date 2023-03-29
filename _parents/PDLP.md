@@ -125,7 +125,7 @@ Damage to or loss of device from the following which are non-manufacturer defect
 * Fire
 * Lightning 
 * Power Surges 
-* Accidental e.g. water spillage, drop etc 
+* Accidental (e.g. water spillage, drop etc)
 * Theft due to forcible entry 
 * Robbery
 
