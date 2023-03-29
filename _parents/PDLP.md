@@ -148,7 +148,7 @@ The insurance coverage is only applicable to situations of damages and loss wher
 **Note:**
 Once insurance is claimed for a replacement device, the insurance coverage will cease and the replacement device will not be covered by insurance.
 
-### Helpdesk Details
+### Service Centre Details
 
 ##### Acer Laptop Service Centre
 
@@ -166,4 +166,30 @@ Acer Service Centre Email: acercare.sg@acer.com
 * Wed: 0845 – 1945
 * Sat: 0900 – 1200
 * Sun and Public Holiday: Closed
+
+![](/images/Parents/Acer_Service_Centre.png)
+
+
+##### Lenovo Laptop Service Centre
+
+Lenovo Helpdesk Number: **800 852 8100** <br>
+(After selecting your preferred language, please press “2” for standard warranty customer)
+
+WhatsApp support: 6703 6821 <br>
+Website: https://www.asiapac.com.sg/pld-lenovo (For buying Lenovo laptop accessories)
+
+
+**Lenovo Service Center Location:**<br>
+Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions <br>
+3 Irving Road, #01-17, Singapore 369522<br>
+(Beside Tai Seng MRT station, Exit A)
+
+Lenovo Service Centre Number: **6871 4838** <br>
+Lenovo Service Centre Email: lenovo@smartcares.com <br>
+Pre-Registration (For Faster Service/Drop-off): https://smartcares.com/lenovo
+
+
+**Opening hours:**
+* Mon – Sat: 1100h – 1900h 
+* Closed on Sun and Public Holidays
 
