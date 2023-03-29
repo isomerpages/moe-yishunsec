@@ -17,8 +17,8 @@ description: ""
 *   [DMA Parent Guide v2- Option B Chrome OS](https://cms.isomer.gov.sg/files/HBL/DMA%20Parent%20Guide%20v2-%20Option%20B%20Chrome%20OS.pdf)
 
 ### Resources
-* IP2 - Parent Handbook I on Learning with a PLD
-* IP3 - Parent Handbook II on Learning with a PLD
+* [IP2 - Parent Handbook I on Learning with a PLD](/files/Parents/PDLP/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
+* [IP3 - Parent Handbook II on Learning with a PLD](/files/Parents/PDLP/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
 * [Resource Kit for Parents - HBL](https://www.moe.gov.sg/parentkit)
 * [Parents' Guide To Device Use for HBL](/files/HBL/Parents-Guide-to-Device-Use-for-Home-Based-Learning_Final.pdf)
 * Cyber Wellness for Your Child
