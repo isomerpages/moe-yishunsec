@@ -80,7 +80,6 @@ tr:nth-child(even) {
     <td><ul><li>understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</li></ul></td>
 	<td>Term 2 Week 4</td>
 </tr>
-
   <tr>
     <td>More than Meets the Eye Lesson 3 (60 mins)</td>
     <td>This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. <br> <br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
