@@ -45,6 +45,5 @@ description: ""
 * Sealed Battery Warranty
 * Comprehensive Accidental Damage Protection (Insurance) 
 
-**Additional accessory:**
+**Additional Accessory:**
 * 3.5mm In-Ear Headphones
-
