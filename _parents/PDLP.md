@@ -30,7 +30,7 @@ description: ""
 * Operation System: Chrome OS
 * Storage: 64GB eMMC
 * Connectivity: 802.11 AX & Bluetooth v5.2
-* Stylus: Yes
+* Stylus Pen: Yes
 * Optical Mouse: USB Optical Mouse
 * Carrying Case: Yes
 
