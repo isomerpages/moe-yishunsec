@@ -242,8 +242,8 @@ understand that we need moral courage and wisdom to recognise and end relationsh
 					
   </tr>
   <tr>
-    <td >Mass Talk by HPB appointed vendor</td>
-		<td style="font-size:100%;"><ul><li>Awareness of the different STIs and HIV/AIDS</li>
+    <td>Mass Talk by HPB appointed vendor</td>
+		<td><ul><li>Awareness of the different STIs and HIV/AIDS</li>
 			<li>Modes of transmission</li>
 			<li>Modes of protection, specifically on how the condom is used</li>
 			<li>Consequences and impact of STIs/HIV</li></ul></td>
