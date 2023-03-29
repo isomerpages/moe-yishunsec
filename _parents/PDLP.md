@@ -118,4 +118,19 @@ description: ""
 * This warranty warrants that the product will be free from manufacturing defects in materials and workmanship for the limited warranty period of 3 years.
 * Allows for 2 repairs or 1 replacement
 
+### Insurance
 
+The device insurance coverage includes:
+Damage to or loss of device from the following which are non-manufacturer defects or internal mechanical faults: 
+* Fire
+* Lightning 
+* Power Surges 
+* Accidental e.g. water spillage, drop etc 
+* Theft due to forcible entry 
+* Robbery
+
+The insurance coverage is only applicable to situations of damages and loss where the student has taken  precautions to safeguard the device.
+
+
+**Note:**
+Once insurance is claimed for a replacement device, the insurance coverage will cease and the replacement device will not be covered by insurance.
