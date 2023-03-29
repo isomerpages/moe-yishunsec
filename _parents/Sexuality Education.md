@@ -184,7 +184,7 @@ tr:nth-child(even) {
  <tr>
     <td>When Love Hurts Lesson 2 (60 mins)</td>
     <td>This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.</td>
-    <td><ul><li>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. </li>
+    <td style="font-size:100%;"><ul><li>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. </li>
 <li>recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims. 
 understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.</li> 
 <li>understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</li></ul></td>
