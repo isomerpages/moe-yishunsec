@@ -23,9 +23,9 @@ description: ""
 * [Parents' Guide To Device Use for HBL](/files/HBL/Parents-Guide-to-Device-Use-for-Home-Based-Learning_Final.pdf)
 * [Cyber Wellness for Your Child](/files/Parents/PDLP/cyber-wellness-for-your-child.pdf)
 * [MOE - Practising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
-* MLC - Better Internet (Latest Resources for Parents)
-* Learn How to Keep Your Family Safe Online - HELP 123
-* National Library's Learning & Information Literacy resources
+* [MLC - Better internet (Latest Resources for Parents](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)
+* [Learn How to Keep Your Family Safe Online - HELP 123](https://www.help123.sg/)
+* [National Library’s Learning & Information Literacy resources](https://sure.nlb.gov.sg/)
 
 ### Device Details for Sec 1 2023
 
