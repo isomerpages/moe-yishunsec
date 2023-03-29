@@ -5,10 +5,11 @@ description: ""
 ---
 <figure><img src="/images/Parents/PDLP-1.jpg" style="width:500px;"></figure>
 
+### Latest Updates
 
-*Click the link below for more information:*
+* For 2022 Sec 4N graduating student's PLD DMA restriction will be auto removed on 31 Jan 2023. After 31 Jan 2023, leave the PLD ON and connected to Wi-Fi for to complete factory reset. 
+* For 2022 Sec 4E & 4T graduating student's PLD DMA restriction will automatically removed on 31 Dec 2022. After 31 Dec 2022, leave the PLD ON and connected to Wi-Fi for to complete factory reset. 
 
-[https://sites.google.com/moe.edu.sg/ysspdlp](https://sites.google.com/moe.edu.sg/ysspdlp)
 
 ### DMA guide for parents
 
