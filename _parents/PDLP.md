@@ -21,7 +21,7 @@ description: ""
 * IP3 - Parent Handbook II on Learning with a PLD
 * [Resource Kit for Parents - HBL](https://www.moe.gov.sg/parentkit)
 * [Parents' Guide To Device Use for HBL](/files/HBL/Parents-Guide-to-Device-Use-for-Home-Based-Learning_Final.pdf)
-* SLS Email Verification Exercise
+* [Verification of Email on SLS](/files/HBL/Verification-of-Email-on-SLS.pdf)
 * Cyber Wellness for Your Child
 * MOE - Practising Cyber Wellness
 * MLC - Better Internet (Latest Resources for Parents)
