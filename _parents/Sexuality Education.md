@@ -241,7 +241,7 @@ understand that we need moral courage and wisdom to recognise and end relationsh
     <th>Time Period</th>
 					
   </tr>
-  <tr>
+  <tr style="font-size:100%;">
     <td>Mass Talk by HPB appointed vendor</td>
 		<td><ul><li>Awareness of the different STIs and HIV/AIDS</li>
 			<li>Modes of transmission</li>
