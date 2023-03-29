@@ -16,4 +16,4 @@ For assistance to download the Parents Gateway Mobile Application, you may refer
 
 To safeguard our students’ data, only parents who are registered in the official student records in the MOE database will be able to use the mobile app.
 
-Should you need any clarifications or support on accessing Parents Gateway app, please contact the school at +65 6876 7129.
+Should you need any clarifications or support on accessing Parents Gateway app, please contact the school at **+65 6876 7129**.
