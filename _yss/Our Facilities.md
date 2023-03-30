@@ -5,6 +5,46 @@ description: ""
 ---
 [Click here to view our Facilities in 360](https://kuula.co/share/collection/7PDqZ?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1)
 
+Garden
+-----------------------
+
+<figure><img src="/images/YSS/Garden.jpg"><figcaption>School Garden</figcaption></figure> 
+
+Special Rooms
+-------------------
+
+
+
+
+
+
+
+PE Venues
+-----------------------
+
+
+
+
+
+
+
+
+
+
+Science Labs
+-------------------------
+
+
+
+
+
+Computer Labs
+-------------------------
+
+
+
+
+
 #### Basketball Court
 <figure><img src="/…"><figcaption>Basketball Court</figcaption></figure>
 
