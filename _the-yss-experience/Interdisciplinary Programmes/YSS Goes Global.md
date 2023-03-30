@@ -4,7 +4,6 @@ permalink: /the-yss-experience/interdisciplinary-programmes/yssgoesglobal/
 description: ""
 third_nav_title: Interdisciplinary Programmes
 ---
-
 Media release: [Singapore students top “Global Competence” domain of 2018 PISA study](https://yishunsec-moe-edu-sg-admin.cwp.sg/accolades/school)
 
 #### Department Name
