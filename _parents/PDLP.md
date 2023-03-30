@@ -30,9 +30,9 @@ Acer Service Centre Email: [acercare.sg@acer.com](acercare.sg@acer.com)
 
 **Opening hours:**
 
-* Mon, Tue, Thu, Fri: 0845 – 1715
-* Wed: 0845 – 1945
-* Sat: 0900 – 1200
+* Mon, Tue, Thu, Fri: 08:45 – 17:15
+* Wed: 08:45 – 19:45
+* Sat: 09:00 – 12:00
 * Sun and Public Holiday: Closed
 
 <figure><img src="/images/Parents/Acer_Service_Centre.png" style="width:500px;"><figcaption>Acer Service Centre</figcaption></figure>
@@ -58,7 +58,7 @@ Pre-Registration (For Faster Service/Drop-off): [https://smartcares.com/lenovo](
 
 
 **Opening hours:**
-* Mon – Sat: 1100h – 1900h 
+* Mon – Sat: 11:00h – 19:00h 
 * Closed on Sun and Public Holidays
 
 <figure><img src="/images/Parents/lenovo%20SC.png" style="width:500px;"><figcaption>Lenovo Service Centre</figcaption></figure></figure>
