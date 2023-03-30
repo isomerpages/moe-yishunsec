@@ -69,22 +69,21 @@ You can listen to her entry via
 
 ### Photos
 
-<figure><img src="images/YSS%20Exp/AVA-Sound-Stage-Workshop.jpg" style="width:100%"><figcaption> AVA students during the “Sound & Stage! Workshop” by Sallys Music Productions</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/AVA-Sound-Stage-Workshop.jpg" style="width:100%"><figcaption> AVA students during the “Sound & Stage! Workshop” by Sallys Music Productions</figcaption></figure>
 
-<figure><img src="images/YSS%20Exp/Collaboration-with-AEB-Live-Recording-Session-for-SYF-Celebrations-2016-Youth-Station-.jpg" style="width:100%"><figcaption> Collaboration with AEB – Live Recording Session for SYF Celebrations 2016 with Professional  
+<figure><img src="/images/YSS%20Exp/Collaboration-with-AEB-Live-Recording-Session-for-SYF-Celebrations-2016-Youth-Station-.jpg"><figcaption> Collaboration with AEB – Live Recording Session for SYF Celebrations 2016 with Professional  
 Sound Engineer, Mr Edwin</figcaption></figure>
 
-<figure><img src="images/YSS%20Exp/SYF-Closing-Ceremony-Performance-iPad-Band-DJ.jpg" style="width:100%"><figcaption> SYF Closing Ceremony Performance (iPad Band & DJ) by Sec 4NT Music Students</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/SYF-Closing-Ceremony-Performance-iPad-Band-DJ.jpg"><figcaption> SYF Closing Ceremony Performance (iPad Band & DJ) by Sec 4NT Music Students</figcaption></figure>
 
-<figure><img src="images/SYF-Closing-Ceremony-Performance-iPad-Band-DJ%20(1).jpg" style="width:100%"><figcaption> SYF Closing Ceremony Performance (iPad Band & DJ) by Sec 4NT Music Students</figcaption></figure>
+<figure><img src="/images/SYF-Closing-Ceremony-Performance-iPad-Band-DJ%20(1).jpg"><figcaption> SYF Closing Ceremony Performance (iPad Band & DJ) by Sec 4NT Music Students</figcaption></figure>
 
-<figure><img src="images/Sec-2-iPad-Module-Rehearsals-in-progress-.jpg" style="width:100%"><figcaption> Sec 2 iPad Module (rehearsals in progress)</figcaption></figure>
+<figure><img src="/images/Sec-2-iPad-Module-Rehearsals-in-progress-.jpg"><figcaption> Sec 2 iPad Module (rehearsals in progress)</figcaption></figure>
 
-<figure><img src="images/Improvisational-Jam-Band-Workshop-during-SYF-2016-Celebrations-at-Esplanade-Library.jpg" style="width:100%"><figcaption> Students during rehearsal, featuring instruments such  
+<figure><img src="/images/Improvisational-Jam-Band-Workshop-during-SYF-2016-Celebrations-at-Esplanade-Library.jpg"><figcaption> Students during rehearsal, featuring instruments such  
 as the Vocoder, Handsonic Drums, iPad Garageband,  
 MIDI Keyboard with effects</figcaption></figure>
 
-<figure><img src="images/Live-Recording-session-30th-Anniversary.jpg" style="width:100%"><figcaption> Live Recording session with Monisha, one of our student songwriters for the school’s 30th Anniversary</figcaption></figure>
+<figure><img src="/images/Live-Recording-session-30th-Anniversary.jpg"><figcaption> Live Recording session with Monisha, one of our student songwriters for the school’s 30th Anniversary</figcaption></figure>
 
-<figure><img src="images/YSS%20Exp/AVA-Pathfinder.jpg" style="width:100%"><figcaption> AVA Pathfinder Collaboration with Red Roof Records during BecKa’s EP Launch at Sentosa</figcaption></figure>
-	
+<figure><img src="/images/YSS%20Exp/AVA-Pathfinder.jpg"><figcaption> AVA Pathfinder Collaboration with Red Roof Records during BecKa’s EP Launch at Sentosa</figcaption></figure>
