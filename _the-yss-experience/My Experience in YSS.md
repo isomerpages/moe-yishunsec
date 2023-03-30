@@ -64,7 +64,7 @@ All staff and students congregated at the hall for the last segment. The concert
 The school witnessed an eye-opening performance from NCC Precision Drill Squad (PDS) which showcased their rifle drills.
 
 
-<figure><img src="/images/YSS%20Exp/Picture6.jpg"><figcaption>The sleek precise moves of the NCC PDS during their rifle drills showcase.	</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/Picture6.jpg"><figcaption>The sleek precise moves of the NCC PDS during their rifle drills showcase.</figcaption></figure>
 	
 
 
