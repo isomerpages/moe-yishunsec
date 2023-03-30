@@ -83,8 +83,3 @@ Music Room
 School Canteen
 -----------------
 <figure><img src="/…"><figcaption>Canteen</figcaption></figure>
-
-
-
-
-
