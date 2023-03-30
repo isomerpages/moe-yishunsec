@@ -26,7 +26,7 @@ description: ""
 
 Acer Service Centre Number: <b>6895 6278</b><br>
 Website: https://secured.acer.com.sg/pld (For buying Acer laptop accessories)<br>
-Acer Service Centre Email: acercare.sg@acer.com
+Acer Service Centre Email: [acercare.sg@acer.com](acercare.sg@acer.com)
 
 **Opening hours:**
 
@@ -44,7 +44,7 @@ Lenovo Helpdesk Number: **800 852 8100** <br>
 (After selecting your preferred language, please press “2” for standard warranty customer)
 
 WhatsApp support: 6703 6821 <br>
-Website: https://www.asiapac.com.sg/pld-lenovo (For buying Lenovo laptop accessories)
+Website: [https://www.asiapac.com.sg/pld-lenovo](https://www.asiapac.com.sg/pld-lenovo) (For buying Lenovo laptop accessories)
 
 
 **Lenovo Service Center Location:**<br>
@@ -53,7 +53,7 @@ Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions <br>
 (Beside Tai Seng MRT station, Exit A)
 
 Lenovo Service Centre Number: **6871 4838** <br>
-Lenovo Service Centre Email: lenovo@smartcares.com <br>
+Lenovo Service Centre Email: [lenovo@smartcares.com](lenovo@smartcares.com) <br>
 Pre-Registration (For Faster Service/Drop-off): https://smartcares.com/lenovo
 
 
