@@ -25,7 +25,7 @@ description: ""
 (1.1km from Jurong East MRT)
 
 Acer Service Centre Number: <b>6895 6278</b><br>
-Website: https://secured.acer.com.sg/pld (For buying Acer laptop accessories)<br>
+Website: [https://secured.acer.com.sg/pld](https://secured.acer.com.sg/pld) (For buying Acer laptop accessories)<br>
 Acer Service Centre Email: [acercare.sg@acer.com](acercare.sg@acer.com)
 
 **Opening hours:**
