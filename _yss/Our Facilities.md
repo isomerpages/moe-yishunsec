@@ -60,10 +60,10 @@ description: ""
 <figure><img src="/…"><figcaption>Performing Arts Room</figcaption></figure> 
 
 #### Physics Lab 1
-<figure><img src="/…"><figcaption>Physics Lab 1</figcaption></figure> 
+<figure><img src="/images/YSS/Phy_Lab-1.jpeg"><figcaption>Physics Lab 1</figcaption></figure> 
 
 #### Physics Lab 2
-<figure><img src="/…"><figcaption>Physics Lab 2</figcaption></figure> 
+<figure><img src="/images/YSS/Phy_Lab-2.jpeg"><figcaption>Physics Lab 2</figcaption></figure> 
 
 #### Parade Square
 <figure><img src="/images/YSS/ParadeSquare.jpg"><figcaption>Parade Square</figcaption></figure> 
