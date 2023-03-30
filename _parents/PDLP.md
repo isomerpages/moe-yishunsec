@@ -3,8 +3,6 @@ title: PDLP
 permalink: /parents/pdlp/
 description: ""
 ---
-<figure><img src="/images/Parents/PDLP-1.jpg" style="width:500px;"></figure>
-
 ### Latest Updates
 
 * For 2022 Sec 4N graduating student's PLD DMA restriction will be auto removed on 31 Jan 2023. After 31 Jan 2023, leave the PLD ON and connected to Wi-Fi for to complete factory reset. 
