@@ -70,29 +70,29 @@ A video produced to show how Jenga game can be played in a fun and engaging way<
 
 <figure><img src="images/YSS%20Exp/LLP/Sec%202T1_photo%202.jpeg"><figcaption>Making of the pom-pom from scratch using yarn and pom-pom template.</figcaption></figure>
 
-<figure><img src="images/YSS%20Exp/LLP/Sec%202T1_photo%201.jpeg"><figcaption> Attaching pom-poms to the anti-slip mat to form a pom-pom rug.</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Sec%202T1_photo%201.jpeg"><figcaption>Attaching pom-poms to the anti-slip mat to form a pom-pom rug.</figcaption></figure>
 
-<figure><img src="images/YSS%20Exp/LLP/Sec%202T1_photo%203.jpeg"><figcaption> Tote bags containing the pom-pom rug materials for DIY are all ready for delivery.</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Sec%202T1_photo%203.jpeg"><figcaption>Tote bags containing the pom-pom rug materials for DIY are all ready for delivery.</figcaption></figure>
 
 *   Another outreach project with North West CDC involved students from 2T2 where they packed 300 festive goodie bags for the needy families within the North West District. The annual Festive Goodies Packing and Distribution aims to spread festive cheers to the needy families in conjunction with the Lunar Chinese New Year. The goodie bags were then couriered over to the rental blocks in Yishun where they were distributed by the corporate partners.  
       
     Our students geared up their energy to pack and arrange the groceries such as instant noodles, beverages, can food, biscuits and cereals into tote bags. The class organised themselves into various stations for the packing to be done in an orderly manner while observing safety management measures (SMM). All in all, the students sweat it out in a fun and meaningful way!
 		
-<figure><img src="images/YSS%20Exp/LLP/Sec%202T2_photo%201.jpeg"><figcaption> Students feeling proud and accomplished to be able to contribute in their own ways.</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Sec%202T2_photo%201.jpeg"><figcaption>Students feeling proud and accomplished to be able to contribute in their own ways.</figcaption></figure>
 
 <figure><img src="/images/YSS%20Exp/LLP/Sec%202T2_photo%202.jpeg"></figure>
 
-<figure><img src="images/YSS%20Exp/LLP/Sec%202T2_photo%203.jpeg" style="width:100%"><figcaption> Teachers displaying values-in-action in a concerted effort with their students!</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Sec%202T2_photo%203.jpeg"><figcaption>Teachers displaying values-in-action in a concerted effort with their students!</figcaption></figure>
 
-<figure><img src="images/YSS%20Exp/LLP/Sec%202T2_photo%204.jpeg" style="width:100%"><figcaption> Final group photo in a sweet ending to their hard and ‘heart’ effort.</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Sec%202T2_photo%204.jpeg"><figcaption>Final group photo in a sweet ending to their hard and ‘heart’ effort.</figcaption></figure>
 
 *   Selected Sec 1 and 2 students who showed greater aptitude had the opportunity to serve the elderly residents in Sree Narayana Mission Home. The students lead with empathy by preparing art and craft packages containing materials for the making of paper fans as well as fully constructed paper fans to be delivered to the home. Residents were soaked in the spirit of National Day celebration as the paper fans were constructed using red and white coloured papers. Both the colours represented the colours of the Singapore flag serve to remind and celebrate the values of unity and equality of all races. The paper fans were used by the residents to fan themselves or some used as decoration on their side table. The purposeful service from the heart lifted the spirits of the elderlies.
 
-<figure><img src="images/YSS%20Exp/LLP/Selected%20students_photo%201.jpeg" style="width:100%"><figcaption>Students preparing samples and packages for the construction of the paper fan</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Selected%20students_photo%201.jpeg"><figcaption>Students preparing samples and packages for the construction of the paper fan</figcaption></figure>
 
-<figure><img src="images/YSS%20Exp/LLP/Selected%20students_photo%202.jpeg" style="width:100%"><figcaption> Students posing with their hand-made paper fans!</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Selected%20students_photo%202.jpeg"><figcaption>Students posing with their hand-made paper fans!</figcaption></figure>
 
-<figure><img src="images/YSS%20Exp/LLP/Selected%20students_photo%203.jpeg" style="width:100%"><figcaption> Students took the opportunity to pen down what ‘Our Singapore Spirit’ means to them on the paper fan. These fans were delivered to the residents of Sree Narayana Mission Home for the Aged.</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/Selected%20students_photo%203.jpeg"><figcaption>Students took the opportunity to pen down what ‘Our Singapore Spirit’ means to them on the paper fan. These fans were delivered to the residents of Sree Narayana Mission Home for the Aged.</figcaption></figure>
 
 *   Through the Art curriculum and classroom experience, a selected group of 20 students produced 20 pieces of art works with the theme of ‘Nature’. The art works were delivered to Sengkang Community Hospital (SCH) for display and exhibition in the building, as part of the SchoolARTS@SKH Campus Programme. Our students were able to show care and bring joy to the community (staff, patients and public) in hospitals especially SCH Campus through artwork.
 
@@ -100,7 +100,7 @@ A video produced to show how Jenga game can be played in a fun and engaging way<
 
 <figure><img src="/images/YSS%20Exp/LLP/SKHArts_photo%202.jpeg"></figure>
 
-<figure><img src="images/YSS%20Exp/LLP/SKHArts_photo%203.jpeg" style="width:100%"><figcaption> Some of the ‘Nature’ themed art works.</figcaption></figure>
+<figure><img src="images/YSS%20Exp/LLP/SKHArts_photo%203.jpeg"><figcaption> Some of the ‘Nature’ themed art works.</figcaption></figure>
 
 #### HIGHLIGHT
   
