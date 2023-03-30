@@ -54,7 +54,7 @@ Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions <br>
 
 Lenovo Service Centre Number: **6871 4838** <br>
 Lenovo Service Centre Email: [lenovo@smartcares.com](lenovo@smartcares.com) <br>
-Pre-Registration (For Faster Service/Drop-off): https://smartcares.com/lenovo
+Pre-Registration (For Faster Service/Drop-off): [https://smartcares.com/lenovo](https://smartcares.com/lenovo)
 
 
 **Opening hours:**
