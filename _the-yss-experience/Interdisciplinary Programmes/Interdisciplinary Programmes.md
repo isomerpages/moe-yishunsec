@@ -15,4 +15,4 @@ third_nav_title: Interdisciplinary Programmes
 
   
 
-##### [YSS Goes Global](https://yishunsec-moe-edu-sg-admin.cwp.sg/the-yss-experience/interdisciplinary-programmes/yss-goes-global)
+##### [YSS Goes Global](/the-yss-experience/interdisciplinary-programmes/yssgoesglobal/)
