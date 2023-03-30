@@ -57,14 +57,14 @@ School Generic Email: [_yishun\_ss@moe.edu.sg_](mailto:yishun_ss@moe.edu.sg)
 
 <figure><img src="images/YSS%20Exp/LLP/Sec%203_photo%204.jpeg"><figcaption> Social game sets and dot-painted coin pouch packed in decorated brown paper bags all set for delivery! The project is organised by our students and supported by North West Community Development Council (CDC), as part of the Community Cares @ North West.</figcaption></figure>
 
-
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/zxIQY6aRHCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>
 A video produced to show how Jenga game can be played in a fun and engaging way</figcaption></figure>
 
-
 <figure><img src="images/YSS%20Exp/LLP/Sec%203_photo%205.jpeg" style="width:100%"><figcaption> North West CDC pathfinder in collaboration with Sree Narayana Mission Home for the Aged in receiving the care packages.</figcaption></figure>
 
+
 <figure><img src="images/YSS%20Exp/LLP/Sec%203_photo%206.jpeg" style="width:100%"><figcaption> North West CDC pathfinder in collaboration with Anglican Senior Centre (Yishun) in receiving the care packages.</figcaption></figure>
+
 
 *   Our second outreach project with North West CDC involved students from 2T1 where they connected with residents in Yishun rental blocks and Anglican Senior Centre (Yishun) through Do-It-Yourself (DIY) crafts. Our students prepared and packed materials such as yarn, non-slip mat, pom-pom cardboard template, scissors and penknife into tote bags to be delivered to the homes of the residents and the centre. Residents learnt step by step to make a pom-pom rug through an instructional video produced by our students. The activity encourages creativity and hands-on skills of the residents.
 
