@@ -8,7 +8,7 @@ third_nav_title: Interdisciplinary Programmes
 
   
 
-#####  [YSS Amazing Race](https://yishunsec-moe-edu-sg-admin.cwp.sg/the-yss-experience/interdisciplinary-programmes/yss-amazing-race)
+#####  [YSS Amazing Race](/the-yss-experience/interdisciplinary-programmes/amazingrace/)
 
   
 ##### [Green Programme](https://yishunsec-moe-edu-sg-admin.cwp.sg/the-yss-experience/interdisciplinary-programmes/green-programme)
