@@ -67,7 +67,8 @@ tr:nth-child(even) {
 
 * **Inter-class ArithmetEQ Challenge:** <br>
 Secondary 1 cohort participated in this inter-class challenge through which they demonstrated resilience, creative thinking and teamwork for the first time in 2022. Students learned Arithmetic and Geometry when playing the board game. Sec 2E game facilitators were trained to guide players in the competition rounds.
-
+ 
+ 
 <table>
 	<tbody>
 		<tr>
