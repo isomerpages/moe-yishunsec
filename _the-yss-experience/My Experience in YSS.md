@@ -32,7 +32,7 @@ Our staff also engaged the Principal and teachers in professional development co
 <br> 
 <figure><img src="/images/YSS%20Exp/charis%20global%20school%20immersion%20programme%20in%20yss.jpeg"><figcaption>Charis Global School Immersion Programme in YSS</figcaption></figure>
 
-<figure><img src="/images/YSS%20Exp/bonding%20over%20lunch.jpg">Bonding over lunch<figcaption></figcaption></figure>
+<figure><img style="width:80%" src="/images/YSS%20Exp/bonding%20over%20lunch.jpg">Bonding over lunch<figcaption></figcaption></figure>
 
 <figure><img src="/images/YSS%20Exp/let's%20stay%20in%20touch.jpg"><figcaption> </figcaption>Let's stay in touch!</figure>
 
