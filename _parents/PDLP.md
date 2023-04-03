@@ -6,7 +6,7 @@ description: ""
 ### Latest Updates
 
 * For 2022 Sec 4N graduating student's PLD DMA restriction will be auto removed on 31 Jan 2023. After 31 Jan 2023, leave the PLD ON and connected to Wi-Fi for to complete factory reset. 
-* For 2022 Sec 4E & 4T graduating student's PLD DMA restriction will automatically removed on 31 Dec 2022. After 31 Dec 2022, leave the PLD ON and connected to Wi-Fi for to complete factory reset. 
+* For 2022 Sec 4E &amp; 4T graduating student's PLD DMA restriction will automatically removed on 31 Dec 2022. After 31 Dec 2022, leave the PLD ON and connected to Wi-Fi for to complete factory reset. 
 
 
 ### DMA guide for parents
@@ -61,7 +61,8 @@ Pre-Registration (For Faster Service/Drop-off): [https://smartcares.com/lenovo](
 * Mon – Sat: 11:00h – 19:00h 
 * Closed on Sun and Public Holidays
 
-<figure><img src="/images/Parents/lenovo%20SC.png" style="width:500px;"><figcaption>Lenovo Service Centre</figcaption></figure></figure>
+<figure><img src="/images/Parents/lenovo%20SC.png" style="width:500px;"><figcaption>Lenovo Service Centre</figcaption></figure>
+
 
 ### School-based Helpline
 
@@ -70,7 +71,7 @@ Mondays – Fridays: 8:30 am – 4:30 pm
 During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
 * School-based Helpline: **6876 7129**
-* Closed on Saturdays, Sundays & Public Holidays
+* Closed on Saturdays, Sundays &amp; Public Holidays
 
 For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, include your full name, name of the school and form class.
 
@@ -85,7 +86,7 @@ SLS Helpdesk: 6702 6513
 * 4:00 pm ― 9:00 pm (School Days)
 * 9:00 am ― 9:00 pm (School Holidays)
 * Saturdays: 9:00 am ― 3:00 pm
-* Closed on Sundays & Public Holidays
+* Closed on Sundays &amp; Public Holidays
 
 Email: helpdesk@sls.ufinity.com
 
@@ -99,9 +100,9 @@ Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. 
 * [Parents' Guide To Device Use for HBL](/files/HBL/Parents-Guide-to-Device-Use-for-Home-Based-Learning_Final.pdf)
 * [Cyber Wellness for Your Child](/files/Parents/PDLP/cyber-wellness-for-your-child.pdf)
 * [MOE - Practising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
-* [MLC - Better internet (Latest Resources for Parents](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)
+* [MLC - Better internet (Latest Resources for Parents](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents)
 * [Learn How to Keep Your Family Safe Online - HELP 123](https://www.help123.sg/)
-* [National Library’s Learning & Information Literacy resources](https://sure.nlb.gov.sg/)
+* [National Library’s Learning &amp; Information Literacy resources](https://sure.nlb.gov.sg/)
 
 ### 2023 Device Details for Sec 1
 
@@ -116,7 +117,7 @@ Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. 
 * Weight: 1.31 kg
 * Operation System: Chrome OS
 * Storage: 64GB eMMC
-* Connectivity: 802.11 AX & Bluetooth v5.2
+* Connectivity: 802.11 AX &amp; Bluetooth v5.2
 * Stylus Pen: Yes
 * Optical Mouse: USB Optical Mouse
 * Carrying Case: Yes
@@ -149,7 +150,7 @@ Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. 
 * Weight: 1.31 kg
 * Operation System: Chrome OS
 * Storage: 64GB eMMC
-* Connectivity: 802.11 AC & Bluetooth v5.0
+* Connectivity: 802.11 AC &amp; Bluetooth v5.0
 * Stylus Pen: Yes
 * Optical Mouse: USB Optical Mouse
 * Carrying Case: Yes
