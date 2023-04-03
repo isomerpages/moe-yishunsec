@@ -5,14 +5,14 @@ description: ""
 ---
 <figure><img src="/images/SMC_1.jpg">
 
-<figcaption> LEFT TO RIGHT:&nbsp;MR TAN EE CHENG, MS NITHIYA D/O MARIAPPAN, MRS REGINA LEE (P),&nbsp;MR TAY HIANG SOON (VP) </figcaption>
+<figcaption> LEFT TO RIGHT:&nbsp;MR TAN EE CHENG, MS NITHIYA D/O MARIAPPAN, MRS REGINA LEE (P),&nbsp;MR TAY HIANG SOON (VP)</figcaption>
 
 </figure>
 
 
 <figure><img src="/images/SMC_8.jpg">
 
-<figcaption> LEFT TO RIGHT:&nbsp;MR MICHAEL TAN (VP), MDM DORIS CHOONG WEN PING, MR JAYAKUMAR S/O NAVARETNAM (VP) </figcaption>
+<figcaption> LEFT TO RIGHT:&nbsp;MR MICHAEL TAN (VP), MDM DORIS CHOONG WEN PING, MR JAYAKUMAR S/O NAVARETNAM (VP)</figcaption>
 
 </figure>
 
