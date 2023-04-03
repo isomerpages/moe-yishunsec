@@ -4,7 +4,7 @@ permalink: /parents/Information-for-Parents/Letters/
 description: ""
 third_nav_title: Information for Parents
 ---
-### Parents Termly Letters
+### Parents Termly Letters for 2023
 
 ##### Term 2
 * [Information letter to parents term 2- 17 Mar 2023](/files/Letter%20to%20Parents/Information%20letter%20to%20parents_term%202_2023.pdf)
