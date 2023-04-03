@@ -35,6 +35,7 @@ Acer Service Centre Email: [acercare.sg@acer.com](acercare.sg@acer.com)
 * Sat: 09:00 – 12:00
 * Sun and Public Holiday: Closed
 
+
 <figure><img style="width:500px;" src="/images/Parents/Acer_Service_Centre.png"><figcaption>Acer Service Centre</figcaption></figure>
 
 
