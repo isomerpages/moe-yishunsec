@@ -16,6 +16,8 @@ Special Rooms
 
 <figure><img src="/images/YSS/Library.png"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
 
+<figure><img src="/images/IP/ICT/Photo_2-Online-Self-Directed-Learning.jpg"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
+
 <figure><img src="/.."><figcaption>Chat Room</figcaption></figure> 
 
 <figure><img src="/images/YSS/MPC.png"><figcaption>Multi Purpose Center (MPC)</figcaption></figure> 
@@ -63,7 +65,7 @@ Computer Labs
 
 <figure><img src="/…"><figcaption>Computer Lab 2</figcaption></figure> 
 
-<figure><img src="/…"><figcaption>Computer Lab 3</figcaption></figure> 
+<figure><img src="/images/IP/ICT/Nearpod%20Training.jpeg"><figcaption>Computer Lab 3</figcaption></figure> 
 
 <figure><img src="/…"><figcaption>Computer Lab 4</figcaption></figure>
 
