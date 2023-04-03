@@ -15,7 +15,7 @@ Yishun Secondary School’s (YSS) ALP in Sonic Arts centres around music composi
 
 
 
-### [Learning for Life Programme (LLP)](/the-yss-experience/distincitive-programmes/llp/)
+### [Learning for Life Programme (LLP)](/the-yss-experience/distinctive-programmes/llp/)
 
 <img src="/images/YSS%20Exp/LLP/LLP1.jpg" style="width:360px;margin-left:15px;" align="right">
 
