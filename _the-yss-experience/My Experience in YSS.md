@@ -17,7 +17,17 @@ Here are some of the reflections from our Yishunites about their experience:
 
 Kai Qi (3E3)
 
+*"I really enjoyed spending time with my buddy from Indonesia. We were both nervous at first but we were able to get along really well quite quickly. I think it was a nice experience to be able to spend a day with someone from another country and someone that I have never met before. We learned a lot about each other's cultures and how similar or different our lives are. It was definitely an interesting experience being able to share things about my school and life with my buddy and learn more about her as well. I introduced her to my friends and we shared many laughs and had a really fun time together. I definitely learned a lot about school life in Indonesia and I am sure she learned quite a bit about our school too. Overall it was a very memorable experience and I would love to do this again if I were given another chance."*
 
+Sandiya (2 Respect)
+
+*"The programme was quite enjoyable. I managed to meet four very friendly teachers, two of whom were science teachers, and the others were an art teacher and a social science teacher. All of them were very curious about how our school worked. I had an interesting discussion with one of the science teachers. He told me what the education system is like in Jakarta, and I found that it is quite similar to Singapore. Oh yes, one of the ideas they really loved were the phone pouches in the classroom, where students kept their phones during lessons to avoid distraction during lerning. They even commented that it was quite a smart idea and gave a thumbs up to whoever who came up with that idea. Through the programme, I honestly felt that it was quite exciting and thrilling, especially to tell people about how it’s like for me."*
+
+Ryan (2 Resilience)
+
+*"I enjoyed the whole experience as it got me to interact more with people and from outside of Singapore and I liked it as it made me become more comfortable in being able to speak with people I am unfamiliar with. I was also able to build friendships with people from a different country. Being able to have the opportunity to represent the school, show it off to people from outside the school and share what a great school YSS truly is gives me a great sense of satisfaction!"*
+
+Leonard (2 Integrity)
 
 
 
