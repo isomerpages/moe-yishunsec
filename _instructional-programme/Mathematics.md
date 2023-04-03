@@ -68,38 +68,36 @@ tr:nth-child(even) {
 * **Inter-class ArithmetEQ Challenge:** <br>
 Secondary 1 cohort participated in this inter-class challenge through which they demonstrated resilience, creative thinking and teamwork for the first time in 2022. Students learned Arithmetic and Geometry when playing the board game. Sec 2E game facilitators were trained to guide players in the competition rounds.
 
-
-  
-&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;<table><tbody><tr><th>Award</th><th>Student Name</th><th>Class</th></tr><tr><td>CHAMPION</td>  
+<table>
+	<tbody>
+		<tr>
+			<th>Award</th>
+			<th>Student Name</th>
+			<th>Class</th>
+		</tr>
+		<tr>
+			<td>CHAMPION</td>  
 		<td>
 			  1. ADNIEL YEO KAI KEE (YANG KAIQI)<br>  
 				2. ZION KOH 
-		</td><td>1 STRIVE</td></tr><tr><td>FIRST RUNNER UP</td>  
+		</td>
+			<td>1 STRIVE</td></tr><tr><td>FIRST RUNNER UP</td>  
 		<td>
 				1. IDHAN AKIL BIN ASHRAF MARICAR<br>
 				2. JOY TAY LIKE XIN  
-			</td><td>1 SEEK</td></tr><tr><td>SECOND RUNNER UP</td>  
+			</td>
+		<td>1 SEEK</td>
+		</tr>
+		<tr>
+			<td>SECOND RUNNER UP</td>  
 		<td>
 			1. NUR NABILA BINTE MOHAMAD HANIF<br>  
 			2. XIE JIATONG
-		</td><td>1 INNOVATE</td></tr>  
-</tbody></table>
+		</td>
+			<td>1 INNOVATE</td>
+		</tr>  
+</tbody>
+</table>
 
 * Sec 3E Experiential Learning Journey to Gardens by the Bay: <br>
 To make the learning of mathematics relevant and interesting, students used mathematical concepts and skills to real-life applications.
