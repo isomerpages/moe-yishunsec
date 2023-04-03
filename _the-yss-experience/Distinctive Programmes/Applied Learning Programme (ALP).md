@@ -4,6 +4,8 @@ permalink: /the-yss-experience/distinctive-programmes/alp/
 description: ""
 third_nav_title: Distinctive Programmes
 ---
+Yishun Secondary School’s (YSS) ALP in Sonic Arts centres around music composition, media and technology. Students embark on a journey of discovery, from developing their interest in music through the GMP to learning technology by creating music and video production.
+
 <a href="https://sites.google.com/moe.edu.sg/yssartextravaganza">
 <img src="/images/YSS%20Exp/YSSArtsExtravaganza2022.jpg" alt="yss ArtsExtravaganza"></a>
 
