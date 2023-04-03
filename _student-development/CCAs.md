@@ -9,11 +9,11 @@ In Yishun Secondary, students take part in one CCA from the following categories
 
 ### Uniformed Groups
 
-* **[Boys’ Brigade](/cca/uniform-groups/boys-brigade/)** *(Only for current students of 2022)*
-* **[Girl Guides](/cca/uniform-groupss/girl-guides/)**
-* **[National Cadet Corps (Land) (NCC)](/cca/uniform-groups/ncc/)**
-* **[National Police Cadet Corps (NPCC)](/cca/uniform-groups/npcc/)**
-* **[National Civil Defence Cadet Corps (NCDCC)](/cca/uniform-groups/ncdcc/)**
+* **[Boys’ Brigade](/cca/uniformed-groups/boys-brigade/)** *(Only for current students of 2022)*
+* **[Girl Guides](/cca/uniformed-groupss/girl-guides/)**
+* **[National Cadet Corps (Land) (NCC)](/cca/uniformed-groups/ncc/)**
+* **[National Police Cadet Corps (NPCC)](/cca/uniformed-groups/npcc/)**
+* **[National Civil Defence Cadet Corps (NCDCC)](/cca/uniformed-groups/ncdcc/)**
 
 
 
