@@ -61,6 +61,7 @@ Pre-Registration (For Faster Service/Drop-off): [https://smartcares.com/lenovo](
 * Mon – Sat: 11:00h – 19:00h 
 * Closed on Sun and Public Holidays
 
+
 <figure><img style="width:500px;" src="/images/Parents/lenovo%20SC.png"><figcaption>Lenovo Service Centre</figcaption></figure>
 
 
