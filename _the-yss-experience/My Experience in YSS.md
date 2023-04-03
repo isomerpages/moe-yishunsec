@@ -33,13 +33,13 @@ Our staff also engaged the Principal and teachers in professional development co
 
 <figure><img src="/images/YSS%20Exp/bonding%20over%20lunch.jpg">Bonding over lunch<figcaption></figcaption></figure>
 
-<figure><img src="/images/YSS%20Exp/let's%20stay%20in%20touch!.jpg"><figcaption> </figcaption>Let's stay in touch!</figure>
+<figure><img src="/images/YSS%20Exp/let's%20stay%20in%20touch.jpg"><figcaption> </figcaption>Let's stay in touch!</figure>
 
-<figure><img src="/images/YSS%20Exp/new%20buddies!.jpg"><figcaption>New buddies!</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/new%20buddies.jpg"><figcaption>New buddies!</figcaption></figure>
 
-<figure><img src="/images/YSS%20Exp/thanks%20for%20the%20memories!.jpg"><figcaption>Thanks for the memories!</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/thanks%20for%20the%20memories.jpg"><figcaption>Thanks for the memories!</figcaption></figure>
 
-<figure><img src="/images/YSS%20Exp/token%20of%20appreciation%20from%20a%20buddy.jpg"><figcaption>Token of appreciation from a buddy</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/token%20of%20appreciation%20from%20a%20buddy-1.jpg"><figcaption>Token of appreciation from a buddy</figcaption></figure>
 
 
 ### YSS at the Nee Soon Central National Day Carnival 2022
