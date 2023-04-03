@@ -14,7 +14,7 @@ Exercise & Sports Science is a new GCE O-Level subject to be introduced in 2022.
 
 ### Areas of study under ESS
 
-The areas of study in ESS are as follows:
+**The areas of study in ESS are as follows:**
 1. Exercise Physiology
 2. Biomechanics
 3. Sports Psychology
