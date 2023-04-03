@@ -24,7 +24,6 @@ description: ""
 </figure>
 
 
-
 <figure><img src="/images/SMC_3.png">
 
 <figcaption> LEFT TO RIGHT:&nbsp;MDM TAN EE HOON EVON, MDM CHAN WEILING ADELINE, MR NG YEW LONG, MDM TAN CHEW HSIA JACQUELINE, MDM QUEK TANNI TANNY</figcaption>
