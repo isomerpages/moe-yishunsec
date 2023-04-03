@@ -20,7 +20,7 @@ Should you encounter technical issues with the DMA or wish to share with us any 
 
 Thank you.
 
-* [PDLP Resource Site](https://sites.google.com/moe.edu.sg/ysspdlp)
+* [PDLP Resource Site](/parents/pdlp/)
 
 
 **DMA guide for parents:**
