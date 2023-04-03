@@ -8,7 +8,7 @@ The monthly school fees payable by Singaporean, International Student (IS) and S
 
 ![Schools Fees 2023](/images/Parents/School%20Fees.png)
 
-**Payment by GIRO**
+##### Payment by GIRO
 
   
 
