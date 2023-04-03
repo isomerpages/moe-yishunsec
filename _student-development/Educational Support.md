@@ -6,7 +6,7 @@ description: ""
 ![](/images/StudDevelopment/EduSupport/Educational-Support-1.jpg)
 
 ### Mission
-**To nurture students who are connected, competent and contributing members of the school and the community**
+**To nurture students who are connected, competent and contributing members of the school and the community.**
 
 The Educational Support consists of a team of officers who develop upstream strategies to support High-Needs Students (HNS) through various intervention programmes. These programmes also serve as important platform for students to be connected with their learning experience, connected within the school and the larger community through their hearts, hands and minds.
 
