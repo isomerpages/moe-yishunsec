@@ -36,21 +36,21 @@ The school organised a Mother’s day Appreciation activity where students made 
 
 *It was very sweet to receive a Mother’s Day flower from my son! He is my pillar of support.*
 
-~ Mrs Jaya,  Parent of Sec 2 student 
+<div style="text-align:right">~ Mrs Jaya,  Parent of Sec 2 student</div>
 
 *My child was very proud and excited to see me volunteering in her school. She brought her friends over and introduced me to them. My child saw that I was interested and willing to support in her teenage journey and school life hence she is willing to let me stay involved in her current journey. This is truely a rewarding experience for both the parent and child.*
 
-~ Mrs Lydia Chua, Parent of Sec 1 student
+<div style="text-align:right">~ Mrs Lydia Chua, Parent of Sec 1 student</div>
 
 #### Feedback from students
 
 *I was really excited making the bouquet.  My mother was pleasantly surprised too. She said “Thank you my big baby”*
 
-~ Lecia, 3E5
+<div style="text-align:right">~ Lecia, 3E5</div>
 
 *I learnt a new skill. I think it is quite cool. Thank you to the parent volunteers who were very skillful and patient in teaching me how to make the bouquet. It was easy to make the bouquet and my mother liked it very much.*
 
-~ Russell 2E2
+<div style="text-align:right">~ Russell 2E2</div>
 
 #### Photos
 
