@@ -3,7 +3,7 @@ title: Our Facilities
 permalink: /yss/facilities/
 description: ""
 ---
-[Click here to view our Facilities in 360](https://kuula.co/share/collection/7PDqZ?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1)
+[Click here to view our Facilities in 360](https://kuula.co/share/collection/7PDqZ?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1)
 
 Garden
 -----------------------
@@ -48,7 +48,9 @@ Science Labs
 -------------------------
 <figure><img src="/…"><figcaption>Biology Lab</figcaption></figure> 
 
-<figure><img src="/…"><figcaption>Chemistry Lab</figcaption></figure> 
+<figure><img src="/images/YSS/chem-lab-1.jpeg"><figcaption>Chemistry Lab 1</figcaption></figure> 
+
+<figure><img src="/images/YSS/chem-lab-2.jpeg"><figcaption>Chemistry Lab 2</figcaption></figure> 
 
 <figure><img src="/images/YSS/Phy_Lab-1.jpeg"><figcaption>Physics Lab 1</figcaption></figure> 
 
@@ -69,7 +71,7 @@ Computer Labs
 Design and Technology
 ---------------------
 
-<figure><img src="/images/YSS/DnTWorkshop.jpeg"><figcaption>D&T Workshop</figcaption></figure> 
+<figure><img src="/images/YSS/DnTWorkshop.jpeg"><figcaption>D&amp;T Workshop</figcaption></figure> 
 
 
 Music Room
