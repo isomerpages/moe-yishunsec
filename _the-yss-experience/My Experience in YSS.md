@@ -3,9 +3,21 @@ title: My Experience in YSS
 permalink: /the-yss-experience/myexperienceinyss/
 description: ""
 ---
+### Charis Global School (Jakarta) Immersion Programme in YSS
+
+On the first day of Term 2, our school played host to a group of students and their teachers from Charis Global School in Jakarta, Indonesia, as they came for a one-day immersion programme.
+
+Our Yishunites took on the role of buddies and brought their Indonesian counterparts around with them as they went about their day, providing the latter with a glimpse into the day of a typical Singaporean student. 
+
+Our staff also engaged the Principal and teachers in professional development conversations, sharing best practices as well as looking into opportunities for exchange programmes in the future.
+
+
+
+
+
 ### YSS at the Nee Soon Central National Day Carnival 2022
 
-On Saturday, 13 August, our NCC Precision Drill Squad, Indian and Malay dancers proudly represented YSS as we joined in the celebrations at Nee Soon Central’s National Day Carnival. Our performances were part of the festivities and were warmly received by the crowd.  Our students thoroughly enjoyed themselves and are proud to have contributed to the nation’s 57th birthday celebrations.
+On Saturday, 13 August, our NCC Precision Drill Squad, Indian and Malay dancers proudly represented YSS as we joined in the celebrations at Nee Soon Central’s National Day Carnival. Our performances were part of the festivities and were warmly received by the crowd.&nbsp; Our students thoroughly enjoyed themselves and are proud to have contributed to the nation’s 57th birthday celebrations.
 
 
 <figure><img src="/images/YSS%20Exp/Picture1.jpg"><figcaption>Our Indian Dancers in their resplendent costumes</figcaption></figure>
@@ -14,19 +26,19 @@ On Saturday, 13 August, our NCC Precision Drill Squad, Indian and Malay dancers 
 <figure><img src="/images/YSS%20Exp/Picture2.jpg"><figcaption>The Malay Dancers posing after a dynamic routine</figcaption></figure>
 
 
-<figure><img src="/images/YSS%20Exp/Picture3.jpg"><figcaption>Our proud NCC cadets receiving a token of appreciation from Associate Professor Muhammad Faishal Ibrahim Minister of State for Ministry of Home Affairs & Ministry of National Development Grassroots Adviser to Nee Soon GRC Grassroots Organisations</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/Picture3.jpg"><figcaption>Our proud NCC cadets receiving a token of appreciation from Associate Professor Muhammad Faishal Ibrahim Minister of State for Ministry of Home Affairs &amp; Ministry of National Development Grassroots Adviser to Nee Soon GRC Grassroots Organisations</figcaption></figure>
 
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/VHw2sSXNePU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/VHw2sSXNePU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></figure>
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/SISnDbEv5Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/SISnDbEv5Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></figure>
 
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/RtdBONcEi3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/RtdBONcEi3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></figure>
 
 ### YSS National Day Celebration 2022
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/c_K0TAFtno8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/c_K0TAFtno8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></figure>
 
 
 
@@ -100,21 +112,21 @@ It is heartening to see students enjoyed the unique celebration and the together
 Happy 57th National Day, Singapore!
 
 	
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/LOm_KlPodhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/LOm_KlPodhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><figcaption>
 A duet performance by Ahmad from class 1 Innovate and Chloe from class 1 Integrity singing the 2016 NDP theme song entitled ‘Tomorrow’s Here Today’. </figcaption></figure>
 
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/quv7Eo7Wyo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/quv7Eo7Wyo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><figcaption>
 A dance number by the group formed by five students from Class 1 Soar and 1 Strive. The infusion of a Korean pop-song to the 2005 NDP theme song ‘Reach Out For The Skies’ was such a complement to the entire choreographed dance.</figcaption></figure>
 	
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/iYaEwTthm_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/iYaEwTthm_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><figcaption>
 The celebration ended off with the community singing of the evergreen song ‘Our Singapore’ and this year’s National Day theme song ‘Stronger Together’</figcaption></figure>
 	
 	
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/jPEAh2ygAl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/jPEAh2ygAl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <figcaption>Class Activity Part 1</figcaption></figure>
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/Hw8vhMq7FK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/Hw8vhMq7FK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <figcaption>Class Activity Part 2</figcaption></figure>
 
 ### YSS @ THE HTNS NATIONAL DAY OBSERVANCE CEREMONY
@@ -132,6 +144,6 @@ On 5 Aug, the YSS NPCC and NCDCC were honoured to form the main contingent for t
 <img src="/images/YSS%20Exp/YSSArtsExtravaganza2022.jpg" alt="yss ArtsExtravaganza">
 </a>
 
-### Back to School 2022 & CNY Celebration
+### Back to School 2022 &amp; CNY Celebration
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/Ivdmet67Rvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/Ivdmet67Rvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></figure>
