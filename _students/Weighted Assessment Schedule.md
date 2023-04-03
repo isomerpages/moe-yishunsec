@@ -51,8 +51,6 @@ description: ""
 * [Sec 3 Weighted Assessment Term 3](/files/Weighted%20Assessment/2022/Sec%203%20Weighted%20Assessment%20Term%203.pdf)
 
 
-
-
 #### Term 2 - WA 2
 
 **Sec 1**
