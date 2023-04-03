@@ -29,7 +29,19 @@ Our staff also engaged the Principal and teachers in professional development co
 
 <div style="text-align:right">Leonard (2 Integrity)</div>
 
+<figure><img src="/images/YSS%20Exp/charis%20global%20school%20immersion%20programme%20in%20yss.jpeg"><figcaption>Charis Global School Immersion Programme in YSS</figcaption></figure>
 
+<figure><img src=""><figcaption> </figcaption></figure>
+
+<figure><img src=""><figcaption> </figcaption></figure>
+
+<figure><img src=""><figcaption> </figcaption></figure>
+
+<figure><img src=""><figcaption> </figcaption></figure>
+
+<figure><img src=""><figcaption> </figcaption></figure>
+
+<figure><img src=""><figcaption> </figcaption></figure>
 
 
 ### YSS at the Nee Soon Central National Day Carnival 2022
