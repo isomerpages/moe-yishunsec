@@ -11,6 +11,13 @@ Our Yishunites took on the role of buddies and brought their Indonesian counterp
 
 Our staff also engaged the Principal and teachers in professional development conversations, sharing best practices as well as looking into opportunities for exchange programmes in the future.
 
+Here are some of the reflections from our Yishunites about their experience:
+
+*"I really enjoyed this experience as I got to bond with not only my buddy but other students from Charis Global School as well. I learnt that in their school, there is only 1 class per Grade. I find it interesting how they do not use calculators in Mathematics. Instead, they do mental calculations. They speak multiple languages which I find very similar to us as we study our Mother Tongue languages too. This experience was very enjoyable and I learnt a lot of things, especially when I get to interact with students from other countries. Doing this also made me realise how getting to know different cultures is very important. All the students and teachers are really nice too. I really appreciate this opportunity and I learnt a lot of things!"*
+
+Kai Qi (3E3)
+
+
 
 
 
