@@ -4,14 +4,14 @@ permalink: /parents/Information-for-Parents/Insurance/
 description: ""
 third_nav_title: Information for Parents
 ---
-MOE has an insurance plan with NTUC Income for students.
+**MOE has an insurance plan with NTUC Income for students.**
 
   
 1. All student accident insurance claims submission are to be submitted electronically
 2. Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on Income’s website at [https://www.income.com.sg/studentgpa](https://www.income.com.sg/studentgpa)
 
   
-**Product Fact Sheet**
+##### Product Fact Sheet
 
 Please read the product fact sheet for the terms and conditions of the insurance coverage on the NTUC Income’s website by clicking the link below.
  
