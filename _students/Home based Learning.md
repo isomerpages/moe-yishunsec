@@ -4,7 +4,7 @@ permalink: /students/HBL/
 description: ""
 ---
 ### Resources
-* [Personalised Digital Learning Programme (PDLP)](https://sites.google.com/moe.edu.sg/ysspdlp/home)
+* [Personalised Digital Learning Programme (PDLP)](/parents/pdlp/)
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 * [Verification of Email on SLS](/files/HBL/Verification-of-Email-on-SLS.pdf)
 * [SLS User Guide](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
