@@ -54,7 +54,7 @@ Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions <br>
 (Beside Tai Seng MRT station, Exit A)
 
 Lenovo Service Centre Number: **6871 4838** <br>
-Lenovo Service Centre Email: [lenovo@smartcares.com](lenovo@smartcares.com) <br>
+Lenovo Service Centre Email: [lenovo@smartcares.com](mailto:lenovo@smartcares.com) <br>
 Pre-Registration (For Faster Service/Drop-off): [https://smartcares.com/lenovo](https://smartcares.com/lenovo)
 
 
@@ -90,7 +90,7 @@ SLS Helpdesk: 6702 6513
 * Saturdays: 9:00 am ― 3:00 pm
 * Closed on Sundays &amp; Public Holidays
 
-Email: helpdesk@sls.ufinity.com
+Email: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
 
 Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, include your full name, name of the school and form class.
 
