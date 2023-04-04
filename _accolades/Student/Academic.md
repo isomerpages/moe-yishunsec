@@ -70,7 +70,7 @@ tr:nth-child(even) {
 ### 2022 GCE O-Level Examination 4 Express Results
 
   
-*Congratulations to our Secondary 4 Express students! *
+*Congratulations to our Secondary 4 Express students!*
   
 #### 4E students who achieved L1R5 &lt; 12
 
