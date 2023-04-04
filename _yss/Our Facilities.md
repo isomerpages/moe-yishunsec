@@ -85,6 +85,3 @@ Music Room
 School Canteen
 -----------------
 <figure><img src="/…"><figcaption>Canteen</figcaption></figure>
-
-
-[Click here to view our Facilities in 360](https://kuula.co/share/collection/7PDqZ?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1)
