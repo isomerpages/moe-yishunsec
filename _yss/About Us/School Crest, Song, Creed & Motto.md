@@ -1,12 +1,12 @@
 ---
-title: School Crest, Song, Creed & Motto
+title: School Crest, Song, Creed &amp; Motto
 permalink: /yss/song/
 description: ""
 third_nav_title: About Us
 ---
 ### School Crest
 
-<img src="/images/school-crest1.png" style="width:30%">
+<img src="/images/school-crest1.png" style="width:20%">
 
 Our School Crest is in the shape of a drop of water that symbolises the thirst for knowledge.
 
