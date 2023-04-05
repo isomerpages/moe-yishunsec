@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Student Development/.keep
       - Instructional Programme/.keep
       - Instructional Programme/Aesthetics (Music and Retail Operations).md
       - Instructional Programme/Craft and Technology.md
@@ -16,3 +15,4 @@ collections:
       - Instructional Programme/Mother Tongue Languages.md
       - Instructional Programme/Physical Education.md
       - Instructional Programme/Science.md
+      - Student Development/.keep
