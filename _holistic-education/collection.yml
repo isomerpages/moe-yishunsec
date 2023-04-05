@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Instructional Programme/Literature.md
       - Instructional Programme/English Language.md
       - Instructional Programme/Craft and Technology.md
       - Instructional Programme/Aesthetics (Music and Retail Operations).md
