@@ -2,12 +2,43 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+### Agreement – Terms
 
-#### **General Legal Information**
+*  Thank you for visiting this Website (“The Website”). The Website is owned and maintained by the Yishun Seconadry School, Singapore (hereinafter “YSS”).
+*  All access of any area of The Website is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms. 
+*  In these Terms, the words “we,” “our” and “us” refer to YSS.
+*  MOE reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+### Access to The Website
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+*  The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+### Relying on Information
+
+* The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.
+* The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by YSS.
+
+### Security
+
+* Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.
+* Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.
+
+### Hyperlinks
+
+* We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other site is at your own risk.
+* If you create a link or frame to The Website you do so at your own risk.
+* Private entities who wish to have their websites hyperlinked on The Website can write to yishun_ss@moe.edu.sg, with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.
+* We reserve the right to object to, or disable any link or frame to or from The Website.
+* We reserve the right to change the URL of The Website.
+
+### Intellectual Property
+
+* Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (© Yishun Secondary School, Singapore)
+* Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.
+
+### Disclaimer of Warranties and Liability
+
+* We will not be liable for any loss or damage:
+	*  that you may incur on account of using, visiting or relying on any statement, opinion, representation or information in The Website;
+	*  resulting from any delay in the operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software; or
+	*  the conduct or the views of any person who accesses or uses The Website.
