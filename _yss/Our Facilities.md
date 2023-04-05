@@ -24,7 +24,7 @@ Special Rooms
 
 <figure><img src="/…"><figcaption>Hangoutz</figcaption></figure>
 
-<figure><img src="/…"><figcaption>The HIVE</figcaption></figure> 
+<figure><img src="/images/YSS/the%20hive.jpeg"><figcaption>The HIVE</figcaption></figure> 
 
 <figure><img src="/…"><figcaption>The PLACE</figcaption></figure>
 
