@@ -2,6 +2,8 @@ collections:
   holistic-education:
     output: true
     order:
+      - Instructional Programme/Information and Communications Technology
+        (ICT).md
       - Instructional Programme/Exercise & Sports Science (ESS).md
       - Instructional Programme/Humanities.md
       - Instructional Programme/Literature.md
