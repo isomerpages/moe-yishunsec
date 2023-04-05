@@ -1,5 +1,4 @@
 collections:
   instructional-programme:
     output: true
-    order:
-      - Science.md
+    order: []
