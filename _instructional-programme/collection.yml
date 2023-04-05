@@ -2,5 +2,4 @@ collections:
   instructional-programme:
     output: true
     order:
-      - Physical Education.md
       - Science.md
