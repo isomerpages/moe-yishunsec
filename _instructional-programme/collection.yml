@@ -2,7 +2,6 @@ collections:
   instructional-programme:
     output: true
     order:
-      - Literature.md
       - Humanities.md
       - Exercise & Sports Science (ESS).md
       - Information and Communications Technology (ICT).md
