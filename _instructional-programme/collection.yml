@@ -2,7 +2,6 @@ collections:
   instructional-programme:
     output: true
     order:
-      - English Language.md
       - Literature.md
       - Humanities.md
       - Exercise & Sports Science (ESS).md
