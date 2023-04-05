@@ -84,4 +84,4 @@ Music Room
 
 School Canteen
 -----------------
-<figure><img src="/…"><figcaption>Canteen</figcaption></figure>
+<figure><img src="/images/YSS/canteen-1.png"><figcaption>Canteen</figcaption></figure>
