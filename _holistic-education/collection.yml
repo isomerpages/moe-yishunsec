@@ -2,18 +2,18 @@ collections:
   holistic-education:
     output: true
     order:
-      - Instructional Programme/Science.md
-      - Instructional Programme/Physical Education.md
-      - Instructional Programme/Mother Tongue Languages.md
-      - Instructional Programme/Mathematics.md
-      - Instructional Programme/Information and Communications Technology
-        (ICT).md
+      - Instructional Programme/.keep
+      - Instructional Programme/Aesthetics (Music and Retail Operations).md
+      - Instructional Programme/Craft and Technology.md
+      - Instructional Programme/English Language.md
       - Instructional Programme/Exercise & Sports Science (ESS).md
       - Instructional Programme/Humanities.md
+      - Instructional Programme/Information and Communications Technology
+        (ICT).md
       - Instructional Programme/Literature.md
-      - Instructional Programme/English Language.md
-      - Instructional Programme/Craft and Technology.md
-      - Instructional Programme/Aesthetics (Music and Retail Operations).md
+      - Instructional Programme/Mathematics.md
+      - Instructional Programme/Mother Tongue Languages.md
+      - Instructional Programme/Physical Education.md
+      - Instructional Programme/Science.md
       - Instructional Programme/Instructional Programme.md
-      - Instructional Programme/.keep
       - Student Development.md
