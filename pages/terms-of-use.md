@@ -27,7 +27,7 @@ permalink: /terms-of-use/
 
 * We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other site is at your own risk.
 * If you create a link or frame to The Website you do so at your own risk.
-* Private entities who wish to have their websites hyperlinked on The Website can write to yishun_ss@moe.edu.sg, with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.
+* Private entities who wish to have their websites hyperlinked on The Website can write to [yishun_ss@moe.edu.sg](mailto:yishun_ss@moe.edu.sg), with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.
 * We reserve the right to object to, or disable any link or frame to or from The Website.
 * We reserve the right to change the URL of The Website.
 
