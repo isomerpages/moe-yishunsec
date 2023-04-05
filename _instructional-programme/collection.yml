@@ -2,6 +2,5 @@ collections:
   instructional-programme:
     output: true
     order:
-      - Mother Tongue Languages.md
       - Physical Education.md
       - Science.md
