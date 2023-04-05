@@ -33,7 +33,7 @@ Special Rooms
 PE Venues
 -----------------------
 
-<figure><img src="/…"><figcaption>Basketball Court</figcaption></figure>
+<figure><img src="/images/YSS/basketball_court_1.png"><figcaption>Basketball Court</figcaption></figure>
 
 <figure><img src="/…"><figcaption>Indoor Sports Hall</figcaption></figure> 
 
