@@ -5,7 +5,7 @@ description: ""
 ---
 ### Latest Updates
 
-* New PLD will be issued to Sec 1 students on 13 Apr 2023. 
+* PLD will be issued to Sec 1 students on 13 Apr 2023. 
 
 
 ### DMA guide for parents
