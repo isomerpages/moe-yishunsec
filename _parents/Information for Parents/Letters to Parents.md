@@ -7,6 +7,8 @@ third_nav_title: Information for Parents
 ### Parents Termly Letters for 2023
 
 ##### Term 2
+* [New HBL Dates and Hari Raya Greetings - 10 Apr 2023](/files/Letter%20to%20Parents/new%20hbl%20dates%20and%20hari%20raya%20greetings%20-%2010%20apr%202023.pdf)
+* [YSS Student Learning Festival 2023 - 6 Apr 2023](/files/Letter%20to%20Parents/yss%20student%20learning%20festival%202023.pdf)
 * [Information letter to parents term 2- 17 Mar 2023](/files/Letter%20to%20Parents/Information%20letter%20to%20parents_term%202_2023.pdf)
 * [POSITIVE PARENTING PROGRAMME - 15 Mar 2023](/files/Letter%20to%20Parents/POSITIVE%20PARENTING%20PROGRAMME.pdf)
 
