@@ -2,6 +2,7 @@ collections:
   info-for-parents:
     output: true
     order:
+      - Positive Parenting Programme.md
       - Dialogue with Parents.md
       - Edusave Character Award.md
       - School and Miscellaneous Fees.md
