@@ -2,5 +2,6 @@ collections:
   content-outlines:
     output: true
     order:
+      - Other Elective Subjects.md
       - Science.md
       - Tamil Language.md
