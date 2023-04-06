@@ -2,6 +2,7 @@ collections:
   instructional-programme:
     output: true
     order:
+      - Aesthetics (Music & Retail Operations).md
       - Craft and Technology.md
       - English Language.md
       - Exercise & Sports Science (ESS).md
