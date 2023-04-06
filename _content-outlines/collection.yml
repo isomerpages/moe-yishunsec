@@ -1,4 +1,5 @@
 collections:
   content-outlines:
     output: true
-    order: []
+    order:
+      - Tamil Language.md
