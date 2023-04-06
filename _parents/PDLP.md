@@ -5,8 +5,7 @@ description: ""
 ---
 ### Latest Updates
 
-* For 2022 Sec 4N graduating student's PLD DMA restriction will be auto removed on 31 Jan 2023. After 31 Jan 2023, leave the PLD ON and connected to Wi-Fi for to complete factory reset. 
-* For 2022 Sec 4E &amp; 4T graduating student's PLD DMA restriction will automatically removed on 31 Dec 2022. After 31 Dec 2022, leave the PLD ON and connected to Wi-Fi for to complete factory reset. 
+* PLD will be issued to Sec 1 students on 13 Apr 2023. 
 
 
 ### DMA guide for parents
