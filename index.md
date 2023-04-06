@@ -21,7 +21,7 @@ sections:
       title: Letter to Parents
       description: New HBL Dates and Hari Raya Greetings - 10 Apr 2023
       button: Read more...
-      url: /parents/Information-for-Parents/Letters/
+      url: /parents/info-for-parents/letters/
       alt: Image alt text
       subtitle: Announcements
       image: /images/Announcements.jpg
