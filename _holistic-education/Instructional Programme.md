@@ -3,24 +3,24 @@ title: Instructional Programme
 permalink: /instructional-prog/
 description: ""
 ---
-#### Aesthetics (Music & Retail Operations)
+#### [Aesthetics (Music and Retail Operations)](/instructional-programme/aesthetics/)
 
-#### Craft and Technology
+#### [Craft and Technology](/instructional-programme/craftandtech/)
 
-#### English Language
+#### [English Language](/instructional-programme/english-language/)
 
-#### Exercise & Sports Science (ESS)
+#### [Exercise & Sports Science (ESS)](/instructional-programme/ess/)
 
-#### Humanities
+#### [Humanities](/instructional-programme/humanities/)
 
-#### Information & Communications Technology (ICT)
+#### [Information and Communications Technology (ICT)](/instructional-programme/ict/)
 
-#### Literature
+#### [Literature](/instructional-programme/literature/)
 
-#### Mathematics
+#### [Mathematics](/instructional-programme/mathematics/)
 
-#### Mother Tongue Languages
+#### [Mother Tongue Languages](/instructional-programme/mtl/)
 
-#### Physical Education
+#### [Physical Education](/instructional-programme/physical-education/)
 
-#### Science
+#### [Science](/instructional-programme/science/)
