@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/yss-logo.png
 links:
+  - title: YSS
+    collection: yss
+  - title: The YSS Experience
+    collection: the-yss-experience
+  - title: Accolades
+    collection: accolades
+  - title: Holistic Education
+    collection: holistic-education
+  - title: Students
+    collection: students
+  - title: Parents
+    collection: parents
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

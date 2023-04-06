@@ -1,0 +1,15 @@
+collections:
+  instructional-programme:
+    output: true
+    order:
+      - Aesthetics (Music and Retail Operations).md
+      - Craft and Technology.md
+      - English Language.md
+      - Exercise & Sports Science (ESS).md
+      - Humanities.md
+      - Information and Communications Technology (ICT).md
+      - Literature.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science.md

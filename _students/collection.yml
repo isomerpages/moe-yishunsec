@@ -1,0 +1,17 @@
+collections:
+  students:
+    output: true
+    order:
+      - Content Outlines.md
+      - Announcements for Students.md
+      - Students’ Timetable.md
+      - Weighted Assessment Schedule.md
+      - School Rules and Regulations.md
+      - Sec 2 Subject Combinations.md
+      - CCA Schedule.md
+      - Consultation Schedule.md
+      - Library.md
+      - Booklist.md
+      - SIL YSS Inspired.md
+      - Education & Career Guidance Programme.md
+      - Home based Learning.md

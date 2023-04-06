@@ -1,0 +1,15 @@
+collections:
+  content-outlines:
+    output: true
+    order:
+      - Art.md
+      - Chinese Language.md
+      - Design & Technology.md
+      - English & Literature.md
+      - Food & Consumer Education or Food & Nutrition.md
+      - Humanities.md
+      - Malay Language.md
+      - Mathematics.md
+      - Other Elective Subjects.md
+      - Science.md
+      - Tamil Language.md

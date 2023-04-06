@@ -1,0 +1,17 @@
+collections:
+  yss:
+    output: true
+    order:
+      - Principal's Message.md
+      - About Us/.keep
+      - About Us/Mission, vision and values.md
+      - About Us/Historical Milestones.md
+      - About Us/School Crest, Song, Creed & Motto.md
+      - E Brochure.md
+      - Student Handbook.md
+      - Organisation Chart.md
+      - SMC Members.md
+      - Executive and Administration.md
+      - YSS Alumni.md
+      - School Advisory Committee (SAC).md
+      - Our Facilities.md

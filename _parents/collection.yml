@@ -1,0 +1,24 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Information for Parents/.keep
+      - Information for Parents/Letters to Parents.md
+      - Information for Parents/Form Teachers List.md
+      - Information for Parents/Positive Parenting Programme.md
+      - Information for Parents/Dialogue with Parents.md
+      - Information for Parents/Edusave Character Award.md
+      - Information for Parents/School and Miscellaneous Fees.md
+      - Information for Parents/MOE Group Personal Accident (GPA) Insurance.md
+      - Information for Parents/Use of Photographs, Videos and other Media by
+        the School.md
+      - Information for Parents/Activation of DMA Parent Portal.md
+      - PDLP.md
+      - Parents Gateway.md
+      - School Calendar.md
+      - Cyber Wellness Resources for Parents.md
+      - YSS Curriculum and Blended Learning.md
+      - YSS Assessment Policy.md
+      - Parent Support Group.md
+      - Sexuality Education.md
+      - MOE FAS Application.md
