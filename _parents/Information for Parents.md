@@ -5,7 +5,7 @@ description: ""
 ---
 ### Letters to Parents
 
-2023 Term 2 Teacher Timetable.pdf
+### [2023 Term 2 Teacher Timetable](/files/Timetables/Teachers%20Timetable/2023%20Term%202%20Teacher%20Timetable_v5.pdf)
 
 Form Teachers list for 2023 - 21 Feb 2023.pdf
 
