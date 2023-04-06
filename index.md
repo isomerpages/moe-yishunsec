@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: Information for Parents Term 2 - 2023...
+      description: YSS Student Learning Festival 2023
       button: Read more...
       url: /parents/Information-for-Parents/Letters/
       alt: Image alt text
