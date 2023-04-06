@@ -2,6 +2,7 @@ collections:
   content-outlines:
     output: true
     order:
+      - Design & Technology.md
       - English & Literature.md
       - Food & Consumer Education or Food & Nutrition.md
       - Humanities.md
