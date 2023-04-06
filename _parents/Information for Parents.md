@@ -3,7 +3,7 @@ title: Information for Parents
 permalink: /parents/info-parents/
 description: ""
 ---
-### Letters to Parents
+### [Letter to Parents](/parents/info-for-parents/letters/)
 
 ### [2023 Term 2 Teacher Timetable](/files/Timetables/Teachers%20Timetable/2023%20Term%202%20Teacher%20Timetable_v5.pdf)
 
