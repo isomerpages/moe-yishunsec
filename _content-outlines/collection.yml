@@ -2,4 +2,5 @@ collections:
   content-outlines:
     output: true
     order:
+      - Science.md
       - Tamil Language.md
