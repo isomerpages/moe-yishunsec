@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Information for Parents/.keep
       - PDLP.md
       - Parents Gateway.md
       - School Calendar.md
