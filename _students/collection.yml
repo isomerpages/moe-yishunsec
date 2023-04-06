@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Content Outlines.md
-      - Content Outlines/.keep
       - Announcements for Students.md
       - Students’ Timetable.md
       - Weighted Assessment Schedule.md
