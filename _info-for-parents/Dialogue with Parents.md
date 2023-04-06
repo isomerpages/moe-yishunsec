@@ -1,8 +1,7 @@
 ---
 title: Dialogue with Parents
-permalink: /parents/Information-for-Parents/DwP/
+permalink: /parents/info-for-parents/dwp/
 description: ""
-third_nav_title: Information for Parents
 ---
 2023
 ---------------

@@ -1,8 +1,7 @@
 ---
 title: Activation of DMA Parent Portal
-permalink: /parents/Information-for-Parents/dmaparentportal/
+permalink: /parents/info-for-parents/dma/
 description: ""
-third_nav_title: Information for Parents
 ---
 Dear Parent/Guardian,
 

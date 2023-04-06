@@ -1,8 +1,7 @@
 ---
 title: Edusave Character Award
-permalink: /parents/Edusave/
+permalink: /parents/info-for-parents/edusave/
 description: ""
-third_nav_title: Information for Parents
 ---
 #### EDUSAVE CHARACTER AWARD 2022 NOMINATIONS
 

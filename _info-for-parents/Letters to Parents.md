@@ -1,8 +1,7 @@
 ---
 title: Letters to Parents
-permalink: /parents/Information-for-Parents/Letters/
+permalink: /parents/info-for-parents/letters/
 description: ""
-third_nav_title: Information for Parents
 ---
 ### Parents Termly Letters for 2023
 
