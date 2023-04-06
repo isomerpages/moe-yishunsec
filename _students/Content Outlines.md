@@ -3,31 +3,24 @@ title: Content Outlines
 permalink: /students/content-outlines/
 description: ""
 ---
-#### Art
+#### [Art](/content-outlines/art/)
 
-#### Chinese Language
+#### [Chinese Language](/content-outlines/chinese/)
 
-#### Design & Technology
+#### [Design & Technology](/content-outlines/design-technology/)
 
-#### English & Literature
+#### [English & Literature](/content-outlines/english/)
 
-#### Food & Consumer Education/Food & Nutrition
+#### [Food & Consumer Education/Food & Nutrition](/content-outlines/fce/)
 
-#### Humanities
+#### [Humanities](/content-outlines/humanities/)
 
-#### Malay Language
+#### [Malay Language](/content-outlines/malay/)
 
-#### Mathematics
+#### [Mathematics](/content-outlines/mathematics/)
 
-#### Other Elective Subjects
+#### [Other Elective Subjects](/content-outlines/elective/)
 
-#### Science
+#### [Science](/content-outlines/science/)
 
-#### Tamil Language
-
-
-
-
-
-
-
+#### [Tamil Language](/content-outlines/tamil/)
