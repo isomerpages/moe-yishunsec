@@ -24,7 +24,7 @@ sections:
       url: /parents/info-for-parents/letters/
       alt: Image alt text
       subtitle: Announcements
-      image: /images/Announcements.jpg
+      image: /images/announcement.jpg
   - infopic:
       title: "Distinctive Programme: Arts for Life and Community"
       description: "In Yishun Secondary School, Sonic Arts involves Music, Media and
