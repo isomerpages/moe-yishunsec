@@ -1,9 +1,9 @@
 ---
 title: Personalised Digital Learning Programme (PDLP)
 date: 2023-02-24
-layout: link
+layout: post
 description: ""
 image: ""
-external: https://sites.google.com/moe.edu.sg/ysspdlp
+external: yishunsec.moe.edu.sg/parents/pdlp/
+permalink: /parents/pdlp/
 ---
-
