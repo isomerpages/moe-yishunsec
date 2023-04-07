@@ -45,7 +45,6 @@ table {
 td, th {
   border: 1px solid #dddddd;
   text-align: left;
-	font-size:100%;
 }
 
 tr:nth-child(even) {
