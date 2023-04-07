@@ -38,7 +38,7 @@ description: ""
 
   
 
-#### Technical Support Officer – D&T
+#### Technical Support Officer – D&amp;T
 
 *   Mr Chiang Kok Hoong
 *   Mr Mohamed Shahjohan B Mohd Salleh
@@ -50,7 +50,7 @@ description: ""
 *   Mdm Norhaytiy Bte Bujang
 *   Mdm Siti Alwiyah Bte Ismail
 
-![](/images/EAS1.jpg)
-![](/images/EAS2.png)
-![](/images/EAS3.png)
+![](/images/EAS1.jpg)<br>
+![](/images/EAS2.png)<br>
+![](/images/EAS3.png)<br>
 ![](/images/EAS4.png)
