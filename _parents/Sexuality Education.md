@@ -45,6 +45,7 @@ table {
 td, th {
   border: 1px solid #dddddd;
   text-align: left;
+	font-size:100%;
 }
 
 tr:nth-child(even) {
@@ -54,7 +55,8 @@ tr:nth-child(even) {
 
 <h3>SECONDARY 1</h3>
 <table>
-  <tbody><tr>
+  <tbody>
+		<tr>
     <th>UNIT</th>
     <th>LESSONS/DURATION</th>
     <th>LESSON OVERVIEW</th>
