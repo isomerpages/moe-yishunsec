@@ -30,7 +30,7 @@ sections:
       description: "In Yishun Secondary School, Sonic Arts involves Music, Media and
         Technology... "
       button: Read more...
-      url: /the-yss-experience/Distinctive-Programmes/
+      url: /the-yss-experience/distinctive-programmes/alp/
       alt: Distinctive Programme in YSS
       image: /images/ALP-LLP.jpg
   - infopic:
