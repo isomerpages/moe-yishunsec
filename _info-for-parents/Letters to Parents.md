@@ -3,7 +3,7 @@ title: Letters to Parents
 permalink: /parents/info-for-parents/letters/
 description: ""
 ---
-Parents Termly Letters for 2023
+2023
 --------------
 
 ##### Term 2
