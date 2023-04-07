@@ -22,9 +22,9 @@ sections:
       description: New HBL Dates and Hari Raya Greetings - 10 Apr 2023
       button: Read more...
       url: /parents/info-for-parents/letters/
-      alt: Image alt text
+      alt: announcement
       subtitle: Announcements
-      image: /images/Announcements.jpg
+      image: /images/announcement.jpg
   - infopic:
       title: "Distinctive Programme: Arts for Life and Community"
       description: "In Yishun Secondary School, Sonic Arts involves Music, Media and
