@@ -3,7 +3,8 @@ title: Letters to Parents
 permalink: /parents/info-for-parents/letters/
 description: ""
 ---
-### Parents Termly Letters for 2023
+Parents Termly Letters for 2023
+--------------
 
 ##### Term 2
 * [New HBL Dates and Hari Raya Greetings - 10 Apr 2023](/files/Letter%20to%20Parents/new%20hbl%20dates%20and%20hari%20raya%20greetings%20-%2010%20apr%202023-2.pdf)
