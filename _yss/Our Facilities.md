@@ -46,6 +46,7 @@ Science Labs
 
 Computer Labs
 -------------------------
+<figure><img src="/images/YSS/comlab2.jpeg"><figcaption>Computer Lab 2</figcaption></figure> 
 
 <figure><img src="/images/IP/ICT/Nearpod%20Training.jpeg"><figcaption>Computer Lab 3</figcaption></figure> 
 
