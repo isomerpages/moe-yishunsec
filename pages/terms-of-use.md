@@ -7,7 +7,7 @@ permalink: /terms-of-use/
 *  Thank you for visiting this Website (“The Website”). The Website is owned and maintained by the Yishun Seconadry School, Singapore (hereinafter “YSS”).
 *  All access of any area of The Website is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms. 
 *  In these Terms, the words “we,” “our” and “us” refer to YSS.
-*  MOE reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
+*  YSS reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
 
 ### Access to The Website
 
