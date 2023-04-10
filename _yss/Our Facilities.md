@@ -20,15 +20,7 @@ Special Rooms
 
 <figure><img src="/images/YSS/MPC.png"><figcaption>Multi Purpose Center (MPC)</figcaption></figure> 
 
-<figure><img src="/…"><figcaption>Performing Arts Room</figcaption></figure> 
-
-<figure><img src="/…"><figcaption>Hangoutz</figcaption></figure>
-
 <figure><img src="/images/YSS/the%20hive.jpeg"><figcaption>The HIVE</figcaption></figure> 
-
-<figure><img src="/…"><figcaption>The PLACE</figcaption></figure>
-
-<figure><img src="/…"><figcaption>Retail and Operation Room (RO Room)</figcaption></figure> 
 
 PE Venues
 -----------------------
@@ -39,15 +31,11 @@ PE Venues
 
 <figure><img src="/images/YSS/ParadeSquare.jpg"><figcaption>Parade Square</figcaption></figure> 
 
-<figure><img src="/…"><figcaption>Football Field</figcaption></figure> 
-
 <figure><img src="/images/YSS/SchoolHall.png"><figcaption>School Hall</figcaption></figure> 
 
 
 Science Labs
 -------------------------
-<figure><img src="/…"><figcaption>Biology Lab</figcaption></figure> 
-
 <figure><img src="/images/YSS/chem-lab-1.jpeg"><figcaption>Chemistry Lab 1</figcaption></figure> 
 
 <figure><img src="/images/YSS/chem-lab-2.jpeg"><figcaption>Chemistry Lab 2</figcaption></figure> 
@@ -58,14 +46,9 @@ Science Labs
 
 Computer Labs
 -------------------------
-
-<figure><img src="/…"><figcaption>Computer Lab 1</figcaption></figure> 
-
-<figure><img src="/…"><figcaption>Computer Lab 2</figcaption></figure> 
+<figure><img src="/images/YSS/comlab2.jpeg"><figcaption>Computer Lab 2</figcaption></figure> 
 
 <figure><img src="/images/IP/ICT/Nearpod%20Training.jpeg"><figcaption>Computer Lab 3</figcaption></figure> 
-
-<figure><img src="/…"><figcaption>Computer Lab 4</figcaption></figure>
 
 
 Design and Technology
@@ -76,11 +59,7 @@ Design and Technology
 
 Music Room
 -----------------------
-<figure><img src="/…"><figcaption>Music Lab</figcaption></figure> 
-
-<figure><img src="/images/YSS/Music_Room.jpg"><figcaption>Music Room</figcaption></figure>
-
-<figure><img src="/…"><figcaption>Recording Studio</figcaption></figure> 
+<figure><img src="/images/YSS/Music_Room.jpg"><figcaption>Music Room</figcaption></figure> 
 
 School Canteen
 -----------------
