@@ -71,11 +71,11 @@ tr:nth-child(even) {
     <td><a href="https://learn.gov.sg/">LEARN</a></td>
   </tr>
 	<tr>
-    <td><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness">MOE Cyber Wellness</a></td>
+    <td><a href="/students/announcements/">Announcements for Students</a></td>
     <td><a href="https://ssoe2.moe.edu.sg/sp">SSOE 2 Portal</a></td>
   </tr>
 	<tr>
-    <td></td>
+		<td><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness">MOE Cyber Wellness</a></td>
     <td><a href="https://www.mesrc.net">MOE Sports &amp; Recreation Club</a></td>
   </tr>
 	<tr>
