@@ -39,7 +39,7 @@ sections:
       button: Read More...
       alt: DSA in YSS
       url: /the-yss-experience/dsa/
-      image: /images/YSS_DSA.jpg
+      image: /images/yss-dsa.jpg
   - resources:
       title: Information from YSS
       button: Read more...
