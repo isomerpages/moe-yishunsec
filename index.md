@@ -22,14 +22,14 @@ sections:
       description: New HBL Dates and Hari Raya Greetings - 10 Apr 2023
       button: Read more...
       url: /parents/info-for-parents/letters/
-      alt: announcement
+      alt: Letter to parents
       subtitle: Announcements
       image: /images/announcement.jpg
   - infopic:
       title: YSS X-Country 2023
       subtitle: Announcements
       description: Forget The Miles, Just Smile!
-      button: Read More
+      button: Read More...
       url: /x-country2023/
       image: /images/Announcements/x-country23.jpg
       alt: yss x-country 2023
