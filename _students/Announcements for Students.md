@@ -1,6 +1,6 @@
 ---
 title: Announcements for Students
-permalink: /students/Announcements/
+permalink: /students/announcements/
 description: ""
 ---
 2023

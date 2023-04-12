@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/YSSbanner.jpg
+      background: /images/yss-banner-v2.gif
       key_highlights:
         - title: School Calendar
           description: Upcoming Events & Activities
@@ -22,9 +22,17 @@ sections:
       description: New HBL Dates and Hari Raya Greetings - 10 Apr 2023
       button: Read more...
       url: /parents/info-for-parents/letters/
-      alt: announcement
+      alt: Letter to parents
       subtitle: Announcements
       image: /images/announcement.jpg
+  - infopic:
+      title: YSS X-Country 2023
+      subtitle: Announcements
+      description: Forget The Miles, Just Smile!
+      button: Read More...
+      url: /x-country2023/
+      image: /images/Announcements/x-country23.jpg
+      alt: yss x-country 2023
   - infopic:
       title: "Distinctive Programme: Arts for Life and Community"
       description: "In Yishun Secondary School, Sonic Arts involves Music, Media and
@@ -39,7 +47,7 @@ sections:
       button: Read More...
       alt: DSA in YSS
       url: /the-yss-experience/dsa/
-      image: /images/YSS_DSA.jpg
+      image: /images/yss-dsa.jpg
   - resources:
       title: Information from YSS
       button: Read more...

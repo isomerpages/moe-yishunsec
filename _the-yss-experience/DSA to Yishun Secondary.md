@@ -3,7 +3,7 @@ title: DSA to Yishun Secondary
 permalink: /the-yss-experience/dsa/
 description: ""
 ---
-![](/images/YSS_DSA.jpg)
+![](/images/yss-dsa.jpg)
 
 <br>
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/Ea_swGnMzGE" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>

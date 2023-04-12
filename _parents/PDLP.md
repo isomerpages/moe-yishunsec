@@ -8,6 +8,10 @@ description: ""
 * PLD will be issued to Sec 1 students on 13 Apr 2023. 
 
 
+### PDLP Student Device Information Kit
+* [Student Information Kit](/files/Parents/PDLP/pdlp%20student%20device%20information%20kit.pdf)
+
+
 ### DMA guide for parents
 
 *   [DMA Parent Guide v2 - Default Chrome OS](https://cms.isomer.gov.sg/files/HBL/DMA%20Parent%20Guide%20v2%20-%20Default%20Chrome%20OS.pdf)

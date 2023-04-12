@@ -1,5 +1,5 @@
 ---
-title: E Brochure
+title: eBrochure
 permalink: /yss/brochure/
 description: ""
 ---
