@@ -30,7 +30,7 @@ sections:
       subtitle: Announcements
       description: Forget The Miles, Just Smile!
       button: Read More
-      url: /x-country2023
+      url: /x-country2023/
       image: /images/Announcements/x-country23.jpg
       alt: yss x-country 2023
   - infopic:
