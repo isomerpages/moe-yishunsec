@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/YSSbanner.jpg
+      background: /images/yss-banner-v2.gif
       key_highlights:
         - title: School Calendar
           description: Upcoming Events & Activities
