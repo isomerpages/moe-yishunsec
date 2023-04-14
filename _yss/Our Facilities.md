@@ -48,10 +48,14 @@ Science Labs
 
 Computer Labs
 -------------------------
+<figure><img src="/images/YSS/com%20lab%201.jpg"><figcaption>Computer Lab 1</figcaption></figure> 
+
 <figure><img src="/images/YSS/comlab2.jpeg"><figcaption>Computer Lab 2</figcaption></figure> 
 
 <figure><img src="/images/IP/ICT/Nearpod%20Training.jpeg"><figcaption>Computer Lab 3</figcaption></figure> 
 
+
+<figure><img src="/images/YSS/com%20lab%204.jpg"><figcaption>Computer Lab 4</figcaption></figure> 
 
 Design and Technology
 ---------------------
