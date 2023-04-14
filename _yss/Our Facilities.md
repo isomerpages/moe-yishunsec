@@ -36,6 +36,8 @@ PE Venues
 
 Science Labs
 -------------------------
+<figure><img src="/images/YSS/biolab-1.jpeg"><figcaption>Biology Lab</figcaption></figure> 
+
 <figure><img src="/images/YSS/chem-lab-1.jpeg"><figcaption>Chemistry Lab 1</figcaption></figure> 
 
 <figure><img src="/images/YSS/chem-lab-2.jpeg"><figcaption>Chemistry Lab 2</figcaption></figure> 
