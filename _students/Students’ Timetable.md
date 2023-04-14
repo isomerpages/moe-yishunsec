@@ -1,6 +1,6 @@
 ---
 title: Students’ Timetable
-permalink: /students/Timetable/
+permalink: /students/timetable/
 description: ""
 ---
 2023 Sem 1
