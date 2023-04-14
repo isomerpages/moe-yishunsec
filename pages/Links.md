@@ -55,7 +55,7 @@ tr:nth-child(even) {
     <td><a href="https://www.hrp.gov.sg">HRP</a></td>
   </tr>
 		<tr>
-    <td><a href="https://sites.google.com/moe.edu.sg/ysspdlp">PLD Portal</a></td>
+    <td><a href="https://yishunsec.moe.edu.sg/parents/pdlp)">PLD Portal</a></td>
     <td><a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx">HR Online</a></td>
   </tr>
 			<tr>
