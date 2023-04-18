@@ -18,14 +18,6 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
-      title: Letter to Parents
-      description: New HBL Dates and Hari Raya Greetings - 10 Apr 2023
-      button: Read more...
-      url: /parents/info-for-parents/letters/
-      alt: Letter to parents
-      subtitle: Announcements
-      image: /images/announcement.jpg
-  - infopic:
       title: YSS X-Country 2023
       subtitle: Announcements
       description: Forget The Miles, Just Smile!
@@ -33,6 +25,14 @@ sections:
       url: /x-country2023/
       image: /images/Announcements/x-country23.jpg
       alt: yss x-country 2023
+  - infopic:
+      title: Letter to Parents
+      description: New HBL Dates and Hari Raya Greetings - 10 Apr 2023
+      button: Read more...
+      url: /parents/info-for-parents/letters/
+      alt: Letter to parents
+      subtitle: Announcements
+      image: /images/announcement.jpg
   - infopic:
       title: "Distinctive Programme: Arts for Life and Community"
       description: "In Yishun Secondary School, Sonic Arts involves Music, Media and
