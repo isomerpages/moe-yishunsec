@@ -5,7 +5,7 @@ description: ""
 ---
 ### Latest Updates
 
-* PLD will be issued to Sec 1 students on 13 Apr 2023. 
+* DMA Option A and Option B for Sec 1s will be implemented by 5 May 2023.
 
 
 ### PDLP Student Device Information Kit
