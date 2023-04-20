@@ -7,7 +7,7 @@ description: ""
 
 Please click the link below for more information on Direct School Admission to Yishun Secondary.
 
-* [DSA in YSS (2022)](/files/YSS%20DSA%202022%20Website%20update.pdf)
+* DSA in YSS (2023)
 
 
 <br>
