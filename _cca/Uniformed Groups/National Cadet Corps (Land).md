@@ -53,8 +53,12 @@ Cadet Leaders, USM and ASM were nominated to participate in the Virtual Internat
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC-1.jpg"><figcaption>Total Defence Guardians Of The City - organised and facilitated by senior cadets to the junior cadets to gain a deeper understanding of Total Defence and its relevance in today’s context.</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC-2.jpg"><figcaption>Precision Drill SquadPDS members reporting for training</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/ncc2023-2.jpg"><figcaption>Precision Drill Squad(PDS) members at the Grand Finals 2023 - Clinched top  8 position at National level</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC-4.png"><figcaption>Virtual NCC session during eCCA</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/ncc2023-3.jpg"><figcaption>NCC training for Individual Field Craft the Dummy weapon Singapore Assault Rifle 21 (SAR 21)</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC-5.jpg"><figcaption>NCC Cadets at Nee Soon GRC National Day Carnival 2022</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/ncc2023-4.jpg"></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/ncc2023-5.jpg"><figcaption>Cadet leaders at TACTSIM for urban operations simulation exercise (3v3)</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/ncc2023-6.png"><figcaption>Junior cadets at the affirmation ceremony and exhibition booths at HQ NCC</figcaption></figure>
