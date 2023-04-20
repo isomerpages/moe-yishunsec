@@ -65,7 +65,9 @@ Design and Technology
 
 Music Room
 -----------------------
-<figure><img src="/images/YSS/Music_Room.jpg"><figcaption>Music Room</figcaption></figure> 
+<figure><img src="/images/YSS/Music_Room.jpg"><figcaption>Music Room</figcaption></figure>
+
+<figure><img src="/images/YSS/musiclab.jpg"><figcaption>Music Lab</figcaption></figure> 
 
 School Canteen
 -----------------

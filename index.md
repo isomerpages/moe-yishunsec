@@ -26,6 +26,13 @@ sections:
       image: /images/Announcements/x-country23.jpg
       alt: yss x-country 2023
   - infopic:
+      title: Direct School Admission to Yishun Secondary
+      description: More information on Direct School Admission to Yishun Secondary...
+      button: Read More...
+      alt: DSA in YSS
+      url: /the-yss-experience/dsa/
+      image: /images/yss-dsa.jpg
+  - infopic:
       title: Letter to Parents
       description: New HBL Dates and Hari Raya Greetings - 10 Apr 2023
       button: Read more...
@@ -41,13 +48,6 @@ sections:
       url: /the-yss-experience/distinctive-programmes/alp/
       alt: Distinctive Programme in YSS
       image: /images/ALP-LLP.jpg
-  - infopic:
-      title: Direct School Admission to Yishun Secondary
-      description: More information on Direct School Admission to Yishun Secondary...
-      button: Read More...
-      alt: DSA in YSS
-      url: /the-yss-experience/dsa/
-      image: /images/yss-dsa.jpg
   - resources:
       title: Information from YSS
       button: Read more...
