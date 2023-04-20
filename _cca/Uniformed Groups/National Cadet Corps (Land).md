@@ -51,7 +51,7 @@ Cadet Leaders, USM and ASM were nominated to participate in the Virtual Internat
 
 ### Photos
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC-1.jpg"><figcaption>Total Defence Guardians Of The City - organised and facilitated by senior cadets to the junior cadets to gain a deeper understanding of Total Defence and its relevance in today’s context.</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC-1.jpg"><figcaption>Total Defence Guardians Of The City - organised and facilitated by senior cadets to the junior cadets to gain a deeper understanding of Total Defence and its relevance in today’s context</figcaption></figure>
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/ncc2023-2.jpg"><figcaption>Precision Drill Squad(PDS) members at the Grand Finals 2023 - Clinched top  8 position at National level</figcaption></figure>
 
