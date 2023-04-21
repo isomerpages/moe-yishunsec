@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 ### Teachers-in-charge
-* Commanding Officer: CPT (NCC) Ong Chee Kiong
-* Teacher Officer (2nd IC): LTA (NCC) Nur Imran Bin Soonan
-* Teacher Officers: 2LT Ms Thiam Jia Hui and 2LT Ms Germaine Goh 
+* Commanding Officer: **CPT (NCC) Ong Chee Kiong**
+* Teacher Officer (2nd IC): **LTA (NCC) Nur Imran Bin Soonan**
+* Teacher Officers: **2LT Ms Thiam Jia Hui and 2LT Ms Germaine Goh**
 
 
 ### CCA Schedule
