@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Yishun Seconadry School
+agency_name: Yishun Secondary School
 locations:
   - address:
       - 4 Yishun Street 71
