@@ -12,9 +12,10 @@ description: ""
 
 #### Corporate Support Officer
 
-*   Ms Elaine Ng (Adj CSO)  
-*   Mdm Siti Suhaidah (Adj CSO)
-*   Mdm Lamra Lamri (Adj CSO)
+*   Mdm Lamra Lamri
+*   Ms Elaine Ng
+*   Mdm Siti Suhaidah
+*   Mr Yeo Chee Hiang
 
   
 
