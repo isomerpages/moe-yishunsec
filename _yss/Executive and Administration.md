@@ -6,8 +6,8 @@ description: ""
 #### Admin Executive
 
 *   Ms Lim Siew Huay
-*   Mrs Jayalaxmi
 *   Ms Tan Joke Ping
+*   Mrs Jayalaxmi
 
 
 #### Corporate Support Officer
