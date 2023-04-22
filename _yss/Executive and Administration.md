@@ -6,14 +6,16 @@ description: ""
 #### Admin Executive
 
 *   Ms Lim Siew Huay
-*   Mrs Jayalaxmi
 *   Ms Tan Joke Ping
+*   Mrs Jayalaxmi
 
 
 #### Corporate Support Officer
 
-*   Ms Elaine Ng (Adj CSO)  
-*   Mdm Siti Suhaidah (Adj CSO)
+*   Mdm Lamra Lamri
+*   Ms Elaine Ng
+*   Mdm Siti Suhaidah
+*   Mr Yeo Chee Hiang
 
   
 
