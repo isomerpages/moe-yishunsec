@@ -87,11 +87,11 @@ Applicants are required to come for an in- person interview and provide samples 
 
 **Selection Process:**
 
-**Stage 1 (Application)**<br>
+<u>**Stage 1 (Application)**</u><br>
 Application will be conducted online. Do submit the child's application online through the DSA-Sec portal.
 
-**Stage 2**<br>
-Applicants are required to come for an in- person interview and provide samples of student’s past work or performance
+<u>**Stage 2**</u><br>
+Applicants are required to come for an in- person interview and provide samples of student’s past work or performance or perform in front of a panel.
 
 
 
