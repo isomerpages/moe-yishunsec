@@ -108,7 +108,7 @@ Applicants are required to come for an in- person interview and provide samples 
 
 #### Dance
 
-Indian Dance/Malay Dance/Modern Dance
+**Indian Dance/Malay Dance/Modern Dance**
 
 * Student leadership opportunities
 * Training to become student choreographer
@@ -116,6 +116,9 @@ Indian Dance/Malay Dance/Modern Dance
 * Performance at Arts Extravaganza
 * Performance at Singapore Youth Festival Arts Presentations
 * Performances within and outside of school
+
+
+
 
 
 Please click the link below for PDF version.
