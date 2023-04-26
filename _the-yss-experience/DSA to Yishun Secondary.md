@@ -39,6 +39,8 @@ All Secondary One students admitted to our school via DSA-Sec will benefit from 
 
 ### 1. Media
 
+**Student's Experience in Yishun Secondary School:**
+
 INFOCOMM TECHNOLOGY (MEDIA PRODUCTION)
 * Student leadership opportunities
 * Planning and organisation of school programmes
