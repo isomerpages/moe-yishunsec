@@ -88,7 +88,7 @@ Applicants are required to come for an in- person interview and provide samples 
 * Masterclass for voice projection, singing, and stage presence
 * Exposure to Sonic Arts and Music Week
 
-The Applied Learning Programme (ALP) in Yishun Secondary is Sonic Arts (Music, Media and Technology), which is infused in our curriculum and Performing Arts CCAs.
+The Applied Learning Programme (ALP) in Yishun Secondary is **Sonic Arts (Music, Media and Technology)**, which is infused in our curriculum and Performing Arts CCAs.
 
 
 **Selection Criteria:**
