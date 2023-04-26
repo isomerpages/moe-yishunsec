@@ -186,7 +186,7 @@ Application will be conducted online. Do submit the child's application online t
 Applicants are required to come for an in- person interview and a skills assessment.
 
 <b>Basketball Skills Assessment</b><br>
-* Applicants may undergo a basketball skill assessment which includes evaluation on Ball handling
+* Applicants may undergo a basketball skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
 
 ### 6. Volleyball (Girls)
