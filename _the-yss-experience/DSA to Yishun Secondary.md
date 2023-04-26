@@ -224,7 +224,16 @@ Applicants may undergo a volleyball skill assessment which includes evaluation o
 * Preferably have represented their primary schools in National/International events (e.g. National School Games, etc)
 * Student who is <u>not</u> in the primary school Football team is <u>also</u> encouraged to apply
 
+**Selection Process:**
 
+<u><b>Stage 1 (Application)</b></u><br>
+Application will be conducted online. Do submit the child's application online through the DSA-Sec portal.
+
+<u><b>Stage 2</b></u><br>
+Applicants are required to come for an in- person interview and a skills assessment.
+
+<b>Football Skills Assessment</b><br>
+Applicants may undergo a football skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
 
 
