@@ -18,7 +18,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 All Secondary One students admitted to our school via DSA-Sec will benefit from our talent development programmes to develop their potential, and/or to be groomed to be leaders in their respective talent areas. They will develop both performance and moral character through our customised programme as they grow within their respective CCAs and student development programmes.
 
-#### In Yishun Secondary, the 9 talent areas under DSA-Sec are:
+#### In Yishun Secondary, the <u>9 talent areas</u> under DSA-Sec are:
 
 1. <u><b>Media:</b></u> For students who demonstrate aptitude and passion in Media, they can look forward to being part of our school’s Applied Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), and/or take part in CCAs such as Media Club focussing on Audio-Visual Aid (AVA), Photography and Videography.
 2. <u><b>Music:</b></u> For students who demonstrate aptitude and passion in Music, they can look forward to being part of our school’s Applied Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), Pop Music Performance and Music Creation, and in CCAs such as Choir, Guzheng Ensemble and Symphonic Band. Students will have the opportunity to offer Music Syllabus T at the GCE N (T)-Level Examination.
