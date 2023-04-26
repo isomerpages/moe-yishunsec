@@ -30,7 +30,7 @@ All Secondary One students admitted to our school via DSA-Sec will benefit from 
 8. <u><b>Badminton:</b></u> For students who demonstrate aptitude and passion in Badminton, they can look forward to participating, planning, and organising intra and inter-school competitions.
 9. <u><b>Netball:</b></u> For female students who demonstrate aptitude and passion in Netball, they can look forward to participating, planning, and organising intra and inter-school competitions.
 
-#### Our selection criteria, in general, are as follows:
+**Our selection criteria, in general, are as follows:**
 
 * **Interest and Passion:** Applicants should demonstrate a keen interest in and passion for their respective talent areas
 * **Talent and Aptitude:** Applicants should demonstrate evidence of talent and/or aptitude in their talent area
