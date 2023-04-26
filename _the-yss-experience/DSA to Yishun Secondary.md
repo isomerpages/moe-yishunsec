@@ -95,7 +95,7 @@ The Applied Learning Programme (ALP) in Yishun Secondary is **Sonic Arts (Music,
 
 * Demonstrate aptitude and passion in Music
 * Preferably have represented their primary schools in National/International events (e.g. SYF, competitions etc)
-* Student without any prior experience or formal training in Music is also encouraged to apply
+* Student <u>without</u> any prior experience or formal training in Music is <u>also</u> encouraged to apply
 
 **Selection Process:**
 
@@ -121,7 +121,7 @@ Applicants are required to come for an in- person interview and provide samples 
 
 * Demonstrate aptitude and passion in Cultural Dance, Contemporary, hip-hop and/or street dance.
 * Preferably have represented their primary schools in National/International events (e.g. SYF, competitions etc)
-* Student without any prior experience or formal training in Dance is also encouraged to apply
+* Student <u>without</u> any prior experience or formal training in Dance is <u>also</u> encouraged to apply
 
 **Selection Process:**
 
@@ -144,7 +144,7 @@ Applicants are required to come for an in- person interview and provide samples 
 
 * Demonstrate aptitude and passion in Drama
 * Preferably have represented their primary schools in National/International events (e.g. SYF, competitions etc)
-* Student without any prior experience or formal training in Drama is also encouraged to apply
+* Student <u>without</u> any prior experience or formal training in Drama is <u>also</u> encouraged to apply
 
 **Selection Process:**
 
