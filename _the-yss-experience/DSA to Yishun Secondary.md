@@ -117,7 +117,19 @@ Applicants are required to come for an in- person interview and provide samples 
 * Performance at Singapore Youth Festival Arts Presentations
 * Performances within and outside of school
 
+**Selection Criteria:**
 
+* Demonstrate aptitude and passion in Cultural Dance, Contemporary, hip-hop and/or street dance.
+* Preferably have represented their primary schools in National/International events (e.g. SYF, competitions etc)
+* Student without any prior experience or formal training in Dance is also encouraged to apply
+
+**Selection Process:**
+
+<u><b>Stage 1 (Application)</b></u><br>
+Application will be conducted online. Do submit the child's application online through the DSA-Sec portal.
+
+<u><b>Stage 2</b></u><br>
+Applicants are required to come for an in- person interview and provide samples of student’s past work or performance or perform in front of a panel.
 
 
 
