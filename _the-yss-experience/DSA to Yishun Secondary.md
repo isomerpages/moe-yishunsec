@@ -309,7 +309,7 @@ Selection trials: School Based / Video Conference Interview:
 Applicants will be informed of the selection outcome
 
 
-Please click the link below for more information on Direct School Admission to Yishun Secondary.
+Please click the link below for PDF version
 * [DSA to YSS (2023)](/files/YSS%20Experience/yss%20dsa%202023%20website%20update.pdf)
 
 
