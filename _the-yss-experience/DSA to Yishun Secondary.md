@@ -79,6 +79,18 @@ Applicants are required to come for an in- person interview and provide samples 
 * Training to be a student conductor (Choir and Concert Band)
 * Participation in local music festivals and competitions
 
+**Pop Music Performance and Music Creation**
+
+* Music Production and Song Writing Workshop with professional music producer.
+* Performances within and outside of school
+* Performance at YSS Arts Extravaganza
+* Participation in local music festivals and competitions
+* Masterclass for voice projection, singing, and stage presence
+* Exposure to Sonic Arts and Music Week
+
+The Applied Learning Programme (ALP) in Yishun Secondary is Sonic Arts (Music, Media and Technology), which is infused in our curriculum and Performing Arts CCAs.
+
+
 **Selection Criteria:**
 
 * Demonstrate aptitude and passion in Music
