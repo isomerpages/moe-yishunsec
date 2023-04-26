@@ -273,7 +273,7 @@ Application will be conducted online. Do submit the child's application online t
 Applicants are required to come for an in- person interview and a skills assessment.
 
 <b>Badminton Skills Assessment</b><br>
-Applicants may undergo a badminton skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
+Applicants may undergo a badminton skill assessment which includes evaluation on Racket handling skills, Game awareness and Teamwork.
 
 ### 9. Netball
 
