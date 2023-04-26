@@ -83,7 +83,7 @@ Applicants are required to come for an in- person interview and provide samples 
 
 **Pop Music Performance and Music Creation**
 
-* Music Production and Song Writing Workshop with professional music producer.
+* Music Production and Song Writing Workshop with professional music producer
 * Performances within and outside of school
 * Performance at YSS Arts Extravaganza
 * Participation in local music festivals and competitions
