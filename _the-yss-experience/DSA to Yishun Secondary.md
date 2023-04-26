@@ -36,7 +36,7 @@ All Secondary One students admitted to our school via DSA-Sec will benefit from 
 * **Conduct and Attitude for Learning:** Applicants should demonstrate evidence of good conduct in school, as well as a positive attitude for learning and demeanour
 
 
-##### Media
+#### Media
 
 **Student’s experience in Yishun Secondary School:**
 
@@ -66,8 +66,14 @@ Application will be conducted online. Do submit the child's application online t
 Applicants are required to come for an in- person interview and provide samples of student’s past work.
 
 
-Please click the link below for PDF version.
+#### Music
 
+
+
+
+
+
+Please click the link below for PDF version.
 * [DSA to YSS (2023)](/files/YSS%20Experience/yss%20dsa%202023%20website%20update.pdf)
 
 
