@@ -48,7 +48,7 @@ INFOCOMM TECHNOLOGY (MEDIA PRODUCTION)
 * Video Editing Workshop (Adobe Premier Pro)
 * Participation as Student Photographers in school and external events
 
-*The Applied Learning Programme (ALP) in Yishun Secondary is Sonic Arts (Music, Media and Technology), which is infused in our curriculum and CCA, Infocomm Technology (Media Production).*
+*The Applied Learning Programme (ALP) in Yishun Secondary is <b>Sonic Arts (Music, Media and Technology)</b>, which is infused in our curriculum and CCA, Infocomm Technology (Media Production).*
 
 **Selection Criteria:**
 
