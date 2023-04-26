@@ -194,7 +194,18 @@ Applicants are required to come for an in- person interview and a skills assessm
 
 * Demonstrate aptitude and passion in Volleyball
 * Preferably have represented their primary schools in National/International events (e.g. National School Games, etc)
-* Student who is not in the primary school Volleyball team is also encouraged to apply
+* Student who is <u>not</u> in the primary school Volleyball team is <u>also</u> encouraged to apply
+
+**Selection Process:**
+
+<u><b>Stage 1 (Application)</b></u><br>
+Application will be conducted online. Do submit the child's application online through the DSA-Sec portal.
+
+<u><b>Stage 2</b></u><br>
+Applicants are required to come for an in- person interview and a skills assessment.
+
+<b>Volleyball Skills Assessment</b><br>
+Applicants may undergo a volleyball skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
 
 
