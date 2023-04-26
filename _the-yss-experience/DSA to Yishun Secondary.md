@@ -307,20 +307,20 @@ Applicants may undergo a netball skill assessment which includes evaluation on B
 
 #### Yishun Secondary School DSA (Sec) 2023 Timeline
 
-**Date: 4 May – 31 May**
+**Date: 4 May – 31 May 2023**
 
 **Activity:**<br>
 Application Window (for Primary 6 students). Application can be made through the DSA-Sec Portal [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa).
 
 
-**Date: 26 June – 11 September**
+**Date: 26 June – 11 September 2023**
 
 **Activity:**<br>
 Selection trials: School Based / Video Conference Interview
 * Shortlisted applicants will be informed by the school on details of the interview and audition/skills assessment
 * Shortlisted applicants may submit video(s) of past performances/matches or photo(s) of their own works/creation (depending on the DSA talent area) prior to the video conference interview
 
-**Date: By 14 September**
+**Date: By 14 September 2023**
 
 **Activity:** <br>
 Applicants will be informed of the selection outcome
