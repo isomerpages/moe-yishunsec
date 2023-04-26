@@ -218,6 +218,15 @@ Applicants may undergo a volleyball skill assessment which includes evaluation o
 
 *From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level subject. Students who have the aptitude for sports and have the necessary skills requisite may apply to take up this subject.*
 
+**Selection Criteria:**
+
+* Demonstrate aptitude and passion in Football
+* Preferably have represented their primary schools in National/International events (e.g. National School Games, etc)
+* Student who is <u>not</u> in the primary school Football team is <u>also</u> encouraged to apply
+
+
+
+
 
 
 Please click the link below for PDF version.
