@@ -131,6 +131,31 @@ Application will be conducted online. Do submit the child's application online t
 <u><b>Stage 2</b></u><br>
 Applicants are required to come for an in- person interview and provide samples of student’s past work or performance or perform in front of a panel.
 
+#### Drama - English
+
+**D’lite Club (English Drama)**
+* Student leadership opportunities
+* Performance at Arts Extravaganza
+* Script writing workshop
+* Exposure to different theatre forms
+* Performances within and outside of school
+
+**Selection Criteria:**
+
+* Demonstrate aptitude and passion in Drama
+* Preferably have represented their primary schools in National/International events (e.g. SYF, competitions etc)
+* Student without any prior experience or formal training in Drama is also encouraged to apply
+
+**Selection Process:**
+
+<u><b>Stage 1 (Application)</b></u><br>
+Application will be conducted online. Do submit the child's application online through the DSA-Sec portal.
+
+<u><b>Stage 2</b></u><br>
+Applicants are required to come for an in- person interview and provide samples of student’s past work or performance or perform in front of a panel.
+
+
+
 
 
 Please click the link below for PDF version.
