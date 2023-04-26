@@ -235,10 +235,19 @@ Applicants are required to come for an in- person interview and a skills assessm
 <b>Football Skills Assessment</b><br>
 Applicants may undergo a football skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
+#### Badminton
+
+* Student leadership opportunities
+* Participate in National School Games
+* Coaching junior players
+* Planning and organisation of intra and inter school programmes
 
 
 
-Please click the link below for PDF version.
+
+
+
+Please click the link below for more information on Direct School Admission to Yishun Secondary.
 * [DSA to YSS (2023)](/files/YSS%20Experience/yss%20dsa%202023%20website%20update.pdf)
 
 
