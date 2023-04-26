@@ -77,7 +77,7 @@ Applicants are required to come for an in- person interview and provide samples 
 * Choir/Guzheng/Concert Band exchanges with other secondary schools
 * Master classes and workshops
 * Performance at Singapore Youth Festival Arts Presentations
-* Performance at YSS Arts Extravaganza
+* Performance at *YSS Arts Extravaganza*
 * Training to be a student conductor (Choir and Concert Band)
 * Participation in local music festivals and competitions
 
