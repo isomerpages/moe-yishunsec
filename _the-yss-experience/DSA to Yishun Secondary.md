@@ -167,7 +167,7 @@ Applicants are required to come for an in- person interview and provide samples 
 **Selection Criteria:**
 * Demonstrate aptitude and passion in Basketball
 * Preferably have represented their primary schools in National/International events (e.g. National School Games, etc)
-* Student who is not in the primary school Basketball team is also
+* Student who is <u>not</u> in the primary school Basketball team is <u>also</u>encouraged to apply
 
 **Selection Process:**
 
