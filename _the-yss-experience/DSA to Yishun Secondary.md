@@ -37,7 +37,7 @@ All Secondary One students admitted to our school via DSA-Sec will benefit from 
 * **Conduct and Attitude for Learning:** Applicants should demonstrate evidence of good conduct in school, as well as a positive attitude for learning and demeanour
 
 
-### Media
+### 1. Media
 
 INFOCOMM TECHNOLOGY (MEDIA PRODUCTION)
 * Student leadership opportunities
@@ -65,7 +65,7 @@ Application will be conducted online. Do submit the child's application online t
 Applicants are required to come for an in- person interview and provide samples of student’s past work.
 
 
-### Music
+### 2. Music
 
 **Choir/Guzheng Ensemble/Concert Band**
 
@@ -105,7 +105,7 @@ Application will be conducted online. Do submit the child's application online t
 Applicants are required to come for an in- person interview and provide samples of student’s past work or performance or perform in front of a panel.
 
 
-### Dance
+### 3. Dance
 
 **Indian Dance/Malay Dance/Modern Dance**
 
@@ -130,7 +130,7 @@ Application will be conducted online. Do submit the child's application online t
 <u><b>Stage 2</b></u><br>
 Applicants are required to come for an in- person interview and provide samples of student’s past work or performance or perform in front of a panel.
 
-### Drama - English
+### 4. Drama - English
 
 **D’lite Club (English Drama)**
 * Student leadership opportunities
@@ -154,7 +154,7 @@ Application will be conducted online. Do submit the child's application online t
 Applicants are required to come for an in- person interview and provide samples of student’s past work or performance or perform in front of a panel.
 
 
-### Basketball
+### 5. Basketball
 
 * Student leadership opportunities
 * Participate in National School Games
@@ -180,7 +180,7 @@ Applicants are required to come for an in- person interview and a skills assessm
 * Applicants may undergo a basketball skill assessment which includes evaluation on Ball handling
 
 
-### Volleyball (Girls)
+### 6. Volleyball (Girls)
 
 * Student leadership opportunities
 * Participate in National School Games
@@ -207,7 +207,7 @@ Applicants are required to come for an in- person interview and a skills assessm
 Applicants may undergo a volleyball skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
 
-### Football (Boys)
+### 7. Football (Boys)
 
 **Football (SFA)**
 * Student leadership opportunities
@@ -234,7 +234,7 @@ Applicants are required to come for an in- person interview and a skills assessm
 <b>Football Skills Assessment</b><br>
 Applicants may undergo a football skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
-### Badminton
+### 8. Badminton
 
 * Student leadership opportunities
 * Participate in National School Games
@@ -260,7 +260,7 @@ Applicants are required to come for an in- person interview and a skills assessm
 <b>Football Skills Assessment</b><br>
 Applicants may undergo a badminton skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
-### Netball
+### 9. Netball
 
 * Student leadership opportunities
 * Participate in National School Games
