@@ -36,7 +36,9 @@ All Secondary One students admitted to our school via DSA-Sec will benefit from 
 * **Conduct and Attitude for Learning:** Applicants should demonstrate evidence of good conduct in school, as well as a positive attitude for learning and demeanour
 
 
-Please click the link below for more information on Direct School Admission to Yishun Secondary.
+
+
+Please click the link below for PDF version.
 
 * [DSA to YSS (2023)](/files/YSS%20Experience/yss%20dsa%202023%20website%20update.pdf)
 
