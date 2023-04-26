@@ -326,7 +326,8 @@ Selection trials: School Based / Video Conference Interview
 Applicants will be informed of the selection outcome
 
 ------------------------------------------
-Please click the link for PDF version [DSA to YSS (2023)](/files/YSS%20Experience/yss%20dsa%202023%20website%20update.pdf)
+Please click the link below for the PDF version of the above information.<br>
+[DSA to YSS (2023)](/files/YSS%20Experience/yss%20dsa%202023%20website%20update.pdf)
 
 
 <br>
