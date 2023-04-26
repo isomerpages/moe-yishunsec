@@ -106,7 +106,16 @@ Application will be conducted online. Do submit the child's application online t
 Applicants are required to come for an in- person interview and provide samples of student’s past work or performance or perform in front of a panel.
 
 
+#### Dance
 
+Indian Dance/Malay Dance/Modern Dance
+
+* Student leadership opportunities
+* Training to become student choreographer
+* Master classes and workshops
+* Performance at Arts Extravaganza
+* Performance at Singapore Youth Festival Arts Presentations
+* Performances within and outside of school
 
 
 Please click the link below for PDF version.
