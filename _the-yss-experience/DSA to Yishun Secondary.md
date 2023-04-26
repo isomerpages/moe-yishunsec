@@ -19,15 +19,15 @@ All Secondary One students admitted to our school via DSA-Sec will benefit from 
 
 ##### In Yishun Secondary, the 9 talent areas under DSA-Sec are:
 
-1. <u>**Media:**</u> For students who demonstrate aptitude and passion in Media, they can look forward to being part of our school’s Applied Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), and/or take part in CCAs such as Media Club focussing on Audio-Visual Aid (AVA), Photography and Videography.
-2. <u>**Music:**</u> For students who demonstrate aptitude and passion in Music, they can look forward to being part of our school’s Applied Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), Pop Music Performance and Music Creation, and in CCAs such as Choir, Guzheng Ensemble and Symphonic Band. Students will have the opportunity to offer Music Syllabus T at the GCE N (T)-Level Examination.
-3. <u>**Dance:** </u>Students who demonstrate aptitude and passion in Dance can be involved in dance performances at our school-based art showcases, as well as being part of school’s cultural dance CCAs such as Malay Dance or Indian Dance. Students who demonstrate an aptitude and passion for contemporary, hip-hop and street dance can be part of Modern Dance. They can be involved in external competitions that will further develop their dance techniques and their character. Students will learn to lead, to care and to empathise as they plan and train for concerts and competitions.
-4. <u>**Drama-English:** </u>For students who demonstrate aptitude and passion in Drama, they can participate in script writing workshops, gain exposure to different theatre forms, and be part of our D’lite Club (English Drama CCA). Students are given opportunities to hone their leadership qualities and enhance their skills related to the craft.
-5. <u>**Basketball:**</u> For students who demonstrate aptitude and passion in Basketball, they can look forward to participating, planning, and organising intra and inter-school competitions.
-6. <u>**Volleyball (Girls):**</u> For female students who demonstrate aptitude and passion in Volleyball, they can look forward to participating, planning, and organising intra and inter-school competitions.
-7. <u>**Football (Boys):**</u> YSS is a member of the Schools Football Academy (SFA). Male students who demonstrate an aptitude and passion for Football can look forward to joining our SFA led Football CCA where they will be participating in, planning, and organising intra and inter-school competitions.
-8. <u>**Badminton:**</u> For students who demonstrate aptitude and passion in Badminton, they can look forward to participating, planning, and organising intra and inter-school competitions.
-9. <u>**Netball:**</u> For female students who demonstrate aptitude and passion in Netball, they can look forward to participating, planning, and organising intra and inter-school competitions.
+1. <u><b>Media:</b></u> For students who demonstrate aptitude and passion in Media, they can look forward to being part of our school’s Applied Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), and/or take part in CCAs such as Media Club focussing on Audio-Visual Aid (AVA), Photography and Videography.
+2. <u><b>Music:</b></u> For students who demonstrate aptitude and passion in Music, they can look forward to being part of our school’s Applied Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), Pop Music Performance and Music Creation, and in CCAs such as Choir, Guzheng Ensemble and Symphonic Band. Students will have the opportunity to offer Music Syllabus T at the GCE N (T)-Level Examination.
+3. <u><b>Dance:</b></u>Students who demonstrate aptitude and passion in Dance can be involved in dance performances at our school-based art showcases, as well as being part of school’s cultural dance CCAs such as Malay Dance or Indian Dance. Students who demonstrate an aptitude and passion for contemporary, hip-hop and street dance can be part of Modern Dance. They can be involved in external competitions that will further develop their dance techniques and their character. Students will learn to lead, to care and to empathise as they plan and train for concerts and competitions.
+4. <u><b>Drama-English:</b></u>For students who demonstrate aptitude and passion in Drama, they can participate in script writing workshops, gain exposure to different theatre forms, and be part of our D’lite Club (English Drama CCA). Students are given opportunities to hone their leadership qualities and enhance their skills related to the craft.
+5. <u><b>Basketball:</b></u> For students who demonstrate aptitude and passion in Basketball, they can look forward to participating, planning, and organising intra and inter-school competitions.
+6. <u><b>Volleyball (Girls):</b></u> For female students who demonstrate aptitude and passion in Volleyball, they can look forward to participating, planning, and organising intra and inter-school competitions.
+7. <u><b>Football (Boys):</b></u> YSS is a member of the Schools Football Academy (SFA). Male students who demonstrate an aptitude and passion for Football can look forward to joining our SFA led Football CCA where they will be participating in, planning, and organising intra and inter-school competitions.
+8. <u><b>Badminton:</b></u> For students who demonstrate aptitude and passion in Badminton, they can look forward to participating, planning, and organising intra and inter-school competitions.
+9. <u><b>Netball:</b></u> For female students who demonstrate aptitude and passion in Netball, they can look forward to participating, planning, and organising intra and inter-school competitions.
 
 ##### Our selection criteria, in general, are as follows:
 
@@ -59,10 +59,10 @@ The Applied Learning Programme (ALP) in Yishun Secondary is Sonic Arts (Music, M
 
 **Selection Process:**
 
-<u>**Stage 1 (Application)**</u><br>
+<u><b>Stage 1 (Application)</b></u><br>
 Application will be conducted online. Do submit the child's application online through the DSA-Sec portal.
 
-<u>**Stage 2**</u><br>
+<u><b>Stage 2</b></u><br>
 Applicants are required to come for an in- person interview and provide samples of student’s past work.
 
 
@@ -99,10 +99,10 @@ The Applied Learning Programme (ALP) in Yishun Secondary is **Sonic Arts (Music,
 
 **Selection Process:**
 
-<u>**Stage 1 (Application)**</u><br>
+<u><b>Stage 1 (Application)</b></u><br>
 Application will be conducted online. Do submit the child's application online through the DSA-Sec portal.
 
-<u>**Stage 2**</u><br>
+<u><b>Stage 2</b></u><br>
 Applicants are required to come for an in- person interview and provide samples of student’s past work or performance or perform in front of a panel.
 
 
