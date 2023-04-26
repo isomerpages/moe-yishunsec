@@ -287,6 +287,8 @@ Applicants are required to come for an in- person interview and a skills assessm
 <b>Football Skills Assessment</b><br>
 Applicants may undergo a netball skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
+***Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.***
+
 
 
 Please click the link below for more information on Direct School Admission to Yishun Secondary.
