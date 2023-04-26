@@ -316,7 +316,7 @@ Application Window (for Primary 6 students). Application can be made through the
 **Date: 26 June – 11 September**
 
 **Activity:**<br>
-Selection trials: School Based / Video Conference Interview:
+Selection trials: School Based / Video Conference Interview
 * Shortlisted applicants will be informed by the school on details of the interview and audition/skills assessment
 * Shortlisted applicants may submit video(s) of past performances/matches or photo(s) of their own works/creation (depending on the DSA talent area) prior to the video conference interview
 
