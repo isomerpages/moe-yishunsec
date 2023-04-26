@@ -16,13 +16,13 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 #### DSA-Sec @Yishun Secondary School
 
-All Secondary One students admitted to our school via DSA-Sec will benefit from our talent development programmes to develop their potential, and/or to be groomed to be leaders in their respective talent areas. They will develop both performance and moral character through our customised programme as they grow within their respective CCAs and student development programmes.
+All Secondary One students admitted to our school via DSA-Sec will benefit from our talent development programmes to **develop** their **potential**, and/or to be groomed to be **leaders** in their respective talent areas. They will develop both performance and moral character through our customised programme as they grow within their respective CCAs and student development programmes.
 
 #### In Yishun Secondary, the <u>9 talent areas</u> under DSA-Sec are:
 
 1. <u><b>Media:</b></u> For students who demonstrate aptitude and passion in Media, they can look forward to being part of our school’s Applied Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), and/or take part in CCAs such as Media Club focussing on Audio-Visual Aid (AVA), Photography and Videography.
 2. <u><b>Music:</b></u> For students who demonstrate aptitude and passion in Music, they can look forward to being part of our school’s Applied Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), Pop Music Performance and Music Creation, and in CCAs such as Choir, Guzheng Ensemble and Symphonic Band. Students will have the opportunity to offer Music Syllabus T at the GCE N (T)-Level Examination.
-3. <u><b>Dance:</b></u> Students who demonstrate aptitude and passion in Dance can be involved in dance performances at our school-based art showcases, as well as being part of school’s cultural dance CCAs such as Malay Dance or Indian Dance. Students who demonstrate an aptitude and passion for contemporary, hip-hop and street dance can be part of Modern Dance. They can be involved in external competitions that will further develop their dance techniques and their character. Students will learn to lead, to care and to empathise as they plan and train for concerts and competitions.
+3. <u><b>Dance:</b></u> Students who demonstrate aptitude and passion in Dance can be involved in dance performances at our school-based art showcases, as well as being part of school’s cultural dance CCAs such as **Malay Dance** or **Indian Dance**. Students who demonstrate an aptitude and passion for contemporary, hip-hop and street dance can be part of **Modern Dance**. They can be involved in external competitions that will further develop their dance techniques and their character. Students will learn to lead, to care and to empathise as they plan and train for concerts and competitions.
 4. <u><b>Drama-English:</b></u> For students who demonstrate aptitude and passion in Drama, they can participate in script writing workshops, gain exposure to different theatre forms, and be part of our D’lite Club (English Drama CCA). Students are given opportunities to hone their leadership qualities and enhance their skills related to the craft.
 5. <u><b>Basketball:</b></u> For students who demonstrate aptitude and passion in Basketball, they can look forward to participating, planning, and organising intra and inter-school competitions.
 6. <u><b>Volleyball (Girls):</b></u> For female students who demonstrate aptitude and passion in Volleyball, they can look forward to participating, planning, and organising intra and inter-school competitions.
@@ -37,7 +37,7 @@ All Secondary One students admitted to our school via DSA-Sec will benefit from 
 * **Conduct and Attitude for Learning:** Applicants should demonstrate evidence of good conduct in school, as well as a positive attitude for learning and demeanour
 
 
-#### Media
+### Media
 
 INFOCOMM TECHNOLOGY (MEDIA PRODUCTION)
 * Student leadership opportunities
@@ -65,7 +65,7 @@ Application will be conducted online. Do submit the child's application online t
 Applicants are required to come for an in- person interview and provide samples of student’s past work.
 
 
-#### Music
+### Music
 
 **Choir/Guzheng Ensemble/Concert Band**
 
@@ -105,7 +105,7 @@ Application will be conducted online. Do submit the child's application online t
 Applicants are required to come for an in- person interview and provide samples of student’s past work or performance or perform in front of a panel.
 
 
-#### Dance
+### Dance
 
 **Indian Dance/Malay Dance/Modern Dance**
 
@@ -130,7 +130,7 @@ Application will be conducted online. Do submit the child's application online t
 <u><b>Stage 2</b></u><br>
 Applicants are required to come for an in- person interview and provide samples of student’s past work or performance or perform in front of a panel.
 
-#### Drama - English
+### Drama - English
 
 **D’lite Club (English Drama)**
 * Student leadership opportunities
@@ -154,7 +154,7 @@ Application will be conducted online. Do submit the child's application online t
 Applicants are required to come for an in- person interview and provide samples of student’s past work or performance or perform in front of a panel.
 
 
-#### Basketball
+### Basketball
 
 * Student leadership opportunities
 * Participate in National School Games
@@ -180,7 +180,7 @@ Applicants are required to come for an in- person interview and a skills assessm
 * Applicants may undergo a basketball skill assessment which includes evaluation on Ball handling
 
 
-#### Volleyball (Girls)
+### Volleyball (Girls)
 
 * Student leadership opportunities
 * Participate in National School Games
@@ -207,7 +207,7 @@ Applicants are required to come for an in- person interview and a skills assessm
 Applicants may undergo a volleyball skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
 
-#### Football (Boys)
+### Football (Boys)
 
 **Football (SFA)**
 * Student leadership opportunities
@@ -234,7 +234,7 @@ Applicants are required to come for an in- person interview and a skills assessm
 <b>Football Skills Assessment</b><br>
 Applicants may undergo a football skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
-#### Badminton
+### Badminton
 
 * Student leadership opportunities
 * Participate in National School Games
@@ -260,7 +260,7 @@ Applicants are required to come for an in- person interview and a skills assessm
 <b>Football Skills Assessment</b><br>
 Applicants may undergo a badminton skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
-#### Netball
+### Netball
 
 * Student leadership opportunities
 * Participate in National School Games
