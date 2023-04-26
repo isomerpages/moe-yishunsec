@@ -10,7 +10,7 @@ description: ""
 
 The Direct School Admission-Secondary (DSA-Sec) scheme provides students with the opportunity to seek admission to a secondary school, based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the PSLE.
 
-From 4 May 2023, application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May to 31 May 2023. For more details, please refer to MOE website –[https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa).
+From 4 May 2023, application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May to 31 May 2023. For more details, please refer to MOE website –[https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent.
 
@@ -310,7 +310,7 @@ Applicants may undergo a netball skill assessment which includes evaluation on B
 **Date: 4 May – 31 May 2023**
 
 **Activity:**<br>
-Application Window (for Primary 6 students). Application can be made through the DSA-Sec Portal [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa).
+Application Window (for Primary 6 students). Application can be made through the DSA-Sec Portal [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
 
 
 **Date: 26 June – 11 September 2023**
@@ -325,8 +325,9 @@ Selection trials: School Based / Video Conference Interview
 **Activity:** <br>
 Applicants will be informed of the selection outcome
 
-
-Please click the link below for PDF version [DSA to YSS (2023)](/files/YSS%20Experience/yss%20dsa%202023%20website%20update.pdf)
+------------------------------------------
+Please click the link below for the PDF version.<br>
+[DSA to YSS (2023)](/files/YSS%20Experience/yss%20dsa%202023%20website%20update.pdf)
 
 
 <br>
