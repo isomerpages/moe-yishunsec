@@ -55,7 +55,7 @@ INFOCOMM TECHNOLOGY (MEDIA PRODUCTION)
 **Selection Criteria:**
 
 * Demonstrate aptitude and passion in Media
-* Shortlisted students will be requested to submit their existing portfolio of work.
+* Shortlisted students will be requested to submit their existing portfolio of work
 * Student <u>without</u> any prior experience or formal training in Media is <u>also</u> encouraged to apply
 
 **Selection Process:**
@@ -69,8 +69,9 @@ Applicants are required to come for an in- person interview and provide samples 
 
 ### 2. Music
 
-**Choir/Guzheng Ensemble/Concert Band**
+**Student's Experience in Yishun Secondary School:**
 
+**Choir/Guzheng Ensemble/Concert Band**
 * Student leadership opportunities
 * Participation in student leaders’ workshops and conferences
 * Choir/Guzheng/Concert Band exchanges with other secondary schools
@@ -109,6 +110,8 @@ Applicants are required to come for an in- person interview and provide samples 
 
 ### 3. Dance
 
+**Student's Experience in Yishun Secondary School:**
+
 **Indian Dance/Malay Dance/Modern Dance**
 
 * Student leadership opportunities
@@ -134,6 +137,8 @@ Applicants are required to come for an in- person interview and provide samples 
 
 ### 4. Drama - English
 
+**Student's Experience in Yishun Secondary School:**
+
 **D’lite Club (English Drama)**
 * Student leadership opportunities
 * Performance at Arts Extravaganza
@@ -157,6 +162,8 @@ Applicants are required to come for an in- person interview and provide samples 
 
 
 ### 5. Basketball
+
+**Student's Experience in Yishun Secondary School:**
 
 * Student leadership opportunities
 * Participate in National School Games
@@ -183,6 +190,8 @@ Applicants are required to come for an in- person interview and a skills assessm
 
 
 ### 6. Volleyball (Girls)
+
+**Student's Experience in Yishun Secondary School:**
 
 * Student leadership opportunities
 * Participate in National School Games
@@ -211,6 +220,8 @@ Applicants may undergo a volleyball skill assessment which includes evaluation o
 
 ### 7. Football (Boys)
 
+**Student's Experience in Yishun Secondary School:**
+
 **Football (SFA)**
 * Student leadership opportunities
 * Participate in National School Games
@@ -238,6 +249,8 @@ Applicants may undergo a football skill assessment which includes evaluation on 
 
 ### 8. Badminton
 
+**Student's Experience in Yishun Secondary School:**
+
 * Student leadership opportunities
 * Participate in National School Games
 * Coaching junior players
@@ -263,6 +276,8 @@ Applicants are required to come for an in- person interview and a skills assessm
 Applicants may undergo a badminton skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
 ### 9. Netball
+
+**Student's Experience in Yishun Secondary School:**
 
 * Student leadership opportunities
 * Participate in National School Games
