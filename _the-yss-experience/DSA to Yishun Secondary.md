@@ -141,7 +141,7 @@ Applicants are required to come for an in- person interview and provide samples 
 
 **D’lite Club (English Drama)**
 * Student leadership opportunities
-* Performance at Arts Extravaganza
+* Performance at *Arts Extravaganza*
 * Script writing workshop
 * Exposure to different theatre forms
 * Performances within and outside of school
