@@ -272,8 +272,8 @@ Application will be conducted online. Do submit the child's application online t
 <u><b>Stage 2</b></u><br>
 Applicants are required to come for an in- person interview and a skills assessment.
 
-<b>Football Skills Assessment</b><br>
-Applicants may undergo a badminton skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
+<b>Badminton Skills Assessment</b><br>
+Applicants may undergo a badminton skill assessment which includes evaluation on Racket handling skills, Game awareness and Teamwork.
 
 ### 9. Netball
 
@@ -300,7 +300,7 @@ Application will be conducted online. Do submit the child's application online t
 <u><b>Stage 2</b></u><br>
 Applicants are required to come for an in- person interview and a skills assessment.
 
-<b>Football Skills Assessment</b><br>
+<b>Netball Skills Assessment</b><br>
 Applicants may undergo a netball skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
 <b style="color:red"><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></b>
@@ -327,7 +327,7 @@ Applicants will be informed of the selection outcome
 
 ------------------------------------------
 Please click the link below for the PDF version.<br>
-[DSA to YSS (2023)](/files/YSS%20Experience/yss%20dsa%202023%20website%20update.pdf)
+[DSA to YSS (2023)](/files/YSS%20Experience/yss%20dsa%202023%20website.pdf)
 
 
 <br>
