@@ -49,7 +49,7 @@ INFOCOMM TECHNOLOGY (MEDIA PRODUCTION)
 * Video Editing Workshop (Adobe Premier Pro)
 * Participation as Student Photographers in school and external events
 
-The Applied Learning Programme (ALP) in Yishun Secondary is Sonic Arts (Music, Media and Technology), which is infused in our curriculum and CCA, Infocomm Technology (Media Production)
+*The Applied Learning Programme (ALP) in Yishun Secondary is **Sonic Arts (Music, Media and Technology)**, which is infused in our curriculum and CCA, Infocomm Technology (Media Production).*
 
 **Selection Criteria:**
 
@@ -88,7 +88,7 @@ Applicants are required to come for an in- person interview and provide samples 
 * Masterclass for voice projection, singing, and stage presence
 * Exposure to Sonic Arts and Music Week
 
-The Applied Learning Programme (ALP) in Yishun Secondary is **Sonic Arts (Music, Media and Technology)**, which is infused in our curriculum and Performing Arts CCAs.
+*The Applied Learning Programme (ALP) in Yishun Secondary is **Sonic Arts (Music, Media and Technology)**, which is infused in our curriculum and Performing Arts CCAs.*
 
 
 **Selection Criteria:**
@@ -153,6 +153,32 @@ Application will be conducted online. Do submit the child's application online t
 
 <u><b>Stage 2</b></u><br>
 Applicants are required to come for an in- person interview and provide samples of student’s past work or performance or perform in front of a panel.
+
+
+#### Basketball
+
+* Student leadership opportunities
+* Participate in National School Games
+* Coaching junior players
+* Planning and organisation of intra and inter school programmes
+
+*From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level subject. Students who have the aptitude for sports and have the necessary skills requisite may apply to take up this subject*
+
+**Selection Criteria:**
+* Demonstrate aptitude and passion in Basketball
+* Preferably have represented their primary schools in National/International events (e.g. National School Games, etc)
+* Student who is not in the primary school Basketball team is also
+
+**Selection Process:**
+
+<u><b>Stage 1 (Application)</b></u><br>
+Application will be conducted online. Do submit the child's application online through the DSA-Sec portal.
+
+<u><b>Stage 2</b></u><br>
+Applicants are required to come for an in- person interview and a skills assessment.
+
+<b>Basketball Skills Assessment</b><br>
+* Applicants may undergo a basketball skill assessment which includes evaluation on Ball handling
 
 
 
