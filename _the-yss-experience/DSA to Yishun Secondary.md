@@ -181,6 +181,22 @@ Applicants are required to come for an in- person interview and a skills assessm
 * Applicants may undergo a basketball skill assessment which includes evaluation on Ball handling
 
 
+#### Volleyball (Girls)
+
+* Student leadership opportunities
+* Participate in National School Games
+* Coaching junior players
+* Planning and organisation of intra and inter school programmes
+
+*From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level subject. Students who have the aptitude for sports and have the necessary skills requisite may apply to take up this subject*
+
+**Selection Criteria:**
+
+* Demonstrate aptitude and passion in Volleyball
+* Preferably have represented their primary schools in National/International events (e.g. National School Games, etc)
+* Student who is not in the primary school Volleyball team is also encouraged to apply
+
+
 
 
 
