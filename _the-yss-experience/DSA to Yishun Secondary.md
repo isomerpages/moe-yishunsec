@@ -117,7 +117,7 @@ Applicants are required to come for an in- person interview and provide samples 
 * Student leadership opportunities
 * Training to become student choreographer
 * Master classes and workshops
-* Performance at Arts Extravaganza
+* Performance at *Arts Extravaganza*
 * Performance at Singapore Youth Festival Arts Presentations
 * Performances within and outside of school
 
