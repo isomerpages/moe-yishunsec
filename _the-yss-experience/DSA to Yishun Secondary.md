@@ -68,6 +68,23 @@ Applicants are required to come for an in- person interview and provide samples 
 
 #### Music
 
+**Choir/Guzheng Ensemble/Concert Band**
+
+* Student leadership opportunities
+* Participation in student leaders’ workshops and conferences
+* Choir/Guzheng/Concert Band exchanges with other secondary schools
+* Master classes and workshops
+* Performance at Singapore Youth Festival Arts Presentations
+* Performance at YSS Arts Extravaganza
+* Training to be a student conductor (Choir and Concert Band)
+* Participation in local music festivals and competitions
+
+**Selection Criteria:**
+
+Demonstrate aptitude and passion in Music
+* Preferably have represented their primary schools in National/International events (e.g. SYF, competitions etc)
+* Student without any prior experience or formal training in Music is also encouraged to apply
+
 
 
 
