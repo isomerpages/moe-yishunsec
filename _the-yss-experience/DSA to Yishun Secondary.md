@@ -242,7 +242,24 @@ Applicants may undergo a football skill assessment which includes evaluation on 
 * Coaching junior players
 * Planning and organisation of intra and inter school programmes
 
+*From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level subject. Students who have the aptitude for sports and have the necessary skills requisite may apply to take up this subject.*
 
+**Selection Criteria:**
+
+* Demonstrate aptitude and passion in Badminton
+* Preferably have represented their primary schools in National/International events (e.g. National School Games, etc)
+* Student who is <u>not</u> in the primary school Badminton team is <u>also</u> encouraged to apply
+
+**Selection Process:**
+
+<u><b>Stage 1 (Application)</b></u><br>
+Application will be conducted online. Do submit the child's application online through the DSA-Sec portal.
+
+<u><b>Stage 2</b></u><br>
+Applicants are required to come for an in- person interview and a skills assessment.
+
+<b>Football Skills Assessment</b><br>
+Applicants may undergo a badminton skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
 
 
