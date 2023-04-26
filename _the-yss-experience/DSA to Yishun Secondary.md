@@ -208,6 +208,15 @@ Applicants are required to come for an in- person interview and a skills assessm
 Applicants may undergo a volleyball skill assessment which includes evaluation on Ball handling skills, Game awareness and Teamwork.
 
 
+#### Football (Boys)
+
+**Football (SFA)**
+* Student leadership opportunities
+* Participate in National School Games
+* Coaching junior players
+* Planning and organisation of intra and inter school programmes
+
+*From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level subject. Students who have the aptitude for sports and have the necessary skills requisite may apply to take up this subject.*
 
 
 
