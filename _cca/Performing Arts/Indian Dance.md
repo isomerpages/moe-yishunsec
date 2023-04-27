@@ -36,6 +36,12 @@ third_nav_title: Performing Arts
 * Speech Day performance
 * Deepavali Performance
 
+### SYF Video 2023
+
+* [SYF Performance 2023](https://youtu.be/M_qqltTErjs)
+
+
+
 ### Student’s Quotes
 
 *“I learnt different styles of dances originated from different parts of India. This helped me to understand the different cultures all over India and its values.”*
