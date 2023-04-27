@@ -17,13 +17,13 @@ third_nav_title: Performing Arts
 
 ### CCA Exco Structure
 
-* Chairperson:  Darren Lai Chin Teck
-* Vice Chairperson: Dai Jinheng Jeremy
-* Ensemble Leader: Bernice Teng Kai Xin
-* Honorary Secretary: Goo Min Ting
-* Assistant Honorary Secretary: Chow Ying Rui
-* Welfare and Publication In Charge: Reanne Loong Li Xuan
-* Welfare and Publication assistant In Charge: Chloe Lim Zhi Xin
+* Chairperson:  **Darren Lai Chin Teck**
+* Vice Chairperson: **Dai Jinheng Jeremy**
+* Ensemble Leader: **Bernice Teng Kai Xin**
+* Honorary Secretary: **Goo Min Ting**
+* Assistant Honorary Secretary: **Chow Ying Rui**
+* Welfare and Publication In Charge: **Reanne Loong Li Xuan**
+* Welfare and Publication assistant In Charge: **Chloe Lim Zhi Xin**
 
 
 
