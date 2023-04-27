@@ -75,9 +75,9 @@ tr:nth-child(even) {
 
 ### Performances Video
 
+* [SYF 2023 Performance](https://youtu.be/1e-1XA8xYhc)
 * [Super 24](https://youtu.be/kimEIwDD2Iw)
 * [Arts Extravaganza Concert](https://youtu.be/F8NTEbUV2K4)
-* [SYF 2021 Competition](https://youtu.be/loZSoL-93kU)
 
 ### Student’s Quotes
 
