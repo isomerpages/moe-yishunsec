@@ -71,6 +71,7 @@ For students to
 
 ### Photos
 
-<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/1SYF%202021.jpg"><figcaption>SYF 2021</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/farewell%20party%202023.jpg"><figcaption>Farewell Party 2023</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/2Chinese%20New%20Year%202021.jpeg"><figcaption>Chinese New Year 2021</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/syf%202023.jpg"><figcaption>SYF 2023</figcaption></figure>
+
