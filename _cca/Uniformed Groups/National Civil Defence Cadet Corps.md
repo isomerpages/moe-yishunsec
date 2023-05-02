@@ -12,7 +12,7 @@ third_nav_title: Uniformed Groups
 ### CCA Schedule
 * Wednesday from 4 pm to 6 pm
 
-### Venue
+### Venues
 * Parade Square
 * 3T1/ 3T2 / 4N3 Classrooms
 
