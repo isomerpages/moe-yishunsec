@@ -23,7 +23,7 @@ third_nav_title: Uniformed Groups
 Note: Some Area or HQ activities may be conducted on other days or timings
 
 
-### Venue
+### Venues
 * Parade Square
 * 4T1 / 2E4 Classrooms
 * B1-03 Classroom
