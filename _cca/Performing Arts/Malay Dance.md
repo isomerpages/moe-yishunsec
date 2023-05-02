@@ -11,7 +11,7 @@ third_nav_title: Performing Arts
 ### CCA Schedule
 * Wednesday and Thursday from 4 pm to 6 pm
 
-### Reporting Venue
+### Venues
 * MPC
 * The PLACE
 
