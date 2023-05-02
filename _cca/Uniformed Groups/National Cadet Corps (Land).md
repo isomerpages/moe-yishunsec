@@ -14,7 +14,7 @@ third_nav_title: Uniformed Groups
 * Wednesdays 3:30 pm to 6 pm
 * PDS on Tuesday 3:30 pm to 5:30 pm (for selected cadets)
 
-### Venue
+### Venues
 * Parade Square
 * 2E1/ 2E2 / 2E3 Classrooms
 
