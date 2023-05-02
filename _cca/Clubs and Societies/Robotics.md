@@ -12,8 +12,9 @@ third_nav_title: Clubs and Societies
 ### CCA Schedule
 * Wednesday from 4 to 6 pm
 
-### Venue
-* Computer Lab 1 &amp; 3
+### Venues
+* Computer Lab 1
+* Computer Lab 3
 
 ### CCA Exco Structure
 
