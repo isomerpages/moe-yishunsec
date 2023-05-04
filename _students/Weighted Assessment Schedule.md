@@ -18,7 +18,7 @@ description: ""
 * [Term 2 Weighted Assessment Sec 3](/files/Weighted%20Assessment/2023/Term%202%20Weighted%20Assessment%20Sec%203%202023.pdf)
 
 **Sec 4 & 5**
-* [Term 2 Weighted Assessment Sec 4 & 5 ](/files/Weighted%20Assessment/2023/Term%202%20Weighted%20Assessment%20Sec%204_5%202023.pdf)
+* Term 2 Weighted Assessment Sec 4 & 5
 
 #### Term 1 - WA 1
 
