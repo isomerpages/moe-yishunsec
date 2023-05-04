@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/yss-dsa.jpg)
 
-Click here to register for [CCA Trial at YSS.](https://form.gov.sg/6438f48e9dd83a0012c03b48)
+Click the link to register for [CCA Trial at YSS.](https://form.gov.sg/6438f48e9dd83a0012c03b48)
 
 #### General Information about Direct School Admission (Secondary) 2023
 
