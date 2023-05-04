@@ -13,9 +13,9 @@ third_nav_title: Clubs and Societies
 * Mr Zainal
 
 #### CCA Schedule
-* Tuesday, 4 to 6pm
+* Tuesday, 4 to 6 pm
 
-#### Venue
+#### Venues
 * Computer Lab 1
 * Computer Lab 4
 * Control Room

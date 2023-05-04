@@ -10,8 +10,8 @@ third_nav_title: Uniformed Groups
 #### CCA Schedule	
 * Day 3 and Day 8, (Wednesday) from 4pm to 6:00pm
 
-### Venue
-* Parade Square and 
+### Venues
+* Parade Square
 * Computer Lab 3
 
 ### CCA Exco Structure
