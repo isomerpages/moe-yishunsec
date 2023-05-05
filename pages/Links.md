@@ -60,7 +60,7 @@ tr:nth-child(even) {
   </tr>
 			<tr>
     <td><a href="https://workspace.google.com/dashboard">Student ICON Email</a></td>
-    <td><a href="https://academyofsingaporeteachers.moe.edu.sg">Academy of Singapore Teachers</a></td>
+    <td><a href="https://www.opal2.moe.edu.sg/app/learner">OPAL 2.0 </a></td>
   </tr>
 		<tr>
     <td><a href="https://forms.gle/9wJdoyP5tusj8sCD9">Student Referral Form</a></td>
@@ -102,5 +102,9 @@ tr:nth-child(even) {
     <td></td>
     <td><a href="https://www.moh.gov.sg">Ministry of Health</a></td>
 	 </tr>
+					<tr>
+    <td></td>
+    <td><a href="https://academyofsingaporeteachers.moe.edu.sg">Academy of Singapore Teachers</a></td>
+  </tr>
 		
 </tbody></table>
