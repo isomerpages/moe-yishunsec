@@ -40,6 +40,18 @@ third_nav_title: Performing Arts
 
 * [SYF Performance 2023](https://youtu.be/M_qqltTErjs)
 
+### SYF Photos 2023
+![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/syf1-2023.png)
+
+![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/syf2-2023.png)
+
+![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/syf3-2023.png)
+
+![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/syf4-2023.png)
+
+![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/syf5-2023.png)
+
+![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/syf6-2023.png)
 
 
 ### Student’s Quotes
