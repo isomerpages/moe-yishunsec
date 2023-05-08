@@ -34,7 +34,7 @@ sections:
       alt: yss x-country 2023
   - infopic:
       title: Letter to Parents
-      description: New HBL Dates and Hari Raya Greetings - 10 Apr 2023
+      description: YSS EMERGENCY EXERCISE...
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
