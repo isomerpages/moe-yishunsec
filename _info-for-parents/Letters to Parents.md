@@ -7,7 +7,7 @@ description: ""
 --------------
 
 ##### Term 2
-* [YSS Annual Cross-Country Event - 9 May 2023](/files/Letter%20to%20Parents/yss%20annual%20cross-country%20event%20-%209%20may%202023.pdf)
+* [YSS Annual Cross-Country Event - 9 May 2023](/files/Letter%20to%20Parents/yss-annual_cross-country_event-9may2023.pdf)
 * [YSS Emergency Exercise - 8 May 2023](/files/Letter%20to%20Parents/yss%20emergency%20exercise%20-%208%20may%202023.pdf)
 * [New HBL Dates and Hari Raya Greetings - 10 Apr 2023](/files/Letter%20to%20Parents/new%20hbl%20dates%20and%20hari%20raya%20greetings%20-%2010%20apr%202023-2.pdf)
 * [YSS Student Learning Festival 2023 - 6 Apr 2023](/files/Letter%20to%20Parents/yss%20student%20learning%20festival%202023.pdf)
