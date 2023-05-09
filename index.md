@@ -6,7 +6,7 @@ description: Yishun Secondary School is a co-educational government secondary
   school to establish the Applied Learning Programme in Sonic Arts.
 image: /images/isomer-logo.svg
 permalink: /
-notification: School will be closed on 12 May 2023 (Friday).
+notification: School will be closed on 12 May 2023 (Friday) due to X-Country 2023.
 sections:
   - hero:
       background: /images/yss-banner-v2.gif
