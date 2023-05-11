@@ -25,7 +25,7 @@ third_nav_title: Uniformed Groups
 
 
 ### CCA Exco Structure
-![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-exco2023.png)
+
 
 
 ### Key Student Outcomes
