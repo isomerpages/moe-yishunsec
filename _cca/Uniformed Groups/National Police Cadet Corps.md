@@ -69,7 +69,7 @@ To groom a resilient team of cadets to become sensible thinkers, humble leaders 
 | Nanyang Girls High School Inter-Unit NPCC Competition: Attack on A.I.      | 2023     | 4th     |
 | Inter-unit Crime Scene Investigation (CSI) Competition     | 2022     | Participation     |
 
-**SPF-NPCC Badge Awardees**
+**SPF-NPCC Badge Awardees:**
 
 | Year | Name(s) of Cadets |
 | -------- | -------- |
@@ -77,7 +77,7 @@ To groom a resilient team of cadets to become sensible thinkers, humble leaders 
 | 2022     | Vijayanandan Vizhalini Devi (4E3)     |
 | 2021     | Priyakumar Hari Krishna (4E1)     |
 
-**Station Inspector (SI) Rank Recipients**
+**Station Inspector (SI) Rank Recipients:**
 
 
 | Year | Name(s) of Cadets |
@@ -86,7 +86,7 @@ To groom a resilient team of cadets to become sensible thinkers, humble leaders 
 | 2022     | Divakaran Harini (4E1)<br>Yong Kah Hoong (4E4)     |
 | 2021     | Haritha D/O Elanchelian (4E1)<br>Lee Si Hui Vanessa (4E2)     |
 
-**Best Unit Cadet (BUC) Badge Recipients**
+**Best Unit Cadet (BUC) Badge Recipients:**
 
 
 | Year | Name(s) of Cadets |
