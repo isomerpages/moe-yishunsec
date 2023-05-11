@@ -119,19 +119,19 @@ To groom a resilient team of cadets to become sensible thinkers, humble leaders 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-1.jpg"><figcaption>Participants of the 2023 NPCC Annual Paradet</figcaption></figure>
 
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-2.png"><figcaption>Our Officer-in-Charge with our 7th consecutive UOPA Distinction / Gold Award!</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-2.png" style="width:50%"><figcaption>Our Officer-in-Charge with our 7th consecutive UOPA Distinction / Gold Award!</figcaption></figure>
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-3.png"><figcaption>First NPCC-NCC combined Precision Drill Sequence Rehearsals!</figcaption></figure>
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-4.jpg"><figcaption>Secondary 2 cadets analysing a crime scene as part of their Crime Scene Investigation (CSI) practical lesson, conducted by Teacher-Officer P/INSP (NPCC) Crescencia Chay</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-5.png"><figcaption>Recipients of the prestigious SPF-NPCC Badge with our Principal, Mrs Regina Lee</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-5.png" style="width:70%"><figcaption>Recipients of the prestigious SPF-NPCC Badge with our Principal, Mrs Regina Lee</figcaption></figure>
 
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-6.png"><figcaption>Our cadets in action during the Nanyang Girls High School Inter-Unit NPCC Competition: Attack on A.I..</figcaption></figure>
 
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-7.png"><figcaption>TactSim Enrichment!</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-7.png" style="width:70%"><figcaption>TactSim Enrichment!</figcaption></figure>
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-8.png"><figcaption>Our cadets in action at the 2023 CCA Open House</figcaption></figure>
 
