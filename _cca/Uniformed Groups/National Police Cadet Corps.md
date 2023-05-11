@@ -5,22 +5,23 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 ### Teachers-in-charge
-* Mr Jarren Lye (Officer-in-Charge)
-* Ms Wu Jiang Hui (Dy Officer-in-Charge)
+* A/ASP (NPCC) Jarren Lye (Officer-in-Charge)
+* INSP (NPCC) Wu Jianghui (Deputy Officer-in-Charge)
+* P/INSP (NPCC) Crescencia Chay
 * Ms Serena Sim
-* Ms Crescencia Chay
+* Ms Lim Su Wen
+
+### Volunteer Adult Leaders
+* S/CI (NPCC) Choh Kaifeng
+* CI (NPCC) Yeo Pei Xuan
+* CI (NPCC) Lee Si Hui, Vanessa
+
 
 ### CCA Schedule	
 **Official Training Sessions:**
-* Wednesday from 4 pm to 6 pm
+* Wednesday from 3:30 pm to 6 pm
 
-**Items to bring for all training:**
-1. Filled water bottle (minimum 500 mℓ)
-2. Writing materials (pen &amp; notebook)
-3. Oral digital thermometer
-4. Personal medication, if applicable (e.g. inhaler)
-
-Note: Some Area or HQ activities may be conducted on other days or timings
+(Certain courses / competitions organised by NPCC HQ may fall outside of regular training days)
 
 
 ### Venues
@@ -30,9 +31,8 @@ Note: Some Area or HQ activities may be conducted on other days or timings
 
 
 ### CCA Exco Structure
-[NPCC Hierarchy Charts](/files/CCA/NPCC/NPCC%20Hierarchy%20Charts%20Updated%2022%20Nov%202021.pdf)
+![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-exco2023.png)
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-EXCO.png)
 
 ### Key Student Outcomes
 
