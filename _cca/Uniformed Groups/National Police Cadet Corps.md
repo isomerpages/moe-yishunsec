@@ -38,18 +38,62 @@ third_nav_title: Uniformed Groups
 
 To groom a resilient team of cadets to become sensible thinkers, humble leaders and active contributors by developing cadets’ soft-skills, hard-skills, and leadership and management skills.
 
+### Key Events
+
+* Courses with NPCC HQ and the Singapore Police Force
+* Police Establishment Visits (E.g. Neighbourhood Police Centres, CID, K9 Unit)
+* Crime Prevention Projects
+* Unit Camp
+* National Day Parade
+* NPCC Annual Parade
+* Unit Cohesion
+* Adventure Training Camp – Secondary 2 Cadets only
+* .22 Revolver Shoot – Secondary 2 and 3 Cadets only
+* Inter-unit Competitions (e.g. CSI, Shooting)
+* Precision Drill Sequence (PDS) - *NEW from 2023* 
+
+
+
 ### Highlights / Achievements
 
 #### Highlights
 
-Unit Overall Proficiency Award: Gold from 2015 – 2021
-Overseas Educational Visits (Brunei, Hong Kong)
-Competitions (Campcraft, Drills, Revolver Shooting, Crime Scene Investigation)
-Police-related courses (Crime Scene Investigation, Unarmed Tactics)
-Camps (Adventure/Survival Training Camp at Pulau Ubin)
-Sports (Air Pistol)
-Learning Journeys (Supreme Court, Neighbourhood Police Centres, Police Units)
-VIA opportunities (Yellow Ribbon Project)
+**Unit Overall Proficiency Award:**
+
+| Year | Award Category |
+| -------- | -------- |
+| 2023    | In Progress     |
+| 2022     | Distinction (Formerly known as Gold)     |
+| 2021     | Gold     |
+| 2020     | NA due to the COVID-19 Pandemic     |
+| 2019     | Gold     |
+
+**Competitions:**
+
+| Name of Event | Year | Result |
+| -------- | -------- | -------- |
+| Nanyang Girls High School Inter-Unit NPCC Competition: Attack on A.I.      | 2023     | 4th     |
+| Inter-unit Crime Scene Investigation (CSI) Competition     | 2022     | Participation     |
+
+**SPF-NPCC Badge Awardees**
+
+| Year | Name(s) of Cadets |
+| -------- | -------- |
+| 2023     | Izsahqila Bte Ismail (4N1) <br> Nur Suhailah Bte Omar (4N2)    |
+| 2022     | Vijayanandan Vizhalini Devi (4E3)     |
+| 2021     | Priyakumar Hari Krishna (4E1)     |
+
+**Station Inspector (SI) Rank Recipients**
+
+
+| Year | Name(s) of Cadets |
+| -------- | -------- |
+| 2023     | Izsahqila Bte Ismail (4N1)<br>     |
+| 2022     | Text     |
+| 2021     | Text     |
+
+
+
 
 #### Achievements (Hall of Fame)
 
