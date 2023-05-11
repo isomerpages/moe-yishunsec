@@ -79,7 +79,7 @@ To groom a resilient team of cadets to become sensible thinkers, humble leaders 
 
 | Year | Name(s) of Cadets |
 | -------- | -------- |
-| 2023     | Izsahqila Bte Ismail (4N1) <br> Nur Suhailah Bte Omar (4N2)    |
+| 2023     | Izsahqila Bte Ismail (4N1)<br>Nur Suhailah Bte Omar (4N2)    |
 | 2022     | Vijayanandan Vizhalini Devi (4E3)     |
 | 2021     | Priyakumar Hari Krishna (4E1)     |
 
@@ -88,9 +88,18 @@ To groom a resilient team of cadets to become sensible thinkers, humble leaders 
 
 | Year | Name(s) of Cadets |
 | -------- | -------- |
-| 2023     | Izsahqila Bte Ismail (4N1)<br>     |
-| 2022     | Text     |
-| 2021     | Text     |
+| 2023     | Izsahqila Bte Ismail (4N1)<br> Tan Yu Herng (4E2)   |
+| 2022     | Divakaran Harini (4E1)<br>Yong Kah Hoong (4E4)     |
+| 2021     | Haritha D/O Elanchelian (4E1)<br>Lee Si Hui Vanessa (4E2)     |
+
+**Best Unit Cadet (BUC) Badge Recipients**
+
+
+| Year | Name(s) of Cadets |
+| -------- | -------- |
+| 2023     | Ko Ke Xuan (4E4)<br>Nur Suhailah Bte Omar (4N2)     |
+| 2022     | Ramesh Marimuthu Oviya Sree (4E1)<br>Tay Zun Meng, Lincoln (4E4)     |
+| 2021     | Priyakumar Hari Krishna (4E1)<br>Marayag Bernice Ada Escobido (4N1)     |
 
 
 
