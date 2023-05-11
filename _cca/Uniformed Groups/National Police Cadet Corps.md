@@ -116,23 +116,23 @@ To groom a resilient team of cadets to become sensible thinkers, humble leaders 
 
 ### Photos
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-1.jpeg"><figcaption>Our Vice Principal donning on the SI rank for our cadet</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-1.jpg"><figcaption>Participants of the 2023 NPCC Annual Paradet</figcaption></figure>
 
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-2.jpeg"><figcaption>Field cooking during the Leadership Training Camp</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-2.png"><figcaption>Our Officer-in-Charge with our 7th consecutive UOPA Distinction / Gold Award!</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-3.jpeg"><figcaption>Zoom sharing by police officers from Yishun South NPC</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-3.png"><figcaption>First NPCC-NCC combined Precision Drill Sequence Rehearsals!</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-4.jpeg"><figcaption>Air pistol enrichment program for our cadets</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-4.jpg"><figcaption>Secondary 2 cadets analysing a crime scene as part of their Crime Scene Investigation (CSI) practical lesson, conducted by Teacher-Officer P/INSP (NPCC) Crescencia Chay</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-5.jpeg" style="width:70%"><figcaption>Our SPF NPCC badge awardee SSGT NPCC Priyakumar Hari Krishna</figcaption></figure>
-
-
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-6.jpeg"><figcaption>Snippets of our cadets during the Inter Unit Drills Competition</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-5.png"><figcaption>Recipients of the prestigious SPF-NPCC Badge with our Principal, Mrs Regina Lee</figcaption></figure>
 
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-6.jpeg"><figcaption>Snippets of our cadets during the Inter Unit Drills Competition</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-6.png"><figcaption>Our cadets in action during the Nanyang Girls High School Inter-Unit NPCC Competition: Attack on A.I..</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-7.jpeg"><figcaption>Our unit participating in the Yellow Ribbon Run</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-8.jpeg"><figcaption>Snippets of our cadets having fun during our Unit Cohesion to Hay Dairies Goat Farm</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-7.png"><figcaption>TactSim Enrichment!</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-8.png"><figcaption>Our cadets in action at the 2023 CCA Open House</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-9.png"><figcaption>Our first campfire since the COVID-19 pandemic! (Unit Camp 2022)</figcaption></figure>
