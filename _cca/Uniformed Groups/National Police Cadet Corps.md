@@ -141,7 +141,7 @@ To groom a resilient team of cadets to become sensible thinkers, humble leaders 
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-11.png"><figcaption>National Day Parade 2022, our first fully-physical parade post-COVID</figcaption></figure>
 
-<figure><img src=""><figcaption> </figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-11a.png"><figcaption>Cadets sharing anti-scam residents with the residents of Yishun as part of their Passion Youth Ambassador (PYA) programme</figcaption></figure>
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-12.png"><figcaption>YSS Unit Cohesion 2022: Hike to Pulau Ubin</figcaption></figure>
 
