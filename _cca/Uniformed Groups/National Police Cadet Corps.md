@@ -24,12 +24,6 @@ third_nav_title: Uniformed Groups
 (Certain courses / competitions organised by NPCC HQ may fall outside of regular training days)
 
 
-### Venues
-* Parade Square
-* 4T1 / 2E4 Classrooms
-* B1-03 Classroom
-
-
 ### CCA Exco Structure
 ![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-exco2023.png)
 
@@ -119,6 +113,8 @@ To groom a resilient team of cadets to become sensible thinkers, humble leaders 
 
 <div style="text-align:right;">~Natasha Alya, Secondary 1 Assistant Squad I/C</div>
 
+
+### Photos
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-1.jpeg"><figcaption>Our Vice Principal donning on the SI rank for our cadet</figcaption></figure>
 
