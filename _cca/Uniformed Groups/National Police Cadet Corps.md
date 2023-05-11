@@ -136,3 +136,13 @@ To groom a resilient team of cadets to become sensible thinkers, humble leaders 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-8.png"><figcaption>Our cadets in action at the 2023 CCA Open House</figcaption></figure>
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-9.png"><figcaption>Our first campfire since the COVID-19 pandemic! (Unit Camp 2022)</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-10.png"><figcaption>Cadets enjoying an outdoor cooking experience as part of the 2022 Unit Camp</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-11.png"><figcaption>National Day Parade 2022, our first fully-physical parade post-COVID</figcaption></figure>
+
+<figure><img src=""><figcaption> </figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-12.png"><figcaption>YSS Unit Cohesion 2022: Hike to Pulau Ubin</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-13.png"><figcaption>Cadets attending a lecture during their Neighbourhood Police Centre (NPC) visit</figcaption></figure>
