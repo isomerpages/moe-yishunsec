@@ -5,109 +5,144 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 ### Teachers-in-charge
-* Mr Jarren Lye (Officer-in-Charge)
-* Ms Wu Jiang Hui (Dy Officer-in-Charge)
+* A/ASP (NPCC) Jarren Lye (Officer-in-Charge)
+* INSP (NPCC) Wu Jianghui (Deputy Officer-in-Charge)
+* P/INSP (NPCC) Crescencia Chay
 * Ms Serena Sim
-* Ms Crescencia Chay
+* Ms Lim Su Wen
+
+### Volunteer Adult Leaders
+* S/CI (NPCC) Choh Kaifeng
+* CI (NPCC) Yeo Pei Xuan
+* CI (NPCC) Lee Si Hui, Vanessa
+
 
 ### CCA Schedule	
 **Official Training Sessions:**
-* Wednesday from 4 pm to 6 pm
+* Wednesday from 3:30 pm to 6 pm
 
-**Items to bring for all training:**
-1. Filled water bottle (minimum 500 mℓ)
-2. Writing materials (pen &amp; notebook)
-3. Oral digital thermometer
-4. Personal medication, if applicable (e.g. inhaler)
-
-Note: Some Area or HQ activities may be conducted on other days or timings
-
-
-### Venues
-* Parade Square
-* 4T1 / 2E4 Classrooms
-* B1-03 Classroom
+(Certain courses / competitions organised by NPCC HQ may fall outside of regular training days)
 
 
 ### CCA Exco Structure
-[NPCC Hierarchy Charts](/files/CCA/NPCC/NPCC%20Hierarchy%20Charts%20Updated%2022%20Nov%202021.pdf)
+![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-exco2023.png)
 
-![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-EXCO.png)
 
 ### Key Student Outcomes
 
 To groom a resilient team of cadets to become sensible thinkers, humble leaders and active contributors by developing cadets’ soft-skills, hard-skills, and leadership and management skills.
 
+### Key Events
+
+* Courses with NPCC HQ and the Singapore Police Force
+* Police Establishment Visits (E.g. Neighbourhood Police Centres, CID, K9 Unit)
+* Crime Prevention Projects
+* Unit Camp
+* National Day Parade
+* NPCC Annual Parade
+* Unit Cohesion
+* Adventure Training Camp – Secondary 2 Cadets only
+* .22 Revolver Shoot – Secondary 2 and 3 Cadets only
+* Inter-unit Competitions (e.g. CSI, Shooting)
+* Precision Drill Sequence (PDS) - *NEW from 2023* 
+
+
+
 ### Highlights / Achievements
 
 #### Highlights
 
-Unit Overall Proficiency Award: Gold from 2015 – 2021
-Overseas Educational Visits (Brunei, Hong Kong)
-Competitions (Campcraft, Drills, Revolver Shooting, Crime Scene Investigation)
-Police-related courses (Crime Scene Investigation, Unarmed Tactics)
-Camps (Adventure/Survival Training Camp at Pulau Ubin)
-Sports (Air Pistol)
-Learning Journeys (Supreme Court, Neighbourhood Police Centres, Police Units)
-VIA opportunities (Yellow Ribbon Project)
+**Unit Overall Proficiency Award:**
 
-#### Achievements (Hall of Fame)
+| Year | Award Category |
+| -------- | -------- |
+| 2023    | In Progress     |
+| 2022     | Distinction (Formerly known as Gold)     |
+| 2021     | Gold     |
+| 2020     | NA due to the COVID-19 Pandemic     |
+| 2019     | Gold     |
 
-* YSSNPCC Hall of Fame
+**Competitions:**
 
-### Events in 2021/2022
+| Name of Event | Year | Result |
+| -------- | -------- | -------- |
+| Nanyang Girls High School Inter-Unit NPCC Competition: Attack on A.I.      | 2023     | 4th     |
+| Inter-unit Crime Scene Investigation (CSI) Competition     | 2022     | Participation     |
 
-* YSSNPCC Events
+**SPF-NPCC Badge Awardees:**
+
+| Year | Name(s) of Cadets |
+| -------- | -------- |
+| 2023     | Izsahqila Bte Ismail (4N1)<br>Nur Suhailah Bte Omar (4N2)    |
+| 2022     | Vijayanandan Vizhalini Devi (4E3)     |
+| 2021     | Priyakumar Hari Krishna (4E1)     |
+
+**Station Inspector (SI) Rank Recipients:**
+
+
+| Year | Name(s) of Cadets |
+| -------- | -------- |
+| 2023     | Izsahqila Bte Ismail (4N1)<br> Tan Yu Herng (4E2)   |
+| 2022     | Divakaran Harini (4E1)<br>Yong Kah Hoong (4E4)     |
+| 2021     | Haritha D/O Elanchelian (4E1)<br>Lee Si Hui Vanessa (4E2)     |
+
+**Best Unit Cadet (BUC) Badge Recipients:**
+
+
+| Year | Name(s) of Cadets |
+| -------- | -------- |
+| 2023     | Ko Ke Xuan (4E4)<br>Nur Suhailah Bte Omar (4N2)     |
+| 2022     | Ramesh Marimuthu Oviya Sree (4E1)<br>Tay Zun Meng, Lincoln (4E4)     |
+| 2021     | Priyakumar Hari Krishna (4E1)<br>Marayag Bernice Ada Escobido (4N1)     |
+
 
 ### Student’s Quotes
 
 	
-*“NPCC has improved my attitude particularly my discipline (being at my utmost behaviour at all times), responsibility (to always be accountable for my actions based on my role of a student, such as completing my homework on time), and perseverance (to never give up no matter the obstacle I face)."*
+*“Overall, NPCC has been an enriching experience where I was able to learn valuable leadership skills. Through the lows, I have learnt on how to communicate with my squadmates. Through the highs, I have learnt to cherish the hard work that we have put in and really get to bond with my squadmates. Although the trainings were tiring and sometimes frustrating, the negative feelings seem to go away instantly the next day."*
 
-<div style="text-align:right;">SSGT (NPCC) Joshua Isaac Kadir, Unit Drills Instructor from 2020 – 2021</div>
-
-
-*“My overall experience in NPCC was a very meaningful one. I was able to make a lot of new friendships, while getting to know my squad mates and seniors. I also learnt a lot of hard skills, soft skills, and leadership skills which would help me in my everyday life in the future. NPCC has helped me to make a lot of memories as part of my secondary school journey.*
-
-<div style="text-align:right;">SI (NPCC) Haritha D/O Elanchelian, Unit Chairperson from 2020 – 2021</div>
+<div style="text-align:right;">~Mohammad Danish Aiman, FieId Instructor and Head Of Logistics</div>
 
 
-*“I have learned many things from NPCC such as hard skills and soft skills which will definitely prove useful in the future. I have also made many friends and have been taught many valuable lessons that I could not have learnt in any environment better than in a uniform group CCA, especially NPCC.”*
+*“It has been an exhilarating experience being in the Precision Drills Sequence (PDS) squad. As the In-Charge, I am tasked with teaching my cadets and fellow squadmates. I feel that being in PDS teaches resilience as an immense amount of time and effort is needed to master the drills and stunts. However, PDS has never felt dreadful or unappealing as I came to learn them of my own volition. I truly feel that PDS is my passion and I would never give up the opportunity to learn new tricks."*
 
-<div style="text-align:right;">SSGT (NPCC) Brandon Lim, Admin Assistant &amp; 37th Batch Assistant Squad IC from 2019 – 2020</div>
-
-
-*“NPCC made me grew out of my comfort zone and helped me cultivate some soft skills and hard skills. I was given the opportunity to do VIA activities, competitions, learn new skills and recreational moments, such as the Yellow Ribbon Run, Campcraft Competition, Kayaking and the trip to the goat farm. I've made memorable memories and I've also made new good friends through NPCC.”*
-
-<div style="text-align:right;">SI (NPCC) Qistina Binte Kamal, Vice-Chairperson &amp; 37th Batch Squad IC from 2019 – 2020
-</div>
-
-*“NPCC has taught me a myriad of skills and values throughout this 4-year journey especially in my NCO life. In the process of learning, I have made many close friends &amp; strengthen the bonds with my squadmates, seniors and juniors. It has also moulded me into a person with a better sense of confidence, responsibility and discipline. These values, skills &amp; knowledge which I have acquired through normal official trainings, annual camps, and the planning behind major events will forever stick with me in my entire life. Although there were many stressful situations that we faced, problems &amp; challenges that we had encounter, we are always able to over such adversities which make the entire process a wholesome one. The experiences that we have gained are indubitably priceless. I was really able to witness my personal growth &amp; development in this whole journey. Moreover, the memories and friendship that have been forged will be perpetually imprinted with me. No way I could ever forget those who have been along with me in this journey.”*
-
-<div style="text-align:right;">SI (NPCC) Jimmy Chong, Vice-Chairperson &amp; 35th Batch Squad IC from 2018 – 2019</div>
+<div style="text-align:right;">~Nurhilmi bin Nurfaizal, Precision Drill Sequence I/C</div>
 
 
-*“NPCC has benefited me in many ways and has thought me skills that I can't learn anywhere else. Firstly, it has made me a great leader. I have been constantly given many opportunities to shine and showcase my skills and talents to others. I might have definitely made a lot of flaws throughout my journey but my TOs and CIs have been very patient and always guided me to become a better person every single day. Secondly, it has taught me to be a better communicator. Over the years with the help of my TOs and CIs, I learnt to be more aware of what I say and how I say. I must say I have definitely forged closer relationships with my squadmates. Thirdly, it has taught me to be selfless. NPCC gave me many opportunities to volunteer. I am glad that I did so because I had a great time with all my squadmates, CIs and TOs and moreover, every VIA motivated me to continue serving the community further and be selfless. All in all, without NPCC, I wouldn't be the person that I am today.”*
+*“Although NPCC may seem like it is just solely focused on hard skills, over time, it taught me numerous leadership skills. To me, NPCC has helped me come out of my shell and helped me with not just hard skills, also with building my confidence and leadership qualities, all of which can be applied in the future. When teaching my cadets, it can feel tiring and stressful, but the rewarding feeling that I get after successfully teaching is truly incomparable.”*
 
-<div style="text-align:right;">SSGT (NPCC) Md Musassir, Outdoors Instructor from 2018 – 2019</div>
-
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-1.jpeg"><figcaption>Our Vice Principal donning on the SI rank for our cadet</figcaption></figure>
+<div style="text-align:right;">~Natasha Alya, Secondary 1 Assistant Squad I/C</div>
 
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-2.jpeg"><figcaption>Field cooking during the Leadership Training Camp</figcaption></figure>
+### Photos
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-3.jpeg"><figcaption>Zoom sharing by police officers from Yishun South NPC</figcaption></figure>
-
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-4.jpeg"><figcaption>Air pistol enrichment program for our cadets</figcaption></figure>
-
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-5.jpeg" style="width:70%"><figcaption>Our SPF NPCC badge awardee SSGT NPCC Priyakumar Hari Krishna</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-1.jpg"><figcaption>Participants of the 2023 NPCC Annual Paradet</figcaption></figure>
 
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-6.jpeg"><figcaption>Snippets of our cadets during the Inter Unit Drills Competition</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-2.png" style="width:50%"><figcaption>Our Officer-in-Charge with our 7th consecutive UOPA Distinction / Gold Award!</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-3.png"><figcaption>First NPCC-NCC combined Precision Drill Sequence Rehearsals!</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-4.jpg"><figcaption>Secondary 2 cadets analysing a crime scene as part of their Crime Scene Investigation (CSI) practical lesson, conducted by Teacher-Officer P/INSP (NPCC) Crescencia Chay</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-5.png" style="width:70%"><figcaption>Recipients of the prestigious SPF-NPCC Badge with our Principal, Mrs Regina Lee</figcaption></figure>
 
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-6.jpeg"><figcaption>Snippets of our cadets during the Inter Unit Drills Competition</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-6.png"><figcaption>Our cadets in action during the Nanyang Girls High School Inter-Unit NPCC Competition: Attack on A.I..</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-7.jpeg"><figcaption>Our unit participating in the Yellow Ribbon Run</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-8.jpeg"><figcaption>Snippets of our cadets having fun during our Unit Cohesion to Hay Dairies Goat Farm</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-7.png" style="width:70%"><figcaption>TactSim Enrichment!</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-8.png"><figcaption>Our cadets in action at the 2023 CCA Open House</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-9.png"><figcaption>Our first campfire since the COVID-19 pandemic! (Unit Camp 2022)</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-10.png"><figcaption>Cadets enjoying an outdoor cooking experience as part of the 2022 Unit Camp</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-11.png"><figcaption>National Day Parade 2022, our first fully-physical parade post-COVID</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-11a.png"><figcaption>Cadets sharing anti-scam residents with the residents of Yishun as part of their Passion Youth Ambassador (PYA) programme</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-12.png"><figcaption>YSS Unit Cohesion 2022: Hike to Pulau Ubin</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-13.png"><figcaption>Cadets attending a lecture during their Neighbourhood Police Centre (NPC) visit</figcaption></figure>
