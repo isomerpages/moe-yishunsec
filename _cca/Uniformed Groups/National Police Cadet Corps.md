@@ -102,47 +102,23 @@ To groom a resilient team of cadets to become sensible thinkers, humble leaders 
 | 2021     | Priyakumar Hari Krishna (4E1)<br>Marayag Bernice Ada Escobido (4N1)     |
 
 
-
-
-#### Achievements (Hall of Fame)
-
-* YSSNPCC Hall of Fame
-
-### Events in 2021/2022
-
-* YSSNPCC Events
-
 ### Student’s Quotes
 
 	
-*“NPCC has improved my attitude particularly my discipline (being at my utmost behaviour at all times), responsibility (to always be accountable for my actions based on my role of a student, such as completing my homework on time), and perseverance (to never give up no matter the obstacle I face)."*
+*“Overall, NPCC has been an enriching experience where I was able to learn valuable leadership skills. Through the lows, I have learnt on how to communicate with my squadmates. Through the highs, I have learnt to cherish the hard work that we have put in and really get to bond with my squadmates. Although the trainings were tiring and sometimes frustrating, the negative feelings seem to go away instantly the next day."*
 
-<div style="text-align:right;">SSGT (NPCC) Joshua Isaac Kadir, Unit Drills Instructor from 2020 – 2021</div>
-
-
-*“My overall experience in NPCC was a very meaningful one. I was able to make a lot of new friendships, while getting to know my squad mates and seniors. I also learnt a lot of hard skills, soft skills, and leadership skills which would help me in my everyday life in the future. NPCC has helped me to make a lot of memories as part of my secondary school journey.*
-
-<div style="text-align:right;">SI (NPCC) Haritha D/O Elanchelian, Unit Chairperson from 2020 – 2021</div>
+<div style="text-align:right;">~Mohammad Danish Aiman, FieId Instructor and Head Of Logistics</div>
 
 
-*“I have learned many things from NPCC such as hard skills and soft skills which will definitely prove useful in the future. I have also made many friends and have been taught many valuable lessons that I could not have learnt in any environment better than in a uniform group CCA, especially NPCC.”*
+*“It has been an exhilarating experience being in the Precision Drills Sequence (PDS) squad. As the In-Charge, I am tasked with teaching my cadets and fellow squadmates. I feel that being in PDS teaches resilience as an immense amount of time and effort is needed to master the drills and stunts. However, PDS has never felt dreadful or unappealing as I came to learn them of my own volition. I truly feel that PDS is my passion and I would never give up the opportunity to learn new tricks."*
 
-<div style="text-align:right;">SSGT (NPCC) Brandon Lim, Admin Assistant &amp; 37th Batch Assistant Squad IC from 2019 – 2020</div>
-
-
-*“NPCC made me grew out of my comfort zone and helped me cultivate some soft skills and hard skills. I was given the opportunity to do VIA activities, competitions, learn new skills and recreational moments, such as the Yellow Ribbon Run, Campcraft Competition, Kayaking and the trip to the goat farm. I've made memorable memories and I've also made new good friends through NPCC.”*
-
-<div style="text-align:right;">SI (NPCC) Qistina Binte Kamal, Vice-Chairperson &amp; 37th Batch Squad IC from 2019 – 2020
-</div>
-
-*“NPCC has taught me a myriad of skills and values throughout this 4-year journey especially in my NCO life. In the process of learning, I have made many close friends &amp; strengthen the bonds with my squadmates, seniors and juniors. It has also moulded me into a person with a better sense of confidence, responsibility and discipline. These values, skills &amp; knowledge which I have acquired through normal official trainings, annual camps, and the planning behind major events will forever stick with me in my entire life. Although there were many stressful situations that we faced, problems &amp; challenges that we had encounter, we are always able to over such adversities which make the entire process a wholesome one. The experiences that we have gained are indubitably priceless. I was really able to witness my personal growth &amp; development in this whole journey. Moreover, the memories and friendship that have been forged will be perpetually imprinted with me. No way I could ever forget those who have been along with me in this journey.”*
-
-<div style="text-align:right;">SI (NPCC) Jimmy Chong, Vice-Chairperson &amp; 35th Batch Squad IC from 2018 – 2019</div>
+<div style="text-align:right;">~Nurhilmi bin Nurfaizal, Precision Drill Sequence I/C</div>
 
 
-*“NPCC has benefited me in many ways and has thought me skills that I can't learn anywhere else. Firstly, it has made me a great leader. I have been constantly given many opportunities to shine and showcase my skills and talents to others. I might have definitely made a lot of flaws throughout my journey but my TOs and CIs have been very patient and always guided me to become a better person every single day. Secondly, it has taught me to be a better communicator. Over the years with the help of my TOs and CIs, I learnt to be more aware of what I say and how I say. I must say I have definitely forged closer relationships with my squadmates. Thirdly, it has taught me to be selfless. NPCC gave me many opportunities to volunteer. I am glad that I did so because I had a great time with all my squadmates, CIs and TOs and moreover, every VIA motivated me to continue serving the community further and be selfless. All in all, without NPCC, I wouldn't be the person that I am today.”*
+*“Although NPCC may seem like it is just solely focused on hard skills, over time, it taught me numerous leadership skills. To me, NPCC has helped me come out of my shell and helped me with not just hard skills, also with building my confidence and leadership qualities, all of which can be applied in the future. When teaching my cadets, it can feel tiring and stressful, but the rewarding feeling that I get after successfully teaching is truly incomparable.”*
 
-<div style="text-align:right;">SSGT (NPCC) Md Musassir, Outdoors Instructor from 2018 – 2019</div>
+<div style="text-align:right;">~Natasha Alya, Secondary 1 Assistant Squad I/C</div>
+
 
 <figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC-1.jpeg"><figcaption>Our Vice Principal donning on the SI rank for our cadet</figcaption></figure>
 
