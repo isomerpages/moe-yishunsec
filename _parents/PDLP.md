@@ -3,10 +3,6 @@ title: PDLP
 permalink: /parents/pdlp/
 description: ""
 ---
-### Latest Updates
-
-* DMA Option A and Option B for Sec 1s will be implemented by 5 May 2023.
-
 
 ### PDLP Student Device Information Kit
 * [Student Information Kit](/files/Parents/PDLP/pdlp%20student%20device%20information%20kit.pdf)
