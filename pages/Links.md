@@ -79,7 +79,7 @@ tr:nth-child(even) {
     <td><a href="https://www.mesrc.net">MOE Sports &amp; Recreation Club</a></td>
   </tr>
 	<tr>
-    <td></td>
+    <td><a href="/travel-declaration/">YSS Student Travel Declaration</a></td>
     <td><a href="https://form.gov.sg">FormSG</a></td>
   </tr>
 	<tr>
