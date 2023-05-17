@@ -7,9 +7,9 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chicken Rice     | 31 May 2023     | Mixed rice is acceptable.    |
-| Malay Food Stall | 30 Jun 2023 | Rice or noodle stalls are acceptable.|
-
+|      |      |     |
+|      |      |     |
+|      |      |     |
 
 ##### Application Procedure
 
