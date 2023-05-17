@@ -25,6 +25,13 @@ sections:
       url: /the-yss-experience/dsa/
       image: /images/yss-dsa.jpg
   - infopic:
+      title: Travel Declaration
+      subtitle: Announcements
+      description: For Mid-Year Holiday 2023
+      button: Read More...
+      url: /travel-declaration/
+      alt: Travel Declaration
+  - infopic:
       title: Letter to Parents
       description: YSS Annual Cross-Country Event...
       button: Read more...
@@ -43,11 +50,4 @@ sections:
   - resources:
       title: Information from YSS
       button: Read more...
-  - infopic:
-      title: Travel Declaration
-      subtitle: Announcements
-      description: For Mid-Year Holiday 2023
-      button: Read More...
-      url: /travel-declaration/
-      alt: Travel Declaration
 ---
