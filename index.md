@@ -35,7 +35,7 @@ sections:
   - infopic:
       title: Travel Declaration
       subtitle: Announcements
-      description: For Mid-Year Holiday 2023
+      description: For Mid-Year Holidays 2023
       button: Read More...
       url: /travel-declaration/
       alt: Travel Declaration

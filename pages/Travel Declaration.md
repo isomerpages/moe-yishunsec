@@ -3,7 +3,7 @@ title: Travel Declaration
 permalink: /travel-declaration/
 description: ""
 ---
-Travel Declaration for Mid-Year Holiday 2023
+Travel Declaration for Mid-Year Holidays 2023
 -------
 
 Dear Parent/Guardian,
