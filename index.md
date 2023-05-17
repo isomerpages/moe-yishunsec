@@ -25,14 +25,6 @@ sections:
       url: /the-yss-experience/dsa/
       image: /images/yss-dsa.jpg
   - infopic:
-      title: Travel Declaration
-      subtitle: Announcements
-      description: For Mid-Year Holiday 2023
-      button: Read More...
-      url: /travel-declaration/
-      alt: Travel Declaration
-      image: /images/Announcements/travel_declaration.jpg
-  - infopic:
       title: Letter to Parents
       description: YSS Emergency Exercise on 18 May 2023...
       button: Read more...
@@ -40,6 +32,14 @@ sections:
       alt: Letter to parents
       subtitle: Announcements
       image: /images/announcement.jpg
+  - infopic:
+      title: Travel Declaration
+      subtitle: Announcements
+      description: For Mid-Year Holiday 2023
+      button: Read More...
+      url: /travel-declaration/
+      alt: Travel Declaration
+      image: /images/Announcements/travel_declaration.jpg
   - infopic:
       title: "Distinctive Programme: Arts for Life and Community"
       description: "In Yishun Secondary School, Sonic Arts involves Music, Media and
