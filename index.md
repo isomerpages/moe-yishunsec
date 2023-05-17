@@ -31,6 +31,7 @@ sections:
       button: Read More...
       url: /travel-declaration/
       alt: Travel Declaration
+      image: /images/Announcements/travel_declaration.jpg
   - infopic:
       title: Letter to Parents
       description: YSS Annual Cross-Country Event...
