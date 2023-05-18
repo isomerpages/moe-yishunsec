@@ -2,7 +2,6 @@ collections:
   yss:
     output: true
     order:
-      - School Canteen.md
       - Principal's Message.md
       - About Us/.keep
       - About Us/Mission, vision and values.md
@@ -16,3 +15,4 @@ collections:
       - YSS Alumni.md
       - School Advisory Committee (SAC).md
       - Our Facilities.md
+      - School Canteen.md
