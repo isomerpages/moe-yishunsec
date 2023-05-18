@@ -9,7 +9,6 @@ description: ""
 | -------- | -------- | -------- |
 |      |      |     |
 |      |      |     |
-|      |      |     |
 
 ##### Application Procedure
 
@@ -29,7 +28,7 @@ description: ""
 * Contact Person: Ms Lim Siew Huay
 
 ##### How to get there?
-* Nearest MRT: Yishun MRT (NS13 line) – 10 minutes walking distance
+* Nearest MRT: Yishun MRT (NS13 line) – 15 minutes walking distance
 * Bus number: 800 & 807 - 1 minute walking distance
 
 ##### Interest applicants must meet the following criteria:
