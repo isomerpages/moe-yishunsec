@@ -8,15 +8,13 @@ description: ""
 #### Term 3 - WA 3
 
 **Sec 1**
-* 
-
+* [Term 3 Weighted Assessment Sec 1](/files/Weighted%20Assessment/2023/2023_term3_wa_sec1.pdf)
 
 **Sec 2**
-
-
+* [Term 3 Weighted Assessment Sec 2](/files/Weighted%20Assessment/2023/2023%20_term3_wa%20sec2.pdf)
 
 **Sec 3**
-
+* [Term 3 Weighted Assessment Sec 3](/files/Weighted%20Assessment/2023/2023%20_term3_wa%20sec3.pdf)
 
 
 **Sec 4 & 5**
