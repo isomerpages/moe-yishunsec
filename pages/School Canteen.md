@@ -7,8 +7,8 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-|      |      |     |
-|      |      |     |
+| Chinese Noodle Stall     |  16 Jun 2023    |     |
+| Halal Rice Stall     |  16 Jun 2023    |     |
 
 ##### Application Procedure
 
