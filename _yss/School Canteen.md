@@ -7,9 +7,8 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-|      |      |     |
-|      |      |     |
-|      |      |     |
+| Chinese Noodle Stall     |  16 Jun 2023    |     |
+| Halal Rice Stall     |  16 Jun 2023    |     |
 
 ##### Application Procedure
 
@@ -29,7 +28,7 @@ description: ""
 * Contact Person: Ms Lim Siew Huay
 
 ##### How to get there?
-* Nearest MRT: Yishun MRT (NS13 line) – 10 minutes walking distance
+* Nearest MRT: Yishun MRT (NS13 line) – 15 minutes walking distance
 * Bus number: 800 & 807 - 1 minute walking distance
 
 ##### Interest applicants must meet the following criteria:
