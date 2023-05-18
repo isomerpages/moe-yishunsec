@@ -7,8 +7,8 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Noodle Stall     |  16 Jun 2023    |     |
-| Halal Rice Stall     |  16 Jun 2023    |     |
+| Chinese Noodle Stall     |  16 Jun 2023    | Has catering experience. <br> Completed food and hygiene course.    |
+| Halal Rice Stall     |  16 Jun 2023    | Has catering experience. <br>Completed food and hygiene course.    |
 
 ##### Application Procedure
 
@@ -29,7 +29,7 @@ description: ""
 
 ##### How to get there?
 * Nearest MRT: Yishun MRT (NS13 line) – 15 minutes walking distance
-* Bus number: 800 & 807 - 1 minute walking distance
+* Bus number: 800 &amp; 807 - 1 minute walking distance
 
 ##### Interest applicants must meet the following criteria:
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
