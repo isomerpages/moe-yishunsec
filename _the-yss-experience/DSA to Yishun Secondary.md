@@ -5,8 +5,6 @@ description: ""
 ---
 ![](/images/yss-dsa.jpg)
 
-Click the link to register for [CCA Trial at YSS.](https://form.gov.sg/6438f48e9dd83a0012c03b48)
-
 #### General Information about Direct School Admission (Secondary) 2023
 
 The Direct School Admission-Secondary (DSA-Sec) scheme provides students with the opportunity to seek admission to a secondary school, based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the PSLE.
