@@ -6,6 +6,14 @@ description: ""
 2023
 --------------
 
+**June Holiday Homework 2023 - 23 May 2023**
+
+* [June Holiday Homework - Sec 1](/files/Announcements%20for%20Students/2023/june%20holiday%20hmwk%20-%20s1.pdf)
+* [June Holiday Homework - Sec 2](/files/Announcements%20for%20Students/2023/june%20holiday%20hmwk%20-%20s2.pdf)
+* [June Holiday Homework - Sec 3](/files/Announcements%20for%20Students/2023/june%20holiday%20hmwk%20-%20s3.pdf)
+* [June Holiday Homework - Sec 4 & 5](/files/Announcements%20for%20Students/2023/june%20hol%20hw%202023%20-%20s45.pdf)
+
+
 **March Holiday Homework 2023 - 6 Mar 2023**
 
 * [March Hol HW 2023 - S1](/files/Announcements%20for%20Students/2023/March%20Hol%20HW%202023%20-%20S1.pdf)
