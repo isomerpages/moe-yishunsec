@@ -27,73 +27,25 @@ tr:nth-child(even) {
 
 </style>
 
-<table>
-  <tbody><tr>
-    <th>S/N</th>
-    <th>Name of Activity / Competition</th>
-    <th>Description of the Activity / Competition</th>
-		<th>Achievements / Placing</th>
-		<th>Name / Class of students Involved</th>
-		<th>Department</th>
-		
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>NCC Unit Recognition 2022/2023</td>
-    <td>NCC Unit Recognition</td>
-		<td>Distinction</td>
-		<td>YSS NCC unit</td>
-		<td>CCA</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Outstanding Cadet Award</td>
-    <td>Outstanding Cadet Award</td>
-		<td>NCC OCA</td>
-		<td>MSG Brian Wu/ 4E1</td>
-		<td>CCA</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>72nd Cadet Officer Course</td>
-    <td>Cadet Officer (NCC)</td>
-		<td>2/LT (NCC)</td>
-		<td>MSG Charles Koh/ 4E5</td>
-		<td>CCA</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Singapore Kindness Movement</td>
-    <td>Kindness Badge Project</td>
-		<td>Kindness Badge Award</td>
-		<td>Sec 2 Senior cadets 2021/2022/2023</td>
-		<td>CCA</td>
-  </tr>
-	  <tr>
-    <td>5</td>
-    <td>PDS competition</td>
-    <td>PDS Competition (Central Preliminaries)</td>
-		<td>1st in Central District</td>
-		<td>YSS NCC PDS cadets</td>
-		<td>CCA</td>
-  </tr>
-		  <tr>
-    <td>6</td>
-    <td>ICEP 2022</td>
-    <td>NCC International Cadet Exchange Programme </td>
-		<td>PARTICIPATION</td>
-		<td>MSG ALFRED JONATHAN PAUL DEEPAK/ 4E4</td>
-		<td>CCA</td>
-  </tr>
-			  <tr>
-    <td>7</td>
-    <td>PDS course certification </td>
-    <td>42nd NCC ENHANCED PDS COURSE </td>
-		<td>Auxillary Instructor Certification</td>
-		<td>SSG LIM KAI JUN/ 4E4</td>
-		<td>CCA</td>
-  </tr>
-</tbody></table>
+
+
+| S/N | Name of Activity / Competition | Description of the Activity / Competition | Achievements / Placing | Name / Class of students Involved | Name / Department |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| 1     |  Fencing   | NSG Boys Individual Sabre      | 3rd Position     | Low De Jie Samuel - 3E2      | CCA     |
+| 2     | Track &amp; Field      | 3000 metres Walk B-Division Boys     | 12th Position     | P. Sarvesh - 4E1     | CCA     |
+| 3     | Track &amp; Field      | 1500 metres Walk C-Division Girls     | 8th Position     | Joy Tay Yoke Lin - 2 Seek     | CCA     |
+| 4     | Track &amp; Field     | 1500 metres Walk C-Division Boys     | 15th Position     | Teng You Wen - 1 Soar     | CCA     |
+| 5     | Track &amp; Field     | 1500 metres Walk C-Division Boys     | 8th Position     | Yeshvin A. C. Jeyaraj - 1 Respect     | CCA     |
+| 6     | Track &amp; Field     | 800 metres B-Division Boys     | 10th Position     | Shahril Azree Marekan B. - 4E5     | CCA     |
+| 7     | NCC Unit Recognition 2022/2023   | NCC Unit Recognition     | Distinction     | YSS NCC unit     | CCA     |
+| 8     | Outstanding Cadet Award   | Outstanding Cadet Award     | NCC OCA     | MSG Brian Wu/ 4E1     | CCA     |
+| 9     | 72nd Cadet Officer Course   | Cadet Officer (NCC)     | 2/LT (NCC)     | MSG Charles Koh/ 4E5     | CCA     |
+| 10     | Singapore Kindness Movement   | Kindness Badge Project     | Kindness Badge Award     | Sec 2 Senior cadets 2021/2022/2023     | CCA     |
+| 11     | PDS competition   | PDS Competition (Central Preliminaries)     | 1st in Central District     | YSS NCC PDS cadets     | CCA     |
+| 12     | ICEP 2022   | NCC International Cadet Exchange Programme     | PARTICIPATION     | MSG ALFRED JONATHAN PAUL DEEPAK/ 4E4     | CCA     |
+| 13     | PDS course certification   | 42nd NCC ENHANCED PDS COURSE     | Auxillary Instructor Certification     | SSG LIM KAI JUN/ 4E4     | CCA     |
+ 
+
 
 ![](/images/Accolades/Student/CCA/Pic-1.jpeg)
 
