@@ -26,13 +26,6 @@ sections:
       alt: Travel Declaration
       image: /images/Announcements/travel_declaration.jpg
   - infopic:
-      title: Direct School Admission to Yishun Secondary
-      description: More information on Direct School Admission to Yishun Secondary...
-      button: Read More...
-      alt: DSA in YSS
-      url: /the-yss-experience/dsa/
-      image: /images/yss-dsa.jpg
-  - infopic:
       title: Letter to Parents
       description: End of Term 2 2023...
       button: Read more...
@@ -40,6 +33,13 @@ sections:
       alt: Letter to parents
       subtitle: Announcements
       image: /images/announcement.jpg
+  - infopic:
+      title: Direct School Admission to Yishun Secondary
+      description: More information on Direct School Admission to Yishun Secondary...
+      button: Read More...
+      alt: DSA in YSS
+      url: /the-yss-experience/dsa/
+      image: /images/yss-dsa.jpg
   - infopic:
       title: "Distinctive Programme: Arts for Life and Community"
       description: In Yishun Secondary School, Sonic Arts involves Music, Media and
