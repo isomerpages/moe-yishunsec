@@ -17,7 +17,7 @@ description: ""
 * [Term 3 Weighted Assessment Sec 3](/files/Weighted%20Assessment/2023/2023_yss_wa_sec_3.pdf)
 
 **Sec 4 & 5**
-* [Term 3 Weighted Assessment Sec 4 & 5](/files/Weighted%20Assessment/2023/2023_yss_wa-sec%204_5.pdf)
+* [Term 3 Timed Practice Sec 4 & 5](/files/Weighted%20Assessment/2023/2023_yss_wa-sec%204_5.pdf)
 
 
 #### Term 2 - WA 2
