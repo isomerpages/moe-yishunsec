@@ -27,6 +27,19 @@ tr:nth-child(even) {
 
 </style>
 
+
+
+| S/N | Name of Activity / Competition | Description of the Activity / Competition | Achievements / Placing | Name / Class of students Involved | Name / Department |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| 1     |  Fencing   | NSG Boys Individual Sabre      | 3rd Position     | Low De Jie Samuel - 3E2      | CCA     |
+| 2     | Track &amp; Field      | 3000 metres Walk B-Division Boys     | 12th Position     | P. Sarvesh - 4E1     | CCA     |
+| 3     | Track &amp; Field      | 1500 metres Walk C-Division Girls     | 8th Position     | Joy Tay Yoke Lin - 2 Seek     | CCA     |
+| 4     | Track &amp; Field     | 1500 metres Walk C-Division Boys     | 15th Position     | Teng You Wen - 1 Soar     | CCA     |
+| 5     | Track &amp; Field     | Text     | Text     | Text     | Text     |
+| 6     | Track &amp; Field     | Text     | Text     | Text     | Text     |
+
+
+
 <table>
   <tbody><tr>
     <th>S/N</th>
