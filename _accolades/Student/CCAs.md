@@ -35,8 +35,8 @@ tr:nth-child(even) {
 | 2     | Track &amp; Field      | 3000 metres Walk B-Division Boys     | 12th Position     | P. Sarvesh - 4E1     | CCA     |
 | 3     | Track &amp; Field      | 1500 metres Walk C-Division Girls     | 8th Position     | Joy Tay Yoke Lin - 2 Seek     | CCA     |
 | 4     | Track &amp; Field     | 1500 metres Walk C-Division Boys     | 15th Position     | Teng You Wen - 1 Soar     | CCA     |
-| 5     | Track &amp; Field     | Text     | Text     | Text     | Text     |
-| 6     | Track &amp; Field     | Text     | Text     | Text     | Text     |
+| 5     | Track &amp; Field     | 1500 metres Walk C-Division Boys     | 8th Position     | Yeshvin A. C. Jeyaraj - 1 Respect     | CCA     |
+| 6     | Track &amp; Field     | 800 metres B-Division Boys     | 10th Position     | Shahril Azree Marekan B. - 4E5     | CCA     |
 
 
 
