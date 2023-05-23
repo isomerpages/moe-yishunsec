@@ -37,7 +37,13 @@ tr:nth-child(even) {
 | 4     | Track &amp; Field     | 1500 metres Walk C-Division Boys     | 15th Position     | Teng You Wen - 1 Soar     | CCA     |
 | 5     | Track &amp; Field     | 1500 metres Walk C-Division Boys     | 8th Position     | Yeshvin A. C. Jeyaraj - 1 Respect     | CCA     |
 | 6     | Track &amp; Field     | 800 metres B-Division Boys     | 10th Position     | Shahril Azree Marekan B. - 4E5     | CCA     |
-
+| 7     | NCC Unit Recognition 2022/2023   | NCC Unit Recognition     | Distinction     | YSS NCC unit     | CCA     |
+| 8     | Outstanding Cadet Award   | Outstanding Cadet Award     | NCC OCA     | MSG Brian Wu/ 4E1     | CCA     |
+| 9     | 72nd Cadet Officer Course   | Cadet Officer (NCC)     | 2/LT (NCC)     | MSG Charles Koh/ 4E5     | CCA     |
+| 10     | Singapore Kindness Movement   | Kindness Badge Project     | Kindness Badge Award     | Sec 2 Senior cadets 2021/2022/2023     | CCA     |
+| 11     | PDS competition   | PDS Competition (Central Preliminaries)     | 1st in Central District     | YSS NCC PDS cadets     | CCA     |
+| 12     | ICEP 2022   | NCC International Cadet Exchange Programme     | PARTICIPATION     | MSG ALFRED JONATHAN PAUL DEEPAK/ 4E4     | CCA     |
+| 13     | PDS course certification   | 42nd NCC ENHANCED PDS COURSE     | Auxillary Instructor Certification     | SSG LIM KAI JUN/ 4E4     | CCA     |
  
 _______
 
