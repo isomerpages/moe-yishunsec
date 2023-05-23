@@ -45,75 +45,7 @@ tr:nth-child(even) {
 | 12     | ICEP 2022   | NCC International Cadet Exchange Programme     | PARTICIPATION     | MSG ALFRED JONATHAN PAUL DEEPAK/ 4E4     | CCA     |
 | 13     | PDS course certification   | 42nd NCC ENHANCED PDS COURSE     | Auxillary Instructor Certification     | SSG LIM KAI JUN/ 4E4     | CCA     |
  
-_______
 
-<table>
-  <tbody><tr>
-    <th>S/N</th>
-    <th>Name of Activity / Competition</th>
-    <th>Description of the Activity / Competition</th>
-		<th>Achievements / Placing</th>
-		<th>Name / Class of students Involved</th>
-		<th>Department</th>
-		
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>NCC Unit Recognition 2022/2023</td>
-    <td>NCC Unit Recognition</td>
-		<td>Distinction</td>
-		<td>YSS NCC unit</td>
-		<td>CCA</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Outstanding Cadet Award</td>
-    <td>Outstanding Cadet Award</td>
-		<td>NCC OCA</td>
-		<td>MSG Brian Wu/ 4E1</td>
-		<td>CCA</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>72nd Cadet Officer Course</td>
-    <td>Cadet Officer (NCC)</td>
-		<td>2/LT (NCC)</td>
-		<td>MSG Charles Koh/ 4E5</td>
-		<td>CCA</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Singapore Kindness Movement</td>
-    <td>Kindness Badge Project</td>
-		<td>Kindness Badge Award</td>
-		<td>Sec 2 Senior cadets 2021/2022/2023</td>
-		<td>CCA</td>
-  </tr>
-	  <tr>
-    <td>5</td>
-    <td>PDS competition</td>
-    <td>PDS Competition (Central Preliminaries)</td>
-		<td>1st in Central District</td>
-		<td>YSS NCC PDS cadets</td>
-		<td>CCA</td>
-  </tr>
-		  <tr>
-    <td>6</td>
-    <td>ICEP 2022</td>
-    <td>NCC International Cadet Exchange Programme </td>
-		<td>PARTICIPATION</td>
-		<td>MSG ALFRED JONATHAN PAUL DEEPAK/ 4E4</td>
-		<td>CCA</td>
-  </tr>
-			  <tr>
-    <td>7</td>
-    <td>PDS course certification </td>
-    <td>42nd NCC ENHANCED PDS COURSE </td>
-		<td>Auxillary Instructor Certification</td>
-		<td>SSG LIM KAI JUN/ 4E4</td>
-		<td>CCA</td>
-  </tr>
-</tbody></table>
 
 ![](/images/Accolades/Student/CCA/Pic-1.jpeg)
 
