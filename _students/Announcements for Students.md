@@ -6,6 +6,10 @@ description: ""
 2023
 --------------
 
+**June Coursework Supplementary Lessons for Graduating Students - 24 May 2023**
+* [June Coursework Supplementary Lessons for Graduating Students](/files/Students/june%20coursework%20supplementary%20lessons%20for%20graduating%20students.pdf)
+
+
 **June Holiday Homework 2023 - 23 May 2023**
 
 * [June Holiday Homework - Sec 1](/files/Announcements%20for%20Students/2023/june%20holiday%20hmwk%20-%20s1.pdf)
