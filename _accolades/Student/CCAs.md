@@ -66,6 +66,7 @@ tr:nth-child(even) {
 
 2021
 ----------------------
+
 | S/N | Name of Activity / Competition | Description of the Activity / Competition | Achievements / Placing | Name / Class of students Involved | Name / Department |
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | 1     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment   | Concert Band      | CCA     |
