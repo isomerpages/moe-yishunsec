@@ -206,8 +206,6 @@ tr:nth-child(even) {
 
 #### Congratulations to our Secondary 2 students for achieving the Gold Award
 
-
-
 | Class | Name |
 | -------- | -------- |
 | 2E2     | CHLOE LIM KAI XIN     |
@@ -215,15 +213,9 @@ tr:nth-child(even) {
 | 2E2     | GOH HAN NAH     |
 | 2E3     | CHEYENNE YEW SHI EN     |
 
-
-
-The Historical Scene Investigation Challenge is an inter-school contest in which Lower Secondary students put their historical inquiry and research skills to the test.&nbsp;
-
+The Historical Scene Investigation Challenge is an inter-school contest in which Lower Secondary students put their historical inquiry and research skills to the test.
   
-
 This year, the challenge involves having students to investigate the historical significance of the Second World War in Singapore between 1942 to 1945. Each team was required to create a video to highlight their findings, along with a written report with cited sources.
-
-  
 
 We are proud to announce that the following students have been awarded ‘Gold.’ The Gold Award is presented to the top 40 teams out of the 170 entries that were submitted this year.
 
