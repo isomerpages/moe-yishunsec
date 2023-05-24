@@ -66,11 +66,12 @@ tr:nth-child(even) {
 
 2021
 ----------------------
+
 | S/N | Name of Activity / Competition | Description of the Activity / Competition | Achievements / Placing | Name / Class of students Involved | Name / Department |
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | 1     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment   | Concert Band      | CCA     |
-| 2     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment   | English Drama      | CCA     |
-| 3     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment   | Guzheng Ensemble      | CCA     |
+| 2     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment  | English Drama      | CCA     |
+| 3     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment  | Guzheng Ensemble      | CCA     |
 | 4     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Distinction   | Indian Dance      | CCA     |
 | 5     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Distinction   | Malay Dance      | CCA     |
 | 6     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Distinction   | Modern Dance      | CCA     |
