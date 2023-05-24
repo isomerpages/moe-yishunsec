@@ -30,32 +30,13 @@ tr:nth-child(even) {
 
 </style>
 
-<table>
-  <tbody><tr>
-    <th>Class</th>
-    <th>Name</th>
-    <th>L1B4</th>
-    <th>CCA</th>
-  </tr>
-  <tr>
-    <td>5N1</td>
-    <td>Han Hui Millicent</td>
-    <td>11</td>
-    <td>NPCC, Staff Sergeant</td>
-  </tr>
-  <tr>
-    <td>5N1</td>
-    <td>Akshaya D/O Elangovan</td>
-    <td>14</td>
-    <td>Indian Dance, Upper Sec CCA Executive Committee</td>
-  </tr>
-  <tr>
-    <td>5N1</td>
-    <td>Ravishankar Kavitha Deeptee Shivaanee</td>
-    <td>18</td>
-    <td>Indian Dance, Upper Sec CCA Executive Committee</td>
-  </tr>
-</tbody></table>
+
+
+| Class | Name | L1B4 | CCA |
+| -------- | -------- | -------- | -------- |
+| 5N1     | Han Hui Millicent     | 11     | NPCC, Staff Sergeant     |
+| 5N1     | Akshaya D/O Elangovan     | 14     | Indian Dance, Upper Sec CCA Executive Committee     |
+| 5N1     | Ravishankar Kavitha Deeptee Shivaanee     | 18     | Indian Dance, Upper Sec CCA Executive Committee     |
 
 ![](/images/5NA_1.jpeg)
 
