@@ -160,74 +160,19 @@ tr:nth-child(even) {
 
 #### 4NA students who achieved ELMAB3 &lt; 12
 
-<table>
-  <tbody><tr>
-    <th>Class</th>
-    <th>Name</th>
-    <th>EMB3</th>
-    <th>CCA</th>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Aaron Tan Weirong</td>
-    <td>7</td>
-    <td>Boy’s Brigade / Warrant Officer</td>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Toh Yong Qiang</td>
-    <td>9</td>
-    <td>NCDCC / Staff Sergeant</td>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Loh Zi Xiang</td>
-    <td>10</td>
-    <td>Boy’s Brigade / Warrant Officer</td>
-  </tr>
-  <tr>
-    <td>4N2</td>
-    <td>Shaun Ryan Koh Zhi Jie</td>
-    <td>10</td>
-    <td>NCDCC / Staff Sergeant</td>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Yap Zhao You, Bernard</td>
-    <td>11</td>
-    <td>NPCC / Lance Corporal</td>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Sivasundar Shailaja</td>
-    <td>12</td>
-    <td>Girl Guides / Asst. Squad IC</td>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Ang Rui Heng Rayson</td>
-    <td>12</td>
-    <td>Choir / Member</td>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Lien Jia Ee</td>
-    <td>12</td>
-    <td>Basketball / Member</td>
-  </tr>
-  <tr>
-    <td>4N2</td>
-    <td>Muhammad Ariff Bin Arman</td>
-    <td>12</td>
-    <td>NCDCC / Sergeant</td>
-  </tr>
-  <tr>
-    <td>4N3</td>
-    <td>Yeo Jun Yi , Justin</td>
-    <td>12</td>
-    <td>Boy’s Brigade / Sergeant</td>
-  </tr>
-</tbody></table>
+
+| Class | Name | EMB3 | CCA |
+| -------- | -------- | -------- | -------- |
+| 4N1     | Aaron Tan Weirong     | 7     | Boy’s Brigade / Warrant Officer     |
+| 4N1     | Toh Yong Qiang     | 9     | NCDCC / Staff Sergeant     |
+| 4N1     | Loh Zi Xiang     | 10     | Boy’s Brigade / Warrant Officer     |
+| 4N2     | Shaun Ryan Koh Zhi Jie     | 10     | NCDCC / Staff Sergeant     |
+| 4N1     | Yap Zhao You, Bernard     | 11     | NPCC / Lance Corporal     |
+| 4N1     | Sivasundar Shailaja     | 12     | Girl Guides / Asst. Squad IC     |
+| 4N1     | Ang Rui Heng Rayson     | 12     | Choir / Member     |
+| 4N1     | Lien Jia Ee     | 12     | Basketball / Member     |
+| 4N2     | Muhammad Ariff Bin Arman     | 12     | NCDCC / Sergeant     |
+| 4N3     | Yeo Jun Yi , Justin     | 12     | Boy’s Brigade / Sergeant     |
 
 ![](/images/4NA.png)
 
