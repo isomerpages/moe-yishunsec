@@ -207,28 +207,15 @@ tr:nth-child(even) {
 #### Congratulations to our Secondary 2 students for achieving the Gold Award
 
 
-<table>
-  <tbody><tr>
-    <th>Class</th>
-    <th>Name</th>
-  </tr>
-  <tr>
-    <td>2E2</td>
-    <td>CHLOE LIM KAI XIN</td>
-  </tr>
-  <tr>
-    <td>2E2</td>
-    <td>LOH QIAN TING </td>
-  </tr>
-  <tr>
-    <td>2E2</td>
-    <td>GOH HAN NAH</td>
-  </tr>
-  <tr>
-    <td>2E3</td>
-    <td>CHEYENNE YEW SHI EN</td>
-  </tr>
-</tbody></table>
+
+| Class | Name |
+| -------- | -------- |
+| 2E2     | CHLOE LIM KAI XIN     |
+| 2E2     | LOH QIAN TING      |
+| 2E2     | GOH HAN NAH     |
+| 2E3     | CHEYENNE YEW SHI EN     |
+
+
 
 The Historical Scene Investigation Challenge is an inter-school contest in which Lower Secondary students put their historical inquiry and research skills to the test.&nbsp;
 
