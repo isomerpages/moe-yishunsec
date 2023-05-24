@@ -107,24 +107,13 @@ tr:nth-child(even) {
 
 #### Eligibility for Higher Institutions
 
-<table>
-<tbody><tr>
-    <th>Level / Institutions</th>
-    <th>2022</th>
-  </tr>
-  <tr>
-    <td>4 Express Junior College or Pre U</td>
-    <td>79.5%</td>
-  </tr>
-  <tr>
-    <td>4 Express Polytechnics</td>
-    <td>94.2%</td>
-  </tr>
-  <tr>
-    <td>Sec 5 Normal Academic Polytechnics</td>
-    <td>75%</td>
-  </tr>
-</tbody></table>
+
+| Level / Institutions | 2022 |
+| -------- | -------- |
+| 4 Express Junior College or Pre U     | 79.5%     |
+| 4 Express Polytechnics     | 94.2%     |
+| Sec 5 Normal Academic Polytechnics     | 75%     |
+
 
 ### 2022 GCE N-Level Examination 4 Normal (Technical) Results
 
