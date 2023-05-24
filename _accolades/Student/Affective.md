@@ -40,33 +40,15 @@ tr:nth-child(even) {
 }
 
 </style>
-<table>
-  <tbody><tr>
-    <th>S/N</th>
-    <th>Name of Activity / Competition</th>
-    <th>Description of the Activity / Competition</th>
-    <th>Achievements / Placing</th>
-    <th>Name / Class of students Involved</th>
-    <th>Department</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>North West Outstanding School Partner Award (SPA) 2021</td>
-    <td>The award is given to schools that had participated actively in North West CDC programmes in 2020</td>
-    <td>GOLD</td>
-    <td>N.A.</td>
-    <td>CCE</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>The Lee Kuan Yew Award for All – Round Excellence (Primary)</td>
-    <td>To recognise well-rounded students who have excelled in both academic and non-academic spheres, and who exemplify the qualities articulated in the desired outcomes of education</td>
-    <td>Recipient of The Lee Kuan Yew Award for All – Round Excellence (Primary)</td>
-    <td>Yashwita 1N1</td>
-    <td>SDT</td>
-  </tr>
-</tbody></table>
 
+
+| S/N | Name of Activity / Competition | Description of the Activity / Competition | Achievements / Placing | Name / Class of students Involved | Department |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| 1     | North West Outstanding School Partner Award (SPA) 2021     | The award is given to schools that had participated actively in North West CDC programmes in 2020     | GOLD     | N.A.     | CCE     |
+| 2     | The Lee Kuan Yew Award for All – Round Excellence (Primary)     | To recognise well-rounded students who have excelled in both academic and non-academic spheres, and who exemplify the qualities articulated in the desired outcomes of education     | Recipient of The Lee Kuan Yew Award for All – Round Excellence (Primary)     | Yashwita 1N1     | SDT     |
+	
+		
+	
 <figure><img src="/images/Yashwita.jpeg" style="width:100%"><figcaption> Recipient of The Lee Kuan Yew Award for All – Round Excellence</figcaption></figure>
 
 **North West Outstanding School Partner Award (SPA) 2021**&nbsp;We are pleased to share that our school has achieved the Gold for North West Outstanding School Partner Award (SPA) 2021! The award is given to schools that had participated actively in North West CDC programmes in 2020. Our students, under the careful guidance of teachers, have shown acts of empathy and resilience to care for the vulnerable and less fortunate in the community, in their own little ways amid the unprecedented Covid-19 situation. We would like to take this opportunity to thank all teachers who have contributed their hard work and ‘heart’ work in guiding the students, while making every experience we have at school count! Let us continue to affirm the effort of our students in promoting a sustainable environment for all in the long run. Thank you! 

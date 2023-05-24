@@ -30,32 +30,13 @@ tr:nth-child(even) {
 
 </style>
 
-<table>
-  <tbody><tr>
-    <th>Class</th>
-    <th>Name</th>
-    <th>L1B4</th>
-    <th>CCA</th>
-  </tr>
-  <tr>
-    <td>5N1</td>
-    <td>Han Hui Millicent</td>
-    <td>11</td>
-    <td>NPCC, Staff Sergeant</td>
-  </tr>
-  <tr>
-    <td>5N1</td>
-    <td>Akshaya D/O Elangovan</td>
-    <td>14</td>
-    <td>Indian Dance, Upper Sec CCA Executive Committee</td>
-  </tr>
-  <tr>
-    <td>5N1</td>
-    <td>Ravishankar Kavitha Deeptee Shivaanee</td>
-    <td>18</td>
-    <td>Indian Dance, Upper Sec CCA Executive Committee</td>
-  </tr>
-</tbody></table>
+
+
+| Class | Name | L1B4 | CCA |
+| -------- | -------- | -------- | -------- |
+| 5N1     | Han Hui Millicent     | 11     | NPCC, Staff Sergeant     |
+| 5N1     | Akshaya D/O Elangovan     | 14     | Indian Dance, Upper Sec CCA Executive Committee     |
+| 5N1     | Ravishankar Kavitha Deeptee Shivaanee     | 18     | Indian Dance, Upper Sec CCA Executive Committee     |
 
 ![](/images/5NA_1.jpeg)
 
@@ -75,92 +56,21 @@ tr:nth-child(even) {
 #### 4E students who achieved L1R5 &lt; 12
 
 
-<table>
-  <tbody><tr>
-    <th>Class</th>
-    <th>Name</th>
-    <th>L1R5 / Distinction</th>
-    <th>CCA</th>
-  </tr>
-  <tr>
-    <td>4E1</td>
-    <td>Abdul Latheef Ainul Bina</td>
-    <td>8/6</td>
-    <td>D’Lite (English Drama), Upper Sec CCA Executive Committee</td>
-  </tr>
-  <tr>
-    <td>4E1</td>
-    <td>Cubita Dearon James Almirante</td>
-    <td>9/6</td>
-    <td>D’Lite (English Drama)</td>
-  </tr>
-  <tr>
-    <td>4E2</td>
-    <td>Toh Yi Xuan</td>
-    <td>9/7</td>
-    <td>Choir, Vice-Chairperson</td>
-  </tr>
-  <tr>
-    <td>4E2</td>
-    <td>Ng Yu Ki</td>
-    <td>9/7</td>
-    <td>Guzheng Ensemble</td>
-  </tr>
-  <tr>
-    <td>4E2</td>
-    <td>Heng Yik Hong</td>
-    <td>9/7</td>
-    <td>D’Lite (English Drama)</td>
-  </tr>
-  <tr>
-    <td>4E1</td>
-    <td>Nicholas Ng</td>
-    <td>10/6</td>
-    <td>Media, Chairperson</td>
-  </tr>
-  <tr>
-    <td>4E2</td>
-    <td>Veyshnavi D/O Sivaraman</td>
-    <td>10/5</td>
-    <td>D’Lite (English Drama)</td>
-  </tr>
-  <tr>
-    <td>4E2</td>
-    <td>Soon Yu Lun</td>
-    <td>10/7</td>
-    <td>Badminton, Upper Sec CCA Executive Committee</td>
-  </tr>
-  <tr>
-    <td>4E3</td>
-    <td>Chng Bo Sheng Brayden</td>
-    <td>10/5</td>
-    <td>Badminton, Captain</td>
-  </tr>
-  <tr>
-    <td>4E1</td>
-    <td>Mohammed Aaqil Bin Mohammed Rashid</td>
-    <td>11/6</td>
-    <td>NCDCC, Vice-Chairperson <br>Head Prefect</td>
-  </tr>
-  <tr>
-    <td>4E1</td>
-    <td>Toh Kai En Alena</td>
-    <td>12/4</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>4E2</td>
-    <td>Khng Jing Shan Rachel</td>
-    <td>12/5</td>
-    <td>Media, Chairperson</td>
-  </tr>
-  <tr>
-    <td>4E3</td>
-    <td>Teng Jie Ning</td>
-    <td>12/3</td>
-    <td>Basketball, Upper Sec CCA Executive Committee</td>
-  </tr>
-</tbody></table>
+| Class | Name | L1R5 / Distinction | CCA |
+| -------- | -------- | -------- | -------- |
+| 4E1    | Abdul Latheef Ainul Bina     | 8/6     | D’Lite (English Drama), Upper Sec CCA Executive Committee    |
+| 4E1     | Cubita Dearon James Almirante    | 9/6     | D’Lite (English Drama)     |
+| 4E2     | Toh Yi Xuan     | 9/7     | Choir, Vice-Chairperson    |
+| 4E2     | Ng Yu Ki     | 9/7     | Guzheng Ensemble     |
+| 4E2     | Heng Yik Hong     | 9/7     | D’Lite (English Drama)     |
+| 4E1     | Nicholas Ng     | 10/6     | Media, Chairperson     |
+| 4E2     | Veyshnavi D/O Sivaraman     | 10/5     | D’Lite (English Drama)     |
+| 4E2     | Soon Yu Lun     | 10/7     | Badminton, Upper Sec CCA Executive Committee     |
+| 4E3     | Chng Bo Sheng Brayden     | 10/5     | Badminton, Captain     |
+| 4E1     | Mohammed Aaqil Bin Mohammed Rashid     | 11/6     | NCDCC, Vice-Chairperson <br>Head Prefect     |
+| 4E1     | Toh Kai En Alena     | 12/4     | Media     |
+| 4E2     | Khng Jing Shan Rachel     | 12/5     | Media, Chairperson     |
+| 4E3     | Teng Jie Ning     | 12/3     | Basketball, Upper Sec CCA Executive Committee     |
 
 ![](/images/4E_1.jpeg)
 
@@ -197,24 +107,13 @@ tr:nth-child(even) {
 
 #### Eligibility for Higher Institutions
 
-<table>
-<tbody><tr>
-    <th>Level / Institutions</th>
-    <th>2022</th>
-  </tr>
-  <tr>
-    <td>4 Express Junior College or Pre U</td>
-    <td>79.5%</td>
-  </tr>
-  <tr>
-    <td>4 Express Polytechnics</td>
-    <td>94.2%</td>
-  </tr>
-  <tr>
-    <td>Sec 5 Normal Academic Polytechnics</td>
-    <td>75%</td>
-  </tr>
-</tbody></table>
+
+| Level / Institutions | 2022 |
+| -------- | -------- |
+| 4 Express Junior College or Pre U     | 79.5%     |
+| 4 Express Polytechnics     | 94.2%     |
+| Sec 5 Normal Academic Polytechnics     | 75%     |
+
 
 ### 2022 GCE N-Level Examination 4 Normal (Technical) Results
 
@@ -224,57 +123,16 @@ tr:nth-child(even) {
 #### 4NT students with 2 or more distinctions
 
 
-<table>
-  <tbody><tr>
-    <th>Class</th>
-    <th>Name</th>
-    <th>EMB1</th>
-    <th>Distinction</th>
-    <th>CCA</th>
-  </tr>
-  <tr>
-    <td>4T1</td>
-    <td>Lim Jin Huei Javier</td>
-    <td>4</td>
-    <td>BCL, MA, SC, CPA, RO</td>
-    <td>NCC(Land) / Staff Sergeant</td>
-  </tr>
-  <tr>
-    <td>4T1</td>
-    <td>Elfie Adrian Bin Mohammad Herianto</td>
-    <td>4</td>
-    <td>EL, BML, RO</td>
-    <td>NCDCC / Staff Sergeant</td>
-  </tr>
-  <tr>
-    <td>4T1</td>
-    <td>Halilah Binte Rashid</td>
-    <td>8</td>
-    <td>BML, CPA, MU</td>
-    <td>Malay Dance/ Chairperson</td>
-  </tr>
-  <tr>
-    <td>4T1</td>
-    <td>Leong Jia Qi</td>
-    <td>8</td>
-    <td>BCL, CPA</td>
-    <td>Netball / Member</td>
-  </tr>
-  <tr>
-    <td>4T1</td>
-    <td>Kieren Tan Hou Wen</td>
-    <td>8</td>
-    <td>BCL, CPA</td>
-    <td>Basketball / Member</td>
-  </tr>
-  <tr>
-    <td>4T1</td>
-    <td>Muhammad Irfan Bin Abdullah</td>
-    <td>7</td>
-    <td>BML, CPA</td>
-    <td>NCC(Land) / Sergeant</td>
-  </tr>
-</tbody></table>
+
+| Class | Name | EMB1 | Distinction | CCA |
+| -------- | -------- | -------- | -------- | -------- |
+| 4T1     | Lim Jin Huei Javier     | 4     | BCL, MA, SC, CPA, RO     | NCC(Land) / Staff Sergeant     |
+| 4T1     | Elfie Adrian Bin Mohammad Herianto     | 4     | EL, BML, RO     | NCDCC / Staff Sergeant     |
+| 4T1     | Halilah Binte Rashid     | 8    | BML, CPA, MU     | Malay Dance/ Chairperson     |
+| 4T1     | Leong Jia Qi     | 8     | BCL, CPA     | Netball / Member     |
+| 4T1     | Kieren Tan Hou Wen     | 8    | BCL, CPA     | Basketball / Member     |
+| 4T1     | Muhammad Irfan Bin Abdullah     | 7     | BML, CPA     | NCC(Land) / Sergeant     |
+
 
 ![](/images/4NT.png)
 
@@ -292,87 +150,29 @@ tr:nth-child(even) {
 
 #### Percentage of 4NA students eligible for promotion to 5NA
 ##### 2022
-<table>
-	  <tbody><tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>School %</td>
-    <td>74.7</td>
-  </tr>
-</tbody></table>
+
+|   |   |
+| -------- | -------- |
+|      |     |
+| School %     | 74.7     |
+
+
 
 #### 4NA students who achieved ELMAB3 &lt; 12
 
-<table>
-  <tbody><tr>
-    <th>Class</th>
-    <th>Name</th>
-    <th>EMB3</th>
-    <th>CCA</th>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Aaron Tan Weirong</td>
-    <td>7</td>
-    <td>Boy’s Brigade / Warrant Officer</td>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Toh Yong Qiang</td>
-    <td>9</td>
-    <td>NCDCC / Staff Sergeant</td>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Loh Zi Xiang</td>
-    <td>10</td>
-    <td>Boy’s Brigade / Warrant Officer</td>
-  </tr>
-  <tr>
-    <td>4N2</td>
-    <td>Shaun Ryan Koh Zhi Jie</td>
-    <td>10</td>
-    <td>NCDCC / Staff Sergeant</td>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Yap Zhao You, Bernard</td>
-    <td>11</td>
-    <td>NPCC / Lance Corporal</td>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Sivasundar Shailaja</td>
-    <td>12</td>
-    <td>Girl Guides / Asst. Squad IC</td>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Ang Rui Heng Rayson</td>
-    <td>12</td>
-    <td>Choir / Member</td>
-  </tr>
-  <tr>
-    <td>4N1</td>
-    <td>Lien Jia Ee</td>
-    <td>12</td>
-    <td>Basketball / Member</td>
-  </tr>
-  <tr>
-    <td>4N2</td>
-    <td>Muhammad Ariff Bin Arman</td>
-    <td>12</td>
-    <td>NCDCC / Sergeant</td>
-  </tr>
-  <tr>
-    <td>4N3</td>
-    <td>Yeo Jun Yi , Justin</td>
-    <td>12</td>
-    <td>Boy’s Brigade / Sergeant</td>
-  </tr>
-</tbody></table>
+
+| Class | Name | EMB3 | CCA |
+| -------- | -------- | -------- | -------- |
+| 4N1     | Aaron Tan Weirong     | 7     | Boy’s Brigade / Warrant Officer     |
+| 4N1     | Toh Yong Qiang     | 9     | NCDCC / Staff Sergeant     |
+| 4N1     | Loh Zi Xiang     | 10     | Boy’s Brigade / Warrant Officer     |
+| 4N2     | Shaun Ryan Koh Zhi Jie     | 10     | NCDCC / Staff Sergeant     |
+| 4N1     | Yap Zhao You, Bernard     | 11     | NPCC / Lance Corporal     |
+| 4N1     | Sivasundar Shailaja     | 12     | Girl Guides / Asst. Squad IC     |
+| 4N1     | Ang Rui Heng Rayson     | 12     | Choir / Member     |
+| 4N1     | Lien Jia Ee     | 12     | Basketball / Member     |
+| 4N2     | Muhammad Ariff Bin Arman     | 12     | NCDCC / Sergeant     |
+| 4N3     | Yeo Jun Yi , Justin     | 12     | Boy’s Brigade / Sergeant     |
 
 ![](/images/4NA.png)
 
@@ -406,37 +206,16 @@ tr:nth-child(even) {
 
 #### Congratulations to our Secondary 2 students for achieving the Gold Award
 
+| Class | Name |
+| -------- | -------- |
+| 2E2     | CHLOE LIM KAI XIN     |
+| 2E2     | LOH QIAN TING      |
+| 2E2     | GOH HAN NAH     |
+| 2E3     | CHEYENNE YEW SHI EN     |
 
-<table>
-  <tbody><tr>
-    <th>Class</th>
-    <th>Name</th>
-  </tr>
-  <tr>
-    <td>2E2</td>
-    <td>CHLOE LIM KAI XIN</td>
-  </tr>
-  <tr>
-    <td>2E2</td>
-    <td>LOH QIAN TING </td>
-  </tr>
-  <tr>
-    <td>2E2</td>
-    <td>GOH HAN NAH</td>
-  </tr>
-  <tr>
-    <td>2E3</td>
-    <td>CHEYENNE YEW SHI EN</td>
-  </tr>
-</tbody></table>
-
-The Historical Scene Investigation Challenge is an inter-school contest in which Lower Secondary students put their historical inquiry and research skills to the test.&nbsp;
-
+The Historical Scene Investigation Challenge is an inter-school contest in which Lower Secondary students put their historical inquiry and research skills to the test.
   
-
 This year, the challenge involves having students to investigate the historical significance of the Second World War in Singapore between 1942 to 1945. Each team was required to create a video to highlight their findings, along with a written report with cited sources.
-
-  
 
 We are proud to announce that the following students have been awarded ‘Gold.’ The Gold Award is presented to the top 40 teams out of the 170 entries that were submitted this year.
 

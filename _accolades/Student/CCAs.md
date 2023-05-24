@@ -56,194 +56,43 @@ tr:nth-child(even) {
 2022
 ----------------------
 
-<table>
-  <tbody><tr>
-    <th>S/N</th>
-    <th>Name of Activity / Competition</th>
-    <th>Description of the Activity / Competition</th>
-		<th>Achievements / Placing</th>
-		<th>Name / Class of students Involved</th>
-		<th>Department</th>
-		
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>NCC Unit Recognition 2022</td>
-    <td>NCC Unit Recognition</td>
-		<td>Distinction</td>
-		<td>YSS NCC unit</td>
-		<td>CCA</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Outstanding Cadet Award</td>
-    <td>Outstanding Cadet Award</td>
-		<td>NCC OCA</td>
-		<td>MSG Brian Wu/ 4E1</td>
-		<td>CCA</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>72nd Cadet Officer Course</td>
-    <td>Cadet Officer (NCC)</td>
-		<td>2/LT (NCC)</td>
-		<td>MSG Charles Koh/ 4E5</td>
-		<td>CCA</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Singapore Kindness Movement</td>
-    <td>Kindness Badge Project (Phase 1 and 2)</td>
-		<td>Kindness Badge Award</td>
-		<td>Sec 2 Senior cadets \[2022]</td>
-		<td>CCA</td>
-  </tr>
-</tbody></table>
+| S/N | Name of Activity / Competition | Description of the Activity / Competition | Achievements / Placing | Name / Class of students Involved | Name / Department |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| 1     |  NCC Unit Recognition 2022   | NCC Unit Recognition      | Distinction     | YSS NCC unit      | CCA     |
+| 2     | Outstanding Cadet Award      | Outstanding Cadet Award     | NCC OCA     | MSG Brian Wu/ 4E1     | CCA     |
+| 3     | 72nd Cadet Officer Course      | Cadet Officer (NCC)     | 2/LT (NCC)     | MSG Charles Koh/ 4E5     | CCA     |
+| 4     | Singapore Kindness Movement      | Kindness Badge Project (Phase 1 and 2)     | Kindness Badge Award     | Sec 2 Senior cadets (2022)    | CCA     |
 
 
 2021
 ----------------------
+| S/N | Name of Activity / Competition | Description of the Activity / Competition | Achievements / Placing | Name / Class of students Involved | Name / Department |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| 1     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment   | Concert Band      | CCA     |
+| 2     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment   | English Drama      | CCA     |
+| 3     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment   | Guzheng Ensemble      | CCA     |
+| 4     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Distinction   | Indian Dance      | CCA     |
+| 5     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Distinction   | Malay Dance      | CCA     |
+| 6     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Distinction   | Modern Dance      | CCA     |
+| 7     |  SPF-NPCC Badge   | Pinnacle award for NPCC    | SPF-NPCC Badge   | SSGT (NPCC) Priyakumar Hari Krishna      | CCA     |
+| 8     |  North Division Day 2021   | Plog it, capture it, collage it competition    | 1st   | Girl Guides      | CCA     |
+| 9     |  North Division Day 2021   | Funky Zoom Dance competition    | 2nd   | Girl Guides      | CCA     |
+| 10     |  North Division Day 2021   | Girls have talent! competition   | 3rd   | Girl Guides      | CCA     |
 
-<table>
-
-  <tbody><tr>
-    <th>S/N</th>
-    <th>Name of Activity / Competition</th>
-    <th>Description of the Activity / Competition</th>
-		<th>Achievements / Placing</th>
-		<th>Name / Class of students Involved</th>
-		<th>Department</th>
-	</tr>
-  <tr>
-    <td>1</td>
-    <td>2021 SYF Arts Presentation</td>
-    <td>2021 SYF Arts Presentation</td>
-		<td>Accomplishment</td>
-		<td>Concert Band</td>
-		<td>CCA</td>
-  </tr>
-	  <tr>
-    <td>2</td>
-    <td>2021 SYF Arts Presentation</td>
-    <td>2021 SYF Arts Presentation</td>
-		<td>Accomplishment</td>
-		<td>English Drama</td>
-		<td>CCA</td>
-  </tr>
-	  <tr>
-    <td>3</td>
-    <td>2021 SYF Arts Presentation</td>
-    <td>2021 SYF Arts Presentation</td>
-		<td>Accomplishment</td>
-		<td>Guzheng Ensemble</td>
-		<td>CCA</td>
-  </tr>
-		<tr>
-    <td>4</td>
-    <td>2021 SYF Arts Presentation</td>
-    <td>2021 SYF Arts Presentation</td>
-		<td>Distinction</td>
-		<td>Indian Dance</td>
-		<td>CCA</td>
-  </tr>
-	<tr>
-    <td>5</td>
-    <td>2021 SYF Arts Presentation</td>
-    <td>2021 SYF Arts Presentation</td>
-		<td>Distinction</td>
-		<td>Malay Dance</td>
-		<td>CCA</td>
-  </tr>
-	<tr>
-    <td>6</td>
-    <td>2021 SYF Arts Presentation</td>
-    <td>2021 SYF Arts Presentation</td>
-		<td>Distinction</td>
-		<td>Modern Dance</td>
-		<td>CCA</td>
-  </tr>
-	<tr>
-    <td>7</td>
-    <td>SPF-NPCC Badge</td>
-    <td>Pinnacle award for NPCC</td>
-		<td>SPF-NPCC Badge</td>
-		<td>SSGT (NPCC) Priyakumar Hari Krishna</td>
-		<td>CCA</td>
-  </tr>
-	<tr>
-    <td>8</td>
-    <td>North Division Day 2021</td>
-    <td>Plog it, capture it, collage it competition</td>
-		<td>1st</td>
-		<td>Girl Guides</td>
-		<td>CCA</td>
-  </tr>
-	<tr>
-    <td>9</td>
-    <td>North Division Day 2021</td>
-    <td>Funky Zoom Dance competition</td>
-		<td>2nd</td>
-		<td>Girl Guides</td>
-		<td>CCA</td>
-  </tr>
-	<tr>
-    <td>10</td>
-    <td>North Division Day 2021</td>
-    <td>Girls have talent! competition</td>
-		<td>3rd</td>
-		<td>Girl Guides</td>
-		<td>CCA</td>
-  </tr>
-
-</tbody></table>
 
 
 ### 2021 SYF Arts Presentation Results
 
 
-<table>
-  <tbody><tr>
-    <td>Choir</td>
-    <td>There is no certification for choir, participating schools will receive adjudicators’ report</td>
-  </tr>
-	<tr>
-    <td>Concert Band</td>
-    <td>Accomplishment Video:<br><a href="https://youtu.be/udzPVQBSAFY">
-			FLEXIBLE BAND BCS 233 YSS A </a><br><a href="https://youtu.be/g3uW7z2WVOM">
-			FLEXIBLE BAND_BCS 062_YSS (B)</a>
-		</td>
-  </tr>
-		<tr>
-    <td>English Drama</td>
-    <td>Accomplishment Video:<br><a href="https://youtu.be/Z8RLtz1P8g4">
-			DRAMA_DRS 069_YSS (A)</a><br><a href="https://youtu.be/2ols0zbpg3U">
-			DRAMA_DRS 040_YSS (B)</a>
-		</td>
-  </tr>
-		<tr>
-    <td>Guzheng Ensemble</td>
-    <td>Accomplishment Video:<br><a href="https://youtu.be/9-jR4g1N2pw">
-			GUZHENG_GZS 023_YSS </a>
-		</td>
-  </tr>
-		<tr>
-    <td>Indian Dance</td>
-    <td>Distinction</td>
-  </tr>
-			<tr>
-    <td>Malay Dance</td>
-    <td>Distinction Video:<br><a href="https://youtu.be/zct53kU5COw">
-			MALAY DANCE_MLDS 035_YSS </a>
-		</td>
-  </tr>
-			<tr>
-    <td>Modern Dance</td>
-    <td>Distinction Video:<br><a href="https://youtu.be/EVI50aCCQOs">
-			INTERNATIONAL DANCE_ITDS 123_YSS </a></td>
-  </tr>
-			
-</tbody></table>
-
+|  |  |
+| -------- | -------- |
+| Choir     | There is no certification for choir, participating schools will receive adjudicators’ report     |
+| Concert Band     | Accomplishment Video: <br>[FLEXIBLE BAND BCS 233 YSS A](https://youtu.be/udzPVQBSAFY)  <br> [FLEXIBLE BAND BCS 062 YSS (B)](https://youtu.be/g3uW7z2WVOM)  |
+| English Drama     | Accomplishment Video:<br>[DRAMA DRS 069 YSS (A)](https://youtu.be/Z8RLtz1P8g4) <br> [DRAMA DRS 040 YSS (B)](https://youtu.be/2ols0zbpg3U)    |
+| Guzheng Ensemble     | Accomplishment Video:<br> [GUZHENG GZS 023 YSS](https://youtu.be/9-jR4g1N2pw)    |
+| Indian Dance     | Distinction     |
+| Malay Dance     | Distinction Video:<br> [MALAY DANCE MLDS 035 YSS](https://youtu.be/zct53kU5COw)     |
+| Modern Dance     | Distinction Video:<br>  [INTERNATIONAL DANCE ITDS 123 YSS](https://youtu.be/EVI50aCCQOs)    |
 
 
 
