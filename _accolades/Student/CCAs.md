@@ -66,6 +66,19 @@ tr:nth-child(even) {
 
 2021
 ----------------------
+| S/N | Name of Activity / Competition | Description of the Activity / Competition | Achievements / Placing | Name / Class of students Involved | Name / Department |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| 1     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment   | Concert Band      | CCA     |
+| 2     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment   | English Drama      | CCA     |
+| 3     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment   | Guzheng Ensemble      | CCA     |
+| 4     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Distinction   | Indian Dance      | CCA     |
+| 5     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Distinction   | Malay Dance      | CCA     |
+| 6     |  T   | T    | T   | T      | CCA     |
+| 7     |  T   | T    | T   | T      | CCA     |
+| 8     |  T   | T    | T   | T      | CCA     |
+| 9     |  T   | T    | T   | T      | CCA     |
+| 10     |  T   | T    | T   | T      | CCA     |
+
 
 <table>
 
@@ -77,38 +90,7 @@ tr:nth-child(even) {
 		<th>Name / Class of students Involved</th>
 		<th>Department</th>
 	</tr>
-  <tr>
-    <td>1</td>
-    <td>2021 SYF Arts Presentation</td>
-    <td>2021 SYF Arts Presentation</td>
-		<td>Accomplishment</td>
-		<td>Concert Band</td>
-		<td>CCA</td>
-  </tr>
-	  <tr>
-    <td>2</td>
-    <td>2021 SYF Arts Presentation</td>
-    <td>2021 SYF Arts Presentation</td>
-		<td>Accomplishment</td>
-		<td>English Drama</td>
-		<td>CCA</td>
-  </tr>
-	  <tr>
-    <td>3</td>
-    <td>2021 SYF Arts Presentation</td>
-    <td>2021 SYF Arts Presentation</td>
-		<td>Accomplishment</td>
-		<td>Guzheng Ensemble</td>
-		<td>CCA</td>
-  </tr>
-		<tr>
-    <td>4</td>
-    <td>2021 SYF Arts Presentation</td>
-    <td>2021 SYF Arts Presentation</td>
-		<td>Distinction</td>
-		<td>Indian Dance</td>
-		<td>CCA</td>
-  </tr>
+
 	<tr>
     <td>5</td>
     <td>2021 SYF Arts Presentation</td>
