@@ -150,16 +150,13 @@ tr:nth-child(even) {
 
 #### Percentage of 4NA students eligible for promotion to 5NA
 ##### 2022
-<table>
-	  <tbody><tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>School %</td>
-    <td>74.7</td>
-  </tr>
-</tbody></table>
+
+|   |   |
+| -------- | -------- |
+|      |     |
+| School %     | 74.7     |
+
+
 
 #### 4NA students who achieved ELMAB3 &lt; 12
 
