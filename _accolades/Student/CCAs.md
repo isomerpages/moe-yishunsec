@@ -84,49 +84,15 @@ tr:nth-child(even) {
 ### 2021 SYF Arts Presentation Results
 
 
-<table>
-  <tbody><tr>
-    <td>Choir</td>
-    <td>There is no certification for choir, participating schools will receive adjudicators’ report</td>
-  </tr>
-	<tr>
-    <td>Concert Band</td>
-    <td>Accomplishment Video:<br><a href="https://youtu.be/udzPVQBSAFY">
-			FLEXIBLE BAND BCS 233 YSS A </a><br><a href="https://youtu.be/g3uW7z2WVOM">
-			FLEXIBLE BAND_BCS 062_YSS (B)</a>
-		</td>
-  </tr>
-		<tr>
-    <td>English Drama</td>
-    <td>Accomplishment Video:<br><a href="https://youtu.be/Z8RLtz1P8g4">
-			DRAMA_DRS 069_YSS (A)</a><br><a href="https://youtu.be/2ols0zbpg3U">
-			DRAMA_DRS 040_YSS (B)</a>
-		</td>
-  </tr>
-		<tr>
-    <td>Guzheng Ensemble</td>
-    <td>Accomplishment Video:<br><a href="https://youtu.be/9-jR4g1N2pw">
-			GUZHENG_GZS 023_YSS </a>
-		</td>
-  </tr>
-		<tr>
-    <td>Indian Dance</td>
-    <td>Distinction</td>
-  </tr>
-			<tr>
-    <td>Malay Dance</td>
-    <td>Distinction Video:<br><a href="https://youtu.be/zct53kU5COw">
-			MALAY DANCE_MLDS 035_YSS </a>
-		</td>
-  </tr>
-			<tr>
-    <td>Modern Dance</td>
-    <td>Distinction Video:<br><a href="https://youtu.be/EVI50aCCQOs">
-			INTERNATIONAL DANCE_ITDS 123_YSS </a></td>
-  </tr>
-			
-</tbody></table>
-
+|  |  |
+| -------- | -------- |
+| Choir     | There is no certification for choir, participating schools will receive adjudicators’ report     |
+| Concert Band     | Accomplishment Video: <br>[FLEXIBLE BAND BCS 233 YSS A](https://youtu.be/udzPVQBSAFY)  <br> [FLEXIBLE BAND BCS 062 YSS (B)](https://youtu.be/g3uW7z2WVOM)  |
+| English Drama     | Accomplishment Video:<br>[DRAMA DRS 069 YSS (A)](https://youtu.be/Z8RLtz1P8g4) <br> [DRAMA DRS 040 YSS (B)](https://youtu.be/2ols0zbpg3U)    |
+| Guzheng Ensemble     | Accomplishment Video:<br> [GUZHENG GZS 023 YSS](https://youtu.be/9-jR4g1N2pw)    |
+| Indian Dance     | Distinction     |
+| Malay Dance     | Distinction Video:<br> [MALAY DANCE MLDS 035 YSS](https://youtu.be/zct53kU5COw)     |
+| Modern Dance     | Distinction Video:<br>  [INTERNATIONAL DANCE ITDS 123 YSS](https://youtu.be/EVI50aCCQOs)    |
 
 
 
