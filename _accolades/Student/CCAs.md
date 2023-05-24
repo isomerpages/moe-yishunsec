@@ -56,49 +56,12 @@ tr:nth-child(even) {
 2022
 ----------------------
 
-<table>
-  <tbody><tr>
-    <th>S/N</th>
-    <th>Name of Activity / Competition</th>
-    <th>Description of the Activity / Competition</th>
-		<th>Achievements / Placing</th>
-		<th>Name / Class of students Involved</th>
-		<th>Department</th>
-		
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>NCC Unit Recognition 2022</td>
-    <td>NCC Unit Recognition</td>
-		<td>Distinction</td>
-		<td>YSS NCC unit</td>
-		<td>CCA</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Outstanding Cadet Award</td>
-    <td>Outstanding Cadet Award</td>
-		<td>NCC OCA</td>
-		<td>MSG Brian Wu/ 4E1</td>
-		<td>CCA</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>72nd Cadet Officer Course</td>
-    <td>Cadet Officer (NCC)</td>
-		<td>2/LT (NCC)</td>
-		<td>MSG Charles Koh/ 4E5</td>
-		<td>CCA</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Singapore Kindness Movement</td>
-    <td>Kindness Badge Project (Phase 1 and 2)</td>
-		<td>Kindness Badge Award</td>
-		<td>Sec 2 Senior cadets \[2022]</td>
-		<td>CCA</td>
-  </tr>
-</tbody></table>
+| S/N | Name of Activity / Competition | Description of the Activity / Competition | Achievements / Placing | Name / Class of students Involved | Name / Department |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| 1     |  NCC Unit Recognition 2022   | NCC Unit Recognition      | Distinction     | YSS NCC unit      | CCA     |
+| 2     | Outstanding Cadet Award      | Outstanding Cadet Award     | NCC OCA     | MSG Brian Wu/ 4E1     | CCA     |
+| 3     | 72nd Cadet Officer Course      | Cadet Officer (NCC)     | 2/LT (NCC)     | MSG Charles Koh/ 4E5     | CCA     |
+| 4     | Singapore Kindness Movement      | Kindness Badge Project (Phase 1 and 2)     | Kindness Badge Award     | Sec 2 Senior cadets (2022)    | CCA     |
 
 
 2021
