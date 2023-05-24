@@ -69,24 +69,6 @@ tr:nth-child(even) {
 
 | S/N | Name of Activity / Competition | Description of the Activity / Competition | Achievements / Placing | Name / Class of students Involved | Name / Department |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| 1     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation      | Accomplishment     | Concert Band	      | CCA     |
-| 2     | 2021 SYF Arts Presentation      | 2021 SYF Arts Presentation     | Accomplishment     | English Drama     | CCA     |
-| 3     | 2021 SYF Arts Presentation      | 2021 SYF Arts Presentation     | Accomplishment     | Guzheng Ensemble     | CCA     |
-| 4     | 2021 SYF Arts Presentation      | 2021 SYF Arts Presentation     | Distinction     | Indian Dance    | CCA     |
-| 5     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation      | Distinction     | Malay Dance      | CCA     |
-| 6     | 2021 SYF Arts Presentation      | 2021 SYF Arts Presentation     | Distinction     | Modern Dance     | CCA     |
-| 7     | SPF-NPCC Badge      | Pinnacle award for NPCC     | SPF-NPCC Badge     | SSGT (NPCC) Priyakumar Hari Krishna     | CCA     |
-| 8     | North Division Day 2021      | Plog it, capture it, collage it competition     | 1st     | Girl Guides    | CCA     |
-| 9     |  North Division Day 2021   | Funky Zoom Dance competition      | 2nd     | Girl Guides      | CCA     |
-| 10     | North Division Day 2021      | Girls have talent! competition     | 3rd     | Girl Guides     | CCA     |
-
-
-
-2021
-----------------------
-
-| S/N | Name of Activity / Competition | Description of the Activity / Competition | Achievements / Placing | Name / Class of students Involved | Name / Department |
-| -------- | -------- | -------- | -------- | -------- | -------- |
 | 1     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment   | Concert Band      | CCA     |
 | 2     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment  | English Drama      | CCA     |
 | 3     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment  | Guzheng Ensemble      | CCA     |
