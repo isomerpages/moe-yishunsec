@@ -123,57 +123,16 @@ tr:nth-child(even) {
 #### 4NT students with 2 or more distinctions
 
 
-<table>
-  <tbody><tr>
-    <th>Class</th>
-    <th>Name</th>
-    <th>EMB1</th>
-    <th>Distinction</th>
-    <th>CCA</th>
-  </tr>
-  <tr>
-    <td>4T1</td>
-    <td>Lim Jin Huei Javier</td>
-    <td>4</td>
-    <td>BCL, MA, SC, CPA, RO</td>
-    <td>NCC(Land) / Staff Sergeant</td>
-  </tr>
-  <tr>
-    <td>4T1</td>
-    <td>Elfie Adrian Bin Mohammad Herianto</td>
-    <td>4</td>
-    <td>EL, BML, RO</td>
-    <td>NCDCC / Staff Sergeant</td>
-  </tr>
-  <tr>
-    <td>4T1</td>
-    <td>Halilah Binte Rashid</td>
-    <td>8</td>
-    <td>BML, CPA, MU</td>
-    <td>Malay Dance/ Chairperson</td>
-  </tr>
-  <tr>
-    <td>4T1</td>
-    <td>Leong Jia Qi</td>
-    <td>8</td>
-    <td>BCL, CPA</td>
-    <td>Netball / Member</td>
-  </tr>
-  <tr>
-    <td>4T1</td>
-    <td>Kieren Tan Hou Wen</td>
-    <td>8</td>
-    <td>BCL, CPA</td>
-    <td>Basketball / Member</td>
-  </tr>
-  <tr>
-    <td>4T1</td>
-    <td>Muhammad Irfan Bin Abdullah</td>
-    <td>7</td>
-    <td>BML, CPA</td>
-    <td>NCC(Land) / Sergeant</td>
-  </tr>
-</tbody></table>
+
+| Class | Name | EMB1 | Distinction | CCA |
+| -------- | -------- | -------- | -------- | -------- |
+| 4T1     | Lim Jin Huei Javier     | 4     | BCL, MA, SC, CPA, RO     | NCC(Land) / Staff Sergeant     |
+| 4T1     | Elfie Adrian Bin Mohammad Herianto     | 4     | EL, BML, RO     | NCDCC / Staff Sergeant     |
+| 4T1     | Halilah Binte Rashid     | 8    | BML, CPA, MU     | Malay Dance/ Chairperson     |
+| 4T1     | Leong Jia Qi     | 8     | BCL, CPA     | Netball / Member     |
+| 4T1     | Kieren Tan Hou Wen     | 8    | BCL, CPA     | Basketball / Member     |
+| 4T1     | Muhammad Irfan Bin Abdullah     | 7     | BML, CPA     | NCC(Land) / Sergeant     |
+
 
 ![](/images/4NT.png)
 
