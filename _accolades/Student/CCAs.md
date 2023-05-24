@@ -69,6 +69,24 @@ tr:nth-child(even) {
 
 | S/N | Name of Activity / Competition | Description of the Activity / Competition | Achievements / Placing | Name / Class of students Involved | Name / Department |
 | -------- | -------- | -------- | -------- | -------- | -------- |
+| 1     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation      | Accomplishment     | Concert Band	      | CCA     |
+| 2     | 2021 SYF Arts Presentation      | 2021 SYF Arts Presentation     | NCC OCA     | MSG Brian Wu/ 4E1     | CCA     |
+| 3     | 2021 SYF Arts Presentation      | 2021 SYF Arts Presentation     | 2/LT (NCC)     | MSG Charles Koh/ 4E5     | CCA     |
+| 4     | 2021 SYF Arts Presentation      | 2021 SYF Arts Presentation     | Kindness Badge Award     | Sec 2 Senior cadets (2022)    | CCA     |
+| 5     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation      | Distinction     | YSS NCC unit      | CCA     |
+| 6     | 2021 SYF Arts Presentation      | 2021 SYF Arts Presentation     | NCC OCA     | MSG Brian Wu/ 4E1     | CCA     |
+| 7     | SPF-NPCC Badge      | Pinnacle award for NPCC     | 2/LT (NCC)     | MSG Charles Koh/ 4E5     | CCA     |
+| 8     | North Division Day 2021      | Plog it, capture it, collage it competition     | Kindness Badge Award     | Sec 2 Senior cadets (2022)    | CCA     |
+| 9     |  North Division Day 2021   | Funky Zoom Dance competition      | Distinction     | YSS NCC unit      | CCA     |
+| 10     | North Division Day 2021      | Girls have talent! competition     | NCC OCA     | MSG Brian Wu/ 4E1     | CCA     |
+
+
+
+2021
+----------------------
+
+| S/N | Name of Activity / Competition | Description of the Activity / Competition | Achievements / Placing | Name / Class of students Involved | Name / Department |
+| -------- | -------- | -------- | -------- | -------- | -------- |
 | 1     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment   | Concert Band      | CCA     |
 | 2     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment  | English Drama      | CCA     |
 | 3     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment  | Guzheng Ensemble      | CCA     |
