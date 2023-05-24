@@ -73,74 +73,12 @@ tr:nth-child(even) {
 | 3     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Accomplishment   | Guzheng Ensemble      | CCA     |
 | 4     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Distinction   | Indian Dance      | CCA     |
 | 5     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Distinction   | Malay Dance      | CCA     |
-| 6     |  T   | T    | T   | T      | CCA     |
-| 7     |  T   | T    | T   | T      | CCA     |
-| 8     |  T   | T    | T   | T      | CCA     |
-| 9     |  T   | T    | T   | T      | CCA     |
-| 10     |  T   | T    | T   | T      | CCA     |
+| 6     |  2021 SYF Arts Presentation   | 2021 SYF Arts Presentation    | Distinction   | Modern Dance      | CCA     |
+| 7     |  SPF-NPCC Badge   | Pinnacle award for NPCC    | SPF-NPCC Badge   | SSGT (NPCC) Priyakumar Hari Krishna      | CCA     |
+| 8     |  North Division Day 2021   | Plog it, capture it, collage it competition    | 1st   | Girl Guides      | CCA     |
+| 9     |  North Division Day 2021   | Funky Zoom Dance competition    | 2nd   | Girl Guides      | CCA     |
+| 10     |  North Division Day 2021   | Girls have talent! competition   | 3rd   | Girl Guides      | CCA     |
 
-
-<table>
-
-  <tbody><tr>
-    <th>S/N</th>
-    <th>Name of Activity / Competition</th>
-    <th>Description of the Activity / Competition</th>
-		<th>Achievements / Placing</th>
-		<th>Name / Class of students Involved</th>
-		<th>Department</th>
-	</tr>
-
-	<tr>
-    <td>5</td>
-    <td>2021 SYF Arts Presentation</td>
-    <td>2021 SYF Arts Presentation</td>
-		<td>Distinction</td>
-		<td>Malay Dance</td>
-		<td>CCA</td>
-  </tr>
-	<tr>
-    <td>6</td>
-    <td>2021 SYF Arts Presentation</td>
-    <td>2021 SYF Arts Presentation</td>
-		<td>Distinction</td>
-		<td>Modern Dance</td>
-		<td>CCA</td>
-  </tr>
-	<tr>
-    <td>7</td>
-    <td>SPF-NPCC Badge</td>
-    <td>Pinnacle award for NPCC</td>
-		<td>SPF-NPCC Badge</td>
-		<td>SSGT (NPCC) Priyakumar Hari Krishna</td>
-		<td>CCA</td>
-  </tr>
-	<tr>
-    <td>8</td>
-    <td>North Division Day 2021</td>
-    <td>Plog it, capture it, collage it competition</td>
-		<td>1st</td>
-		<td>Girl Guides</td>
-		<td>CCA</td>
-  </tr>
-	<tr>
-    <td>9</td>
-    <td>North Division Day 2021</td>
-    <td>Funky Zoom Dance competition</td>
-		<td>2nd</td>
-		<td>Girl Guides</td>
-		<td>CCA</td>
-  </tr>
-	<tr>
-    <td>10</td>
-    <td>North Division Day 2021</td>
-    <td>Girls have talent! competition</td>
-		<td>3rd</td>
-		<td>Girl Guides</td>
-		<td>CCA</td>
-  </tr>
-
-</tbody></table>
 
 
 ### 2021 SYF Arts Presentation Results
