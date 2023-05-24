@@ -56,92 +56,21 @@ tr:nth-child(even) {
 #### 4E students who achieved L1R5 &lt; 12
 
 
-<table>
-  <tbody><tr>
-    <th>Class</th>
-    <th>Name</th>
-    <th>L1R5 / Distinction</th>
-    <th>CCA</th>
-  </tr>
-  <tr>
-    <td>4E1</td>
-    <td>Abdul Latheef Ainul Bina</td>
-    <td>8/6</td>
-    <td>D’Lite (English Drama), Upper Sec CCA Executive Committee</td>
-  </tr>
-  <tr>
-    <td>4E1</td>
-    <td>Cubita Dearon James Almirante</td>
-    <td>9/6</td>
-    <td>D’Lite (English Drama)</td>
-  </tr>
-  <tr>
-    <td>4E2</td>
-    <td>Toh Yi Xuan</td>
-    <td>9/7</td>
-    <td>Choir, Vice-Chairperson</td>
-  </tr>
-  <tr>
-    <td>4E2</td>
-    <td>Ng Yu Ki</td>
-    <td>9/7</td>
-    <td>Guzheng Ensemble</td>
-  </tr>
-  <tr>
-    <td>4E2</td>
-    <td>Heng Yik Hong</td>
-    <td>9/7</td>
-    <td>D’Lite (English Drama)</td>
-  </tr>
-  <tr>
-    <td>4E1</td>
-    <td>Nicholas Ng</td>
-    <td>10/6</td>
-    <td>Media, Chairperson</td>
-  </tr>
-  <tr>
-    <td>4E2</td>
-    <td>Veyshnavi D/O Sivaraman</td>
-    <td>10/5</td>
-    <td>D’Lite (English Drama)</td>
-  </tr>
-  <tr>
-    <td>4E2</td>
-    <td>Soon Yu Lun</td>
-    <td>10/7</td>
-    <td>Badminton, Upper Sec CCA Executive Committee</td>
-  </tr>
-  <tr>
-    <td>4E3</td>
-    <td>Chng Bo Sheng Brayden</td>
-    <td>10/5</td>
-    <td>Badminton, Captain</td>
-  </tr>
-  <tr>
-    <td>4E1</td>
-    <td>Mohammed Aaqil Bin Mohammed Rashid</td>
-    <td>11/6</td>
-    <td>NCDCC, Vice-Chairperson <br>Head Prefect</td>
-  </tr>
-  <tr>
-    <td>4E1</td>
-    <td>Toh Kai En Alena</td>
-    <td>12/4</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>4E2</td>
-    <td>Khng Jing Shan Rachel</td>
-    <td>12/5</td>
-    <td>Media, Chairperson</td>
-  </tr>
-  <tr>
-    <td>4E3</td>
-    <td>Teng Jie Ning</td>
-    <td>12/3</td>
-    <td>Basketball, Upper Sec CCA Executive Committee</td>
-  </tr>
-</tbody></table>
+| Class | Name | L1R5 / Distinction | CCA |
+| -------- | -------- | -------- | -------- |
+| 4E1    | Abdul Latheef Ainul Bina     | 8/6     | D’Lite (English Drama), Upper Sec CCA Executive Committee    |
+| 4E1     | Cubita Dearon James Almirante    | 9/6     | D’Lite (English Drama)     |
+| 4E2     | Toh Yi Xuan     | 9/7     | Choir, Vice-Chairperson    |
+| 4E2     | Ng Yu Ki     | 9/7     | Guzheng Ensemble     |
+| 4E2     | Heng Yik Hong     | 9/7     | D’Lite (English Drama)     |
+| 4E1     | Nicholas Ng     | 10/6     | Media, Chairperson     |
+| 4E2     | Veyshnavi D/O Sivaraman     | 10/5     | D’Lite (English Drama)     |
+| 4E2     | Soon Yu Lun     | 10/7     | Badminton, Upper Sec CCA Executive Committee     |
+| 4E3     | Chng Bo Sheng Brayden     | 10/5     | Badminton, Captain     |
+| 4E1     | Mohammed Aaqil Bin Mohammed Rashid     | 11/6     | NCDCC, Vice-Chairperson <br>Head Prefect     |
+| 4E1     | Toh Kai En Alena     | 12/4     | Media     |
+| 4E2     | Khng Jing Shan Rachel     | 12/5     | Media, Chairperson     |
+| 4E3     | Teng Jie Ning     | 12/3     | Basketball, Upper Sec CCA Executive Committee     |
 
 ![](/images/4E_1.jpeg)
 
