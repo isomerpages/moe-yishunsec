@@ -82,7 +82,6 @@ tr:nth-child(even) {
 
 
 
-
 ### 2021 SYF Arts Presentation Results
 
 
