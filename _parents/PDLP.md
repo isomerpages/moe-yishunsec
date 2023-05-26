@@ -3,16 +3,15 @@ title: PDLP
 permalink: /parents/pdlp/
 description: ""
 ---
-
 ### PDLP Student Device Information Kit
 * [Student Information Kit](/files/Parents/PDLP/pdlp%20student%20device%20information%20kit.pdf)
 
 
-### DMA guide for parents
+### DMA Option guide for parents
 
-*   [DMA Parent Guide v2 - Default Chrome OS](/files/HBL/DMA%20Parent%20Guide%20v2%20-%20Default%20Chrome%20OS.pdf)
-*   [DMA Parent Guide v2 - Option A Chrome OS](/files/HBL/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20Chrome%20OS.pdf)
-*   [DMA Parent Guide v2- Option B Chrome OS](/files/HBL/DMA%20Parent%20Guide%20v2-%20Option%20B%20Chrome%20OS.pdf)
+*   [DMA Parent Guide - Default Option](/files/HBL/DMA%20Parent%20Guide%20v2%20-%20Default%20Chrome%20OS.pdf)
+*   [DMA Parent Guide - Option A](/files/HBL/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20Chrome%20OS.pdf)
+*   [DMA Parent Guide - Option B](/files/HBL/DMA%20Parent%20Guide%20v2-%20Option%20B%20Chrome%20OS.pdf)
 
 
 ### Service Centre Details
