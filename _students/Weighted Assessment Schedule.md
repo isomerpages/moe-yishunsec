@@ -11,7 +11,7 @@ description: ""
 * [Term 3 Weighted Assessment Sec 1](/files/Weighted%20Assessment/2023/2023_yss_wa_sec_1.pdf)
 
 **Sec 2**
-* [Term 3 Weighted Assessment Sec 2](/files/Weighted%20Assessment/2023/2023_yss_wa-sec_2.pdf)
+* [Term 3 Weighted Assessment Sec 2](/files/Weighted%20Assessment/2023/2023_yss_wa_term3_sec2.pdf)
 
 **Sec 3**
 * [Term 3 Weighted Assessment Sec 3](/files/Weighted%20Assessment/2023/2023_yss_wa_sec_3.pdf)
