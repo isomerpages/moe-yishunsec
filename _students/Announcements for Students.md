@@ -5,8 +5,8 @@ description: ""
 ---
 2023
 --------------
-**2023 CCA Schedule for June Holidays - 25 May 2023**
-* [CCA Schedule for June Holidays 2023](/files/Announcements%20for%20Students/2023/2023%20cca%20june%20holiday%20schedule.pdf)
+**2023 CCA Schedule for June Holidays - 29 May 2023**
+* [CCA Schedule for June Holidays 2023](/files/Announcements%20for%20Students/2023/2023%20cca%20june%20holiday%20schedule-v2.pdf)
 
 
 **June Coursework Supplementary Lessons for Graduating Students - 25 May 2023**
