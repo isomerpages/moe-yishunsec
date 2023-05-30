@@ -8,6 +8,10 @@ third_nav_title: Student
 
 2023
 -----------------------
+
+![](/images/Accolades/Student/CCA/fencing_prize_winner.jpeg)
+
+
 <style>
 table {
   font-family: arial, sans-serif;
