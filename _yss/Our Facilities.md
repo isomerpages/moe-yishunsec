@@ -74,7 +74,6 @@ Music Room
 <figure><img src="/images/YSS/musiclab.jpg"><figcaption>Music Lab</figcaption></figure> 
 
 
-
 School Canteen
 -----------------
 <figure><img src="/images/YSS/canteen-1.png"><figcaption>Canteen</figcaption></figure>
