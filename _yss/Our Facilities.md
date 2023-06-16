@@ -33,6 +33,8 @@ PE Venues
 
 <figure><img src="/images/YSS/ParadeSquare.jpg"><figcaption>Parade Square</figcaption></figure> 
 
+<figure><img src="/images/YSS/football_field-2.jpg"><figcaption>Football Field</figcaption></figure>
+
 <figure><img src="/images/YSS/SchoolHall.png"><figcaption>School Hall</figcaption></figure> 
 
 
@@ -70,6 +72,8 @@ Music Room
 <figure><img src="/images/YSS/Music_Room.jpg"><figcaption>Music Room</figcaption></figure>
 
 <figure><img src="/images/YSS/musiclab.jpg"><figcaption>Music Lab</figcaption></figure> 
+
+
 
 School Canteen
 -----------------
