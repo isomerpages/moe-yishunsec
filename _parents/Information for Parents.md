@@ -5,7 +5,7 @@ description: ""
 ---
 #### [Letter to Parents](/parents/info-for-parents/letters/)
 
-#### [2023 Sem 2 Teacher Timetable]([](/files/Timetables/Teachers%20Timetable/teachertimetablesem2_2023-v1.pdf)
+#### [2023 Sem 2 Teacher Timetable]((/files/Timetables/Teachers%20Timetable/teachertimetablesem2_2023-v1.pdf)
 
 #### [Form Teachers List for 2023](/parents/info-for-parents/ft-list/)
 
