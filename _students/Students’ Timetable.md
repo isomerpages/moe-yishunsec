@@ -21,5 +21,6 @@ description: ""
 #### Sec 5
 * [Sec 5 Class Timetable Sem 2 2023](/files/Timetables/Students%20Timetable/sec5classtimetablesem2_2023-v1.pdf)
 
+__________________________________________________________
 
 *updated on 23 Jun 2023*
