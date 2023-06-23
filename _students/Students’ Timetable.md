@@ -16,10 +16,10 @@ description: ""
 * [Sec 3 Class Timetable Sem 2 2023](/files/Timetables/Students%20Timetable/sec3classtimetablesem2_2023-v1.pdf)
 
 #### Sec 4
-* [Sec 4 Class Timetable Sem 2 2023](/files/Timetables/Students%20Timetable/sec4classtimetablesem2_2023-v1.pdf)
+* [Sec 4 Class Timetable Sem 2 2023](/files/Timetables/Students%20Timetable/sec4classtimetablesem2_2023-v3.pdf)
 
 #### Sec 5
-* [Sec 5 Class Timetable Sem 2 2023](/files/Timetables/Students%20Timetable/sec5classtimetablesem2_2023-v1.pdf)
+* [Sec 5 Class Timetable Sem 2 2023](/files/Timetables/Students%20Timetable/sec5classtimetablesem2_2023-v3.pdf)
 
 __________________________________________________________
 
