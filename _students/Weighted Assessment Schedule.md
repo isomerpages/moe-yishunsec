@@ -19,6 +19,8 @@ description: ""
 **Sec 4 & 5**
 * [Term 3 Timed Practice Sec 4 & 5](/files/Weighted%20Assessment/2023/t3_timedpractice_sec_4_5.pdf)
 
+
+*updated 24 Jun 2023*
 _______________
 
 #### Term 2 - WA 2
