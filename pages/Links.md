@@ -43,7 +43,7 @@ tr:nth-child(even) {
     <td><a href="https://intranet.moe.gov.sg/">MOE Intranet</a></td>  
   </tr>
   <tr>
-    <td><a href="/files/Timetables/Teachers%20Timetable/teacher%20tt%20sem%202%202023.pdf">Teacher's Timetable</a></td>
+    <td><a href="/files/Timetables/Teachers%20Timetable/teacher%20tt%20sem%202%202023-v5.pdf">Teacher's Timetable</a></td>
    <td><a href="https://schoolcockpit.moe.gov.sg">School Cockpit</a></td>
   </tr>
   <tr>
