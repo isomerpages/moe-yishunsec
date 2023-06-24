@@ -19,6 +19,7 @@ description: ""
 **Sec 4 & 5**
 * [Term 3 Timed Practice Sec 4 & 5](/files/Weighted%20Assessment/2023/t3_timedpractice_sec_4_5.pdf)
 
+_______________
 
 #### Term 2 - WA 2
 
@@ -34,6 +35,9 @@ description: ""
 **Sec 4 & 5**
 * [Term 2 Weighted Assessment Sec 4 & 5](/files/Weighted%20Assessment/2023/wa_sec_4and5_term2-2023.pdf)
 
+___________________
+
+
 #### Term 1 - WA 1
 
 **Sec 1**
@@ -48,6 +52,7 @@ description: ""
 **Sec 4 & 5**
 * [Term 1 Weighted Assessment - Sec 4 & 5](/files/Weighted%20Assessment/2023/Term%201%20Weighted%20Assessment%20-%20Sec%204_5%202023.pdf)
 
+_____________________
 
 2022
 ------------------
