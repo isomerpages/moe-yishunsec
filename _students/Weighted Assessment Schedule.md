@@ -8,16 +8,16 @@ description: ""
 #### Term 3 - WA 3
 
 **Sec 1**
-* [Term 3 Weighted Assessment Sec 1](/files/Weighted%20Assessment/2023/2023_yss_wa_sec_1.pdf)
+* [Term 3 Weighted Assessment Sec 1](/files/Weighted%20Assessment/2023/t3-wa3_sec_1_2023.pdf)
 
 **Sec 2**
-* [Term 3 Weighted Assessment Sec 2](/files/Weighted%20Assessment/2023/2023_yss_wa_term3_sec2.pdf)
+* [Term 3 Weighted Assessment Sec 2](/files/Weighted%20Assessment/2023/t3-wa3_sec_2_2023.pdf)
 
 **Sec 3**
-* [Term 3 Weighted Assessment Sec 3](/files/Weighted%20Assessment/2023/2023_yss_wa_sec_3.pdf)
+* [Term 3 Weighted Assessment Sec 3](/files/Weighted%20Assessment/2023/t3-wa3_sec_3_2023.pdf)
 
 **Sec 4 & 5**
-* [Term 3 Timed Practice Sec 4 & 5](/files/Weighted%20Assessment/2023/2023_yss_wa-sec%204_5.pdf)
+* [Term 3 Timed Practice Sec 4 & 5](/files/Weighted%20Assessment/2023/t3_timedpractice_sec_4_5.pdf)
 
 
 #### Term 2 - WA 2
