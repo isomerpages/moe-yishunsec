@@ -18,14 +18,6 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
-      title: Travel Declaration
-      subtitle: Announcements
-      description: For Mid-Year Holidays 2023
-      button: Read More...
-      url: /travel-declaration/
-      alt: Travel Declaration
-      image: /images/Announcements/travel_declaration.jpg
-  - infopic:
       title: Letter to Parents
       description: End of Term 2 - 2023...
       button: Read more...
