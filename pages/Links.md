@@ -120,11 +120,10 @@ tr:nth-child(even) {
 | [ICT Service Request Page](https://docs.google.com/forms/d/e/1FAIpQLSeQdaUI35ybm2E5qBBW9xt5UaJvYVnPruYeL1g0Ap9DkuzggA/viewform)     | [SLS Portal](https://vle.learning.moe.edu.sg/login)     |
 | [Facility Fault Reporting](https://docs.google.com/forms/d/e/1FAIpQLSd52mydVEfx2QhCPHOXRD-yRCEafEGhia4KYrlwbvMtkA84Cw/viewform)     | [MOE Intranet](https://intranet.moe.gov.sg/)     |
 | [Teacher's Timetable](https://www.yishunsec.moe.edu.sg/files/Timetables/Teachers%20Timetable/teacher_tt_sem_2_2023-v7.pdf)     | [School Cockpit](https://schoolcockpit.moe.gov.sg/)     |
+| [Timetable by Venue](https://www.yishunsec.moe.edu.sg/files/Timetables/VenueTT/venues_tt_sem_2_2023-v3.pdf)     | [ICON Email 2.0](https://icon.moe.edu.sg/home)     |
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
-| Text     | Text     |
-
