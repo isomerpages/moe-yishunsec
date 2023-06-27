@@ -124,6 +124,15 @@ tr:nth-child(even) {
 |[Class Timetable](https://www.yishunsec.moe.edu.sg/students/timetable/)      | [HRP](https://www.hrp.gov.sg/)     |
 | [PLD Portal](https://www.yishunsec.moe.edu.sg/parents/pdlp/)     | [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)     |
 | [Student ICON Email](https://workspace.google.com/dashboard)     | [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)     |
+| [Student Referral Form](https://forms.gle/9wJdoyP5tusj8sCD9)     | [iExam 2](https://iexams.seab.gov.sg/login)     |
+| [Teacher's Discipline Referral Tool](https://forms.gle/h1LCqd5BAWhcsMaG7)     | [LEARN](https://learn.gov.sg/)    |
+| [Announcements for Students](https://www.yishunsec.moe.edu.sg/students/announcements/)     | [SSOE 2 Portal](https://ssoe2.moe.edu.sg/sp)     |
+| [MOE Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)     | [MOE Sports &amp; Recreation Club](https://www.mesrc.net/)     |
+|      | [FormSG](https://form.gov.sg/)     |
+|      | [Go.gov.sg (for shorten URL &amp; QR code)](https://go.gov.sg/)     |
+|      | Text     |
+| Text     | Text     |
+| Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
