@@ -121,9 +121,9 @@ tr:nth-child(even) {
 | [Facility Fault Reporting](https://docs.google.com/forms/d/e/1FAIpQLSd52mydVEfx2QhCPHOXRD-yRCEafEGhia4KYrlwbvMtkA84Cw/viewform)     | [MOE Intranet](https://intranet.moe.gov.sg/)     |
 | [Teacher's Timetable](https://www.yishunsec.moe.edu.sg/files/Timetables/Teachers%20Timetable/teacher_tt_sem_2_2023-v7.pdf)     | [School Cockpit](https://schoolcockpit.moe.gov.sg/)     |
 | [Timetable by Venue](https://www.yishunsec.moe.edu.sg/files/Timetables/VenueTT/venues_tt_sem_2_2023-v3.pdf)     | [ICON Email 2.0](https://icon.moe.edu.sg/home)     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
+|[Class Timetable](https://www.yishunsec.moe.edu.sg/students/timetable/)      | [HRP](https://www.hrp.gov.sg/)     |
+| [PLD Portal](https://www.yishunsec.moe.edu.sg/parents/pdlp/)     | [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)     |
+| [Student ICON Email](https://workspace.google.com/dashboard)     | [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)     |
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
