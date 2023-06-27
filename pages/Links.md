@@ -130,9 +130,8 @@ tr:nth-child(even) {
 | [MOE Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)     | [MOE Sports &amp; Recreation Club](https://www.mesrc.net/)     |
 |      | [FormSG](https://form.gov.sg/)     |
 |      | [Go.gov.sg (for shorten URL &amp; QR code)](https://go.gov.sg/)     |
-|      | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
+|      | [MySkillFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)     |
+|      | [NLB Learning &amp; Information Literacy Resources](https://sure.nlb.gov.sg/)     |
+|      | [Haze Situation Update](https://www.haze.gov.sg/)     |
+|      | [Ministry of Health](https://www.moh.gov.sg/)     |
+|      | [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)    |
