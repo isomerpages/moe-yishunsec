@@ -5,9 +5,9 @@ description: ""
 ---
 #### Information Booklet
 
-* [Information Boolket for Express 2022](/files/Sec%202%20Subject%20Combinations/Yishun%20Secondary%20School%20Information%20Booket%20for%20Express_2022.pdf)
-* [Information Booket for NA 2022](/files/Sec%202%20Subject%20Combinations/Yishun%20Secondary%20School%20Information%20Booket%20for%20NA_2022.pdf)
-* [Information Booket for NT 2022](/files/Sec%202%20Subject%20Combinations/Yishun%20Secondary%20School%20Information%20Booket%20for%20NT_2022.pdf)
+* [Information Booklet for Express 2022](/files/Sec%202%20Subject%20Combinations/Yishun%20Secondary%20School%20Information%20Booket%20for%20Express_2022.pdf)
+* [Information Booklet for NA 2022](/files/Sec%202%20Subject%20Combinations/Yishun%20Secondary%20School%20Information%20Booket%20for%20NA_2022.pdf)
+* [Information Booklet for NT 2022](/files/Sec%202%20Subject%20Combinations/Yishun%20Secondary%20School%20Information%20Booket%20for%20NT_2022.pdf)
 
 #### Briefing Slides
 
