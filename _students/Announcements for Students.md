@@ -16,15 +16,15 @@ description: ""
 * [Sec 4NA Prelim Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%204na%20prelim%20exam%20format%20and%20topics.pdf)
 * [Sec 4NT Prelim Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%204nt%20prelim%20exam%20format%20and%20topics%20(updated%204%20jul).pdf)
 
-**2023 Sec 1 to 3 EoY Exam TimeTable - 05 Jun 2023**
+**2023 Sec 1 to 3 EOY Exam TimeTable - 05 Jun 2023**
 * [Sec 1 to 3 End of Year Exam TimeTable](/files/Announcements%20for%20Students/2023/sec%201-3%20eoy%20exam_timetable_2023.pdf)
 
-**2023 Sec 3 EoY Exam Format and Topics - 04 Jul 2023**
+**2023 Sec 3 EOY Exam Format and Topics - 04 Jul 2023**
 * [2023 Sec 3E EOY Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%203e%20eoy%20exam%20format%20and%20topics%20(updated%204%20jul).pdf)
 * [2023 Sec 3N EOY Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%203n%20eoy%20exam%20format%20and%20topics.pdf)
 * [2023 Sec 3T EOY Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%203t%20eoy%20exam%20format%20and%20topics%20(updated%204%20jul).pdf)
 
-**2023 Sec 1 & 2 EoY Exam Format and Topics - 04 Jul 2023**
+**2023 Sec 1 & 2 EOY Exam Format and Topics - 04 Jul 2023**
 * [2023 Sec 1 EOY Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%201%20eoy%20exam%20format%20and%20topics.pdf)
 * [2023 Sec 2 EOY Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%202%20eoy%20exam%20format%20and%20topics%20(updated%204%20jul).pdf)
 
