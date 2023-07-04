@@ -26,7 +26,7 @@ description: ""
 
 **2023 Sec 1 & 2 EoY Exam Format and Topics - 19 Jun 2023**
 * [2023 Sec 1 EOY Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%201%20eoy%20exam%20format%20and%20topics.pdf)
-* [2023 Sec 2 EOY Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%202%20eoy%20exam%20format%20and%20topics.pdf)
+* [2023 Sec 2 EOY Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%202%20eoy%20exam%20format%20and%20topics%20(updated%204%20jul).pdf)
 
 
 **2023 CCA Schedule for June Holidays - 29 May 2023**
