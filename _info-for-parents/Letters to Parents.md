@@ -5,6 +5,11 @@ description: ""
 ---
 2023
 --------------
+##### Term 3
+* [Letter to Parents - Term 3 - 05 July 2023](/files/Letter%20to%20Parents/letter%20to%20parents%20-%20term%203.pdf)
+
+
+
 
 ##### Term 2
 * [End of Term 2 2023 - 24 May 2023](/files/Letter%20to%20Parents/end_of_term_2_2023.pdf)
