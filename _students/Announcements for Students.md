@@ -6,7 +6,7 @@ description: ""
 2023
 --------------
 **2023 Sec 4 & 5 Night Study Schedule**
-* [Sec 4 & 5 night study schedule](/files/Announcements%20for%20Students/2023/2023%20sec%204_5%20night%20study%20schedule.pdf)
+* [Sec 4 & 5 night study schedule](/files/Announcements%20for%20Students/2023/2023%20sec%204_5%20night%20study%20schedule-v2.pdf)
 
 **2023 Sec 4 & 5 Prelim-Exam TimeTable - 05 Jun 2023**
 * [Prelim Exam Timetable - Sec 4&5](/files/Announcements%20for%20Students/2023/prelim-exam_timetable-sec-4&5_2023.pdf)
