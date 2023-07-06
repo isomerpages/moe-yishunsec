@@ -4,9 +4,9 @@ permalink: /cca/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports and Games
 ---
+![](/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_2023.JPG)
 
-
-![](/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_2023.JPG)### Teacher-in-charge
+### Teacher-in-charge
 * Mr Li Bin (I/C)
 * Ms Madeline Wong
 * Mr Lee Chye Sheng
