@@ -25,6 +25,4 @@ ______________________________________
 3. The single-tier miscellaneous fee will be deducted from your child/ward’s Edusave if authorisation had been given earlier to use his/her Edusave Account to pay the second-tier miscellaneous fee. No action is required from you. 
 4. If your child/ward is currently not using the Edusave Account and you wish to use Edusave to pay for the single-tier miscellaneous fee, you can sign up through the Edusave Standing Order (SO) icon under the Services tab in Parents Gateway (PG) app, or through https://go.gov.sg/moe-edusave-signup.  Alternatively, you may continue to pay via GIRO or other e-payment options available. 
 5. If your child/ward is under the MOE FAS from 2024, it will fully cover the single-tier miscellaneous fee.  
-6. The guide on setting up the Edusave SO in PG is in the attached file. For further clarification, please contact Ms Apple Tan at 6876 7129.
-
-
+6. The guide on setting up the Edusave SO in PG is in the attached file. For further clarification, please contact **Ms Apple Tan** at **6876 7129**.
