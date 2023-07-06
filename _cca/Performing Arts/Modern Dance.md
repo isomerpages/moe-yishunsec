@@ -4,6 +4,9 @@ permalink: /cca/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
+
+![](/images/StudDevelopment/CCAs/PerformingArts/ModernDance/modern%20dance_2023.JPG)
+
 <figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance1.jpg"><figcaption>S24 competition</figcaption></figure>
 
 ### Teacher-in-charge
