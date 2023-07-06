@@ -27,7 +27,8 @@ ______________________________________
 5. If your child/ward is under the MOE FAS from 2024, it will fully cover the single-tier miscellaneous fee.  
 6. The guide on setting up the Edusave SO in PG is in the attached file. For further clarification, please contact **Ms Apple Tan** at **6876 7129**.
 
-Web link: [https://go.gov.sg/moe-edusave-fas2023](https://go.gov.sg/moe-edusave-fas2023)
+**Web link:** [https://go.gov.sg/moe-edusave-fas2023](https://go.gov.sg/moe-edusave-fas2023)
 
+**Attachments:**
 * [Where to find Edusave Standing Order](/files/Parents/where%20to%20find%20edusave%20standing%20order.pdf)
 * [Annex](/files/Parents/annex-pdf.pdf)
