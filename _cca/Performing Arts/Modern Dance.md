@@ -4,10 +4,7 @@ permalink: /cca/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 ![](/images/StudDevelopment/CCAs/PerformingArts/ModernDance/modern%20dance_2023.JPG)
-
-<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance1.jpg"><figcaption>S24 competition</figcaption></figure>
 
 ### Teacher-in-charge
 * Mrs Ng Yulin (I/C)
@@ -90,6 +87,8 @@ tr:nth-child(even) {
 *"Modern dance has taught me many values such as perseverance and teamwork. I have learnt that I should always aim to do my best during training and performances. Events such as Super 24 gave me the exposure to perform on a public stage which allows me to grow as a dancer. My coach, teachers-in-charge, and friends are always there to encourage me and push me beyond my limits. Overall, I enjoy my time in the modern dance club. "*
 
 <div style="text-align:right">Poh Shae Qi, Phoebe (2022)</div>
+
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance1.jpg"><figcaption>S24 competition</figcaption></figure>
 
 <figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance2.jpg"></figure>
 
