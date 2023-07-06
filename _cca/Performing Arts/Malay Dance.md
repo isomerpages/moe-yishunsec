@@ -4,6 +4,9 @@ permalink: /cca/performing-arts/malay-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
+
+![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/malay%20dance_2023.JPG)
+
 ### Teacher-in-charge
 * Ms Nur Firdaus Ghazali (I/C)
 * Ms Shahidah Borhan
