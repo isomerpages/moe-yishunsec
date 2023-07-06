@@ -4,6 +4,10 @@ permalink: /cca/sports-and-games/basketball/
 description: ""
 third_nav_title: Sports and Games
 ---
+![](/images/StudDevelopment/CCAs/SportsGames/Basketball/basketball%20(boys)_2023.JPG)
+
+![](/images/StudDevelopment/CCAs/SportsGames/Basketball/basketball%20(girls)_2023.JPG)
+
 ### Teacher-in-charge
 * Mr. Tan Hong Peng 
 * Ms. Yvonne Tay 
@@ -80,9 +84,3 @@ tr:nth-child(even) {
 * 2013 North Zone Basketball Competition - ‘B’ Division boys emerged as 4th
 * 2012 North Zone Basketball Championship - ‘C' Division girls emerged as 2nd Runner Up
 * 2010 National Basketball Championship - ‘B' Division boys emerged as 2nd Runner Up
-
-### Photos
-
-<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Basketball/B-Division-Basketball-Team-Boys.jpg"><figcaption>YSS ‘B’ Boys Basketball Team</figcaption></figure>
-
-<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Basketball/KC2_5133_Basketball-Girls_P1.jpg"><figcaption>YSS ‘B’ Girls Basketball Team</figcaption></figure>
