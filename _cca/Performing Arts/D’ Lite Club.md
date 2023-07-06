@@ -4,6 +4,8 @@ permalink: /cca/performing-arts/dlite-club/
 description: ""
 third_nav_title: Performing Arts
 ---
+![](/images/StudDevelopment/CCAs/PerformingArts/DliteClub/english%20drama_2023.JPG)
+
 ### Teacher-in-charge
 * Mdm Malar Velee Perusal (IC)
 * Mr Jonathan Ong
