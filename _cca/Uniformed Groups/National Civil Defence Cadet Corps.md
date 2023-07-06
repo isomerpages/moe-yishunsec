@@ -4,6 +4,8 @@ permalink: /cca/uniformed-groups/ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/ncdcc_2023.JPG)
+
 ### Teacher-in-charge	
 * Mr Zakir Hussain (OIC)
 * Ms Pak Wanni
