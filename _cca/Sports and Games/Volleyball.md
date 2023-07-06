@@ -4,6 +4,8 @@ permalink: /cca/sports-and-games/volleyball/
 description: ""
 third_nav_title: Sports and Games
 ---
+![](/images/StudDevelopment/CCAs/SportsGames/Volleyball/volleyball_2023.JPG)
+
 ### Teacher-in-charge
 * Mr Jeremy Loy (I/C)
 * Ms Zarina
