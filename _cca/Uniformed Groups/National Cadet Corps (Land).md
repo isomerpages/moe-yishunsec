@@ -4,6 +4,8 @@ permalink: /cca/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+![](/images/StudDevelopment/CCAs/UniformedGroups/NCC/ncc%20(land)_2023.JPG)
+
 ### Teachers-in-charge
 * Commanding Officer: **CPT (NCC) Ong Chee Kiong**
 * Teacher Officer (2nd IC): **LTA (NCC) Nur Imran Bin Soonan**
