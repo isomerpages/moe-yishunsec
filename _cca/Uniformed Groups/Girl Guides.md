@@ -4,6 +4,8 @@ permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+![](/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/girl%20guides_2023.JPG)
+
 ### Teacher-in-charge	
 * Ms Herdaninseh (I/C)
 * Ms Ummu Sumaiyah Binte Eliase
