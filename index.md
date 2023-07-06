@@ -18,6 +18,14 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
+      title: ARTS EXTRAVAGANZA 2023
+      subtitle: ANNOUNCEMENTS
+      description: Come join YSS for an evening of fun and celebration!
+      button: Read More...
+      url: /arts-extravaganza/
+      image: /images/Announcements/arts extravaganza_2023.png
+      alt: Image alt text
+  - infopic:
       title: Letter to Parents
       description: Term 3 - 2023...
       button: Read more...
