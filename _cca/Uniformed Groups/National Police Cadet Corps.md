@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
+![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc_2023.JPG)
 
 ### Teachers-in-charge
 * A/ASP (NPCC) Jarren Lye (Officer-in-Charge)
