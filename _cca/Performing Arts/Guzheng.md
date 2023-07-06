@@ -4,6 +4,9 @@ permalink: /cca/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
 ---
+
+![](/images/StudDevelopment/CCAs/PerformingArts/Guzheng/guzheng_2023.JPG)
+
 ### Teacher-in-charge	
 * Mrs Tay Ai Ti
 * Mdm Cheng Sin Yee
@@ -74,4 +77,3 @@ For students to
 <figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/farewell%20party%202023.jpg"><figcaption>Farewell Party 2023</figcaption></figure>
 
 <figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/syf%202023.jpg"><figcaption>SYF 2023</figcaption></figure>
-

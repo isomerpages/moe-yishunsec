@@ -4,6 +4,8 @@ permalink: /cca/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
 ---
+![](/images/StudDevelopment/CCAs/PerformingArts/Band/concert%20band_2023.JPG)
+
 ### Teacher-in-charge
 * Mr Sivaprakasam Raju (I/C)
 * Ms Vera Lee

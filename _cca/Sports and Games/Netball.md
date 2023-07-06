@@ -4,6 +4,8 @@ permalink: /cca/sports-and-games/netball/
 description: ""
 third_nav_title: Sports and Games
 ---
+![](/images/StudDevelopment/CCAs/SportsGames/Netball/netball_2023.JPG)
+
 ### Teacher-in-charge
 * Ms Nithya Selvaraju (I/C)
 * Ms Sabrina Bte Mohd Amran

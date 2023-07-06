@@ -4,6 +4,10 @@ permalink: /cca/performing-arts/indian-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
+
+![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/indian%20dance_2023.JPG)
+
+
 ### Teacher-in-charge	
 * Mdm. Renuga (I/C)
 * Mdm. Santhalingam Kalpana

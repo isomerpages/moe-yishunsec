@@ -4,6 +4,9 @@ permalink: /cca/clubs-and-societies/robotics/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+
+![](/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/robotics_2023.JPG)
+
 ### Teacher-in-charge
 * Mr Phua Joo Shia (I/C)
 * Mr Ang Swee Siang Josh

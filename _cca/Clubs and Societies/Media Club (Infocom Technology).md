@@ -6,6 +6,9 @@ third_nav_title: Clubs and Societies
 ---
 <figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-1.jpg"></figure>
 
+![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/sec%203%20media%20club_2023.JPG)
+
+![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/sec%204%20media%20club_2023.JPG)
 
 #### Teacher-in-charge
 * Mr Zul Idham (I/C)
