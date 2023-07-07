@@ -34,7 +34,7 @@ sections:
       subtitle: Announcements
       image: /images/announcement.jpg
   - infopic:
-      title: Direct School Admission to Yishun Secondary
+      title: DSA to Yishun Secondary
       description: More information on Direct School Admission to Yishun Secondary...
       button: Read More...
       alt: DSA in YSS
