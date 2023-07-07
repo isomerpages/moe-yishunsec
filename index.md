@@ -18,7 +18,7 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
-      title: ARTS EXTRAVAGANZA 2023
+      title: Arts Extravaganza 2023
       subtitle: ANNOUNCEMENTS
       description: Come join YSS for an evening of fun and celebration!
       button: Read More...
@@ -34,7 +34,7 @@ sections:
       subtitle: Announcements
       image: /images/announcement.jpg
   - infopic:
-      title: Direct School Admission to Yishun Secondary
+      title: DSA to Yishun Secondary
       description: More information on Direct School Admission to Yishun Secondary...
       button: Read More...
       alt: DSA in YSS
