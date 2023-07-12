@@ -5,16 +5,16 @@ description: ""
 ---
 2023
 --------------
-**2023 Sec 4 & 5 Night Study Schedule**
-* [Sec 4 & 5 night study schedule](/files/Announcements%20for%20Students/2023/2023%20sec%204_5%20night%20study%20schedule-v2.pdf)
-
-**2023 Sec 4 & 5 Prelim-Exam TimeTable - 05 Jun 2023**
-* [Prelim Exam Timetable - Sec 4&5](/files/Announcements%20for%20Students/2023/prelim-exam_timetable-sec-4&5_2023.pdf)
+**2023 Sec 4 & 5 Prelim-Exam TimeTable - 12 Jul 2023**
+* [Prelim Exam Timetable Sec 4&5-2023](/files/Announcements%20for%20Students/2023/prelim-exam_timetable-sec-4&5_2023-v2.pdf)
 
 **2023 Sec 4 Prelim Exam Format and Topics - 04 Jul 2023**
 * [Sec 4E5N Prelim Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%204e5n%20prelim%20exam%20format%20and%20topics.pdf)
 * [Sec 4NA Prelim Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%204na%20prelim%20exam%20format%20and%20topics.pdf)
 * [Sec 4NT Prelim Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%204nt%20prelim%20exam%20format%20and%20topics%20(updated%204%20jul).pdf)
+
+**2023 Sec 4 & 5 Night Study Schedule - 05 Jul 2023**
+* [Sec 4 & 5 night study schedule](/files/Announcements%20for%20Students/2023/2023%20sec%204_5%20night%20study%20schedule-v2.pdf)
 
 **2023 Sec 1 to 3 EOY Exam TimeTable - 12 Jul 2023**
 * [Sec 1-3 EOY Exam Timetable 2023](/files/Announcements%20for%20Students/2023/sec%201-3%20eoy%20exam_timetable_2023-v2.pdf)
