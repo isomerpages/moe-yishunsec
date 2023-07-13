@@ -17,10 +17,10 @@ description: ""
 * [Term 3 Weighted Assessment Sec 3](/files/Weighted%20Assessment/2023/t3-wa3_sec_3_2023.pdf)
 
 **Sec 4 & 5**
-* [Term 3 Timed Practice Sec 4 & 5](/files/Weighted%20Assessment/2023/t3_timedpractice_sec_4_5.pdf)
+* [Term 3 Timed Practice Sec 4 & 5](/files/Weighted%20Assessment/2023/2023%20timed%20practice%20for%20sec%204%20&%205na.pdf)
 
 
-*updated 24 Jun 2023*
+*updated 13 Jul 2023*
 _______________
 
 #### Term 2 - WA 2
