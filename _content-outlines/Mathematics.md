@@ -4,7 +4,7 @@ permalink: /content-outlines/mathematics/
 description: ""
 ---
 #### Sec 1
-* [Sec 1E Content Outline](/files/Content%20Outlines%20for%20Maths/Sec%201E%20Content%20Outline.pdf)
+* [Sec 1E Content Outline](/files/Content%20Outlines%20for%20Maths/sec%201e%20content%20outline_updated%2012%20july.pdf)
 * [Sec 1NA Content Outline](/files/Content%20Outlines%20for%20Maths/Sec%201NA%20Content%20Outline.pdf)
 * [Sec 1NT Content Outline](/files/Content%20Outlines%20for%20Maths/Sec%201NT%20Content%20Outline.pdf)
 
