@@ -64,10 +64,9 @@ One Band, One Sound, One Family
 * 20 Band Leaders attended the 2021 YOUTH ARTS LEADERS CONNECT! PROGRAMME organised by the Wind Bands Association of Singapore, which took place 3 days over the September holidays and benefitted much from it.  They learnt what it means to be a leader and how to lead the members, not just to be better performers but effective team members. They learnt how to communicate to be understood and how to lead with respect and kindness.
 * Although we could not have a proper farewell to show the seniors our appreciation, the present exco members took the initiative to prepare video messages and gifts as tokens of appreciation and to wish the seniors all the best for the national examinations.
 
-### SYF 2021 Video
+### SYF 2023 Video
 
-* [FLEXIBLE BAND_BCS 233_YSS (A)](https://youtu.be/kXx08esl18I)
-* [FLEXIBLE BAND_BCS 062_YSS (B)](https://youtu.be/6n5RrQeZVuQ)
+* [BCS027- YSS](https://youtu.be/BbCkIduudWo)
 
 ### Student’s quotes
 

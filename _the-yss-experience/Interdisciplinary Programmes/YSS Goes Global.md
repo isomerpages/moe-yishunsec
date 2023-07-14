@@ -27,15 +27,13 @@ Besides travelling abroad, Yishun Secondary School also look forward to hosting 
 
 #### Key Programmes
 
-**Aug 2021:** Twinning Programme 2021 with Shun Lee Catholic Secondary School, Hong Kong
+* 3 Oct to 7 Oct 2023: Ho Chi Minh City (Vietnam)
 
-**Jan 2019:** Band Exchange with Chang Hua He-Cyun Junior High School and Queenstown Secondary School
+### YSS Goes Global Programme - 2023
 
-**Feb 2019:** Hosting of 30 Teacher Development Coordinators from New Delhi, India at Yishun Secondary School
+#### Ho Chi Minh City - Vietnam
 
+***[Click here for live updats during the trip (from 3 Oct 2023).](/vietnam/)***
 
-### YSS Goes Global Programme
-
-#### 2021
-
-![Twinning Programme 2021](/images/IP/Final-Article-2021.jpeg)
+![](/images/YSS%20Exp/YSS_Goes_Global/posterpg1.png)
+![](/images/YSS%20Exp/YSS_Goes_Global/posterpg2.png)
