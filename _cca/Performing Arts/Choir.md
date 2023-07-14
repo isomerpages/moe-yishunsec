@@ -66,12 +66,17 @@ tr:nth-child(even) {
 
 ### Highlights / Achievements
 
-* Performance for SYF 2021
+* Performance for SYF 2023
 * Performance at the National Library Board for the Night Festival (Mid-Year)
 * Performance at the Chong Pang Community Club (Year-End)
 * Performance at the Khoo Teck Puat Hospital (Year-End)
-* Events in 2021
-* Participation in SYF 2021
+
+### Events in 2023
+* Participation in SYF 2023
+
+### SYF 2023 Video
+* [CHS017_YSS](https://youtu.be/Z-QcT4Vs04A)
+
 
 ### Student’s Quotes
 
