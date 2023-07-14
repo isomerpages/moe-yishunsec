@@ -68,6 +68,8 @@ One Band, One Sound, One Family
 
 * [BCS027- YSS](https://youtu.be/BbCkIduudWo)
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BbCkIduudWo" height="315" width="560"></iframe>
+
 ### Student’s quotes
 
 *“I joined Symphonic Band in 2018 because I love music and I wanted to learn music beyond the classroom. I enjoy band as it has given me many wonderful memories and helped me build stronger bonds with my fellow band members. I made many new friends, learnt how to communicate effectively with others, and also got the chance to lead and develop my public speaking skills. As a member of the percussion section, I also got the chance to learn many different percussion instruments, which makes band practices very cool and fun! Most importantly, being a band member helped to strengthen values such as responsibility, respect, positivity, independence, commitment and patience in me. I really appreciate all the experiences I had in band!”*
