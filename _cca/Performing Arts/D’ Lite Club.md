@@ -12,16 +12,16 @@ third_nav_title: Performing Arts
 * Ms Sonam Vijaykumar Kusurkar
 
 ### CCA Schedule	
-* Tuesday and Thursday from 4 to 6 pm
+* Thursday (3:45pm to 6pm)
 
-*Note: There may be more training sessions during the months in the lead up to the Singapore Youth Festival.*
+*Note: There may be CCA sessions on Tuesday during the months leading up to competitions.*
 
 ### Venues
 * MPC
 * The PLACE
 * Performing Arts Room
 
-### CCA Exco Structure
+### CCA Executive Committee (2023/24) Structure
 
 <style>
 table {
@@ -45,24 +45,26 @@ tr:nth-child(even) {
 
 |   |   |
 | -------- | -------- |
-| Chairman     | Sim Zheng Da, Xavis 3E3     |
-| Vice chair (upper secondary)     | Kayden Koh Boon Yang 3E5     |
-| Vice chair (lower secondary)     | Yeng kai Qi 2E3     |
-| Welfare IC    | Carissa 3N2     |
-| Welfare IC   | Nur Aishah Binte Zakria 2E3   |
-| Logistics IC   | Lucas Seng Ru Kang 3E5   |
-| Logistics IC   | 	R. Divana 3E3   |
-| Publicity IC    | Lim Enzi 2E3   |
+| President      | Lim Enzi 3E3    |
+| Vice-President (Upper Secondary)    | Nurul Aishah 3E3    |
+| Vice-President (Lower Secondary)     | Kwan Xin Ai 3E3     |
+| Logistics Manager    | Clarissa Jong 2 Soar    |
+| Logistics Manager   | Ngoi Xin En 2 Seek  |
+| Welfare Manager    | Emily Loh 3E1  |
+| Welfare Manager   | 	Sarah Lee 3N1    |
+| Media Director    | Cheo Le Yao 2 Seek  |
+| Secretary   | Yeng Kai Qi 3E3  |
 
 
 ### Key Student Outcomes
 
-D’lite Club aims to provide opportunities for budding thespians to:
-discover and develop their strengths, their skills and their fullest potential
-express themselves through drama and theatre.
+D’lite Drama Club aims to provide opportunities for budding thespians to: discover and develop their strengths, their skills and their fullest potential to express themselves through drama and theatre.
 
 ### Highlights / Achievements
 
+* Singapore Youth Festival (SYF) Arts Presentation 2023
+	* Certificate of Achievement for the play, My Dancing Shoes
+	* Certificate of Achievement for the play, Wu Song and The Tigress
 * Singapore Youth Festival (SYF) Arts Presentation 2021
 	* Certificate of Achievement for the play, Fly High
 	* Certificate of Achievement for the play, Hashtag Family
@@ -70,9 +72,6 @@ express themselves through drama and theatre.
 	* “The Green Block” by Dlite Sec 1 (Yishun Secondary School)
 		* Grand Finals (Open Category): Merit Award
 		* Singapore Finals (Open Category): 3rd Place
-* Singapore Youth Festival (SYF) Arts Presentation 2019
-	* Certificate of Distinction for the play, The Strangest Town
-	* Certificate of Commendation for the play, A Bowl of Mee Sua
 
 ### Events in 2022
 
