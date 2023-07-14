@@ -33,4 +33,5 @@ Besides travelling abroad, Yishun Secondary School also look forward to hosting 
 
 #### 2023
 
-
+![](/images/YSS%20Exp/YSS_Goes_Global/posterpg1.png)
+![](/images/YSS%20Exp/YSS_Goes_Global/posterpg2.png)
