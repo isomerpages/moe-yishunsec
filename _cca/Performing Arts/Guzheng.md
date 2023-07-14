@@ -4,7 +4,6 @@ permalink: /cca/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 ![](/images/StudDevelopment/CCAs/PerformingArts/Guzheng/guzheng_2023.JPG)
 
 ### Teacher-in-charge	
@@ -50,9 +49,9 @@ For students to
 
 * Singapore Youth Festival Arts Presentation 2023
 
-### SYF 2021 Video 
+### SYF 2023 Video 
 
-* [GUZHENG_GZS 023_YSS](https://youtu.be/0NJe78sp52o)
+* [GUZHENG_GZS11_YSS](https://youtu.be/COUvT5esGms)
 
 ### Student’s Quotes
 
