@@ -126,4 +126,5 @@ D’lite Drama Club aims to provide opportunities for budding thespians to: disc
 ### Photos
 
 ![](/images/StudDevelopment/CCAs/PerformingArts/DliteClub/dlite-1.jpg)
+
 ![](/images/StudDevelopment/CCAs/PerformingArts/DliteClub/dlite-4.jpg)
