@@ -4,7 +4,6 @@ permalink: /cca/performing-arts/indian-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 ![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/indian%20dance_2023.JPG)
 
 
@@ -42,7 +41,7 @@ third_nav_title: Performing Arts
 
 ### SYF Video 2023
 
-* [SYF Performance 2023](https://youtu.be/M_qqltTErjs)
+* [SYF Performance 2023](https://youtu.be/qvN-rQqY4E0)
 
 ### SYF Photos 2023
 ![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/syf1-2023.png)
