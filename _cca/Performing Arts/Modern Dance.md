@@ -77,7 +77,7 @@ tr:nth-child(even) {
 
 * [SYF Performance 2023](https://youtu.be/yWrNfyERd6s)
 * [Super 24](https://youtu.be/kimEIwDD2Iw)
-* [Arts Extravaganza Concert](https://youtu.be/F8NTEbUV2K4)
+* [Arts Extravaganza Concert 2022](https://youtu.be/F8NTEbUV2K4)
 
 ### Student’s Quotes
 
