@@ -79,7 +79,6 @@ D’lite Drama Club aims to provide opportunities for budding thespians to: disc
 * Sec 4 Farewell Party 
 
 
-
 ### SYF Video
 
 * [DRAMA_DRS 069_YSS (A)](https://youtu.be/lnD_Ou8Qy_0)
