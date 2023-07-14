@@ -31,9 +31,9 @@ Besides travelling abroad, Yishun Secondary School also look forward to hosting 
 
 ### YSS Goes Global Programme - 2023
 
-#### Ho Chi Minh City - Vienam
+#### Ho Chi Minh City - Vietnam
 
-***Click here for live updats during the trip (from 3 Oct 2023).***
+***[Click here for live updats during the trip (from 3 Oct 2023).](/vietnam/)***
 
 ![](/images/YSS%20Exp/YSS_Goes_Global/posterpg1.png)
 ![](/images/YSS%20Exp/YSS_Goes_Global/posterpg2.png)
