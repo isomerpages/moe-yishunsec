@@ -27,15 +27,10 @@ Besides travelling abroad, Yishun Secondary School also look forward to hosting 
 
 #### Key Programmes
 
-**Aug 2021:** Twinning Programme 2021 with Shun Lee Catholic Secondary School, Hong Kong
-
-**Jan 2019:** Band Exchange with Chang Hua He-Cyun Junior High School and Queenstown Secondary School
-
-**Feb 2019:** Hosting of 30 Teacher Development Coordinators from New Delhi, India at Yishun Secondary School
-
+**Oct 2023:** 
 
 ### YSS Goes Global Programme
 
-#### 2021
+#### 2023
 
-![Twinning Programme 2021](/images/IP/Final-Article-2021.jpeg)
+
