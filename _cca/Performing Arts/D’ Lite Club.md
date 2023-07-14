@@ -79,7 +79,7 @@ D’lite Drama Club aims to provide opportunities for budding thespians to: disc
 * Sec 4 Farewell Party 
 
 
-### SYF Video
+### SYF 2023 Video
 
 * [Team A (My Dancing Shoes)](https://youtu.be/HqL2xBENBdc)
 * [Team B (Wusong and the Tigress)](https://youtu.be/8RThHkacYFQ)
