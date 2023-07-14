@@ -81,8 +81,8 @@ D’lite Drama Club aims to provide opportunities for budding thespians to: disc
 
 ### SYF Video
 
-* [DRAMA_DRS 069_YSS (A)](https://youtu.be/lnD_Ou8Qy_0)
-* [DRAMA_DRS 040_YSS (B)](https://youtu.be/YC2Q5F3Mbd0)
+* [Team A (My Dancing Shoes)](https://youtu.be/HqL2xBENBdc)
+* [Team B (Wusong and the Tigress)](https://youtu.be/8RThHkacYFQ)
 
 ### Student’s Quotes
 
