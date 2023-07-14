@@ -39,7 +39,7 @@ third_nav_title: Performing Arts
 * Speech Day performance
 * Deepavali Performance
 
-### SYF Video 2023
+### SYF 2023 Video
 
 * [SYF Performance 2023](https://youtu.be/qvN-rQqY4E0)
 
