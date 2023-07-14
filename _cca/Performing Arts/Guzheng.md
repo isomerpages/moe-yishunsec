@@ -53,6 +53,8 @@ For students to
 
 * [GUZHENG_GZS11_YSS](https://youtu.be/COUvT5esGms)
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/COUvT5esGms" height="315" width="560"></iframe>
+
 ### Student’s Quotes
 
 *“Guzheng has taught me many values like respect and resilience. As Guzheng is a CCA that heavily relies on teamwork, respect is essential in guzheng so as to achieve cohesion. Resilience is also another important value I fostered as i was faced with many challenges in the CCA. One of the most memorable experiences in the CCA is definitely the performances. Although it maybe nerve racking to perform in front of an audience, it also brings a sense of fulfilment and accomplishment.”*
