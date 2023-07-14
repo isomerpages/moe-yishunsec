@@ -54,9 +54,9 @@ Mastering Malay Dance choreography and providing exposure to students in stage p
 * Singapore Youth Festival Arts Presentation 2020
 * Internal &amp; external performances
 
-### SYF 2021 Video
+### SYF 2023 Video
 
-* [MALAY DANCE_MLDS 035_YSS](https://youtu.be/-AU73J_u80g)
+* [SYF Performance 2023](https://youtu.be/HUSPJbOy8N0)
 
 ### Student’s Quotes
 
