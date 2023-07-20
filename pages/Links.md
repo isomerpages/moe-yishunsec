@@ -42,5 +42,6 @@ tr:nth-child(even) {
 |      | [MySkillFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)     |
 |      | [NLB Learning &amp; Information Literacy Resources](https://sure.nlb.gov.sg/)     |
 |      | [Haze Situation Update](https://www.haze.gov.sg/)     |
+|      | [NEA Website](https://www.nea.gov.sg)    |
 |      | [Ministry of Health](https://www.moh.gov.sg/)     |
 |      | [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)    |
