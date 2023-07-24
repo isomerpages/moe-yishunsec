@@ -18,3 +18,5 @@ Concert line-up to be released soon!
 **GETTING THERE:**
 
 ![](/images/Announcements/getting%20to%20yts.jpg)
+
+Getting to Yishun Town Square by Foot! - [click here](https://drive.google.com/file/d/1ZfDFn847rtBTxwHE-pSMfS-rlDAtUKP7/view)
