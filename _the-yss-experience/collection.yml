@@ -2,9 +2,9 @@ collections:
   the-yss-experience:
     output: true
     order:
-      - School Events.md
       - The YSS Experience.md
       - My Experience in YSS.md
+      - School Events.md
       - DSA to Yishun Secondary.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Applied Learning Programme (ALP).md
