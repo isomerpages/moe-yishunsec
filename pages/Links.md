@@ -24,7 +24,7 @@ tr:nth-child(even) {
 
 | YSS Links | MOE Links |
 | -------- | -------- |
-| [YSS Teacher's Portal](https://sites.google.com/moe.edu.sg/yss-teachers/teachers)    | [MIMS](https://idp.mims.moe.gov.sg/nidp/app/login)     |
+| [YSS Teacher's Portal](https://sites.google.com/moe.edu.sg/yss-teachers/teachers)    | [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/app/login)     |
 | [YSS Resource Booking System](https://rbs.avero-tech.com/)    | [SC Mobile](https://scmobile.moe.edu.sg/login)     |
 | [ICT Service Request Page](https://docs.google.com/forms/d/e/1FAIpQLSeQdaUI35ybm2E5qBBW9xt5UaJvYVnPruYeL1g0Ap9DkuzggA/viewform)     | [SLS Portal](https://vle.learning.moe.edu.sg/login)     |
 | [Facility Fault Reporting](https://docs.google.com/forms/d/e/1FAIpQLSd52mydVEfx2QhCPHOXRD-yRCEafEGhia4KYrlwbvMtkA84Cw/viewform)     | [MOE Intranet](https://intranet.moe.gov.sg/)     |
@@ -37,7 +37,7 @@ tr:nth-child(even) {
 | [Teacher's Discipline Referral Tool](https://forms.gle/h1LCqd5BAWhcsMaG7)     | [LEARN](https://learn.gov.sg/)    |
 | [Announcements for Students](/students/announcements/)     | [SSOE 2 Portal](https://ssoe2.moe.edu.sg/sp)     |
 | [MOE Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)     | [MOE Sports &amp; Recreation Club](https://www.mesrc.net/)     |
-|  [Self-reset MIMS / Student's Email Password](https://idp.mims.moe.gov.sg/nidp/app/login)    | [FormSG](https://form.gov.sg/)     |
+|  [Self-reset Student's MIMS / Email Password](https://idp.mims.moe.gov.sg/nidp/app/login)    | [FormSG](https://form.gov.sg/)     |
 |      | [Go.gov.sg (for shorten URL &amp; QR code)](https://go.gov.sg/)     |
 |      | [MySkillFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)     |
 |      | [NLB Learning &amp; Information Literacy Resources](https://sure.nlb.gov.sg/)     |
