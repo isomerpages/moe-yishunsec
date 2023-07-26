@@ -32,7 +32,9 @@ description: ""
 During school operating hours, students should contact the **School-based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
 * Login SLS using MIMS ID and password.
-* If you forgot MIMS ID or Password please inform your subject teacher or form teacher
+* If you forgot MIMS Password 
+	* Access [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/app/login) then click on **Forgot Password?** or
+	* Please inform your subject teacher or form teacher
 
   
 
