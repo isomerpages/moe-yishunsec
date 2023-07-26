@@ -11,7 +11,7 @@ third_nav_title: Student
 #### Tan Xin Yi
 
 
-*   Yishun Alumni (2021)
+*   Yishun Alumni (2020)
 *   Outstanding Results at the 2022 GCE A-Level Examinations
 
 ------------------------------------
