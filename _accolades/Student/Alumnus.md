@@ -4,6 +4,18 @@ permalink: /accolades/student/alumnus/
 description: ""
 third_nav_title: Student
 ---
+<figure><img src="images/Accolades/Student/tan%20xin%20yi%20.png" style="width:50%"></figure>
+
+
+#### Tan Xin Yi
+
+
+*   Yishun Alumni (2021)
+*   Outstanding Results at the 2022 GCE A-Level Examinations
+
+------------------------------------
+
+
 <figure><img src="/images/Accolades/Student/Congratulations%20on%20Outstanding%20A-Level%20Results.png" style="width:50%"></figure>
 
 
