@@ -6,7 +6,7 @@ description: ""
 2023
 --------------
 **2023 Sec 4 & 5 Prelim-Exam TimeTable - 26 Jul 2023**
-* [Prelim Exam Timetable Sec 4&5 2023](/files/Announcements%20for%20Students/2023/4c%20prelim-exam_timetable-sec-4&5_2023_v3.pdf)
+* [Prelim Exam Timetable Sec 4&5 2023](/files/Announcements%20for%20Students/2023/prelim-exam_timetable-sec-4&5_26_jul_2023.pdf)
 
 **2023 Sec 4 Prelim Exam Format and Topics - 04 Jul 2023**
 * [Sec 4E5N Prelim Exam Format and Topics](/files/Announcements%20for%20Students/2023/2023%20sec%204e5n%20prelim%20exam%20format%20and%20topics.pdf)
