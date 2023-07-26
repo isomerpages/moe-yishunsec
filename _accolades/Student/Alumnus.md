@@ -4,8 +4,9 @@ permalink: /accolades/student/alumnus/
 description: ""
 third_nav_title: Student
 ---
-<figure><img src="images/Accolades/Student/tan%20xin%20yi%20.png" style="width:50%"></figure>
+<figure><img src="/images/Accolades/Student/tan%20xin%20yi%20.png" style="width:50%"></figure>
 
+<figure><img src="/images/Accolades/Student/tan%20xin%20yi_photo.png" style="width:25%"></figure>
 
 #### Tan Xin Yi
 
