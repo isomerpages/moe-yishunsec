@@ -33,8 +33,8 @@ During school operating hours, students should contact the **School-based Helpl
 
 * Login SLS using MIMS ID and password.
 * If you forgot MIMS Password 
-	* Access [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/app/login) then click on **Forgot Password?** or
-	* Please inform your subject teacher or form teacher
+	* access [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/app/login) then click on **Forgot Password?** then answer security questions you setup or
+	* please inform your subject teacher or form teacher
 
   
 
