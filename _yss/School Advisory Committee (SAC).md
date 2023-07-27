@@ -3,7 +3,7 @@ title: School Advisory Committee (SAC)
 permalink: /yss/sac/
 description: ""
 ---
-![](/images/Group-of-SAC-Members.jpg)
+![](/images/YSS/sac_pic2023.jpg)
 
 #### **School Advisory Committee (SAC)**
 
@@ -21,7 +21,7 @@ description: ""
 
   
 
-**Member:** Mdm Anbumalar
+**Member:** Mr Sam Ong
 
   
 
@@ -30,6 +30,9 @@ description: ""
   
 
 **Member:** Mr Mike Koh
+
+
+**Member:** Mr Kelvin Khaw
 
   
 
