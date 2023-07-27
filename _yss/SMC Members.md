@@ -8,15 +8,24 @@ description: ""
 
 ##### SCHOOL MANAGEMENT COMMITTEE (SMC):
 
-*Row 5:*  MR TAN HONG PENG, MR RICHARD ARMSTRONG, MR POH CHEE JIAN, MR GARY SIM 
+Row 1: Mrs Adeline Tan, Mr Victor Chia, Mr Michael Tan (Vp), Mrs Regina Lee (P), Mr Tay Hiang Soon (Vp), Mr Jayakumar S/O Navaretnam (Vp), Mrs Phua-Seah Lee Hoon
 
-*Row 4:*  MR AIDIL BIN IDRIS, MR MUHAMMAD HAFIZ BIN MORNIN, MR KONG RUI JIA, 
-MDM TANNY QUEK, MR FAHMY BIN SAID, MR P TAMIL SELVAM, MISS THIAM JIAHUI, 
-MISS NITHIYA D/O MARIAPPAN
+Row 2: Mr Alvin Hoo, Miss Nuruljannah Binte Suhaimii, Miss Nelly Guo, 
+Mr Muhammad Baqi Bin Jaafar, Mrs Audrey Ee, Mdm Lathika D/O Subidor Singh, 
+Mrs Jacqueline Lee, Miss Rekha Reddy
 
-*Row 3:*  MDM EVON TAN, MR JARREN LYE, MR TAN KOK YOUNG, MISS WIDAYAH BINTE OTHMAN, MDM SHARIDAH BINTE SINDASHAH, MDM DORIS CHOONG
+Row 3: Mdm Evon Tan, Mr Jarren Lye, Mr Tan Kok Young, Miss Widayah Binte Othman, Mdm Sharidah Binte Sindashah, Mdm Doris Choong
 
-*Row 2:*  MR ALVIN HOO, MISS NURULJANNAH BINTE SUHAIMII, MISS NELLY GUO, 
-MR MUHAMMAD BAQI BIN JAAFAR, MRS AUDREY EE, MDM LATHIKA D/O SUBIDOR SINGH, MRS JACQUELINE LEE, MISS REKHA REDDY
+Row 4: Mr Aidil Bin Idris, Mr Muhammad Hafiz Bin Mornin, Mr Kong Rui Jia, 
+Mdm Tanny Quek, Mr Fahmy Bin Said, Mr P Tamil Selvam, Miss Thiam Jiahui, 
+Miss Nithiya D/O Mariappan
 
-*Row 1:*  MRS ADELINE TAN, MR VICTOR CHIA, MR MICHAEL TAN (VP), MRS REGINA LEE (P), MR TAY HIANG SOON (VP), MR JAYAKUMAR S/O NAVARETNAM (VP), MRS PHUA-SEAH LEE HOON
+Row 5: Mr Tan Hong Peng, Mr Richard Armstrong, Mr Poh Chee Jian, Mr Gary Sim 
+
+
+
+
+
+
+
+
