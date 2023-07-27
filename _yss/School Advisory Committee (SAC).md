@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/YSS/sac_pic2023.jpg)
 
-#### **School Advisory Committee (SAC)**
+#### **School Advisory Committee (SAC):**
 
   
 
