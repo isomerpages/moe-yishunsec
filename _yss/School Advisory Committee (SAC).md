@@ -3,7 +3,7 @@ title: School Advisory Committee (SAC)
 permalink: /yss/sac/
 description: ""
 ---
-![](/images/YSS/sac_pic2023.jpg)
+![](/images/YSS/sac_pic2023_v2.jpg)
 
 #### **School Advisory Committee (SAC):**
 
