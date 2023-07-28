@@ -13,11 +13,11 @@ Bond with your friends and family over carnival snacks and capture memories.
 
 Best of all, it’s free and open to public! 
 
+![](/images/Announcements/ae_schedule_of_events.jpg)
+
+
 **GETTING THERE:**
 
 ![](/images/Announcements/getting%20to%20yts.jpg)
-
-![](/images/Announcements/ae_schedule_of_events.jpg)
-
 
 Getting to Yishun Town Square by Foot! - [click here](https://drive.google.com/file/d/1ZfDFn847rtBTxwHE-pSMfS-rlDAtUKP7/view)
