@@ -3,7 +3,9 @@ title: Executive and Administration
 permalink: /yss/eas/
 description: ""
 ---
-#### Admin Executive
+![](/images/YSS/eas_2023.png)
+
+#### Admin Executives
 
 *   Ms Lim Siew Huay
 *   Ms Tan Joke Ping
@@ -11,7 +13,7 @@ description: ""
 *   Mr Muhammad Nur Ridhuan
 
 
-#### Corporate Support Officer
+#### Corporate Support Officers
 
 *   Mdm Lamra Lamri
 *   Ms Elaine Ng
@@ -32,7 +34,7 @@ description: ""
 
   
 
-#### Operations Support Officer
+#### Operations Support Officers
 
 *   Mdm Maimunah Bte Abdullah
 *   Mdm Tamil Chaldy
@@ -43,19 +45,14 @@ description: ""
 
   
 
-#### Technical Support Officer – D&amp;T
+#### Technical Support Officers – D&amp;T
 
 *   Mr Chiang Kok Hoong
 *   Mr Mohamed Shahjohan B Mohd Salleh
 
   
 
-#### Technical Support Officer – Science
+#### Technical Support Officers – Science
 
 *   Mdm Norhaytiy Bte Bujang
 *   Mdm Siti Alwiyah Bte Ismail
-
-![](/images/EAS1.jpg)<br>
-![](/images/EAS2.png)<br>
-![](/images/EAS3.png)<br>
-![](/images/EAS4.png)
