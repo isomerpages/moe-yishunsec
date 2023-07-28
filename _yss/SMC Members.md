@@ -8,7 +8,7 @@ description: ""
 
 ##### SCHOOL MANAGEMENT COMMITTEE (SMC):
 
-*Row 1:* Mrs Adeline Tan, Mr Victor Chia, Mr Michael Tan (Vp), Mrs Regina Lee (P), Mr Tay Hiang Soon (Vp), Mr Jayakumar S/O Navaretnam (Vp), Mrs Phua-Seah Lee Hoon
+*Row 1:* Mrs Adeline Tan, Mr Victor Chia, Mr Michael Tan (VP), Mrs Regina Lee (P), Mr Tay Hiang Soon (VP), Mr Jayakumar S/O Navaretnam (VP), Mrs Phua-Seah Lee Hoon
 
 *Row 2:* Mr Alvin Hoo, Miss Nuruljannah Binte Suhaimii, Miss Nelly Guo, 
 Mr Muhammad Baqi Bin Jaafar, Mrs Audrey Ee, Mdm Lathika D/O Subidor Singh, 
