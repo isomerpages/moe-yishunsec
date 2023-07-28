@@ -19,10 +19,7 @@ To nurture a community of confident, socially responsible and future-ready learn
 
 ### ICT Department Staff and Teachers
   
-
-<figure><img src="/images/IP/ICT/ICT1.png"></figure>
-
-<figure><img src="/images/IP/ICT/ICT2.png"></figure>
+![](/images/IP/ICT/ict_2023.png)
 
 
 ### Photos
