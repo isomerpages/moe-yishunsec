@@ -56,32 +56,55 @@ The school organised a Mother’s day Appreciation activity where students made 
 
 ![](/images/Parents/PSG/Slide3.jpeg)
 
-![](/images/Parents/PSG/Slide1.jpeg)
+The Parent Support Group are involved facilitating and helping out at several school-wide activities. 
 
-![](/images/Parents/PSG/Slide2.jpeg)
+#### Friendship Day – Bag of Appreciation
 
-![](/images/Parents/PSG/PSG.jpeg)
+Students wrote appreciation notes to their buddies to express their thanks.
 
-![](/images/Parents/PSG/Students%20engrossed%20in%20making%20boquets%20for%20their%20mothers.jpeg)
+![](/images/Parents/PSG/2023/pic1-2023.jpg)
 
-![](/images/Parents/PSG/Students%20hard%20at%20work.jpeg)
+![](/images/Parents/PSG/2023/pic2-2023.jpg)
 
-![](/images/Parents/PSG/Students%20picked%20up%20a%20new%20skill.jpeg)
+![](/images/Parents/PSG/2023/pic3-2023.jpg)
 
-![](/images/Parents/PSG/A%20big%20thank%20you%20to%20the%20parent%20volunteers.jpeg)
+![](/images/Parents/PSG/2023/pic4-2023.jpg)
 
-![](/images/Parents/PSG/All%20ready%20for%20their%20beautiful%20mothers.jpeg)
+#### Mother’s Day &amp; Father's Day Tribute – Folds of Love 
 
-![](/images/Parents/PSG/Event%20was%20well-received%20by%20students%20.jpeg)
+Our parent volunteers imparted skills of Towel Origami to students. Students folded towels to create bears for their parents and grandparents as a token of love, appreciation and gratitude. What a sweet gesture it was! 
 
-![](/images/Parents/PSG/Final%20touch%20up%20on%20the%20bouquet.jpeg)
+![](/images/Parents/PSG/2023/pic5-2023.jpg)
 
-![](/images/Parents/PSG/Flowers%20ready%20to%20brighten%20up%20a%20mother_s%20day.jpeg)
+![](/images/Parents/PSG/2023/pic6-2023.jpg)
 
-![](/images/Parents/PSG/Mother_s%20Day%20Sweet%20Gratitude.jpeg)
+![](/images/Parents/PSG/2023/pic7-2023.jpg)
 
-![](/images/Parents/PSG/Overwhelming%20crowd%20kept%20parent%20volunteers%20very%20busy.jpeg)
+![](/images/Parents/PSG/2023/pic8-2023.jpg)
 
-![](/images/Parents/PSG/PSG%20members%20gearing%20up%20for%20the%20event.jpeg)
+![](/images/Parents/PSG/2023/pic9-2023.jpg)
 
-![](/images/Parents/PSG/PSG%20members%20prepared%20to%20guide%20students.jpeg)
+#### Cross- Country 
+Our PSG voluntarily give their time to participate in activities, helping out in every way they can. Cross Country was another event that the parent volunteers connected with the staff and students as they manned the refreshment corner!
+
+![](/images/Parents/PSG/2023/pic10-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic11-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic12-2023.jpg)
+
+#### International Friendship Day
+
+To raise awareness on knowledge of ASEAN countries and develop friendship and and appreciation for our neighbouring countries in a fun and interactive way, the PSG set up an IFD Quiz &amp; Games booth. 
+
+![](/images/Parents/PSG/2023/pic13-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic14-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic15-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic16-2023.jpg)
+
+![](/images/Parents/PSG/2023/folds%20of%20love%201.jpg)
+
+![](/images/Parents/PSG/2023/folds%20of%20love%203.jpg)
