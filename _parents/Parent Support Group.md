@@ -60,5 +60,40 @@ The Parent Support Group are involved facilitating and helping out at several sc
 
 #### Friendship Day – Bag of Appreciation
 
-Students wrote appreciation notes to their buddies to express their thanks. 
+Students wrote appreciation notes to their buddies to express their thanks.
 
+![](/images/Parents/PSG/2023/pic1-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic2-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic3-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic4-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic5-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic6-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic7-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic8-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic9-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic10-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic11-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic12-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic13-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic14-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic15-2023.jpg)
+
+![](/images/Parents/PSG/2023/pic16-2023.jpg)
+
+![](/images/Parents/PSG/2023/folds%20of%20love%201.jpg)
+
+![](/images/Parents/PSG/2023/folds%20of%20love%203.jpg)
