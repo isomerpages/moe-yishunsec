@@ -19,13 +19,7 @@ Our teachers used a variety of platforms such as Google Classroom, Nearpod and P
 
 ### Science Department Teachers
 
-![](/images/IP/Science/Sci-1.png)
-
-![](/images/IP/Science/Sci-2.png)
-
-![](/images/IP/Science/Sci-3.png)
-
-![](/images/IP/Science/Sci-4.png)
+![](/images/IP/Science/science%20dept_2023.png)
 
 ### Photos
 
