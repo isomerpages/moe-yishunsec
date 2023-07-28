@@ -31,9 +31,7 @@ Our school also received the following awards:
 
 ### CCE Teachers
 
-<figure><img src="/images/StudDevelopment/CCE/CCE-1.jpg"></figure>
-
-<figure><img src="/images/StudDevelopment/CCE/CCE-2.jpg"></figure>
+![](/images/StudDevelopment/CCE/cce_2023.png)
 
 
 #### North West Outstanding School Partner Award (SPA) 2023
