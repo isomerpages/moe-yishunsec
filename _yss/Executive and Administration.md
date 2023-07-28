@@ -45,7 +45,7 @@ description: ""
 
   
 
-#### Technical Support Officer – D&amp;T
+#### Technical Support Officers – D&amp;T
 
 *   Mr Chiang Kok Hoong
 *   Mr Mohamed Shahjohan B Mohd Salleh
