@@ -4,7 +4,7 @@ permalink: /student-development/edu-support/
 description: ""
 third_nav_title: Student Development
 ---
-![](/images/StudDevelopment/EduSupport/Educational-Support-1.jpg)
+![](/images/StudDevelopment/EduSupport/edu_support_2023.png)
 
 ### Mission
 ***To nurture students who are connected, competent and contributing members of the school and the community.***
