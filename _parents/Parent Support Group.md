@@ -70,6 +70,10 @@ Students wrote appreciation notes to their buddies to express their thanks.
 
 ![](/images/Parents/PSG/2023/pic4-2023.jpg)
 
+#### Mother’s Day &amp; Father's Day Tribute – Folds of Love 
+
+Our parent volunteers imparted skills of Towel Origami to students. Students folded towels to create bears for their parents and grandparents as a token of love, appreciation and gratitude. What a sweet gesture it was! 
+
 ![](/images/Parents/PSG/2023/pic5-2023.jpg)
 
 ![](/images/Parents/PSG/2023/pic6-2023.jpg)
@@ -80,11 +84,18 @@ Students wrote appreciation notes to their buddies to express their thanks.
 
 ![](/images/Parents/PSG/2023/pic9-2023.jpg)
 
+#### Cross- Country 
+Our PSG voluntarily give their time to participate in activities, helping out in every way they can. Cross Country was another event that the parent volunteers connected with the staff and students as they manned the refreshment corner!
+
 ![](/images/Parents/PSG/2023/pic10-2023.jpg)
 
 ![](/images/Parents/PSG/2023/pic11-2023.jpg)
 
 ![](/images/Parents/PSG/2023/pic12-2023.jpg)
+
+#### International Friendship Day
+
+To raise awareness on knowledge of ASEAN countries and develop friendship and and appreciation for our neighbouring countries in a fun and interactive way, the PSG set up an IFD Quiz &amp; Games booth. 
 
 ![](/images/Parents/PSG/2023/pic13-2023.jpg)
 
