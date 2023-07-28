@@ -84,11 +84,7 @@ As a department, various ways are explored to give back to the Community:
 
 ### Craft &amp; Technology Teachers
 
-![](/images/IP/CraftandTech/DnT1.png)
-
-![](/images/IP/CraftandTech/DnT2.png)
-
-![](/images/IP/CraftandTech/DnT3.png)
+![](/images/IP/CraftandTech/craft%20and%20technology_2023.png)
 
 ### Photos
 
