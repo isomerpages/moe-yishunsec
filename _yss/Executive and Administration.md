@@ -3,6 +3,8 @@ title: Executive and Administration
 permalink: /yss/eas/
 description: ""
 ---
+![](/images/YSS/eas_2023.png)
+
 #### Admin Executive
 
 *   Ms Lim Siew Huay
@@ -54,8 +56,3 @@ description: ""
 
 *   Mdm Norhaytiy Bte Bujang
 *   Mdm Siti Alwiyah Bte Ismail
-
-![](/images/EAS1.jpg)<br>
-![](/images/EAS2.png)<br>
-![](/images/EAS3.png)<br>
-![](/images/EAS4.png)
