@@ -56,32 +56,9 @@ The school organised a Mother’s day Appreciation activity where students made 
 
 ![](/images/Parents/PSG/Slide3.jpeg)
 
-![](/images/Parents/PSG/Slide1.jpeg)
+The Parent Support Group are involved facilitating and helping out at several school-wide activities. 
 
-![](/images/Parents/PSG/Slide2.jpeg)
+#### Friendship Day – Bag of Appreciation
 
-![](/images/Parents/PSG/PSG.jpeg)
+Students wrote appreciation notes to their buddies to express their thanks. 
 
-![](/images/Parents/PSG/Students%20engrossed%20in%20making%20boquets%20for%20their%20mothers.jpeg)
-
-![](/images/Parents/PSG/Students%20hard%20at%20work.jpeg)
-
-![](/images/Parents/PSG/Students%20picked%20up%20a%20new%20skill.jpeg)
-
-![](/images/Parents/PSG/A%20big%20thank%20you%20to%20the%20parent%20volunteers.jpeg)
-
-![](/images/Parents/PSG/All%20ready%20for%20their%20beautiful%20mothers.jpeg)
-
-![](/images/Parents/PSG/Event%20was%20well-received%20by%20students%20.jpeg)
-
-![](/images/Parents/PSG/Final%20touch%20up%20on%20the%20bouquet.jpeg)
-
-![](/images/Parents/PSG/Flowers%20ready%20to%20brighten%20up%20a%20mother_s%20day.jpeg)
-
-![](/images/Parents/PSG/Mother_s%20Day%20Sweet%20Gratitude.jpeg)
-
-![](/images/Parents/PSG/Overwhelming%20crowd%20kept%20parent%20volunteers%20very%20busy.jpeg)
-
-![](/images/Parents/PSG/PSG%20members%20gearing%20up%20for%20the%20event.jpeg)
-
-![](/images/Parents/PSG/PSG%20members%20prepared%20to%20guide%20students.jpeg)
