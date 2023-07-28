@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/YSS/eas_2023.png)
 
-#### Admin Executive
+#### Admin Executives
 
 *   Ms Lim Siew Huay
 *   Ms Tan Joke Ping
