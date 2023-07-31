@@ -13,6 +13,8 @@ third_nav_title: Student
 * Awards: Diploma with Merit
 * E-Bridge Pre-School Prize
 
+-----------------------------
+
 <figure><img src="/images/Accolades/Student/tan%20xin%20yi_photo.png" style="width:25%"></figure>
 
 <figure><img src="/images/Accolades/Student/tan%20xin%20yi%20.png" style="width:50%"></figure>
