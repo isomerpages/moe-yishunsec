@@ -58,7 +58,21 @@ The students found the programme useful in gaining first-hand knowledge on the i
 
 “I wish to go back to Superpets during my holidays for a part-time job. I actually asked the boss if I can go back to help them out again. I enjoyed interacting with customers, helping them to assemble the pet accessories they purchased” ~  Marcus 3E1 (Attached to Superpets)
 
+![](/images/StudDevelopment/CCE/2023/slide1.png)
 
+![](/images/StudDevelopment/CCE/2023/slide2.png)
+
+![](/images/StudDevelopment/CCE/2023/slide3.png)
+
+![](/images/StudDevelopment/CCE/2023/slide4.png)
+
+![](/images/StudDevelopment/CCE/2023/slide5.png)
+
+![](/images/StudDevelopment/CCE/2023/slide6.png)
+
+![](/images/StudDevelopment/CCE/2023/slide7.png)
+
+![](/images/StudDevelopment/CCE/2023/slide8.png)
 
 
 #### North West Outstanding School Partner Award (SPA) 2023
@@ -128,5 +142,3 @@ As part of the celebration, three types of childhood snacks were catered. They a
 
 <figure>
 <img src="/images/StudDevelopment/CCE/RHD-7.png" style="width:70%"></figure>
-
-
