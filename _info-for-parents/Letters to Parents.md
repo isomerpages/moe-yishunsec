@@ -6,6 +6,7 @@ description: ""
 2023
 --------------
 ##### Term 3
+* [An Invitation to Arts Extravaganza 2023_Unmasked - 31 July 2023](/files/Letter%20to%20Parents/an_invitation_to_arts_extravaganza_2023_unmasked.pdf)
 * [Letter to Parents - Term 3 - 05 July 2023](/files/Letter%20to%20Parents/letter%20to%20parents%20-%20term%203.pdf)
 
 
