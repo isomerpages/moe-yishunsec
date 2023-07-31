@@ -27,7 +27,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Letter to Parents
-      description: Term 3 - 2023...
+      description: An Invitation to Arts Extravaganza 2023 - Unmasked
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
