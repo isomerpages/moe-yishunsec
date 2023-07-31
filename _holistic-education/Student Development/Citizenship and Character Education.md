@@ -48,7 +48,7 @@ During the June holidays, 25 Sec 3 and Sec 4 students participated in a 3 to 5-d
 The students found the programme useful in gaining first-hand knowledge on the industry, career opportunities and related work skills/ work values. 
 
 
-#### Reflections from student
+#### Reflections from students
 
 “At the office, I really had to go out of my comfort zone and learn the administrative duties. I had to be independent in the assigned task. I learnt that other than going to court, lawyers had to focus on a lot of administrative duties. It was indeed a steep learning curve these 5 days for me, learning new phrases, digesting a lot of information that was necessary for preparing for court hearings but I enjoyed the learning so much”  ~ Nur Shafiqah, 3N2 (Attached to Tembusu Law)
 
