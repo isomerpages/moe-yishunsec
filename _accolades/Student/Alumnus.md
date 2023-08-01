@@ -4,6 +4,14 @@ permalink: /accolades/student/alumnus/
 description: ""
 third_nav_title: Student
 ---
+<figure><img src="/images/Accolades/Student/faith%20chung%20xin%20hui.jpg"></figure>
+
+#### Faith Chung Xin Hui
+
+* Yishun Alumni (2019)
+* Awards: Teaching Scholarship 2023
+-----------------------------
+
 <figure><img src="/images/Accolades/Student/yap%20lin%20xuan.jpeg" style="width:70%"></figure>
 
 #### Yap Lin Xuan
@@ -12,7 +20,6 @@ third_nav_title: Student
 * Course: Diploma in Early Childhood Development &amp; Education
 * Awards: Diploma with Merit
 * E-Bridge Pre-School Prize
-
 -----------------------------
 
 <figure><img src="/images/Accolades/Student/tan%20xin%20yi_photo.png" style="width:25%"></figure>
@@ -21,37 +28,27 @@ third_nav_title: Student
 
 #### Tan Xin Yi
 
-
 *   Yishun Alumni (2020)
 *   Outstanding Results at the 2022 GCE A-Level Examinations
-
 ------------------------------------
-
 
 <figure><img src="/images/Accolades/Student/Congratulations%20on%20Outstanding%20A-Level%20Results.png" style="width:50%"></figure>
 
 
 #### Cedric Tay Shi Han and  Tan Su Xin
 
-
 *   Yishun Alumni (2019)
 *   Outstanding Results at the 2021 GCE A-Level Examinations
-
 ------------------------------------
 	
 #### Sally Gloria Manik
 
-
-
 * Yishun Alumni (2017)
 * School of Management and Communication <br>
 (Recipient of Ngee Ann Kongsi Scholarship)
-
 ------------------------------------
 
-
 #### Baey Kok Wee
-
 	
 * Yishun Alumni (2011)
 * School of Management and Communication
@@ -64,10 +61,7 @@ third_nav_title: Student
 
 -------------------------------------------
 
-
 #### Ryan Tan Yi En
-
-
 
 * Yishun Alumni (2017)
 * School of Technology for the Arts (Recipient of Republic Award)
@@ -81,23 +75,16 @@ third_nav_title: Student
 	
 #### Phyllis Oh Yu Hui
 
-
-
 * Yishun Alumni (2015)
 * Recipient of Swan &amp; Maclaren Gold Medal
 * Diploma with Merit (Diploma in Media Design) from Singapore Polytechnic
 
 -----------------------------------------
 
-
-
 <figure><img src="/images/Accolades/Student/Huang%20Caihong.jpg" style="width:50%"></figure>
 
 
-
 #### Huang Caihong
-
-
 
 * YSS
 * Singapore Polytechnic (Recipient of Director’s Honour Roll)
@@ -107,11 +94,7 @@ third_nav_title: Student
 <figure><img src="/images/Accolades/Student/Yeo%20Si%20Qi%20Levin.jpg" style="width:50%"></figure>
 
 
-
-
 #### Yeo Si Qi Levin
-
-
 
 * YSS (2012-2015)
 * Nanyang Polytechnic (Recipient of the Infinite Frameworks Silver Medal and Award for Outstanding Project Work)
@@ -121,10 +104,7 @@ third_nav_title: Student
 <figure><img src="/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg" style="width:70%"></figure>
 
 
-
 #### Raiyan Mikael Suhairi
-
-
 
 * YSS (2013-2016)
 * Singapore Polytechnic (Recipient of the SP Engineering Scholarship)
@@ -134,11 +114,7 @@ third_nav_title: Student
 <figure><img src="/images/Accolades/Student/Denise%20Ong%20Li%20Jie.jpg" style="width:50%"></figure>
 
 
-
-
 #### Denise Ong Li Jie
-
-
 
 * YSS (2013-2016) – (7As for 2016 O Levels)
 * NJC (2017-2018) 3 H2 distinctions and distinctions in GP, PW
@@ -159,8 +135,6 @@ addition, I am very thankful to have made some true friends.”*
 
 #### Michel Sim
 
-
-
 * YSS (2008-2011) (7 A1s in 2011 GCE O-Level Exam)
 * AJC( 2012-2013) AJC Alpha Programme
 * SUTD (2015 – present)
@@ -177,11 +151,7 @@ the teachers and B.E. Project.”*
 <figure><img src="/images/Accolades/Student/Raphael%20Khoo.png" style="width:50%"></figure>
 
 
-
-
 #### Raphael Khoo
-
-
 
 * YSS (2009-2012) (7 A1s in 2011 GCE O-Level Exam)
 * HCI (2013-2014)
@@ -199,9 +169,6 @@ remember our roots and give back to society in whatever ways I can.”*
 
 
 #### Yoh Kai Xiang
-
-
-
 
 * Currently Year 1student of Ngee Ann poly (FILM, SOUND, and Video)
 * Graduated from YSS in 2015
@@ -232,10 +199,7 @@ grateful for what they have done for me.”*
 <figure><img src="/images/Accolades/Student/Salmah%20Sng%20Mei%20Wen.jpg" style="width:50%"></figure>
 
 
-
 #### Salmah Sng Mei Wen
-
-
 
 * Year 1 Student, Anderson Junior College
 * Currently a Student Council in AJC
