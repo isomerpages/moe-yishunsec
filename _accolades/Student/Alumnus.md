@@ -4,6 +4,15 @@ permalink: /accolades/student/alumnus/
 description: ""
 third_nav_title: Student
 ---
+<figure><img src="/images/Accolades/Student/faith%20chung%20xin%20hui.jpg"></figure>
+
+#### Faith Chung Xin Hui
+
+* Yishun Alumni (2019)
+* Awards: Teaching Scholarship 2023
+
+-----------------------------
+
 <figure><img src="/images/Accolades/Student/yap%20lin%20xuan.jpeg" style="width:70%"></figure>
 
 #### Yap Lin Xuan
