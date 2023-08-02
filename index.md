@@ -26,6 +26,14 @@ sections:
       image: /images/Announcements/arts extravaganza_2023.png
       alt: Image alt text
   - infopic:
+      title: 58th National Day Celebrations on 8 Aug 2023 (Tue)
+      subtitle: Announcements
+      description: Students will report to school in half-school uniform at the usual
+        timing in the morning. There will be no lessons and students will be
+        dismissed at 10:30am.
+      image: /images/Announcements/ndp-2023.png
+      alt: Image alt text
+  - infopic:
       title: Letter to Parents
       description: An Invitation to Arts Extravaganza 2023 - Unmasked
       button: Read more...
