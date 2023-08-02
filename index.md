@@ -26,7 +26,7 @@ sections:
       image: /images/Announcements/arts extravaganza_2023.png
       alt: Image alt text
   - infopic:
-      title: 58th National Day Celebrations on 8 Aug 2023
+      title: 58th National Day Celebrations on 8 Aug 2023 (Tue)
       subtitle: Announcements
       description: Students must report to school at the usual timing in the morning,
         in their half-school uniform. There will be no lessons and they will be
