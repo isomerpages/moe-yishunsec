@@ -18,14 +18,6 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
-      title: Arts Extravaganza 2023
-      subtitle: ANNOUNCEMENTS
-      description: Come join YSS for an evening of fun and celebration!
-      button: Read More...
-      url: /arts-extravaganza/
-      image: /images/Announcements/arts extravaganza_2023.png
-      alt: Image alt text
-  - infopic:
       title: 58th National Day Celebrations on 8 Aug 2023 (Tue)
       subtitle: Announcements
       description: Students will report to school in half-school uniform at the usual
