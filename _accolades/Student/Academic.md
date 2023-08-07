@@ -4,7 +4,7 @@ permalink: /accolades/student/academic/
 description: ""
 third_nav_title: Student
 ---
-### 2022 GCE O-Level Examination 5 Normal (Academic) Results
+### 2022 GCE O-Level Examination <br>Sec 5 Normal (Academic) Results
 
 
 *Congratulations to our Secondary 5 Normal Academic students!*
@@ -48,7 +48,7 @@ tr:nth-child(even) {
 
 ![](/images/5NA_2.jpeg)
 
-### 2022 GCE O-Level Examination 4 Express Results
+### 2022 GCE O-Level Examination <br>Sec 4 Express Results
 
   
 *Congratulations to our Secondary 4 Express students!*
@@ -115,7 +115,7 @@ tr:nth-child(even) {
 | Sec 5 Normal Academic Polytechnics     | 75%     |
 
 
-### 2022 GCE N-Level Examination 4 Normal (Technical) Results
+### 2022 GCE N-Level Examination <br> Sec 4 Normal (Technical) Results
 
 *Congratulations to our Secondary 4 Normal (Technical) students!*
   
@@ -144,7 +144,7 @@ tr:nth-child(even) {
 
 ![](/images/4NTimpStud.png)
 
-### 2022 GCE N-Level Examination 4 Normal (Academic) Results
+### 2022 GCE N-Level Examination <br> Sec 4 Normal (Academic) Results
 
 *Congratulations to our Secondary 4 Normal (Academic) students!*
 

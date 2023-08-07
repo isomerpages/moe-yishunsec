@@ -4,49 +4,53 @@ permalink: /accolades/student/alumnus/
 description: ""
 third_nav_title: Student
 ---
-<figure><img src="/images/Accolades/Student/faith%20chung%20xin%20hui.jpg"></figure>
-
 #### Faith Chung Xin Hui
 
 * Yishun Alumni (2019)
-* Awards: Teaching Scholarship 2023
------------------------------
+* Award: Teaching Scholarship 2023
 
-<figure><img src="/images/Accolades/Student/yap%20lin%20xuan.jpeg" style="width:70%"></figure>
+<figure><img src="/images/Accolades/Student/faith%20chung%20xin%20hui.jpg"></figure>
+
+______________________________________________
 
 #### Yap Lin Xuan
 
 * Yishun Alumni (2019)
 * Course: Diploma in Early Childhood Development &amp; Education
-* Awards: Diploma with Merit
+* Award: Diploma with Merit
 * E-Bridge Pre-School Prize
------------------------------
+
+<figure><img src="/images/Accolades/Student/yap%20lin%20xuan.jpeg" style="width:70%"></figure>
+
+________________________________________________
+
+#### Tan Xin Yi
+
+* Yishun Alumni (2020)
+* Outstanding Results at the 2022 GCE A-Level Examinations
 
 <figure><img src="/images/Accolades/Student/tan%20xin%20yi_photo.png" style="width:25%"></figure>
 
 <figure><img src="/images/Accolades/Student/tan%20xin%20yi%20.png" style="width:50%"></figure>
 
-#### Tan Xin Yi
-
-*   Yishun Alumni (2020)
-*   Outstanding Results at the 2022 GCE A-Level Examinations
-------------------------------------
-
-<figure><img src="/images/Accolades/Student/Congratulations%20on%20Outstanding%20A-Level%20Results.png" style="width:50%"></figure>
-
+_____________________________________________
 
 #### Cedric Tay Shi Han and  Tan Su Xin
 
-*   Yishun Alumni (2019)
-*   Outstanding Results at the 2021 GCE A-Level Examinations
-------------------------------------
+* Yishun Alumni (2019)
+* Outstanding Results at the 2021 GCE A-Level Examinations
+
+<figure><img src="/images/Accolades/Student/Congratulations%20on%20Outstanding%20A-Level%20Results.png" style="width:50%"></figure>
+
+_______________________________________________
 	
 #### Sally Gloria Manik
 
 * Yishun Alumni (2017)
 * School of Management and Communication <br>
 (Recipient of Ngee Ann Kongsi Scholarship)
-------------------------------------
+
+_______________________________________________
 
 #### Baey Kok Wee
 	
@@ -59,60 +63,52 @@ third_nav_title: Student
 	* Module Prize – Employment Laws and Labour Relations
 	* Module Prize – Manpower Planning, Resourcing and Management
 
--------------------------------------------
+_____________________________________________
 
 #### Ryan Tan Yi En
 
 * Yishun Alumni (2017)
 * School of Technology for the Arts (Recipient of Republic Award)
 
--------------------------------------------
+_____________________________________________
 
-<br>
-<figure><img src="/images/Accolades/Student/PHYLLIS-OH-YU-HUI_1.jpg" style="width:50%"></figure>
-
-
-	
 #### Phyllis Oh Yu Hui
 
 * Yishun Alumni (2015)
 * Recipient of Swan &amp; Maclaren Gold Medal
 * Diploma with Merit (Diploma in Media Design) from Singapore Polytechnic
 
------------------------------------------
+<figure><img src="/images/Accolades/Student/PHYLLIS-OH-YU-HUI_1.jpg" style="width:50%"></figure>
 
-<figure><img src="/images/Accolades/Student/Huang%20Caihong.jpg" style="width:50%"></figure>
-
+____________________________________________
 
 #### Huang Caihong
 
 * YSS
 * Singapore Polytechnic (Recipient of Director’s Honour Roll)
 
------------------------------------
+<figure><img src="/images/Accolades/Student/Huang%20Caihong.jpg" style="width:50%"></figure>
 
-<figure><img src="/images/Accolades/Student/Yeo%20Si%20Qi%20Levin.jpg" style="width:50%"></figure>
-
+__________________________________________
 
 #### Yeo Si Qi Levin
 
 * YSS (2012-2015)
 * Nanyang Polytechnic (Recipient of the Infinite Frameworks Silver Medal and Award for Outstanding Project Work)
 
------------------------------------
 
-<figure><img src="/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg" style="width:70%"></figure>
+<figure><img src="/images/Accolades/Student/Yeo%20Si%20Qi%20Levin.jpg" style="width:50%"></figure>
 
+__________________________________________
 
 #### Raiyan Mikael Suhairi
 
 * YSS (2013-2016)
 * Singapore Polytechnic (Recipient of the SP Engineering Scholarship)
 
------------------------------------
+<figure><img src="/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg" style="width:70%"></figure>
 
-<figure><img src="/images/Accolades/Student/Denise%20Ong%20Li%20Jie.jpg" style="width:50%"></figure>
-
+________________________________________
 
 #### Denise Ong Li Jie
 
@@ -128,10 +124,9 @@ always remember their care and concern. Thank you for providing me
 with a lot of opportunities to develop myself as a positive person! In
 addition, I am very thankful to have made some true friends.”*
 
--------------------------------
+<figure><img src="/images/Accolades/Student/Denise%20Ong%20Li%20Jie.jpg" style="width:50%"></figure>
 
-<figure><img src="/images/Accolades/Student/Michel%20Sim.png" style="width:50%"></figure>
-
+______________________________________________________
 
 #### Michel Sim
 
@@ -146,10 +141,10 @@ and diligence, and my teachers have shown me what a joy learning can
 be. I am thankful for the sense of self-belief that I have gained through
 the teachers and B.E. Project.”*
 
----------------------------------
 
-<figure><img src="/images/Accolades/Student/Raphael%20Khoo.png" style="width:50%"></figure>
+<figure><img src="/images/Accolades/Student/Michel%20Sim.png" style="width:50%"></figure>
 
+________________________________________
 
 #### Raphael Khoo
 
@@ -163,10 +158,9 @@ Values-In-Action Programme and leadership appointments in National
 Cadet Corps and Prefectorial Board, I have learnt about the need to
 remember our roots and give back to society in whatever ways I can.”*
 
-----------------------------------
+<figure><img src="/images/Accolades/Student/Raphael%20Khoo.png" style="width:50%"></figure>
 
-<figure><img src="/images/Accolades/Student/Yoh%20Kai%20Xiang.jpg" style="width:70%"></figure>
-
+__________________________________________
 
 #### Yoh Kai Xiang
 
@@ -194,10 +188,9 @@ and patience, they developed me to who I am today. I still keep contacts
 with many of the students and staff of Yishun Sec as I would always be
 grateful for what they have done for me.”*
 
----------------------------------
+<figure><img src="/images/Accolades/Student/Yoh%20Kai%20Xiang.jpg" style="width:70%"></figure>
 
-<figure><img src="/images/Accolades/Student/Salmah%20Sng%20Mei%20Wen.jpg" style="width:50%"></figure>
-
+__________________________________________
 
 #### Salmah Sng Mei Wen
 
@@ -230,3 +223,5 @@ four years , I only would have thought you were joking.
 Well, I’m not joking now when I say that YSS was one of the best
 decisions I’ve ever made. I’m so thankful to YSS and I wish everyone
 greater success!”*
+
+<figure><img src="/images/Accolades/Student/Salmah%20Sng%20Mei%20Wen.jpg" style="width:50%"></figure>
