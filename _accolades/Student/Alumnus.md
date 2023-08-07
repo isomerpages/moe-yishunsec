@@ -113,8 +113,7 @@ ________________________________________
 #### Denise Ong Li Jie
 
 * YSS (2013-2016) – (7As for 2016 O Levels)
-* NJC (2017-2018) 3 H2 distinctions and distinctions in GP, PW
-* and MTL.
+* NJC (2017-2018) 3 H2 distinctions and distinctions in GP, PW and MTL.
 
 *“Gratitude. Resilience. Optimism. These are some of the virtues that
 YSS has taught me over the 4 years. My life back then was like that of
