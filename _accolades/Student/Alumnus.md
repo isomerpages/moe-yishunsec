@@ -7,7 +7,7 @@ third_nav_title: Student
 #### Faith Chung Xin Hui
 
 * Yishun Alumni (2019)
-* Awards: Teaching Scholarship 2023
+* Award: Teaching Scholarship 2023
 
 <figure><img src="/images/Accolades/Student/faith%20chung%20xin%20hui.jpg"></figure>
 
@@ -17,7 +17,7 @@ ______________________________________________
 
 * Yishun Alumni (2019)
 * Course: Diploma in Early Childhood Development &amp; Education
-* Awards: Diploma with Merit
+* Award: Diploma with Merit
 * E-Bridge Pre-School Prize
 
 <figure><img src="/images/Accolades/Student/yap%20lin%20xuan.jpeg" style="width:70%"></figure>
