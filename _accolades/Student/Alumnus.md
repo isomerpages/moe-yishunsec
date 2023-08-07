@@ -225,5 +225,3 @@ decisions I’ve ever made. I’m so thankful to YSS and I wish everyone
 greater success!”*
 
 <figure><img src="/images/Accolades/Student/Salmah%20Sng%20Mei%20Wen.jpg" style="width:50%"></figure>
-
-
