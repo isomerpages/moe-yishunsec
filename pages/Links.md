@@ -34,7 +34,7 @@ tr:nth-child(even) {
 | [PLD Portal](/parents/pdlp/)     | [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)     |
 | [Student ICON Email](https://workspace.google.com/dashboard)     | [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)     |
 | [Student Referral Form](https://forms.gle/9wJdoyP5tusj8sCD9)     | [iExam 2](https://iexams.seab.gov.sg/login)     |
-| [Teacher's Discipline Referral Tool](https://forms.gle/h1LCqd5BAWhcsMaG7)     | [LEARN](https://learn.gov.sg/)    |
+| [Teacher's Discipline Referral Tool](https://form.gov.sg/6295ca0ec3cb8100127d89d6)     | [LEARN](https://learn.gov.sg/)    |
 | [Announcements for Students](/students/announcements/)     | [SSOE 2 Portal](https://ssoe2.moe.edu.sg/sp)     |
 | [MOE Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)     | [MOE Sports &amp; Recreation Club](https://www.mesrc.net/)     |
 |  [Self-reset Student's MIMS / Email Password](https://idp.mims.moe.gov.sg/nidp/app/login)    | [FormSG](https://form.gov.sg/)     |
