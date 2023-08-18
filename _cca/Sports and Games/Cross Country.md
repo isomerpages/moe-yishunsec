@@ -58,6 +58,11 @@ tr:nth-child(even) {
 * Participation in NSG Track and Field competition
 * Participation at various competitions
 
+![](/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cross-country-2.jpeg)
+
+![](/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cross-country-1.jpeg)
+
+
 <figure><img src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-1.jpg"></figure>
 
 <figure><img src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-2.jpg"></figure>
