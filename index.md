@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: An Invitation to Arts Extravaganza 2023 - Unmasked
+      description: Presidential Election 2023 Revised School Hours
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
