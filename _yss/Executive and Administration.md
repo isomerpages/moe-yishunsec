@@ -17,7 +17,6 @@ description: ""
 
 *   Mdm Lamra Lamri
 *   Ms Elaine Ng
-*   Mdm Siti Suhaidah
 *   Mr Yeo Chee Hiang
 
   
@@ -47,8 +46,9 @@ description: ""
 
 #### Technical Support Officers – D&amp;T
 
-*   Mr Chiang Kok Hoong
-*   Mr Mohamed Shahjohan B Mohd Salleh
+*  Mr Chiang Kok Hoong
+*  Mr Mohamed Shahjohan B Mohd Salleh
+*  Mr Ezahan Bin Mohamed Hanafi
 
   
 
