@@ -4,6 +4,25 @@ permalink: /accolades/student/affective/
 description: ""
 third_nav_title: Student
 ---
+2023
+--------------
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xW2e0jIoruo" height="315" width="560"></iframe>
+
+The National Library Board recently organised The Prove It! Contest that challenges students in their knowledge and application of information literacy (IL) and critical thinking skills. To date, over 1,300 lower secondary students had participated in the contest since 2013. The contest aims to equip students with news and info-literacy skills. It also instils in them the confidence to become effective student ambassadors by spearheading their own advocacy efforts in their schools and community. This contest is supported by the Ministry of Education, Black Dot Research and Rice Media.
+
+This video entry from Yishun Secondary School has clinched a position in the Top 10 (Video Category)!  
+
+The team comprises of: 
+
+* Lakshman s/o Nakkeeran 2 Resilience
+* Lor Jin Ting Avery 2 Integrity
+* Rathod Dhruv Dilipkumar 2 Resilience
+* Muhammad Danial Haddy 2 Respect
+
+
+
+_____________________________________
+
 2022
 --------------
 
