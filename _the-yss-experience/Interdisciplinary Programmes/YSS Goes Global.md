@@ -36,7 +36,7 @@ Besides travelling abroad, Yishun Secondary School also look forward to hosting 
 ### YSS Goes Global Programme - 2023
 *Click below to access daily updates:*
 
-* Taiwan (Trip 1)
+* [Taiwan (Trip 1)](/taiwan1/)
 * [Ho Chi Minh City - Vietnam](/vietnam/)
 * Taiwan (Trip 2)
 * Hong Kong
