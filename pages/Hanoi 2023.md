@@ -5,7 +5,7 @@ description: ""
 ---
 ### Hanoi Trip
 
-#### Daily Updates: test
+#### Daily Updates:
 
 <style>
   .iframe-container {
