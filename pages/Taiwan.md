@@ -3,7 +3,7 @@ title: Taiwan
 permalink: /taiwan2/
 description: ""
 ---
-### Taiwan 2023
+### Taiwan - Trip 2
 
 #### Daily Updates:
 
