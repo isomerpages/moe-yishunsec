@@ -38,7 +38,7 @@ Besides travelling abroad, Yishun Secondary School also look forward to hosting 
 
 * [Taiwan (Trip 1)](/taiwan1/)
 * [Ho Chi Minh City - Vietnam](/vietnam/)
-* Taiwan (Trip 2)
+* [Taiwan (Trip 2)](/taiwan2/)
 * Hong Kong
 * Hanoi
 
