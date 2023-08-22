@@ -7,4 +7,23 @@ description: ""
 
 #### Daily Updates:
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSFNXnZCL8r7ofMe7_TrWQ-atJPXKVOol4dZ9IefKtBF_BEK_AdWjRheIxznFXWVeWG7BdpmALolht/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<style>
+  .iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio (height / width) */
+  }
+
+  .iframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
+
+<div class="iframe-container">
+  <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSFNXnZCL8r7ofMe7_TrWQ-atJPXKVOol4dZ9IefKtBF_BEK_AdWjRheIxznFXWVeWG7BdpmALolht/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
