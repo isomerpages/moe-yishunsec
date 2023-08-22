@@ -40,7 +40,7 @@ Besides travelling abroad, Yishun Secondary School also look forward to hosting 
 * [Ho Chi Minh City - Vietnam](/vietnam/)
 * [Taiwan (Trip 2)](/taiwan2/)
 * [Hong Kong](/hongkong/)
-* Hanoi
+* [Hanoi](/hanoi/)
 
 
 #### Ho Chi Minh City - Vietnam
