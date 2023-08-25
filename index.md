@@ -18,6 +18,15 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
+      title: Alumni Visit on Teachers' Day
+      subtitle: Announcements
+      description: School will be open for alumni visit to their teachers on 29 August
+        2023, 2:30pm - 4:30pm.
+      button: Read More
+      url: /teachers-day/
+      image: /images/Announcements/teachers_day_celebration_2023.jpeg
+      alt: Teachers Day 2023
+  - infopic:
       title: Letter to Parents
       description: Presidential Election 2023 Revised School Hours
       button: Read more...
@@ -25,13 +34,6 @@ sections:
       alt: Letter to parents
       subtitle: Announcements
       image: /images/announcement.jpg
-  - infopic:
-      title: DSA to Yishun Secondary
-      description: More information on Direct School Admission to Yishun Secondary...
-      button: Read More...
-      alt: DSA in YSS
-      url: /the-yss-experience/dsa/
-      image: /images/yss-dsa.jpg
   - infopic:
       title: "Distinctive Programme: Arts for Life and Community"
       description: In Yishun Secondary School, Sonic Arts involves Music, Media and
