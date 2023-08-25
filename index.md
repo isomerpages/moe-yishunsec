@@ -20,7 +20,7 @@ sections:
   - infopic:
       title: Alumni Visit on Teachers' Day
       subtitle: Announcements
-      description: School will be open for alumni visit to their teachers on 29 August
+      description: School will be open for alumni to visit their teachers on 29 August
         2023, 2:30pm - 4:30pm.
       button: Read More
       url: /teachers-day/
