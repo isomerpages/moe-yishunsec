@@ -18,6 +18,15 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
+      title: Alumni Visit on Teachers' Day
+      subtitle: Announcements
+      description: School will be open for alumni visit to their teachers on 29 August
+        2023, 2:30pm - 4:30pm.
+      button: Read More
+      url: /teachers-day
+      image: /images/Announcements/teachers_day_celebration_2023.jpeg
+      alt: Image alt text
+  - infopic:
       title: Letter to Parents
       description: Presidential Election 2023 Revised School Hours
       button: Read more...
@@ -43,13 +52,4 @@ sections:
   - resources:
       title: Information from YSS
       button: Read more...
-  - infopic:
-      title: Alumni Visit on Teachers' Day
-      subtitle: Announcements
-      description: School will be open for alumni visit to their teachers on 29 August
-        2023, 2:30pm - 4:30pm.
-      button: Read More
-      url: /teachers-day
-      image: /images/Announcements/teachers_day_celebration_2023.jpeg
-      alt: Image alt text
 ---
