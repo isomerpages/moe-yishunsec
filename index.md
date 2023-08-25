@@ -35,13 +35,6 @@ sections:
       subtitle: Announcements
       image: /images/announcement.jpg
   - infopic:
-      title: DSA to Yishun Secondary
-      description: More information on Direct School Admission to Yishun Secondary...
-      button: Read More...
-      alt: DSA in YSS
-      url: /the-yss-experience/dsa/
-      image: /images/yss-dsa.jpg
-  - infopic:
       title: "Distinctive Programme: Arts for Life and Community"
       description: In Yishun Secondary School, Sonic Arts involves Music, Media and
         Technology...
