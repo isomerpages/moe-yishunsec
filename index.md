@@ -28,7 +28,7 @@ sections:
       alt: Teachers Day 2023
   - infopic:
       title: Letter to Parents
-      description: Presidential Election 2023 Revised School Hours
+      description: "Term 4 "
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
