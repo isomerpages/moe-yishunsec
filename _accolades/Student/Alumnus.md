@@ -7,18 +7,18 @@ third_nav_title: Student
 #### Vaishnavi Kalyani
 
 * Yishun Alumni (2020)
-* Award: Republic Award (2023)
+* Award: Republic Award 2023
 
 <figure><img src="/images/Accolades/Student/vaishnavi%20kalyani.jpg"></figure>
 
 ______________________________________________
 
-#### 
+#### Nur Soffiyah Sorfina Binte Mohammad Faizal
 
-* Yishun Alumni (2019)
-* Award: Teaching Scholarship 2023
+* Yishun Alumni (2020)
+* Award: Republic Award, Service Excellence Award 2023
 
-<figure><img src=""></figure>
+<figure><img src="/images/Accolades/Student/yishunsec_dhhm_nursoffiyah.jpg"></figure>
 
 ______________________________________________
 
