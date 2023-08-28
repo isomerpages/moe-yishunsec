@@ -4,13 +4,36 @@ permalink: /accolades/student/alumnus/
 description: ""
 third_nav_title: Student
 ---
+#### Vaishnavi Kalyani
+
+* Yishun Alumni (2020)
+* Award: Republic Award 2023
+
+<figure><img src="/images/Accolades/Student/vaishnavi%20kalyani.jpg"></figure>
+______________________________________________
+
+#### Nur Soffiyah Sorfina Binte Mohammad Faizal
+
+* Yishun Alumni (2020)
+* Award: Republic Award, Service Excellence Award 2023
+
+<figure><img src="/images/Accolades/Student/yishunsec_dhhm_nursoffiyah.jpg"></figure>
+______________________________________________
+
+#### Nhavin S/O Subrahmanyam
+
+* Yishun Alumni (2020)
+* Award: EAE Award 2023
+
+<figure><img src="/images/Accolades/Student/yishunsec_drco_nhavin.jpg"></figure>
+______________________________________________
+
 #### Faith Chung Xin Hui
 
 * Yishun Alumni (2019)
 * Award: Teaching Scholarship 2023
 
 <figure><img src="/images/Accolades/Student/faith%20chung%20xin%20hui.jpg"></figure>
-
 ______________________________________________
 
 #### Yap Lin Xuan
