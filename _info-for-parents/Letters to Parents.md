@@ -6,7 +6,7 @@ description: ""
 2023
 --------------
 ##### Term 3
-* [Letter to Parents - Term 4 - 25 Aug 2023](/files/Letter%20to%20Parents/term4-25_aug_2023_updated.pdf)
+* [Letter to Parents - Term 4 - 25 Aug 2023](/files/Letter%20to%20Parents/term4-28_aug_2023_updated.pdf)
 * [Presidential Election 2023 Revised School Hours -  18 Aug 2023](/files/Letter%20to%20Parents/presidential%20election%202023%20revised%20school%20hours%20-%20%2018%20aug%202023.pdf)
 * [An Invitation to Arts Extravaganza 2023_Unmasked - 31 Jul 2023](/files/Letter%20to%20Parents/an_invitation_to_arts_extravaganza_2023_unmasked.pdf)
 * [Letter to Parents - Term 3 - 05 Jul 2023](/files/Letter%20to%20Parents/letter%20to%20parents%20-%20term%203.pdf)
