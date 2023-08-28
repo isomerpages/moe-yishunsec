@@ -4,6 +4,33 @@ permalink: /accolades/student/alumnus/
 description: ""
 third_nav_title: Student
 ---
+#### Vaishnavi Kalyani
+
+* Yishun Alumni (2020)
+* Award: Republic Award (2023)
+
+<figure><img src="/images/Accolades/Student/vaishnavi%20kalyani.jpg"></figure>
+
+______________________________________________
+
+#### 
+
+* Yishun Alumni (2019)
+* Award: Teaching Scholarship 2023
+
+<figure><img src=""></figure>
+
+______________________________________________
+
+#### 
+
+* Yishun Alumni (2019)
+* Award: Teaching Scholarship 2023
+
+<figure><img src=""></figure>
+
+______________________________________________
+
 #### Faith Chung Xin Hui
 
 * Yishun Alumni (2019)
