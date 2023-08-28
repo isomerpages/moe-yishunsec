@@ -22,12 +22,12 @@ ______________________________________________
 
 ______________________________________________
 
-#### 
+#### Nhavin S/O Subrahmanyam
 
-* Yishun Alumni (2019)
-* Award: Teaching Scholarship 2023
+* Yishun Alumni (2020)
+* Award: EAE Award 2023
 
-<figure><img src=""></figure>
+<figure><img src="/images/Accolades/Student/yishunsec_drco_nhavin.jpg"></figure>
 
 ______________________________________________
 
