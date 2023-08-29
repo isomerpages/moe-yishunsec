@@ -11,3 +11,4 @@ description: ""
 
 #### Subject Booklets
 * [G1 - Subject Booklets](/files/Sec%203%20Subject%20Combinations/2023%20subject%20booklets%20-%20g1.pdf)
+* [G2 - Subject Booklets](/files/Sec%203%20Subject%20Combinations/2023%20subject%20booklets%20-%20g2.pdf)
