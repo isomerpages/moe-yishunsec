@@ -5,6 +5,12 @@ description: ""
 ---
 2023
 --------------
+**2023 September 2023 Holiday Homework - 04 Sep 2023**
+* [September 2023 Holiday Homework - S1](/files/Announcements%20for%20Students/2023/september%202023%20holiday%20homework%20-%20s1.pdf)
+* [September 2023 Holiday Homework - S2](/files/Announcements%20for%20Students/2023/september%202023%20holiday%20homework%20-%20s2.pdf)
+* [September 2023 Holiday Homework - S3](/files/Announcements%20for%20Students/2023/september%202023%20holiday%20homework%20-%20s3.pdf)
+
+
 **2023 Sec 4 & 5 Prelim-Exam TimeTable - 12 Aug 2023**
 * [Prelim Exam Timetable Sec 4&5 2023](/files/Announcements%20for%20Students/2023/12_aug_prelim-exam_timetable-sec-4&5_2023.pdf)
 
