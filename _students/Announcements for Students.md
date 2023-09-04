@@ -5,7 +5,7 @@ description: ""
 ---
 2023
 --------------
-**2023 September 2023 Holiday Homework - 04 Sep 2023**
+**2023 September Holiday Homework - 04 Sep 2023**
 * [September 2023 Holiday Homework - S1](/files/Announcements%20for%20Students/2023/september%202023%20holiday%20homework%20-%20s1.pdf)
 * [September 2023 Holiday Homework - S2](/files/Announcements%20for%20Students/2023/september%202023%20holiday%20homework%20-%20s2.pdf)
 * [September 2023 Holiday Homework - S3](/files/Announcements%20for%20Students/2023/september%202023%20holiday%20homework%20-%20s3.pdf)
