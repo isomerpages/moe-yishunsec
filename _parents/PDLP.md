@@ -7,11 +7,14 @@ description: ""
 * [Student Information Kit](/files/Parents/PDLP/pdlp%20student%20device%20information%20kit.pdf)
 
 
-### DMA Option guide for parents
+### DMA Guide for Parents
 
 *   [DMA Parent Guide - Default Option](/files/Parents/PDLP/2023_dma%20parent%20guide%20-%20default%20option.pdf)
 *   [DMA Parent Guide - Option A](/files/Parents/PDLP/2023_dma%20parent%20guide%20-%20option%20a_1.pdf)
 *   [DMA Parent Guide - Option B](/files/Parents/PDLP/2023_dma%20parent%20guide%20-%20option%20b_1.pdf)
+*   [Overriding School Sleep Hours](https://drive.google.com/file/d/1b62IdeAw_ey_8zSF6H7Bxn5j8Lfjsnzx/view?usp=sharing)
+*   [Parent Account Password Reset](https://drive.google.com/file/d/1Z12ioBGk58D5Fo8kMoKmfv-P5AkkQK6B/view?usp=sharing)
+*   [Setting Rules to Restrict Usage](https://drive.google.com/file/d/1jSkaMA7kC_pxCpj__lNYv-uI8umL92JY/view?usp=sharing)
 
 
 ### Service Centre Details
