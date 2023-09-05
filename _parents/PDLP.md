@@ -9,9 +9,9 @@ description: ""
 
 ### DMA Option guide for parents
 
-*   [DMA Parent Guide - Default Option](/files/HBL/DMA%20Parent%20Guide%20v2%20-%20Default%20Chrome%20OS.pdf)
-*   [DMA Parent Guide - Option A](/files/HBL/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20Chrome%20OS.pdf)
-*   [DMA Parent Guide - Option B](/files/HBL/DMA%20Parent%20Guide%20v2-%20Option%20B%20Chrome%20OS.pdf)
+*   [DMA Parent Guide - Default Option](/files/Parents/PDLP/2023_dma%20parent%20guide%20-%20default%20option.pdf)
+*   [DMA Parent Guide - Option A](/files/Parents/PDLP/2023_dma%20parent%20guide%20-%20option%20a_1.pdf)
+*   [DMA Parent Guide - Option B](/files/Parents/PDLP/2023_dma%20parent%20guide%20-%20option%20b_1.pdf)
 
 
 ### Service Centre Details
