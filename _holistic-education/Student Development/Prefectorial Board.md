@@ -8,15 +8,14 @@ third_nav_title: Student Development
 
 * Mr Richard Armstrong (HOD/Student Leadership &amp; Literature)
 * Ms Nithiya M (SH/English Language)
-* Ms Kelly Tan (SH/Social Studies)
 * Ms Pak Wanni 
 * Ms Thiam Jia Hui
 * Ms Crescencia Chay
 
 
-### Prefectorial Board Executive Committee 2022/23
+### Prefectorial Board Executive Committee 2023/24
+![](/images/StudDevelopment/PrefectorialBoard/org%20chart%20pbec%202023-2024.png)
 
-![](/images/StudDevelopment/PrefectorialBoard/Prefectorial%20Board%20Executive%20Committe%202022_23.jpg)
 
 ### CCA Goal
 
