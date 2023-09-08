@@ -16,11 +16,11 @@ description: ""
 * [2023 Sec 3 Term 4 Week 1 and 2 TT](/files/Timetables/Students%20Timetable/sec%203_term%204%20week%201%20and%202%20class%20timetable2023.pdf)
 
 #### Sec 4
-* 
+* [2023 Sec 4 Term 4 Week 1 and 2 TT](/files/Timetables/Students%20Timetable/sec%204_term%204%20week%201%20and%202%20class%20timetable2023.pdf)
 
 #### Sec 5
-* 
+* [2023 Sec 5 Term 4 Week 1 and 2 TT](/files/Timetables/Students%20Timetable/sec%205_term%204%20week%201%20and%202%20class%20tt2023.pdf)
 
 __________________________________________________________
 
-*updated on 24 Jun 2023*
+*updated on 08 Sep 2023*
