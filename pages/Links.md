@@ -28,8 +28,8 @@ tr:nth-child(even) {
 | [YSS Resource Booking System](https://rbs.avero-tech.com/)    | [SC Mobile](https://scmobile.moe.edu.sg/login)     |
 | [ICT Service Request Page](https://docs.google.com/forms/d/e/1FAIpQLSeQdaUI35ybm2E5qBBW9xt5UaJvYVnPruYeL1g0Ap9DkuzggA/viewform)     | [SLS Portal](https://vle.learning.moe.edu.sg/login)     |
 | [Facility Fault Reporting](https://docs.google.com/forms/d/e/1FAIpQLSd52mydVEfx2QhCPHOXRD-yRCEafEGhia4KYrlwbvMtkA84Cw/viewform)     | [MOE Intranet](https://intranet.moe.gov.sg/)     |
-| [Teacher's Timetable](/files/Timetables/Teachers%20Timetable/teacher_tt_sem2_2023-v9.pdf)     | [School Cockpit](https://schoolcockpit.moe.gov.sg/)     |
-| [Timetable by Venue](/files/Timetables/VenueTT/venues_tt_sem_2_2023-v3.pdf)     | [ICON Email 2.0](https://icon.moe.edu.sg/home)     |
+| [Teacher's Timetable](/files/Timetables/Teachers%20Timetable/term%204%20week%201%20and%202%20teacher%20timetable2023.pdf)     | [School Cockpit](https://schoolcockpit.moe.gov.sg/)     |
+| [Timetable by Venue](/files/Timetables/VenueTT/term%204%20week%201%20and%202%20venue%20timetable2023.pdf)     | [ICON Email 2.0](https://icon.moe.edu.sg/home)     |
 |[Class Timetable](/students/timetable/)      | [HRP](https://www.hrp.gov.sg/)     |
 | [PLD Portal](/parents/pdlp/)     | [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)     |
 | [Student ICON Email](https://workspace.google.com/dashboard)     | [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)     |
