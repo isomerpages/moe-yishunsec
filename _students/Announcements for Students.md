@@ -5,8 +5,8 @@ description: ""
 ---
 2023
 --------------
-**2023 Sec 1 to 3 EOY Exam TimeTable - 13 Sep 2023**
-* [Sec 1-3 EOY Exam Timetable 2023](/files/Announcements%20for%20Students/2023/4d%20sec%201-3%20eoy%20exam_timetable_2023_13sep_1415.pdf)
+**2023 Sec 1 to 3 EOY Exam TimeTable - 15 Sep 2023**
+* [Sec 1-3 EOY Exam Timetable 2023](/files/Announcements%20for%20Students/2023/4d%20sec%201-3%20eoy%20exam_timetable_2023_15sep.pdf)
 
 **2023 September Holiday Homework - 04 Sep 2023**
 * [September 2023 Holiday Homework - S1](/files/Announcements%20for%20Students/2023/september%202023%20holiday%20homework%20-%20s1.pdf)
