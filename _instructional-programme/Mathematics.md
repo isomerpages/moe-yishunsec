@@ -5,19 +5,33 @@ description: ""
 ---
 ### Department Goal(s)
 
-To develop students’ numeracy skills through logical reasoning, communicating and applications of concepts in the real life and to achieve our department vision of every student will excel and appreciate Mathematics.
+To develop students’ numeracy skills through logical reasoning, communicating and applications of concepts in the real life and to achieve our department vision of every **student will excel and appreciate Mathematics.**
 
-### Key Programmes
+### Department Key Programmes
 
-* Teachers explored innovative ways to make learning of math meaningful. They have provided varied learning experiences using games and thinking tools in SLS lessons to check students’ learning and give timely feedback. 
-* Math activities designed by the teachers for all Sec 1 to 3 students to learn concepts outside the classroom across the year. These include hands-on activities of geometric shapes, measurement of the length of their hands and feet to learn ratio. Students investigate concepts using freeware Geogebra, they were excited to share their findings together with their peers.
-* <b>All Singapore Secondary Mathematics Competition for Normal Course Students 2022:</b><br>
-To stimulate greater interest and enrich students’ knowledge in Mathematics for students in Normal Academic and Normal Technical.
-* <b>Singapore and Asian School Math Olympiad (SASMO) 2022: </b><br>Our teachers trained students from Sec 1E, 2E and 3E. The competition allowed them to learn independently and stretch their thinking skills in non-routine questions. We have clinched 1 Silver and 6 Bronze Awards and 3 Honorable Mention.
+* To provide various platform and opportunities for students to develop the love for Mathematics, authentic learning experiences and games are introduced at the lower secondary level. 
+* Interdisciplinary projects are introduced to help students related to the learning of Mathematics alongside other subjects. 
+* Educational platform such as Geogebra and Desmos are infused in the curriculum to help students with visualisation of geometrical properties. 
+
+### External Collaboration and Partnership
+
+* **Coding Programme and National Digital Explorer (NDE):** <br> 
+Selected from Sec 1 to 3 students took part in 10-hour coding programme and Sec 2 G3 math students took part in NDE to learn and certify in LSCEP through flipped learning approach at their own phase. 
+
+* **Singapore and Asian School Math Olympiad (SASMO):** <br>
+Our teachers trained students from Sec 1E, 2E and 3E. The competition allowed them to learn independently and stretch their thinking skills in non-routine questions. We have clinched 1 Gold, 7 Bronze Awards and 7 Honorable Mention.
+
+* **Math Challenge at Ngee Ann Polytechnic** aims to relate Mathematics and engineering to real life situation via exciting games, as well as promote teamwork and quick-thinking for the students.
+
+* **Mathemagics by Dr Arthur Benjamin** aims to arouse students’ interest in mathematics and to develop mathematical reasoning, logical, creative, and critical thinking. Students enjoyed his sharing and his secrets for performing rapid mental calculations.
+
+* **NIE Mathematics Challenge for Sec 1:**  This is online Math quiz that is closely aligned to the current secondary Mathematics syllabus. We have achieved 5 distinction awardees.
+
+* **All Singapore Secondary Mathematics Competition For Normal Course Students:** To stimulate greater interest and enrich students’ knowledge in Mathematics for Sec 2 and Sec 3 students in Normal Academic and Normal Technical. Our students proudly clinched the 8th and 14th position for <u>**Individual Award and 4th position in Team Award**.</u>
 
 ### Highlights / Achievements
 
-• <b>All Singapore Secondary Mathematics Competition for Normal Course Students 2022. </b> Our Sec 1 Normal Academic and Normal Technical students won the Top five in the Individual Category and top five in Team Category.
+* All Singapore Secondary Mathematics Competition for Normal Course Students Awardees (2023)
 
 <style>
 table {
