@@ -31,7 +31,7 @@ Our teachers trained students from Sec 1E, 2E and 3E. The competition allowed th
 
 ### Highlights / Achievements
 
-* All Singapore Secondary Mathematics Competition for Normal Course Students Awardees (2023)
+* **All Singapore Secondary Mathematics Competition for Normal Course Students Awardees (2023)**
 
 <style>
 table {
@@ -55,67 +55,46 @@ tr:nth-child(even) {
 
 | Class | Student Name | Award |
 | -------- | -------- | -------- |
-| 1 INNOVATE    | CAVAN TEH JIA PENG     | 	Individual and Team Category    |
-| 1 RESPECT   | TANEEKAN NEO HUI JUN    | Team Category  |
-| 1 STRIVE	  | SIVARAMAPANDIAN DHANUSHIYA  | Team Category  |
-| 1 STRIVE	  | JAYDEN ONG  | Individual and Team Category  |
-| 1 CARE	  | AVENAASHSREE D/O NEELAMOHAN  | Individual and Team Category  |
-| 1 INNOVATE	  | KWAN YU HONG JEREMY  | Team Category  |
+| 2 INNOVATE    | MUHAMMAD FIRAS QUSYAIRI BIN RUDI MASDINO     | Individual (8th position) and Team Category    |
+| 2 RESPECT   | TAN JUN HAO, PHOEBUS (CHEN JUNHAO)    | Individual (14th position) Team Category  |
+| 2 STRIVE	  | SIVARAMAPANDIAN DHANUSHIYA  | Team Category  |
+
  
 <p></p>
 
-* **SASMO Competition Silver, Bronze and Honorable Mention Awardees**
+* **Sec 1 NIE Math Challenge**
 
 | Class | Student Name | Award |
 | -------- | -------- | -------- |
-| 1 CARE     | KHOO KANG ZHE, EUGENE     | SILVER   |
-| 1 INTEGRITY    |DERRICK LAI CHIN YONG    | BRONZE    |
-| 1 RESPECT   |BRYANT NG JUNLONG    | BRONZE    |
-| 2E1   |DARREN LAI CHIN TECK  | BRONZE    |
-| 2E3   |ANGEL NGU XIN EN  | BRONZE    |
-| 2E3   |WONG KIM POH  | BRONZE    |
-| 3E1   |SHIAW SIN WEI   | BRONZE    |
-| 2E1   |LOW DE JIE SAMUEL   | HONORABLE MENTION    |
-| 2E1   |MOHAMAD HAKIM BIN MOHAMAD KHALIK   | HONORABLE MENTION    |
-| 3E1   |JENNA TAN JIA XUAN  | HONORABLE MENTION    |
+| 1 RESILIENCE    | ADORA KOH YU SHAAN     | DISTINCTION   |
+| 1 RESPECT   |BRYAN NEO YU PIN    | DISTINCTION    |
+| 1 INNOVATE   |GOH KAN RUI    | DISTINCTION    |
+| 1 INNOVATE   |LIN JIANQI   | DISTINCTION    |
+| 1 CARE  |YE PEIWEN    | DISTINCTION   |
 
-* **Inter-class ArithmetEQ Challenge:** <br>
-Secondary 1 cohort participated in this inter-class challenge through which they demonstrated resilience, creative thinking and teamwork for the first time in 2022. Students learned Arithmetic and Geometry when playing the board game. Sec 2E game facilitators were trained to guide players in the competition rounds.
-		
+<p></p>
+
+* **SASMO Competition Silver, Bronze and Honorable Mention Awardees**
  
-<table>
-	<tbody>
-		<tr>
-			<th>Award</th>
-			<th>Student Name</th>
-			<th>Class</th>
-		</tr>
-		<tr>
-			<td>CHAMPION</td>  
-		<td>
-			  1. ADNIEL YEO KAI KEE (YANG KAIQI)<br>  
-				2. ZION KOH 
-		</td>
-			<td>1 STRIVE</td></tr><tr><td>FIRST RUNNER UP</td>  
-		<td>
-				1. IDHAN AKIL BIN ASHRAF MARICAR<br>
-				2. JOY TAY LIKE XIN  
-			</td>
-		<td>1 SEEK</td>
-		</tr>
-		<tr>
-			<td>SECOND RUNNER UP</td>  
-		<td>
-			1. NUR NABILA BINTE MOHAMAD HANIF<br>  
-			2. XIE JIATONG
-		</td>
-			<td>1 INNOVATE</td>
-		</tr>  
-</tbody>
-</table>
 
-* **Sec 3E Experiential Learning Journey to Gardens by the Bay:**<br>
-To make the learning of mathematics relevant and interesting, students used mathematical concepts and skills to real-life applications.
+| Class | Student Name | Award |
+| -------- | -------- | -------- |
+| 2 CARE     | KHOO KANG ZHE, EUGENE     | GOLD     |
+| 1 CARE     | GOH YAN NI CHLOE     | BRONZE     |
+| 1 INTEGRITY     | LIN JIANQI     | BRONZE     |
+| 1 RESPECT     | CALDERON MARY LEE TIU     | BRONZE     |
+| 2 CARE     | SEAH KAI CHENG     | BRONZE     |
+| 2 INTEGRITY     | TAN LEI YUAN AVEL (CHEN LEIYUAN)     | BRONZE     |
+| 2 RESILIENCE     | MANOJ ABHAY CHITHAMBARA     | BRONZE     |
+| 3E1     | DARREN LAI CHIN TECK     | BRONZE     |
+| 1 INNOVATE     | LIM JIA XUAN     | HONORABLE MENTION     |
+| 1 CARE     | YE PEIWEN     | HONORABLE MENTION     |
+| 1 CARE     | HIPONA KEZIAH CODY DADDY     | HONORABLE MENTION     |
+| 2 INTEGRITY     | DERRICK LAI CHIN YONG     | HONORABLE MENTION     |
+| 2 INTEGRITY      | RAMESH HEMANTH     | HONORABLE MENTION     |
+| 2 RESILIENCE     | MUHAMMAD AZFAR BIN MOHAMED GANI     | HONORABLE MENTION     |
+| 3E1     | TAN ZORION CHEN ZHUOLI     | HONORABLE MENTION     |
+
 
 		
 ### Mathematics, CPA and POA Teachers
@@ -124,12 +103,3 @@ To make the learning of mathematics relevant and interesting, students used math
 		
 ### Photos
 		
-![](/images/IP/Math/MathSlide1.jpg)
-		
-![](/images/IP/Math/MathSlide2.jpg)
-		
-![](/images/IP/Math/MathSlide3.jpg)
-		
-![](/images/IP/Math/MathSlide4.jpg)
-		
-![](/images/IP/Math/MathSlide5.jpg)
