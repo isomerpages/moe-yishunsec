@@ -102,4 +102,23 @@ tr:nth-child(even) {
 ![](/images/IP/Math/math%20dept_2023.png)
 		
 ### Photos
-		
+
+<figure><img src="/images/IP/Math/2023/dr%20benjamin%20mathemagic_sec%201&amp;2.jpg"><figcaption>Dr Benjamin Mathemagic_Sec 1&amp;2</figcaption></figure>
+
+<figure><img src="/images/IP/Math/2023/escape_room_sec%202.jpg"><figcaption>Escape_room_Sec 2</figcaption></figure>
+
+<figure><img src="/images/IP/Math/2023/gbtb_sec%203.jpg"><figcaption>GBTB_Sec 3</figcaption></figure>
+
+<figure><img src="/images/IP/Math/2023/hypermart%20sec%201nt.jpg"><figcaption>Hypermart Sec 1NT</figcaption></figure>
+
+<figure><img src="/images/IP/Math/2023/ngee%20ann%20challenge_sec%203e.jpg"><figcaption>Ngee Ann Challenge_Sec 3E</figcaption></figure>
+
+<figure><img src="/images/IP/Math/2023/nie%20math%20challenge_sec%201.jpg"><figcaption>NIE Math Challenge_Sec 1</figcaption></figure>
+
+<figure><img src="/images/IP/Math/2023/sasmo_awardees%201.jpg"><figcaption>SASMO_awardees 1</figcaption></figure>
+
+<figure><img src="/images/IP/Math/2023/sasmo_awardees%202.jpg"><figcaption>SASMO_awardees 2</figcaption></figure>
+
+<figure><img src="/images/IP/Math/2023/sports%20hub%20sec%202.jpg"><figcaption>Sports Hub Sec 2</figcaption></figure>
+
+<figure><img src="/images/IP/Math/2023/super%20bowling_nt.jpg"><figcaption>Super Bowling_NT</figcaption></figure>
