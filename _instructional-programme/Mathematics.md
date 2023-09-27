@@ -27,7 +27,7 @@ Our teachers trained students from Sec 1E, 2E and 3E. The competition allowed th
 
 * **NIE Mathematics Challenge for Sec 1:**  This is online Math quiz that is closely aligned to the current secondary Mathematics syllabus. We have achieved 5 distinction awardees.
 
-* **All Singapore Secondary Mathematics Competition For Normal Course Students:** To stimulate greater interest and enrich students’ knowledge in Mathematics for Sec 2 and Sec 3 students in Normal Academic and Normal Technical. Our students proudly clinched the 8th and 14th position for <u>**Individual Award and 4th position in Team Award**.</u>
+* **All Singapore Secondary Mathematics Competition For Normal Course Students:** To stimulate greater interest and enrich students’ knowledge in Mathematics for Sec 2 and Sec 3 students in Normal Academic and Normal Technical. Our students proudly clinched the 8th and 14th position for <u><b>Individual Award and 4th position in Team Award.</b></u>
 
 ### Highlights / Achievements
 
