@@ -21,8 +21,9 @@ sections:
       title: YSS Goes Global
       subtitle: Announcements
       id: infopic
-      description: To develop YSS students to be aware and sensitive towards cultural
-        differences.
+      description: To provide an opportunity for YSS students to stretch their talent
+        as well as to learn and interact with their peers from overseas via
+        exchange programmes.
       button: Read More
       url: /the-yss-experience/interdisciplinary-programmes/yssgoesglobal/
       image: /images/Announcements/yss goes global.jpg
