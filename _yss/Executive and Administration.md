@@ -7,7 +7,7 @@ description: ""
 
 #### Admin Manager
 
-* Mr Alex Pek
+* Mr Pek Kian Huat, Alex
 
 
 #### Admin Executives
