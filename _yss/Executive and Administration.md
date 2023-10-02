@@ -5,6 +5,11 @@ description: ""
 ---
 ![](/images/YSS/eas_2023.png)
 
+#### Admin Manager
+
+* Mr Alex Pek
+
+
 #### Admin Executives
 
 *   Ms Lim Siew Huay
@@ -17,7 +22,6 @@ description: ""
 
 *   Mdm Lamra Lamri
 *   Ms Elaine Ng
-*   Mr Yeo Chee Hiang
 
   
 
@@ -40,7 +44,6 @@ description: ""
 *   Mdm Wong Geck Eng
 *   Mr Ithnin Bin Mohamed Noor
 *   Mdm Kamisah Binte Ibrahim
-*   Mr Arul
 
   
 
