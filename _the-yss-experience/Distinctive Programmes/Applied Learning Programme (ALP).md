@@ -6,8 +6,7 @@ third_nav_title: Distinctive Programmes
 ---
 Yishun Secondary School’s (YSS) ALP in Sonic Arts centres around music composition, media and technology. Students embark on a journey of discovery, from developing their interest in music through the GMP to learning technology by creating music and video production.
 
-<a href="https://sites.google.com/moe.edu.sg/yssartextravaganza">
-<img src="/images/YSS%20Exp/YSSArtsExtravaganza2022.jpg" alt="yss ArtsExtravaganza"></a>
+![](/images/Announcements/arts%20extravaganza%202023.png)
 
 
 ![](/images/ALP%20(1).png)
@@ -36,7 +35,7 @@ Contact Person(s): Mr Tan Hong Peng, Year Head ([_tan\_hong\_peng@moe.edu.sg_](m
 
 School Generic Email:&nbsp;[yishun\_ss@moe.edu.sg](mailto:yishun_ss@moe.edu.sg)
 
-#### ALP ongoing / upcoming events for 2021
+#### ALP ongoing / upcoming events
 
 ##### Sec 1 Beyond our Classroom! Music and Arts Modules
 
