@@ -16,6 +16,8 @@ Special Rooms
 
 <figure><img src="/images/IP/ICT/Photo_2-Online-Self-Directed-Learning.jpg"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
 
+<figure><img src="/images/YSS/library1.jpeg"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
+
 <figure><img src="/images/YSS/chat_space.png"><figcaption>Chat Space</figcaption></figure> 
 
 <figure><img src="/images/YSS/MPC.png"><figcaption>Multi Purpose Center (MPC)</figcaption></figure> 
