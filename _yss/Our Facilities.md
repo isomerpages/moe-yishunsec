@@ -22,7 +22,7 @@ Special Rooms
 
 <figure><img src="/images/YSS/the%20hive.jpeg"><figcaption>The HIVE</figcaption></figure> 
 
-<figure><img src="/images/YSS/innotechroom.jpeg"><figcaption>Innotec Room</figcaption></figure> 
+<figure><img src="/images/YSS/innotechroom.jpeg"><figcaption>Innotech Room</figcaption></figure> 
 
 PE Venues
 -----------------------
