@@ -41,9 +41,3 @@ Besides travelling abroad, Yishun Secondary School also look forward to hosting 
 * [Taiwan (Trip 2)](/taiwan2/)
 * [Hong Kong](/hongkong/)
 * [Hanoi - Vietnam](/hanoi/)
-
-
-#### Ho Chi Minh City - Vietnam
-
-![](/images/YSS%20Exp/YSS_Goes_Global/posterpg1.png)
-![](/images/YSS%20Exp/YSS_Goes_Global/posterpg2.png)
