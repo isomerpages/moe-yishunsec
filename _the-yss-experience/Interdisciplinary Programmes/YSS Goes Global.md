@@ -31,7 +31,7 @@ Besides travelling abroad, Yishun Secondary School also look forward to hosting 
 * 3 Nov to 7 Nov 2023: Ho Chi Minh City (Vietnam)
 * 4 Nov to 9 Nov 2023: Taiwan
 * 5 Nov to 10 Nov 2023: Hong Kong
-* 5 Nov to 9 Nov 2023: Hanoi
+* 5 Nov to 9 Nov 2023: Hanoi (Vietnam)
 
 ### YSS Goes Global Programme - 2023
 *Click below to access daily updates:*
@@ -40,7 +40,7 @@ Besides travelling abroad, Yishun Secondary School also look forward to hosting 
 * [Ho Chi Minh City - Vietnam](/vietnam/)
 * [Taiwan (Trip 2)](/taiwan2/)
 * [Hong Kong](/hongkong/)
-* [Hanoi](/hanoi/)
+* [Hanoi - Vietnam](/hanoi/)
 
 
 #### Ho Chi Minh City - Vietnam
