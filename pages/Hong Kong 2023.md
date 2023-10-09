@@ -29,3 +29,5 @@ description: ""
 </div>
 
 ![](/images/YSS%20Exp/YSS_Goes_Global/hongkong_trip.jpeg)
+
+#### Briefing Slides
