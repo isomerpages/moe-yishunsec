@@ -13,11 +13,11 @@ third_nav_title: Sports and Games
 * Ms Syhella
 
 ### CCA Schedule
-* **FOOTBALL (C Boys):** Monday and Wednesday from 4pm to 6pm
-* **FOOTBALL (B Boys):** Tuesday and Thursday from 4pm to 6pm
+* **FOOTBALL (C Boys):** Mondays, Tuesdays &amp; Thursdays 1500 - 1630
+* **FOOTBALL (B Boys):** Mondays, Tuesdays &amp; Thursdays 1600 - 1730
 
 ### Venue
-* Field
+* School Field
 
 ### CCA Exco Structure
 <style>
@@ -39,13 +39,15 @@ tr:nth-child(even) {
 </style>
 
 
-| |  |
+| 'B' Boys|  |
 | -------- | -------- |
-| Captain:     | Muhammad Rabbani Bin Buhari (3E4)     |
-| Vice-Captain:     | Ziqkry Yadiy Bin Zenny Jumari (3N1)     |
-| Head of Fitness:     | Thinnesh S/O Raj Kumar (3N1) <br> Iskandar Shah Bin Muhammad Shahrizal (3N3)    |
-| Head of Logistics:     | Annamalai Bharat (3E2) <br>  See Min An (3E4)   |
+| Captain:     | MUHAMMAD NUR AL- HAZIQ BIN NORDIN      |
+| Vice-Captain:     | DANISH HAIKAL BIN AHMAD HIDAYAT    |
 
+| 'C' Boys|  |
+| -------- | -------- |
+| Captain:     | ANG MENG SENG       |
+| Vice-Captain:     | EN'DRA MUQRY BIN ANDI    |
 
 
 ### Key Student Outcomes
@@ -56,28 +58,32 @@ tr:nth-child(even) {
 
 ### Highlights / Achievements
 
-* Inter-class Futsal Carnival for Secondary 1 to 5 classes in pursuit of a healthy lifestyle while building teamwork, friendship and camaraderie.
-* Organised Yishun Invitational Football Carnival for the years 2017 – 2019 where opportunities were given for players from four different schools to hone and pitch their skills against each other. Our boys did us proud and clinched 1st place in 2019.
-* Embarked on the yearly NSG Football Tournament where our ‘B’ and ‘C’ Divisions boys gained invaluable experience.
-* Embarked on Seasonal Football League from 2016 – 2019. Our boys learnt to appreciate the positive characteristics learnt through the games such as teamwork, discipline and perseverance.
+* Embarked on the yearly National School Games (NSG) Football Tournament where our ‘B’ and ‘C’ Division boys gained invaluable experience
+* Our ‘B’ Division boys qualified for NSG League 1 together with the top 16 schools in Singapore in 2023
+* Organised Yishun Invitational Football Carnival where opportunities were given for schools in our vicinity pitch their skills against each other. Our boys did us proud and clinched 1st place in 2023
+* Participated in NorthLight Futsal Fiesta where our boys emerged as champions
 
-### Events in 2021
 
-* YSS Under-18 Football League 2021: The teachers of Yishun Secondary Football CCA planned a league for the ‘B’ boys. The students participated in groups of 5 (4 players and 1 reserve with rolling substitute). Once a week on Thursdays, the boys competed against one another. What awaited them at the end of the league, were placings and medals for those who fought the hardest.
-* E-CCA: Our boys continued to reflect on their performance and work on their SMART goals to further refine their skills and continue with their physical training in the comforts of their own home.
+### Events in 2023
+
+* Joined School Football Academy (SFA) under Unleash the Roar! – a national movement to raise the levels of Singapore football and rally the nation
+* Started Direct School Admissions (DSA)
+* Competed in SFA Invitational League 2023
+* Parent engagement session for parents of prospective Primary 6 students
+
 
 ### Student’s Quotes
 
-*It has been a wonderful experience being in the Football CCA. It has taught me the importance of teamwork and I have learnt to get along with my teammates and together we have developed a stronger bond. Training might seem challenging but it’s all worth it.”*
+*"It has been a wonderful experience being in the Football CCA. It has taught me the importance of teamwork and I have learnt to get along with my teammates and together we have developed a stronger bond. Training might seem challenging but it’s all worth it.”*
 
-<div style="text-align:right">Muhammad Rabbani Bin Buhari, 3E4</div>
+<div style="text-align:right">Muhammad Rabbani Bin Buhari</div>
 
 *“Being a part of the Football CCA has improved me in all aspects, as a person and as a player. I have been trained to be more resilient and to never give up despite the odds.”*
 
-<div style="text-align:right">Ziqkry Yadiy Bin Zenny Jumari, 3N1</div>
+<div style="text-align:right">Ziqkry Yadiy Bin Zenny Jumari</div>
 
 ### Photos
 
-<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Football/Football-1.jpg"><figcaption>Our Graduating Boys</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Football/photo_1.jpg"><figcaption>Half-time huddle during NSG League 1</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Football/Football-2.jpg"><figcaption>YSS Under-18 Football League</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Football/photo_2.jpg"><figcaption>Secondary 4 farewell</figcaption></figure>
