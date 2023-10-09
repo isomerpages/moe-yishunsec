@@ -84,6 +84,6 @@ tr:nth-child(even) {
 
 ### Photos
 
-<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Football/Football-1.jpg"><figcaption>Our Graduating Boys</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Football/photo_1.jpg"><figcaption>Half-time huddle during NSG League 1</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Football/Football-2.jpg"><figcaption>YSS Under-18 Football League</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Football/photo_2.jpg"><figcaption>Secondary 4 farewell</figcaption></figure>
