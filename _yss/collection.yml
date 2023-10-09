@@ -2,7 +2,6 @@ collections:
   yss:
     output: true
     order:
-      - Parent Support Group.md
       - Principal's Message.md
       - About Us/.keep
       - About Us/Mission, vision and values.md
@@ -15,5 +14,6 @@ collections:
       - Executive and Administration.md
       - YSS Alumni.md
       - School Advisory Committee (SAC).md
+      - Parent Support Group.md
       - Our Facilities.md
       - School Canteen.md
