@@ -33,4 +33,3 @@ description: ""
 #### Briefing Slides
 
 * [Taiwan Pre-trip Briefing - 06 Oct 2023](/files/YSS%20Goes%20Global/taiwan%20pre-trip%20briefing%20-%2006%20oct%202023.pdf)
-
