@@ -41,9 +41,13 @@ tr:nth-child(even) {
 
 | 'B' Boys|  |
 | -------- | -------- |
-| Captain:     | Muhammad Rabbani Bin Buhari (3E4)     |
-| Vice-Captain:     | Ziqkry Yadiy Bin Zenny Jumari (3N1)     |
+| Captain:     | MUHAMMAD NUR AL- HAZIQ BIN NORDIN      |
+| Vice-Captain:     | DANISH HAIKAL BIN AHMAD HIDAYAT    |
 
+| 'C' Boys|  |
+| -------- | -------- |
+| Captain:     | ANG MENG SENG       |
+| Vice-Captain:     | EN'DRA MUQRY BIN ANDI    |
 
 
 ### Key Student Outcomes
@@ -54,10 +58,11 @@ tr:nth-child(even) {
 
 ### Highlights / Achievements
 
-* Inter-class Futsal Carnival for Secondary 1 to 5 classes in pursuit of a healthy lifestyle while building teamwork, friendship and camaraderie.
-* Organised Yishun Invitational Football Carnival for the years 2017 – 2019 where opportunities were given for players from four different schools to hone and pitch their skills against each other. Our boys did us proud and clinched 1st place in 2019.
-* Embarked on the yearly NSG Football Tournament where our ‘B’ and ‘C’ Divisions boys gained invaluable experience.
-* Embarked on Seasonal Football League from 2016 – 2019. Our boys learnt to appreciate the positive characteristics learnt through the games such as teamwork, discipline and perseverance.
+* Embarked on the yearly National School Games (NSG) Football Tournament where our ‘B’ and ‘C’ Division boys gained invaluable experience.
+* Our ‘B’ Division boys qualified for NSG League 1 together with the top 16 schools in Singapore in 2023.
+* Organised Yishun Invitational Football Carnival where opportunities were given for schools in our vicinity pitch their skills against each other. Our boys did us proud and clinched 1st place in 2023.
+* Participated in NorthLight Futsal Fiesta where our boys emerged as champions.
+
 
 ### Events in 2023
 
