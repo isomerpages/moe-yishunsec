@@ -1,6 +1,6 @@
 ---
-title: Parent Support Group
-permalink: /parents/psg/
+title: Parent Support Group (PSG)
+permalink: /yss/psg/
 description: ""
 ---
 #### Our Vision
