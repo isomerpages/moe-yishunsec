@@ -1,5 +1,5 @@
 ---
-title: Vietnam 2023
+title: Ho Chi Minh City
 permalink: /vietnam/
 description: ""
 ---
