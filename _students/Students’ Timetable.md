@@ -12,4 +12,3 @@ description: ""
 * [Sec 3 - Term 4 - Week 5 and 6](/files/Timetables/Students%20Timetable/2023_%20sec%203%20-%20term%204%20week%205%20and%206_10%20oct.pdf)
 
 *updated on 11 Oct 2023*
-_____________
