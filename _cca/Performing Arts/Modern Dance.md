@@ -41,17 +41,13 @@ tr:nth-child(even) {
 
 |  | |  |
 | -------- | -------- | -------- |
-| Chairperson     | SHARIFFAH RASHIDAH BINTE SYED ABDUL RAHMAN AL-YAHYA     | S3-E5     |
-| Vice - Chairperson    | PHAM MINH LI, SOPHIE     | S3-E3   |
-| Vice - Chairperson    | POON YU YI     | S3-N1  |
-| Head of Logistics    | 	HANNA QARISSA BINTE MOHD HAFIZZ YUSRI     | S2-N2  |
-| Head of Well-Being    | KWAN JING YI JOLIE     | S3-E3  |
-| Head of Fitness    | CHAN SZE TENG     | S2-E2  |
-| Head of Publicity    | POH SHAE QI, PHOEBE     | S2-E1  |
-| Assistant Logistics (Lower Sec)    | NURIN QISTINA BINTI JAMIL ABDUL NAJIB     | S2-N2  |
-| Assistant Well-Being (Lower Sec)    | JAYOMA JAHZARRA PHOEBE TOLETE     | S2-E1  |
-| Assistant Fitness (Lower Sec)    | NUR SHAFIQAH BINTE MUHAMMAD HAFIDZ     | S2-N2  |
-| Assistant Publicity (Lower Sec)    | ONG EN NING GENEVE     | S2-E1  |
+| Chairperson     | Chan Sze Teng     | S3-E1    |
+| Vice - Chairperson    | Goh Han Nah      | S3-E4   |
+| Vice - Chairperson    | Nur Shafiqah Binte Muhammad Hafidz     | S3-N2  |
+| Head of Logistics    | 	Koh Zhi Yi Elisa      | S3-E1  |
+| Head of Well-Being    | Kyla Thea Ng Kai Le      | S3-E2  |
+| Head of Fitness    | Jayoma Jahzarra Phoebe Tolete      | S3-E1  |
+| Head of Publicity    | Ong En Ning Geneve      | S3-E1  |
 
 
 ### Key Student Outcomes
@@ -63,8 +59,12 @@ tr:nth-child(even) {
 
 ### Highlights / Achievements
 
-* Chinese New Year dance performance
-* Speech Day performance
+* Singapore Youth Festival 2023: Certificate of Distinction
+* Super 24 Competition 2023 Finals: Top 8 
+* 37th Speech and Prize Presentation Ceremony Performance
+* YSS Arts Extravaganza 2023
+* Hong Kong Cultural and Immersion Programme
+
 
 ### Events in 2022
 
