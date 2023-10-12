@@ -81,11 +81,11 @@ tr:nth-child(even) {
 ### Student’s Quotes
 
 *"Modern Dance has been the most memorable highlight of my secondary school experience. This CCA has helped me to step out of my comfort zone and taught me ways to express my emotions through dance. I am very grateful for my teachers and teammates who have been with me throughout this journey. I have learnt a lot from the CCA. "*
-<div style="text-align:right">Poon Yu Yi (2022)</div>
+<div style="text-align:right">Poon Yu Yi</div>
 
 *"Modern dance has taught me many values such as perseverance and teamwork. I have learnt that I should always aim to do my best during training and performances. Events such as Super 24 gave me the exposure to perform on a public stage which allows me to grow as a dancer. My coach, teachers-in-charge, and friends are always there to encourage me and push me beyond my limits. Overall, I enjoy my time in the modern dance club. "*
 
-<div style="text-align:right">Poh Shae Qi, Phoebe (2022)</div>
+<div style="text-align:right">Poh Shae Qi, Phoebe</div>
 
 <figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/super%2024%20finals%20at%20indoor%20stadium.jpg"><figcaption>Super 24 Finals at Indoor Stadium</figcaption></figure>
 
