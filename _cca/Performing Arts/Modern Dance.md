@@ -87,10 +87,10 @@ tr:nth-child(even) {
 
 <div style="text-align:right">Poh Shae Qi, Phoebe (2022)</div>
 
-<figure><img src=""><figcaption>S24 competition</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/super%2024%20finals%20at%20indoor%20stadium.jpg"><figcaption>Super 24 Finals at Indoor Stadium</figcaption></figure>
 
-<figure><img src=""></figure>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/singapore%20youth%20festival%202023%20at%20university%20cultural%20centre,%20nus.jpg"><figcaption>Singapore Youth Festival 2023 at University Cultural Centre, NUS</figcaption></figure>
 
-<figure><img src=""></figure>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/internal%20dance%20competition.jpg"><figcaption>Internal Dance Competition</figcaption></figure>
 
 <figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance4.jpg"></figure>
