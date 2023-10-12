@@ -15,8 +15,8 @@ third_nav_title: Performing Arts
 
 
 ### CCA Schedule
-* Tuesday (3.30-6pm)
-* Thursday (3.30-6pm)
+* Tuesday (3:30 - 6pm)
+* Thursday (3:30 - 6pm)
 
 
 ### Venues
