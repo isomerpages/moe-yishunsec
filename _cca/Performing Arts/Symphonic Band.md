@@ -58,6 +58,7 @@ One Band, One Sound, One Family
 
 * The band sent 2 teams to participate in the Singapore Youth Festival. Team A performed “Flower Crown” while Team B performed “The Uprising”. Both team put in their very best and were awarded Certificate of Accomplishment.
 * The band is also very proud to have been selected to perform for the MOE HQ National Day Celebration. Due to safe management measures, we were not able to perform live bit instead had to submit a video recording of our performance which was played during the event.
+* The Band participated in Arts Extravaganza. In addition, they performed at the National Day Dinner celebration organised by Nee Soon Central Community Club and played three songs in August.
 
 ### Thinker-Innovator-Contributor Highlights (focusing on learning experiences / processes):
 
