@@ -12,7 +12,7 @@ third_nav_title: Performing Arts
 * Ms Sonam Vijaykumar Kusurkar
 
 ### CCA Schedule	
-* Thursday (3:45pm to 6pm)
+* Thursday (3:45 pm to 6 pm)
 
 *Note: There may be CCA sessions on Tuesday during the months leading up to competitions.*
 
