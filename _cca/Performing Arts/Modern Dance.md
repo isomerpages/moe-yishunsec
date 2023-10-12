@@ -52,10 +52,9 @@ tr:nth-child(even) {
 
 ### Key Student Outcomes
 
-* To use dance as a vessel to build character and impart values that will extend to every area of the student’s lives.
-* To create and nurture the artistic side of each Dancer and develop a Creative voice in their lives.
+* To use dance as a vessel to build character and impart values that will extend to every area of the students’ lives.
+* To create and nurture the artistic side of each dancer and develop a creative voice in their lives.
 * To learn how to work as a team and what it takes to work together as a collective for a bigger goal.
-* Founded in January 2020, Yishun Secondary School’s Modern Dance (Hip Hop) Club has been hard at work to breed a new wave of dancers to be a part of the Arts scene in Singapore. Hard work, Discipline, Consistency and Teamwork is our mantra. We strive to be one of the best dance clubs in Singapore.
 
 ### Highlights / Achievements
 
@@ -88,10 +87,10 @@ tr:nth-child(even) {
 
 <div style="text-align:right">Poh Shae Qi, Phoebe (2022)</div>
 
-<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance1.jpg"><figcaption>S24 competition</figcaption></figure>
+<figure><img src=""><figcaption>S24 competition</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance2.jpg"></figure>
+<figure><img src=""></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance3.jpg"></figure>
+<figure><img src=""></figure>
 
 <figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance4.jpg"></figure>
