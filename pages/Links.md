@@ -38,10 +38,10 @@ tr:nth-child(even) {
 | [Announcements for Students](/students/announcements/)     | [SSOE 2 Portal](https://ssoe2.moe.edu.sg/sp)     |
 | [MOE Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)     | [MOE Sports &amp; Recreation Club](https://www.mesrc.net/)     |
 |  [Self-reset Student's MIMS / Email Password](https://idp.mims.moe.gov.sg/nidp/app/login)    | [FormSG](https://form.gov.sg/)     |
-|      | [Go.gov.sg (for shorten URL &amp; QR code)](https://go.gov.sg/)     |
-|      | [MySkillFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)     |
-|      | [NLB Learning &amp; Information Literacy Resources](https://sure.nlb.gov.sg/)     |
-|      | [Haze Situation Update](https://www.haze.gov.sg/)     |
+|  [Padlet](https://yss.padlet.org/)    | [Go.gov.sg (for shorten URL &amp; QR code)](https://go.gov.sg/)     |
+|  [Nearpod](https://nearpod.com/)    | [MySkillFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)     |
+|  [Mindmeister](https://www.mindmeister.com/)    | [NLB Learning &amp; Information Literacy Resources](https://sure.nlb.gov.sg/)     |
+|   [Kami App](https://www.kamiapp.com/)   | [Haze Situation Update](https://www.haze.gov.sg/)     |
 |      | [NEA Website](https://www.nea.gov.sg)    |
 |      | [Ministry of Health](https://www.moh.gov.sg/)     |
 |      | [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)    |
