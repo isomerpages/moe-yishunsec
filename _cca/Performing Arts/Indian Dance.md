@@ -20,9 +20,8 @@ third_nav_title: Performing Arts
 
 ### CCA Exco Structure
 
-**Chairperson:** Vijay Govindaraj Lakshitha (2 Care)
-
-**Vice-chairperson:** Shruthi Suresh (2 Innovate)
+* **Chairperson:** Vijay Govindaraj Lakshitha (2 Care)
+* **Vice-chairperson:** Shruthi Suresh (2 Innovate)
 
 ### Key Student Outcomes
 
