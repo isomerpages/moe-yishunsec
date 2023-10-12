@@ -17,7 +17,7 @@ third_nav_title: Uniformed Groups
 * PDS on Tuesday 3:30 pm to 5:30 pm (for selected cadets)
 
 ### Venues
-* Classroom 4n2 and 4n3
+* Classroom 4N2 and 4N3
 * Parade square
 * Area behind Design block.
 
