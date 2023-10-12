@@ -92,5 +92,3 @@ tr:nth-child(even) {
 <figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/singapore%20youth%20festival%202023%20at%20university%20cultural%20centre,%20nus.jpg"><figcaption>Singapore Youth Festival 2023 at University Cultural Centre, NUS</figcaption></figure>
 
 <figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/internal%20dance%20competition.jpg"><figcaption>Internal Dance Competition</figcaption></figure>
-
-<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/ModernDance4.jpg"></figure>
