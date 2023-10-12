@@ -11,7 +11,7 @@ third_nav_title: Performing Arts
 * Ms Shahidah Borhan
 
 ### CCA Schedule
-* Wednesday and Thursday from 4 pm to 6 pm
+* Wednesday and Thursday from 4pm to 6pm
 
 ### Venues
 * MPC
