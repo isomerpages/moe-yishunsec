@@ -8,18 +8,19 @@ third_nav_title: Performing Arts
 
 ### Teacher-in-charge
 * Mr Lim Meng Teck
-* Ms Juliet Yeo
-* Mr Khong You Wei 
-* Mdm Azizah
+* Mdm Azizah Bte Abdul Rahim
+* Ms Juliet Yeo Li-yen
+* Mr Joshua Khong You Wei
+* Mr Yap Li-Ren
+
 
 ### CCA Schedule
-* Tuesday and Thursday from 4 to 6 pm
+* Tuesday (3.30-6pm)
+* Thursday (3.30-6pm)
+
 
 ### Venues
 * LT@3
-* Recording Studio
-* Lower Sec Block Level 4 Classrooms
-* 1T1
 
 ### CCA Exco Structure
 
@@ -45,34 +46,34 @@ tr:nth-child(even) {
 
 | SN | DESIGNATION | KEY PERSON |
 | -------- | -------- | -------- |
-| 1     | CHAIRMAN     | ALAINA ARWEN JUAT NATIVIDAD     |
-| 2     | VICE CHAIRMAN     | TOH YI XUAN     |
-| 3     | STUDENT CONDUCTOR     | MAEGAN ASHLEY ERMITA DALMACIO     |
-| 4    | SECRETARY     | ANG RUI HENG RAYSON   |
-| 5     | TREASURER &amp; LOGISTICS     | SHERNYN LEOW BOON JIA     |
-| 6    | WARDROPE     | NEO XI ZHEN     |
-| 7    | PUBLICITY &amp; WELFARE     | 	MARYLYNE DREQUITO ANTIMANO     |
-| 8    | SECTION LEADER (SOP 1)     | ISABELLE FAYE CENZON LLEVA     |
-| 9    | SECTION LEADER (SOP 2)     | 	NUR ANIS INSYIRAH BTE MOHD YAZID     |
-| 10    | SECTION LEADER (ALTO 1)     | NG JIA QI     |
+| 1     | CHAIRMAN     | NUR SYAMSINA BINTE ZAINALLABIDEEN     |
+| 2     | VICE CHAIRMAN     | JERLIN LUW YEE HUI (LIU YIHUI)     |
+| 3     | STUDENT CONDUCTOR     | CHERYL CHONG LAY YING     |
+| 4    | SECRETARY     | ANG LING XUAN, CHARLENE   |
+| 5    | PUBLICITY     | 	RANEN TAN LE     |
+| 6    | LOGISTICS     | MOHAMAD HAKIM BIN MOHAMAD KHALIK     |
+| 7    | WELFARE     | 	GLENICE NG QINHUI     |
 
 ### Key Student Outcomes
 
-* Students gain exposure to and keen awareness in music cutting across various genres, geographical regions and time periods.
-* Each chorister is expected to master good vocal production techniques and attain a degree of musical competency by the end of the 4 year tenure.
-* Constant participation in performances, like the SYF and the Night Festival, enable students to learn performance etiquette and hone skills that pique their awareness of onstage demands – professionalism, precision, and discipline.
-* Students are also trained to take up leadership positions, lead warm-ups, run programmes and develop areas of competency beyond training in music.
-* Students are also involved in service learning at community clubs and hospitals to develop empathy and make a difference in others’ lives.
+* The choir goals are three-pronged. The key aim is to nurture a love for music and develop the student’s mastery in choral singing. Our constant participation in performances aims to hone vocal skills and refine performance etiquette, piquing their awareness of onstage demands – professionalism, precision, and discipline.
+* The CCA hopes to provide opportunity for personal growth. It encourages each individual to take up leadership roles, to run warm-ups and programmes, and develop areas of competency beyond aspects of music.
+* The choir is also involved in service learning to develop empathy and make a difference in others’ lives through community involvement.
+
 
 ### Highlights / Achievements
 
-* Performance for SYF 2023
-* Performance at the National Library Board for the Night Festival (Mid-Year)
-* Performance at the Chong Pang Community Club (Year-End)
-* Performance at the Khoo Teck Puat Hospital (Year-End)
+* Participated in the Singapore Youth Festival Arts Presentation 2021
+* Participated in the Singapore Youth Festival Arts Presentation 2023 (Attained the Certificate of Accomplishment)
+
 
 ### Events in 2023
-* Participation in SYF 2023
+* Exchange Programme with the Voices of Singapore Adult Choir at Capitol Building (Jul)
+* Public Performance for Arts Extravaganza at Yishun Town Hall (Aug)
+* Lunch time performance at Khoo Teck Puat Hospital (Oct) VIA
+* Learning Journey to B-Dazzle – Sing Choir Competition (Nov)
+* Attend a musical performance @ Funan by Wildrice Production (Nov)
+
 
 ### SYF 2023 Video
 * [CHS017 - YSS](https://youtu.be/Z-QcT4Vs04A)
@@ -84,6 +85,6 @@ tr:nth-child(even) {
 
 *“One reason I join is that I get to express myself, although I am generally a shy person. The experience of singing together, learning together is rather fun, and we get to learn through the mistakes. I also enjoy the teaching, which allows me to grow musically.”*
 
-<div style="text-align:right;">– Nurelina Mashanda Binte Abdul Malik, 2020)</div>
+<div style="text-align:right;">– Nurelina Mashanda Binte Abdul Malik</div>
 
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/VNNvCxgetwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><figcaption>What We Do</figcaption></figure>
