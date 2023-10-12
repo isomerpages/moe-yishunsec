@@ -13,7 +13,7 @@ third_nav_title: Sports and Games
 * Ms Joan Chin
 
 ### CCA Schedule
-* Tuesdays and Thursdays from 4pm to 6pm
+* Tuesdays and Thursdays from 4 pm to 6 pm
 
 ### Venue
 * Parade Square
@@ -43,8 +43,9 @@ tr:nth-child(even) {
 
 | Position | Name | 	Class |
 | -------- | -------- | -------- |
-| Sec 3 Captain     | Ngoi Ying Chloe   | 3E3     |
-| Sec 2 Captain     | Wilma D’laila Binte Mohammad  Jilon     | 2E2   |
+| Captain     | ANGEL NGU XIN EN   | 3E3     |
+| Vice-Captain     | MONICA CHIE WALTERS     | 3E1   |
+| Vice-Captain     | ALAWIYAH NASYITHOH BINTE YOHANES    | 3E1   |
 
 ### Key Student Outcomes
 

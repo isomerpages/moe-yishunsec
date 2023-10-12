@@ -12,6 +12,7 @@ third_nav_title: Uniformed Groups
 * P/INSP (NPCC) Crescencia Chay
 * Ms Serena Sim
 * Ms Lim Su Wen
+* Ms Klaudia Lim
 
 ### Volunteer Adult Leaders
 * S/CI (NPCC) Choh Kaifeng

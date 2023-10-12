@@ -19,7 +19,9 @@ third_nav_title: Performing Arts
 * Performing Arts Room
 
 ### CCA Exco Structure
-![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/IndianDance_EXCO.jpg)
+
+* **Chairperson:** Vijay Govindaraj Lakshitha (2 Care)
+* **Vice-chairperson:** Shruthi Suresh (2 Innovate)
 
 ### Key Student Outcomes
 
@@ -29,9 +31,8 @@ third_nav_title: Performing Arts
 
 ### Highlights / Achievements
 
-* Sustainable ‘Certificate of Distinction’ at Singapore Youth Festival arts presentation for past 3 consecutive years from 2017 – 2021
-* CCA Colours Award: Viswanathan Jasmitha (2021), Balaji Harishma, Tanya Fernandez (2020), Asokan Sharmi, Jasmine (2019)
-* Performed at the Nee Soon Central National Day Celebrations 2019
+* Sustainable ‘Certificate of Distinction’ at Singapore Youth Festival arts presentation for past 3 consecutive years from 2017 – 2023
+* Performed at the Nee Soon Central National Day Celebrations 2022
 
 ### Events in 2022
 

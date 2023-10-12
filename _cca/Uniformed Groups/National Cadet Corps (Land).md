@@ -17,8 +17,9 @@ third_nav_title: Uniformed Groups
 * PDS on Tuesday 3:30 pm to 5:30 pm (for selected cadets)
 
 ### Venues
-* Parade Square
-* 2E1/ 2E2 / 2E3 Classrooms
+* Classroom 4n2 and 4n3
+* Parade square
+* Area behind Design block.
 
 ### CCA Exco Structure
 
