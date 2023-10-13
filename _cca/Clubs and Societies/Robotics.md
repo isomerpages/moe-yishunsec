@@ -4,7 +4,6 @@ permalink: /cca/clubs-and-societies/robotics/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
 ![](/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/robotics_2023.JPG)
 
 ### Teacher-in-charge
@@ -43,13 +42,12 @@ tr:nth-child(even) {
 
 | Position | Name | Class |
 | -------- | -------- | -------- |
-| Chairman     | 	CHAN KAI NOK      | 	S3-E1     |
-| Vice-Chairman     | MARCO HALIM    | 	S3-E4     |
-|      | 	JOSHUA TONG YI-WEI    | S3-E3     |
-| Executive Committee Member     | LOH YAN JIE XAVIER     | S3-E5     |
-|      | OH XU KAI EDWIN     | S3-E4     |
-|      | DAWN TAN YI XIN     | S3-E1     |
-|      | EUNICE LIM TZE YI      | S3-N3     |
+| Chairman     | 	MARCUS ONG YU RUI      | 	S3-E1     |
+| Vice-Chairman     | TAN YAN RUEY   | 	S3-N2     |
+|      | 	AREEF BIN DEEN LIM    | S3-E1     |
+| Executive Committee Member     | JAVIER TAN      | S3-E4     |
+|      | YOONG JIA YI     | S3-E4     |
+|      | TANG WAI XUAN     | S3-E5     |
 
 
 ### Key Student Outcomes
@@ -58,21 +56,17 @@ To promote computational thinking for life-long learning.
 
 ### Highlights / Achievements
 
-Robotics continues to provide enriching learning opportunities for our YSS Robotics through a variety of activities. The mini-challenges during CCA training sessions and external competitions help foster camaraderie, imbue resilience and showcase innovation and creativity as we strive for excellence. In 2020, students took part in 3D-Tronics Microbit Asia Challenge, organised by Zenitant and Tinkercademy, and supported by LearnSG and IMDA. In this competition, Jadon Lim Zhuo Zheng from 3E1 won the Explorer Award for the Senior Category. His entry was chosen out of nearly 500 submissions. Congratulations on the great effort and wonderful achievement! 
+Robotics continues to provide enriching learning opportunities for our YSS Robotics through a variety of activities. The activities conducted during CCA training sessions and external competitions help foster camaraderie, imbue resilience and showcase innovation and creativity as we strive for excellence. 
 
-### Events in 2021
-* HACK@AC
+In 2023, students attended a training programme which exposed them to various technology domains and skillsets required for the 21st Century. Students will gain an understanding of concepts such as IoT and wireless connectivity technologies, learn about sensors and output of IoT systems. The importance of security for IoT systems will also be discussed. They also gained understanding of the data analysis process and how their data collected from IoT systems can be visualized, analysed, and presented using a data analytics visual representation software.
 
-##### Competition Details:
+In July 2023, our students took part in Ngee Ann Polytechnic Aerobot Challenge. The Aerobot Challenge aims to interest Secondary 2 and 3 students in autonomous technology. This event requires students to work in teams to solve simulated real-world problems using drones and robots. A group of our students came in 2nd place for this challenge. 
 
-HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues.
+In August 2030, more than 230 talented students from 51 different schools immersed themselves in an exhilarating 6-week journey and participated in training to acquire AI skills, gearing up for an array of thrilling tech challenges curated by Google Engineers—all in pursuit of the National Youth Tech Championship 2023. Our group of 4 students took part and in came in 7th place for the competition.
+
 
 ### Photos
 
-<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-1.jpg"><figcaption>Drone flying</figcaption></figure>
-
-<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-2.jpg"><figcaption>eCCA on Microbit 29Jul</figcaption></figure>
-
-<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-3a.jpeg" alt="Jadon Lim with award" style="width:300px;"><figcaption>Jadon Lim with award</figcaption></figure>
-
-<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-4a.jpg" alt="Jadon Lims project" style="width:300px;"><figcaption>Jadon Lims project</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/robotics-1-2023.jpeg"></figure>
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/robotics-2-2023.jpeg"></figure>
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/robotics-3-2023.jpeg"></figure>
