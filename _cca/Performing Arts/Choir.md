@@ -87,4 +87,16 @@ tr:nth-child(even) {
 
 <div style="text-align:right;">– Nurelina Mashanda Binte Abdul Malik</div>
 
+### Photos
+
+
+
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Choir/choir-1-2023.jpg"><figcaption>All in a day's work - Warmup and Vocal Training</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Choir/choir-2-2023.jpg"><figcaption>All in a day’s work - Rehearsal </figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/Choir/choir-3-2023.jpg"><figcaption>Committee fun-shot after a major performance </figcaption></figure>
+
+
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/VNNvCxgetwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><figcaption>What We Do</figcaption></figure>
+
+
+
