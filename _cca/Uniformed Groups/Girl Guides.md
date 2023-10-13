@@ -20,7 +20,7 @@ third_nav_title: Uniformed Groups
 * 3N1 / 3N2 Classrooms
 
 ### CCA Exco Structure
-
+![](/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/gg-exco-2023-1.jpg)
 
 
 ### Key Student Outcomes
@@ -53,11 +53,11 @@ third_nav_title: Uniformed Groups
 
 ### Student’s Quotes
 *"Girls with strength, Leaders with confidence, Guides determined to make a change."*
-<div style="text-align: right;">Lin Yunfang, Company Leader</div>
+<div style="text-align: right;">Mah Jing Wen, Company Leader</div>
 
 
 ### Photos
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/GG.jpeg"><figcaption>Plogathon an eco friendly exercise where one picks up litter while working out</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/gg_pic1.jpg"><figcaption>Ms Sumaiyah demonstrating turfing the ground to the Guides</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/GG-2.jpeg"><figcaption>Pose for Peace Competition on Zoom</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/gg_pic2.jpg"><figcaption>North Division Day at Fuchun Secondary School</figcaption></figure>
