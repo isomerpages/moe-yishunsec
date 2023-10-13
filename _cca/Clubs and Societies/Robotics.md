@@ -67,10 +67,6 @@ In August 2030, more than 230 talented students from 51 different schools immers
 
 ### Photos
 
-<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-1.jpg"><figcaption>Drone flying</figcaption></figure>
-
-<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-2.jpg"><figcaption>eCCA on Microbit 29Jul</figcaption></figure>
-
-<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-3a.jpeg" alt="Jadon Lim with award" style="width:300px;"><figcaption>Jadon Lim with award</figcaption></figure>
-
-<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics-4a.jpg" alt="Jadon Lims project" style="width:300px;"><figcaption>Jadon Lims project</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/robotics-1-2023.jpeg"></figure>
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/robotics-2-2023.jpeg"></figure>
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/robotics-3-2023.jpeg"></figure>
