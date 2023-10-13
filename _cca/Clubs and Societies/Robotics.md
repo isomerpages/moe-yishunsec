@@ -10,6 +10,7 @@ third_nav_title: Clubs and Societies
 * Mr Phua Joo Shia (I/C)
 * Mr Ang Swee Siang Josh
 * Ms Yoong Hai Ling
+* Ms Wong Shu Kuan Madeline
 
 ### CCA Schedule
 * Wednesday from 4 to 6 pm
