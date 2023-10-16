@@ -53,11 +53,11 @@ tr:nth-child(even) {
 
 | Basketball (Boys) | Basketball (Girls) |
 | -------- | -------- |
-| **Captain:** KOH ZHI JIE 3E2     | **Captain:** YEO WYNNE 3E5     |
-| **Vice-Captain:** NG CHUN WEE JUVIN 3N1     | **Vice-Captain:** KEIRA FONG XIN YI 3E5     |
-| **Logistics IC:** LIM KAI HENG 3E4     | **Vice-Captain &amp; Publicity IC:** ZHANG YITING 3T1     |
-| **Publicity IC:** KIERAN JAMES NOLLOTH 3E2     | **Logistics IC:** LEE YU EN DYAN 3E2     |
-| **Training IC:** TAN JHON ALBERT SEDILLO 3T1     | **Training IC:** TOH KAI XUAN GWENDOLYN 3N1     |
+| **Captain:** KUMARAN CHINNADURAI    | **Captain:** SARAH FALISHA LIM BINTE HAILRUL NIZAM     |
+| **Vice-Captain:** TAN JIAN YU ( CHEN JIAN YU)     | **Vice-Captain:** SEAH KAI LING     |
+| **Logistics IC:** HO DE XUN, HAYDEN     | **Logistics IC:** JAZE KUA EN XI    |
+| **Publicity IC:** RAYMOND HEIN AUNG     | **Publicity IC:** GOH QI EN, VALERIE     |
+| **Training IC:** OH ZHI YANG CHESTER     | **Training IC:** XIAO FANG     |
 
 ##### C DIVISION
 
