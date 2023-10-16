@@ -25,19 +25,13 @@ Travelling overseas to other ASEAN member countries gives students the opportuni
 Besides travelling abroad, Yishun Secondary School also look forward to hosting foreign friends in Singapore
 
 
+### YSS Goes Global Programme - 2023
 #### Key Programmes
 
-* 31 Oct to 6 Nov 2023: Taiwan
-* 3 Nov to 7 Nov 2023: Ho Chi Minh City (Vietnam)
-* 4 Nov to 9 Nov 2023: Taiwan
-* 5 Nov to 10 Nov 2023: Hong Kong
-* 5 Nov to 9 Nov 2023: Hanoi (Vietnam)
-
-### YSS Goes Global Programme - 2023
 *Click below to view daily updates:*
 
-* [Taiwan (Trip 1)](/taiwan1/)
-* [Ho Chi Minh City - Vietnam](/vietnam/)
-* [Taiwan (Trip 2)](/taiwan2/)
-* [Hong Kong](/hongkong/)
-* [Hanoi - Vietnam](/hanoi/)
+* [Taiwan](/taiwan1/) - (31 Oct to 6 Nov 2023)
+* [Ho Chi Minh City - Vietnam](/vietnam/) - (3 Nov to 7 Nov 2023)
+* [Taiwan](/taiwan2/) - (4 Nov to 9 Nov 2023)
+* [Hong Kong](/hongkong/) - (5 Nov to 10 Nov 2023)
+* [Hanoi - Vietnam](/hanoi/) - (5 Nov to 9 Nov 2023)

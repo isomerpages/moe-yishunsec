@@ -53,22 +53,22 @@ tr:nth-child(even) {
 
 | Basketball (Boys) | Basketball (Girls) |
 | -------- | -------- |
-| **Captain:** KOH ZHI JIE 3E2     | **Captain:** YEO WYNNE 3E5     |
-| **Vice-Captain:** NG CHUN WEE JUVIN 3N1     | **Vice-Captain:** KEIRA FONG XIN YI 3E5     |
-| **Logistics IC:** LIM KAI HENG 3E4     | **Vice-Captain &amp; Publicity IC:** ZHANG YITING 3T1     |
-| **Publicity IC:** KIERAN JAMES NOLLOTH 3E2     | **Logistics IC:** LEE YU EN DYAN 3E2     |
-| **Training IC:** TAN JHON ALBERT SEDILLO 3T1     | **Training IC:** TOH KAI XUAN GWENDOLYN 3N1     |
+| **Captain:** KUMARAN CHINNADURAI    | **Captain:** SARAH FALISHA LIM BINTE HAILRUL NIZAM     |
+| **Vice-Captain:** TAN JIAN YU ( CHEN JIAN YU)     | **Vice-Captain:** SEAH KAI LING     |
+| **Logistics IC:** HO DE XUN, HAYDEN     | **Logistics IC:** JAZE KUA EN XI    |
+| **Publicity IC:** RAYMOND HEIN AUNG     | **Publicity IC:** GOH QI EN, VALERIE     |
+| **Training IC:** OH ZHI YANG CHESTER     | **Training IC:** XIAO FANG     |
 
 ##### C DIVISION
 
 
 | Basketball (Boys) | Basketball (Girls) |
 | -------- | -------- |
-| **Captain:** TAN JIAN YU (CHEN JIANYU) 2N2     | **Captain:** SARAH FALISHA LIM BINTE HAILRUL NIZAM 2E4     |
-| **Vice-Captain:** HO DE XUN, HAYDEN 2E1     | **Vice-Captain:** KUA EN XI JAZE 2T1     |
-| **Logistics IC:** EAN PANG YI HUAN 2E2     | **Logistics IC:** GOH QI EN, VALERIE 2N2     |
-| **Publicity IC:** OH ZHI YANG CHESTER 2T1     | **Publicity IC:** JOLENE LEO LI XUAN 2E2     |
-| **Training IC:** RALPH KHANG LI JIE 2T1     | **Training IC:** SEAH KAI LING 2E3     |
+| **Captain:** HIRESH S/O RAJASEGARAN    | **Captain:** DARWISYAH ULFAH BINTE MOHAMED JURAIMIN     |
+| **Vice-Captain:** JAYVIER ANG JIE FENG    | **Vice-Captain:** EMILY ELESSA ANGEL     |
+| **Logistics IC:** CHEW KOK RUI    | **Logistics IC:** LIAO YIXIN     |
+| **Publicity IC:** ZACHARY, ONG BO SHENG     | **Publicity IC:** CHARLENE TEO RUI LING     |
+| **Training IC:** BRYAN CHENG ZHI HAO    | **Training IC:** EURCIA KIEW XIANG LING    |
 
 ### Key Student Outcomes
 
@@ -79,8 +79,5 @@ tr:nth-child(even) {
 
 ### Highlights / Achievements
 
-* 2022 North Zone Basketball Competition - ‘B’ Division girls emerged as the top 8 
-* 2014 North Zone Basketball Championship - ‘C' Division girls emerged as 4th 
-* 2013 North Zone Basketball Competition - ‘B’ Division boys emerged as 4th
-* 2012 North Zone Basketball Championship - ‘C' Division girls emerged as 2nd Runner Up
-* 2010 National Basketball Championship - ‘B' Division boys emerged as 2nd Runner Up
+* 2023 North Zone Basketball Competition - ‘C’ Division girls emerged as the top 8
+* 2023 North Zone Basketball Competition - ‘B’ Division boys emerged as the top 8
