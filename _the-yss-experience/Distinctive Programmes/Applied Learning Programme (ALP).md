@@ -20,7 +20,7 @@ The holistic programme takes on a 3-tiered approach where all students, at Tier 
 
 This initiative by the National Arts Council (NAC) supports partnership between Singapore artists and mainstream schools. It allows schools to co-design customized arts learning experiences that deepen students’ engagement in and through the arts. Working closely with James Lye of Makor Records, students are exposed to fundamentals of popular song genres. They are also equipped with basic MIDI playing and recording skills.
 
-
+<figure><img src="/images/YSS%20Exp/ALP/Music%20Masterclass%20Photo%201.jpeg"></figure>
 
 
 
