@@ -4,7 +4,7 @@ permalink: /the-yss-experience/distinctive-programmes/alp/
 description: ""
 third_nav_title: Distinctive Programmes
 ---
-
+<figure><img src="/images/YSS%20Exp/ALP/distinctive_prog.png"></figure>
 
 ### Arts for Life and Community
 
