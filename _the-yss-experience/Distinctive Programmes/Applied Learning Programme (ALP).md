@@ -4,87 +4,53 @@ permalink: /the-yss-experience/distinctive-programmes/alp/
 description: ""
 third_nav_title: Distinctive Programmes
 ---
-Yishun Secondary School’s (YSS) ALP in Sonic Arts centres around music composition, media and technology. Students embark on a journey of discovery, from developing their interest in music through the GMP to learning technology by creating music and video production.
+<figure><img src="/images/YSS%20Exp/ALP/distinctive_prog.png"></figure>
 
-![](/images/Announcements/arts%20extravaganza%202023.png)
+### Arts for Life and Community
 
+Consisting of two elements Applied Learning Programme (ALP) and Lifelong Learning Programme (LLP), Yishun Secondary School’s Distinctive Programme (DP) centres around sonic arts, music arrangement and technology with an outreach to the community in mind. Students embark on a journey of discovery, from exploring the different facet of sonic arts and developing their interest in music.
 
 ![](/images/ALP%20(1).png)
 
-Yishun Secondary School’s (YSS) ALP in Sonic Arts centres around music composition, media and technology. Students embark on a journey of discovery, from developing their interest in music through the GMP to learning technology by creating music and video production.
+The holistic programme takes on a 3-tiered approach where all students, at Tier 1, learn to appreciate sonic arts through school assembly programmes, music lessons, and Student-Initiated Learning (SIL) modules. Passionate students are further stretched in music masterclasses and will have opportunities to showcase their work. By Tier 3, students are involved in performances, productions, and partnerships with institutes of higher learning and overseas collaborations.
 
-  
+### Key Programmes
 
-Helmed by a dedicated group of educators, they ensure that Sonic Arts engages and impacts students. The programme takes on a 3-tiered approach where all students, at Tier 1, learn to appreciate music through school assembly programme, music lessons and student-led lunch time concerts. Passionate students are further exposed to music creation like song writing, recording and video production. By Tier 3, students are involved in performances, productions and partnerships with institutes of higher learning and overseas collaborations.
+#### Artist-in-School Scheme (AISS)
 
-  
+This initiative by the National Arts Council (NAC) supports partnership between Singapore artists and mainstream schools. It allows schools to co-design customized arts learning experiences that deepen students’ engagement in and through the arts. Working closely with James Lye of Makor Records, students are exposed to fundamentals of popular song genres. They are also equipped with basic MIDI playing and recording skills.
 
-Concurrently, YSS has fine-tuned its LLP with an arts element in community service, and coined both Distinctive Programmes as “Arts for Life and Community”. Other contributing success factors include the school-based tiered approach and sustained partnership with external organisations. To share this journey with the fraternity, YSS welcomes attachment of teachers or sharing at various platforms.
-
-  
-
-Additional information
-
-1\. Refer to approach framework above <br>
-2\. Video
-
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/pGqTsFWnjWY" title="YSS - ALP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></figure>
-
-	
-Contact Person(s): Mr Tan Hong Peng, Year Head ([_tan\_hong\_peng@moe.edu.sg_](mailto:tan_hong_peng@moe.edu.sg), 68767107)
-
-School Generic Email:&nbsp;[yishun\_ss@moe.edu.sg](mailto:yishun_ss@moe.edu.sg)
-
-#### ALP ongoing / upcoming events
-
-##### Sec 1 Beyond our Classroom! Music and Arts Modules
-
-All Secondary One students will take part in this programme as part of their HBL for Term 2. Through Zoom lessons with well – known local artists, it allows every Secondary One student to be exposed to one Music or Art genre, such as Rapping, EDM, Soundscape, Puppetry, Storytelling, Cartooning, Body Percussion, Digital Caricature, Beatboxing and Singing. At the end of the programme, the students will use the June holiday to prepare for the presentation. They will get to showcase their products in July.
-
- 
-
-##### Sec 2 Song Writing Programme
-
-Through the Artist-in-School Programme, all Secondary Two Students will be exposed to the elements of Song Writing with Mr. James Lye. He will go through with them the fundamentals of Song Writing through collaborative work as well as get the students to record their songs in our school’s recording studio. Students will also work together as a class to produce an MTV at the end of the year.
+<figure><img src="/images/YSS%20Exp/ALP/music_masterclass_photo_1.jpeg"><figcaption>Music Masterclass</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/ALP/eugene_bakers_in_space_photo_2.jpeg"><figcaption>Eugene Bakers in Space</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/ALP/2_rs_with_eugene_bakers_in_space_photo_3.jpeg"><figcaption>2 RS with Eugene Bakers in Space</figcaption></figure>
 
 
-##### Digital Concert
+#### Student-Initiated Learning (SIL)
 
-Together with the Performing Arts CCAs, the school will be putting up a digital concert to showcase their varied talents at the end of the year.
+Implemented nationwide in 2021, Student-Initiated Learning (SIL) is a component of Home-Based Learning days where time is set aside for students to pursue their own interests and learn beyond the textbooks. In YSS, SIL modules are aligned to our DP such as digital drawings and creating videos that captures their interests such as football juggling, dancing, and A Day in the Life Of amongst other things.
 
 
-##### Vocalistic and Term 3 Lunch Time concert
+#### Sonic Arts and Music (SAM) Week
 
-On top of organising performances at major school events, the ALP Committee will also helm these two performance platforms to allow students to showcase their musical talents, gain confidence and take pride in their work and musical ability.
+YSS engages different vendors to spark an interest in sonic arts and music. Some of the programmes that were done include DJ-ing, Manga drawing, and KPop dancing.
 
-  
+<figure><img src="/images/YSS%20Exp/ALP/manga_drawing_photo_4.jpeg"><figcaption>Manga Drawing</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/ALP/dj-ing_photo_5.jpeg"><figcaption>DJ-ing</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/ALP/kpop_dancing_photo_6.jpg"><figcaption>KPop dancing</figcaption></figure>
 
-One of our student –&nbsp;**Isabelle Faye Cenzon Lleva**&nbsp;from&nbsp;**3E1**&nbsp;took part in this year&nbsp;**SYF – The Youth Station Project 2021**. Her original song “**Under the Moon Light**” which she wrote in 2020 was selected as one of the Top 5 songs.
-  
 
-You can listen to her entry via
+#### Mother Tongue Broadcasting
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/WNpv9tWQgSk" title="Under The Moonlight [Yishun Secondary School]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></figure>
+In YSS, we strongly believe in inter-disciplinary education experience. Collaborating with the Mother Tongue department, students can interview and interact with their fellow Yishunites in various settings involving the arts and creating a video to summarise it.
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/4cxwhqOS1DM" title="Vocalist 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></figure>
+<figure><img src="/images/YSS%20Exp/ALP/mt_broadcasting_photo_7.jpeg"><figcaption>MT Broadcasting</figcaption></figure>
 
-### Photos
 
-<figure><img src="/images/YSS%20Exp/AVA-Sound-Stage-Workshop.jpg" style="width:100%"><figcaption> AVA students during the “Sound &amp; Stage! Workshop” by Sallys Music Productions</figcaption></figure>
+#### Arts Extravaganza
 
-<figure><img src="/images/YSS%20Exp/Collaboration-with-AEB-Live-Recording-Session-for-SYF-Celebrations-2016-Youth-Station-.jpg"><figcaption> Collaboration with AEB – Live Recording Session for SYF Celebrations 2016 with Professional  
-Sound Engineer, Mr Edwin</figcaption></figure>
+![](/images/Announcements/arts%20extravaganza%202023.png)
 
-<figure><img src="/images/YSS%20Exp/SYF-Closing-Ceremony-Performance-iPad-Band-DJ.jpg"><figcaption> SYF Closing Ceremony Performance (iPad Band &amp; DJ) by Sec 4NT Music Students</figcaption></figure>
+A highly anticipated annual school event, the Arts Extravaganza provides a platform for Yishunites to present their involvement in the arts to the community. They do not only showcase their performing arts pieces, but also encourages students who are not involved in performing arts CCA to showcase their talents. One such programme is the school’s singing competition, Vocalistic. On top of that, students who stand out during the SIL programme and SAM week were also given an exposure to demonstrate and showcase their works during Meet-the-Artists sessions. In 2023, the Arts Extravaganza was held in Yishun Town Square. It was a successful event, which garnered the support of parents and members of the community. Truly, this event encapsulates what DP in YSS stands for: Arts for Life and Community.
 
-<figure><img src="/images/SYF-Closing-Ceremony-Performance-iPad-Band-DJ%20(1).jpg"><figcaption> SYF Closing Ceremony Performance (iPad Band &amp; DJ) by Sec 4NT Music Students</figcaption></figure>
-
-<figure><img src="/images/Sec-2-iPad-Module-Rehearsals-in-progress-.jpg"><figcaption> Sec 2 iPad Module (rehearsals in progress)</figcaption></figure>
-
-<figure><img src="/images/Improvisational-Jam-Band-Workshop-during-SYF-2016-Celebrations-at-Esplanade-Library.jpg"><figcaption> Students during rehearsal, featuring instruments such  
-as the Vocoder, Handsonic Drums, iPad Garageband,  
-MIDI Keyboard with effects</figcaption></figure>
-
-<figure><img src="/images/Live-Recording-session-30th-Anniversary.jpg"><figcaption> Live Recording session with Monisha, one of our student songwriters for the school’s 30th Anniversary</figcaption></figure>
-
-<figure><img src="/images/YSS%20Exp/AVA-Pathfinder.jpg"><figcaption> AVA Pathfinder Collaboration with Red Roof Records during BecKa’s EP Launch at Sentosa</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/ALP/vocalistic_after_school_performance_photo_8.jpeg"><figcaption>Vocalistic After School Performance</figcaption></figure>
+<figure><img src="/images/YSS%20Exp/ALP/meet_the_artists_phot_9.jpeg"><figcaption>Meet the Artists</figcaption></figure>

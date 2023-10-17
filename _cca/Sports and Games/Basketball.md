@@ -55,6 +55,7 @@ tr:nth-child(even) {
 | -------- | -------- |
 | **Captain:** KUMARAN CHINNADURAI    | **Captain:** SARAH FALISHA LIM BINTE HAILRUL NIZAM     |
 | **Vice-Captain:** TAN JIAN YU ( CHEN JIAN YU)     | **Vice-Captain:** SEAH KAI LING     |
+|    | **Vice-Captain:** ROXANNE   |
 | **Logistics IC:** HO DE XUN, HAYDEN     | **Logistics IC:** JAZE KUA EN XI    |
 | **Publicity IC:** RAYMOND HEIN AUNG     | **Publicity IC:** GOH QI EN, VALERIE     |
 | **Training IC:** OH ZHI YANG CHESTER     | **Training IC:** XIAO FANG     |
