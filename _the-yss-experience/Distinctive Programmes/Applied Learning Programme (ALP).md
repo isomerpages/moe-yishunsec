@@ -47,4 +47,3 @@ In YSS, we strongly believe in inter-disciplinary education experience. Collabor
 ![](/images/Announcements/arts%20extravaganza%202023.png)
 
 A highly anticipated annual school event, the Arts Extravaganza provides a platform for Yishunites to present their involvement in the arts to the community. They do not only showcase their performing arts pieces, but also encourages students who are not involved in performing arts CCA to showcase their talents. One such programme is the school’s singing competition, Vocalistic. On top of that, students who stand out during the SIL programme and SAM week were also given an exposure to demonstrate and showcase their works during Meet-the-Artists sessions. In 2023, the Arts Extravaganza was held in Yishun Town Square. It was a successful event, which garnered the support of parents and members of the community. Truly, this event encapsulates what DP in YSS stands for: Arts for Life and Community.
-
