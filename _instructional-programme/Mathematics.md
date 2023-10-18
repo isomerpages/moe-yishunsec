@@ -122,3 +122,5 @@ tr:nth-child(even) {
 <figure><img src="/images/IP/Math/2023/sports%20hub%20sec%202.jpg"><figcaption>Sports Hub Sec 2</figcaption></figure>
 
 <figure><img src="/images/IP/Math/2023/super%20bowling_nt.jpg"><figcaption>Super Bowling_NT</figcaption></figure>
+
+<figure><img src="/images/IP/Math/2023/na_math_competition.jfif"><figcaption>NA Math competition</figcaption></figure>
