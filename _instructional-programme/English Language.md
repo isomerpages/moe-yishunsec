@@ -31,7 +31,7 @@ You may approach your English Language teacher if you would like to have your wr
 
 [https://writing522470280.wordpress.com](https://writing522470280.wordpress.com/)
 
-### English Language &amp; Media Literacy Teachers
+### English Language and Literature Teachers
 
 ![](/images/IP/English/2023/english%20department_2023.png)
 

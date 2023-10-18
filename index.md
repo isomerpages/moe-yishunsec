@@ -39,7 +39,7 @@ sections:
       image: /images/Announcements/open house 2023-1.jpeg
   - infopic:
       title: Letter to Parents
-      description: Term 4
+      description: Sec 1 & 3 Outdoor Adventure Camp 2023
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents

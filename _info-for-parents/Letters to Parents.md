@@ -5,6 +5,11 @@ description: ""
 ---
 2023
 --------------
+##### Term 4
+* [Sec 1 Outdoor Adventure Camp 2023](/files/Letter%20to%20Parents/sec%201%20outdoor%20adventure%20camp%202023.pdf)
+* [Sec 3 Outdoor Adventure Camp 2023](/files/Letter%20to%20Parents/sec%203%20outdoor%20adventure%20camp%202023.pdf)
+
+
 ##### Term 3
 * [Letter to Parents - Term 4 - 25 Aug 2023](/files/Letter%20to%20Parents/term4-28_aug_2023_updated.pdf)
 * [Presidential Election 2023 Revised School Hours -  18 Aug 2023](/files/Letter%20to%20Parents/presidential%20election%202023%20revised%20school%20hours%20-%20%2018%20aug%202023.pdf)
