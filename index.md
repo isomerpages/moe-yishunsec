@@ -29,6 +29,15 @@ sections:
       image: /images/Announcements/yss goes global.jpg
       alt: Image alt text
   - infopic:
+      title: Open House 2023
+      subtitle: Announcements
+      id: infopic
+      description: 18 November 2023 (Saturday) from 9:00 am to 1:00 pm
+      button: Read More
+      url: /openhouse/
+      alt: Image alt text
+      image: /images/open house 2023-1.jpeg
+  - infopic:
       title: Letter to Parents
       description: Term 4
       button: Read more...

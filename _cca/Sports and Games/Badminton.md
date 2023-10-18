@@ -4,13 +4,14 @@ permalink: /cca/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports and Games
 ---
-![](/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_2023.JPG)
+![](/images/StudDevelopment/CCAs/SportsGames/Badminton/2023/badminton_2023.JPG)
 
 ### Teacher-in-charge
-* Mr Li Bin (I/C)
-* Ms Madeline Wong
+* Mr Li Bin (I/C)    
+* Mr Suhairi Bin Samsudin
 * Mr Lee Chye Sheng
-* Ms Lim Sin Yee
+* Mr Yeung Chun Nam   
+
 
 ### CCA Schedule
 * Tuesday and Thursday from 4 pm to 6 pm
@@ -21,40 +22,47 @@ third_nav_title: Sports and Games
 
 ### CCA Exco Structure
 
-![](/images/StudDevelopment/CCAs/SportsGames/Badminton/Badminton_EXCO.png)
+![](/images/StudDevelopment/CCAs/SportsGames/Badminton/2023/exco2023.png)
 
 ### Key Student Outcomes
 
 * Developing leadership qualities of members
-* Learning badminton skills
+* Learning of badminton skills
 * Overcoming challenging tasks 
 * Instilling discipline and motivation 
-* Building teamwork
+* Building teamwork  
+
 
 ### Highlights / Achievements
 
+* This year, our school team players showcased good team spirit and sportsmanship in the National School Games – North Zone. B Division Badminton girls team won with a score of 3 - 2 against Compassvale Secondary school. We have qualified for the quarter finals of the NSG for the first time in our school’s history.             
 * Organized friendly matches
-* Participated in NSG
-* Organized inter-class badminton competition
+* Organized inter-class badminton competition   
 
-### Events in 2022
+
+### Events in 2023
 
 * NSG North Zone badminton tournaments
 * CCA Orientation Day   
-* CCA Open House
+* CCA Open House              
+
 
 ### Student’s Quotes
 
-*"As the chairperson for badminton CCA for three years, I fully understand the expectations from my teachers and coaches. Being the chairperson isn't an easy job, I used to have a hard time trying to fulfill all the tasks given by my teachers and thankfully I did not let them down. My success would not have been possible without the support and encouragement from my coaches, teachers, and friends. With that I would like to thank all of them for giving me memorable experiences in the CCA."*
+*"Leading a badminton team has brought me many sensations while I served my duties with the team. Throughout my 3 years in this CCA, I have learnt that badminton is not just a sport, but rather a community that teaches us to mature through companionships, possess great team spirit and take home many valuable life lessons with us. Participating in the National School Games was of my most significant milestone with the team, as we encouraged each other with a positive mindset and a “no giving up” spirit. My teammates were fighting vociferously, offering words of motivation and support which led to our 3-2 victory. It was a fulfilling and memorable experience that I would not be a able to attain anywhere else, which gave me a strong sense of belonging towards the CCA and made my 3 years in this school twice as exciting."*
 
-<div style="text-align:right">Ming Hao, ‘B’ div boys Chairperson</div>
+<div style="text-align:right">- Jayden, ‘B’ div boys Chairperson</div>
 
-*"Badminton was not my first choice during the selection of CCA in secondary 1. Having spent almost 3 years in badminton CCA, I realised that I hadn't regretted joining in here. My CCA experiences with my fellow CCA mates were interactive and unforgettable. I will never forget how we strived and worked hard together during the NSG period. They taught me not to give up even when we encountered strong opponents and always try my best in everything I do. I feel a strong sense of belonging to my CCA, and definitely enjoyed myself throughout these 3 years."*
+*"At first, being the badminton captain did not appeal to me as I was aware of the responsibilities of being a captain. Thankfully, after being selected as the captain, I was able to make meaningful and valuable memories with my CCA mates and teachers. Being the captain was definitely challenging at times as I had to lead my fellow CCA mates and I had to be a role model to my juniors. Thankfully, my CCA mates were supportive of me and they constantly encouraged me to reach greater heights. During the National School Games period, I had fun with my CCA mates and they taught me not to give up when met with setbacks. With the support of my teachers and peers, I am able to become a more reliable and dependable captain."*
 
-<div style="text-align:right">Le Yao, ‘B’ div girls Vice-Chairperson</div>
+<div style="text-align:right">- Ynez, ‘B’ div girls Chairperson</div>
 
 ### Photos
 
-![](/images/StudDevelopment/CCAs/SportsGames/Badminton/Badminton-1.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Badminton/2023/b_boys_team_1.jpg"><figcaption>B Boys Team</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/SportsGames/Badminton/Badminton-2.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Badminton/2023/c_boys_team.jpeg"><figcaption>C Boys Team</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Badminton/2023/b_girls_team.jpeg"><figcaption>B Girls Team</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Badminton/2023/c_girls_team.jpeg"><figcaption>C Girls Team</figcaption></figure>
