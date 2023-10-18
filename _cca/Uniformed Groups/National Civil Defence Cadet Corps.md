@@ -29,6 +29,8 @@ Compulsory items to bring: Full NCDCC uniform (with badges), NCDCC t-shirt, wate
 
 ### CCA Exco Structure
 
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/2023/exco2023.png"></figure>
+
 
 ### Key Student Outcomes
 
