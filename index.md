@@ -36,7 +36,7 @@ sections:
       button: Read More
       url: /openhouse/
       alt: Image alt text
-      image: /images/open house 2023-1.jpeg
+      image: /images/Announcements/open house 2023-1.jpeg
   - infopic:
       title: Letter to Parents
       description: Term 4
