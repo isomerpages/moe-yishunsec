@@ -33,14 +33,13 @@ You may approach your English Language teacher if you would like to have your wr
 
 ### English Language &amp; Media Literacy Teachers
 
-![](/images/IP/English/english%20department_2023.png)
+![](/images/IP/English/2023/english%20department_2023.png)
 
 ### Photos
 
+<figure><img src="/images/IP/English/2023/english-1.jpeg"><figcaption>KidsREAD Programme at Jiemin Primary - Question Time!</figcaption></figure>
+<figure><img src="/images/IP/English/2023/english-2.jpg"><figcaption>NLB Prove It! Contest (Video Category) Gold Winners</figcaption></figure>
+<figure><img src="/images/IP/English/2023/english-3.jpg"><figcaption>Sec 3 Media Production Workshop Series</figcaption></figure>
+<figure><img src="/images/IP/English/2023/english-4.jpeg"><figcaption>YSS Reads - Assembly Sharing</figcaption></figure>
 
-
-
-![](/images/IP/English/Slide1.jpg)
 ![](/images/IP/English/Slide2.jpg)
-![](/images/IP/English/Slide3.jpg)
-![](/images/IP/English/Slide4.jpg)
