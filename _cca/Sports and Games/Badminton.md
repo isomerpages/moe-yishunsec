@@ -59,7 +59,10 @@ third_nav_title: Sports and Games
 
 ### Photos
 
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Badminton/2023/b_boys_team_1.jpg"><figcaption>B Boys Team</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/SportsGames/Badminton/2023/b_boys_team_1.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Badminton/2023/c_boys_team.jpeg"><figcaption>C Boys Team</figcaption></figure>
 
-![](/images/StudDevelopment/CCAs/SportsGames/Badminton/Badminton-2.jpg)
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Badminton/2023/b_girls_team.jpeg"><figcaption>B Girls Team</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/SportsGames/Badminton/2023/c_girls_team.jpeg"><figcaption>C Girls Team</figcaption></figure>
