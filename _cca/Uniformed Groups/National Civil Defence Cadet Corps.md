@@ -77,10 +77,10 @@ To nurture and develop our youths into resilient and responsible citizens throug
 <div style="text-align:right;">-	Izshalila Binte Ismail (ASM)</div>
 
 
-<figure><img src=""><figcaption>NCDCC’s very own amazing race that tested our cadets on rescue and first aid skills</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/2023/ncdcc-1.jpg"><figcaption>NCDCC’s very own amazing race that tested our cadets on rescue and first aid skills</figcaption></figure>
 
-<figure><img src=""><figcaption>Giving back to the school by training Secondary 1 NPCC cadets on the basics of rescuing casualties during an emergency</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/2023/ncdcc-3.jpg"><figcaption>Giving back to the school by training Secondary 1 NPCC cadets on the basics of rescuing casualties during an emergency</figcaption></figure>
 
-<figure><img src=""><figcaption>Mrs Lee, our Principal, inspecting the NCDCC GOH contingent during this year’s school NDP parade</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/2023/ncdcc-4.jpg"><figcaption>Mrs Lee, our Principal, inspecting the NCDCC GOH contingent during this year’s school NDP parade</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC-4.jpg"></figure>
+<figure><img src="/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/2023/ncdcc-5.jpg"></figure>
