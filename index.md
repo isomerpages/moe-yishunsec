@@ -36,14 +36,6 @@ sections:
       alt: Letter to parents
       subtitle: Announcements
       image: /images/announcement.jpg
-  - infopic:
-      title: "Distinctive Programme: Arts for Life and Community"
-      description: In Yishun Secondary School, Sonic Arts involves Music, Media and
-        Technology...
-      button: Read more...
-      url: /the-yss-experience/distinctive-programmes/alp/
-      alt: Distinctive Programme in YSS
-      image: /images/ALP-LLP.jpg
   - resources:
       title: Information from YSS
       button: Read more...

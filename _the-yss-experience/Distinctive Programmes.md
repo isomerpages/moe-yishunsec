@@ -1,8 +1,7 @@
 ---
-title: Applied Learning Programme (ALP)
-permalink: /the-yss-experience/distinctive-programmes/alp/
+title: Distinctive Programmes
+permalink: /the-yss-experience/distinctive-programmes/
 description: ""
-third_nav_title: Distinctive Programmes
 ---
 <figure><img src="/images/YSS%20Exp/ALP/distinctive_prog.png"></figure>
 
