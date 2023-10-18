@@ -19,7 +19,7 @@ To develop effective and confident communicators with an appreciation for langua
 ### Highlights / Achievements
 
 
-* <b>KidsREAD 2022: </b>Our school collaborates with the National Library Board in this programme where 20 of our students volunteer weekly at Jiemin Primary School to read to the Lower Primary students in an effort to promote the love of reading and cultivate good reading habits among young Singaporeans.
+* <b>KidsREAD: </b>Our school collaborates with the National Library Board in this programme where 20 of our students volunteer weekly at Jiemin Primary School to read to the Lower Primary students in an effort to promote the love of reading and cultivate good reading habits among young Singaporeans.
 
 ### YSS Writes!
 
