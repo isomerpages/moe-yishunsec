@@ -2,11 +2,11 @@ collections:
   the-yss-experience:
     output: true
     order:
-      - Distinctive Programmes.md
       - The YSS Experience.md
       - My Experience in YSS.md
       - School Events.md
       - DSA to Yishun Secondary.md
+      - Distinctive Programmes.md
       - Interdisciplinary Programmes/.keep
       - Interdisciplinary Programmes/StAR @YSS!.md
       - Interdisciplinary Programmes/YSS Amazing Race.md
