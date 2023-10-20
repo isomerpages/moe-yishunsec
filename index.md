@@ -26,7 +26,7 @@ sections:
         exchange programmes.
       button: Read More
       url: /the-yss-experience/interdisciplinary-programmes/yssgoesglobal/
-      image: /images/Announcements/yss goes global_1.png
+      image: /images/Announcements/yss goes global_2.jpg
       alt: Image alt text
   - infopic:
       title: Open House 2023
