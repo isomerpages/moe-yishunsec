@@ -58,7 +58,7 @@ ________________________________________________
 
 _____________________________________________
 
-#### Cedric Tay Shi Han and  Tan Su Xin
+#### Cedric Tay Shi Han and  Tam Su Xin
 
 * Yishun Alumni (2019)
 * Outstanding Results at the 2021 GCE A-Level Examinations
