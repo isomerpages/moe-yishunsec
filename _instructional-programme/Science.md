@@ -23,16 +23,19 @@ Our teachers used a variety of platforms such as Google Classroom, Nearpod and P
 
 ### Photos
 
-![](/images/IP/Science/2023/photo%201_%20hands%20on%20in%20molecular%20gastronomy.jpg)
+<figure><img src="/images/IP/Science/2023/photo%201_%20hands%20on%20in%20molecular%20gastronomy.jpg"><figcaption>Hands on in Molecular Gastronomy</figcaption></figure>
 
-![](/images/IP/Science/2023/photo%202_%20forming%20alginate%20at%20molecular%20gastronomy.jpeg)
+<figure><img src="/images/IP/Science/2023/photo%202_%20forming%20alginate%20at%20molecular%20gastronomy.jpeg"><figcaption>Forming alginate in Molecular Gastronomy</figcaption></figure>
 
-![](/images/IP/Science/2023/photo%203_%20science%20fair%20at%20jiemin%20primary%20school.jpeg)
+<figure><img src="/images/IP/Science/2023/photo%203_%20science%20fair%20at%20jiemin%20primary%20school.jpeg"><figcaption>Science Fair at Jiemin Primary School </figcaption></figure>
 
-![](/images/IP/Science/2023/photo%204_%20illustratum%20distinction%20award.jpg)
+<figure><img src="/images/IP/Science/2023/photo%204_%20illustratum%20distinction%20award.jpg"><figcaption>Illustratum Distinction Award</figcaption></figure>
 
-![](/images/IP/Science/2023/photo%205_%20students%20who%20took%20part%20in%20illustratum%202023.jpg)
 
-![](/images/IP/Science/2023/photo%206_%20elementz%20competition%202023.jpeg)
+<figure><img src="/images/IP/Science/2023/photo%205_%20students%20who%20took%20part%20in%20illustratum%202023.jpg"><figcaption>Students who took part in Illustratum 2023</figcaption></figure>
 
-![](/images/IP/Science/2023/photo%207_%20students%20who%20took%20part%20in%20elementz%20competition.jpeg)
+
+<figure><img src="/images/IP/Science/2023/photo%206_%20elementz%20competition%202023.jpeg"><figcaption>Elementz Competition 2023</figcaption></figure>
+
+
+<figure><img src="/images/IP/Science/2023/photo%207_%20students%20who%20took%20part%20in%20elementz%20competition.jpeg"><figcaption>Students who took part in Elementz 2023</figcaption></figure>
