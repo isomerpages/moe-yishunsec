@@ -5,7 +5,7 @@ description: ""
 ---
 ### Goal
 
-To nurture a community of confident, socially responsible and future-ready learners empowered with technology
+To nurture a community of confident, socially responsible and future-ready learners empowered with technology.
 
 ### Key Programmes
 
