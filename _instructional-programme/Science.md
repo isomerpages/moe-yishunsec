@@ -25,7 +25,7 @@ Our teachers used a variety of platforms such as Google Classroom, Nearpod and P
 
 <figure><img src="/images/IP/Science/2023/photo%201_%20hands%20on%20in%20molecular%20gastronomy.jpg"><figcaption>Hands on in Molecular Gastronomy</figcaption></figure>
 
-<figure><img style="width:400px" src="/images/IP/Science/2023/photo%202_%20forming%20alginate%20at%20molecular%20gastronomy.jpeg"><figcaption>Forming alginate in Molecular Gastronomy</figcaption></figure>
+<figure><img style="width:300px" src="/images/IP/Science/2023/photo%202_%20forming%20alginate%20at%20molecular%20gastronomy.jpeg"><figcaption>Forming alginate in Molecular Gastronomy</figcaption></figure>
 
 <figure><img src="/images/IP/Science/2023/photo%203_%20science%20fair%20at%20jiemin%20primary%20school.jpeg"><figcaption>Science Fair at Jiemin Primary School </figcaption></figure>
 
