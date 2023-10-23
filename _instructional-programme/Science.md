@@ -19,14 +19,20 @@ Our teachers used a variety of platforms such as Google Classroom, Nearpod and P
 
 ### Science Department Teachers
 
-![](/images/IP/Science/science%20dept_2023.png)
+![](/images/IP/Science/2023/science%20dept_2023.png)
 
 ### Photos
 
-![](/images/IP/Science/Slide1.png)
+![](/images/IP/Science/2023/photo%201_%20hands%20on%20in%20molecular%20gastronomy.jpg)
 
-![](/images/IP/Science/Slide2.png)
+![](/images/IP/Science/2023/photo%202_%20forming%20alginate%20at%20molecular%20gastronomy.jpeg)
 
-![](/images/IP/Science/Slide3.png)
+![](/images/IP/Science/2023/photo%203_%20science%20fair%20at%20jiemin%20primary%20school.jpeg)
 
-![](/images/IP/Science/Slide4.png)
+![](/images/IP/Science/2023/photo%204_%20illustratum%20distinction%20award.jpg)
+
+![](/images/IP/Science/2023/photo%205_%20students%20who%20took%20part%20in%20illustratum%202023.jpg)
+
+![](/images/IP/Science/2023/photo%206_%20elementz%20competition%202023.jpeg)
+
+![](/images/IP/Science/2023/photo%207_%20students%20who%20took%20part%20in%20elementz%20competition.jpeg)
