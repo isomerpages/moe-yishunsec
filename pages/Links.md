@@ -42,6 +42,6 @@ tr:nth-child(even) {
 |  [Nearpod](https://nearpod.com/)    | [MySkillFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)     |
 |  [Mindmeister](https://www.mindmeister.com/)    | [NLB Learning &amp; Information Literacy Resources](https://sure.nlb.gov.sg/)     |
 |   [Kami App](https://www.kamiapp.com/)   | [Haze Situation Update](https://www.haze.gov.sg/)     |
-|      | [NEA Website](https://www.nea.gov.sg)    |
+|  [Travel Declaration for non-PG users](https://form.gov.sg/6461c57c1af9a80012cbb53d)    | [NEA Website](https://www.nea.gov.sg)    |
 |      | [Ministry of Health](https://www.moh.gov.sg/)     |
 |      | [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)    |
