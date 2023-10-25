@@ -24,3 +24,7 @@ The primary objective of YSSAC is to forge stronger links between alumni members
 #### Our Motto
 
 Quality Relationships, Caring Community
+
+![](/images/YSS/Alumni/alumni_2023_3.jpg)
+
+![](/images/YSS/Alumni/alumni_2023_2.jpg)
