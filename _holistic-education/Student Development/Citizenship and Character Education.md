@@ -44,17 +44,6 @@ During the June holidays, 25 Sec 3 and Sec 4 students participated in a 3 to 5-d
 
 The students found the programme useful in gaining first-hand knowledge on the industry, career opportunities and related work skills/ work values. 
 
-![](/images/StudDevelopment/CCE/2023/slide1_oct.JPG)
-
-![](/images/StudDevelopment/CCE/2023/slide2_oct.JPG)
-
-![](/images/StudDevelopment/CCE/2023/slide3_oct.JPG)
-
-![](/images/StudDevelopment/CCE/2023/slide4_oct.JPG)
-
-![](/images/StudDevelopment/CCE/2023/slide5_oct.JPG)
-
-![](/images/StudDevelopment/CCE/2023/slide6_oct.JPG)
 
 #### Reflections from students
 
@@ -65,7 +54,6 @@ The students found the programme useful in gaining first-hand knowledge on the i
 “I learnt that besides being patient when preparing resources for the children, pre-school teachers need to be creative in designing resources and activities for the children” ~ Emily Loh, 3E1 (Attached to Julia Gabriels Centre)
 
 “I wish to go back to Superpets during my holidays for a part-time job. I actually asked the boss if I can go back to help them out again. I enjoyed interacting with customers, helping them to assemble the pet accessories they purchased” ~  Marcus 3E1 (Attached to Superpets)
-
 
 ![](/images/StudDevelopment/CCE/2023/slide1.png)
 
@@ -82,6 +70,23 @@ The students found the programme useful in gaining first-hand knowledge on the i
 ![](/images/StudDevelopment/CCE/2023/slide7.png)
 
 ![](/images/StudDevelopment/CCE/2023/slide8.png)
+
+#### National Education Commemorative Events and learning Journeys 
+
+![](/images/StudDevelopment/CCE/2023/slide1_ne.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide3_ne.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide4_ne.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide2_ne.JPG)
+
+#### Values in Action programme
+
+![](/images/StudDevelopment/CCE/2023/slide1_via.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide2_via.JPG)
+
 
 
 #### North West Outstanding School Partner Award (SPA) 2023
@@ -119,35 +124,3 @@ The students had fun and bonded well with each other in the group. Following up 
 
 
 <figure><img src="/images/StudDevelopment/CCE/Photo%208_Kahoot%20Quiz%203.jpeg"><figcaption>Proud moment for the winner of ‘The Red Dot’ Kahoot quiz</figcaption></figure>
-
-
-
-#### Racial Harmony Day (RHD) Celebration 2022
-
-The celebration aims to foster respect and appreciation to the customs and traditions of the different races and religions to coexist harmoniously.
-
-The school commemorated RHD on 21 July 2022. The theme is ‘Singapore: Our Multicultural Mosaic’.  
-Students were engaged in a skit entitled “Perfect Harmony’ during assembly. The skit depicts uniqueness of each individual and value of staying connected as a united community. First segment showed how the passion of two musicians, traditional kompang player and contemporary hip-hop rapper connects them together. Second segment was done in masks reflected how black cats are considered ‘superstitiously dangerous. 
-
-During CCE period, students constructed digital photo collages to depict their views of Singapore as a multicultural mosaic. The activity acts as a common space for students with different backgrounds to forge a greater bonding. Prior to this, students explored places of worship, hawker centers etc. to take photos that reflect multicultural community in the aspects of lifestyle, food, architecture. 
-
-Teachers engaged students to address ‘racism’ which may occur in schools, public spaces and online platforms. Through facilitation of authentic sharing of personal experiences shown in the case studies, students were able to think from different perspectives and look beyond racial markers. 
-
-As part of the celebration, three types of childhood snacks were catered. They are eyeglass candy, dried fish fillet and muruku ikan snack. While it brings back memories of their school and neighbourhood, the shared connections among multicultural communities would be something for students to reminisce about.
-
-<figure><img src="/images/StudDevelopment/CCE/RHD-1.png"></figure>
-
-<figure><img src="/images/StudDevelopment/CCE/RHD-2.png"></figure>
-
-<figure><img src="/images/StudDevelopment/CCE/RHD-3.png"></figure>
-
-<figure><img src="/images/StudDevelopment/CCE/RHD-4.png" style="width:70%"></figure>
-
-<figure>
-<img src="/images/StudDevelopment/CCE/RHD-5.png" style="width:70%"></figure>
-
-<figure>
-<img src="/images/StudDevelopment/CCE/RHD-6.png" style="width:70%"></figure>
-
-<figure>
-<img src="/images/StudDevelopment/CCE/RHD-7.png" style="width:70%"></figure>
