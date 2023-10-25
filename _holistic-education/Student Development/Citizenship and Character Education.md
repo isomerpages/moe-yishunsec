@@ -74,7 +74,17 @@ The students found the programme useful in gaining first-hand knowledge on the i
 
 #### Education and Career Guidance - Polytechnic Immersion Programme
 
+![](/images/StudDevelopment/CCE/2023/slide1_ecg.jpg)
 
+![](/images/StudDevelopment/CCE/2023/slide2_ecg.jpg)
+
+![](/images/StudDevelopment/CCE/2023/slide3_ecg.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide4_ecg.jpg)
+
+![](/images/StudDevelopment/CCE/2023/slide5_ecg.jpg)
+
+![](/images/StudDevelopment/CCE/2023/slide6_ecg.jpg)
 
 
 #### National Education Commemorative Events and learning Journeys 
@@ -87,12 +97,12 @@ The students found the programme useful in gaining first-hand knowledge on the i
 
 ![](/images/StudDevelopment/CCE/2023/slide2_ne.JPG)
 
+
 #### Values in Action Programme
 
 ![](/images/StudDevelopment/CCE/2023/slide1_via.JPG)
 
 ![](/images/StudDevelopment/CCE/2023/slide2_via.JPG)
-
 
 
 #### North West Outstanding School Partner Award (SPA) 2023
