@@ -44,6 +44,17 @@ During the June holidays, 25 Sec 3 and Sec 4 students participated in a 3 to 5-d
 
 The students found the programme useful in gaining first-hand knowledge on the industry, career opportunities and related work skills/ work values. 
 
+![](/images/StudDevelopment/CCE/2023/slide1_oct.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide2_oct.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide3_oct.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide4_oct.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide5_oct.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide6_oct.JPG)
 
 #### Reflections from students
 
@@ -54,6 +65,7 @@ The students found the programme useful in gaining first-hand knowledge on the i
 “I learnt that besides being patient when preparing resources for the children, pre-school teachers need to be creative in designing resources and activities for the children” ~ Emily Loh, 3E1 (Attached to Julia Gabriels Centre)
 
 “I wish to go back to Superpets during my holidays for a part-time job. I actually asked the boss if I can go back to help them out again. I enjoyed interacting with customers, helping them to assemble the pet accessories they purchased” ~  Marcus 3E1 (Attached to Superpets)
+
 
 ![](/images/StudDevelopment/CCE/2023/slide1.png)
 
