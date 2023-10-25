@@ -7,8 +7,6 @@ Booklist for 2024
 ----------------
 
 
-* [Details for Purchase of School Uniforms](/files/Students/Booklist/Sale%20of%20Uniform%20Instruction-1.pdf)
-
 #### Sec 1
 * Coming soon
 
