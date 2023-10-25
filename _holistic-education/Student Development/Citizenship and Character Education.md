@@ -71,6 +71,12 @@ The students found the programme useful in gaining first-hand knowledge on the i
 
 ![](/images/StudDevelopment/CCE/2023/slide8.png)
 
+
+#### Education and Career Guidance - Polytechnic Immersion Programme
+
+
+
+
 #### National Education Commemorative Events and learning Journeys 
 
 ![](/images/StudDevelopment/CCE/2023/slide1_ne.JPG)
