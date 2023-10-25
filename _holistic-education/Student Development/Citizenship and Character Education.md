@@ -35,9 +35,6 @@ Our school also received the following awards:
 
 #### ECG Information on Post Secondary Pathways
 
-* [Institute of Technical Education Early Admission Exercise For 4NT &amp; 4NA students](/files/Students/Institute%20of%20Technical%20Education%20Early%20Admission%20Exercise%20For%204NT%20%204NA%20students.pdf)
-* [Junior College Direct School Admission For 4EXP &amp; 5NA students](/files/Students/Junior%20College%20Direct%20School%20Admission%20For%204EXP%20%205NA%20stduents.pdf)
-* [Polytechnic Early Admission Exercise For 4EXP &amp; 5NA students](/files/Students/Polytechnic%20Early%20Admission%20Exercise%20For%204EXP%20%205NA%20students.pdf)
 
 #### Education and Career Guidance – Work Exposure &amp; Experience Programme 
 
@@ -48,7 +45,7 @@ During the June holidays, 25 Sec 3 and Sec 4 students participated in a 3 to 5-d
 The students found the programme useful in gaining first-hand knowledge on the industry, career opportunities and related work skills/ work values. 
 
 
-#### Reflections from students
+#### Reflections from Students
 
 “At the office, I really had to go out of my comfort zone and learn the administrative duties. I had to be independent in the assigned task. I learnt that other than going to court, lawyers had to focus on a lot of administrative duties. It was indeed a steep learning curve these 5 days for me, learning new phrases, digesting a lot of information that was necessary for preparing for court hearings but I enjoyed the learning so much”  ~ Nur Shafiqah, 3N2 (Attached to Tembusu Law)
 
@@ -73,6 +70,23 @@ The students found the programme useful in gaining first-hand knowledge on the i
 ![](/images/StudDevelopment/CCE/2023/slide7.png)
 
 ![](/images/StudDevelopment/CCE/2023/slide8.png)
+
+#### National Education Commemorative Events and learning Journeys 
+
+![](/images/StudDevelopment/CCE/2023/slide1_ne.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide3_ne.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide4_ne.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide2_ne.JPG)
+
+#### Values in Action Programme
+
+![](/images/StudDevelopment/CCE/2023/slide1_via.JPG)
+
+![](/images/StudDevelopment/CCE/2023/slide2_via.JPG)
+
 
 
 #### North West Outstanding School Partner Award (SPA) 2023
@@ -110,35 +124,3 @@ The students had fun and bonded well with each other in the group. Following up 
 
 
 <figure><img src="/images/StudDevelopment/CCE/Photo%208_Kahoot%20Quiz%203.jpeg"><figcaption>Proud moment for the winner of ‘The Red Dot’ Kahoot quiz</figcaption></figure>
-
-
-
-#### Racial Harmony Day (RHD) Celebration 2022
-
-The celebration aims to foster respect and appreciation to the customs and traditions of the different races and religions to coexist harmoniously.
-
-The school commemorated RHD on 21 July 2022. The theme is ‘Singapore: Our Multicultural Mosaic’.  
-Students were engaged in a skit entitled “Perfect Harmony’ during assembly. The skit depicts uniqueness of each individual and value of staying connected as a united community. First segment showed how the passion of two musicians, traditional kompang player and contemporary hip-hop rapper connects them together. Second segment was done in masks reflected how black cats are considered ‘superstitiously dangerous. 
-
-During CCE period, students constructed digital photo collages to depict their views of Singapore as a multicultural mosaic. The activity acts as a common space for students with different backgrounds to forge a greater bonding. Prior to this, students explored places of worship, hawker centers etc. to take photos that reflect multicultural community in the aspects of lifestyle, food, architecture. 
-
-Teachers engaged students to address ‘racism’ which may occur in schools, public spaces and online platforms. Through facilitation of authentic sharing of personal experiences shown in the case studies, students were able to think from different perspectives and look beyond racial markers. 
-
-As part of the celebration, three types of childhood snacks were catered. They are eyeglass candy, dried fish fillet and muruku ikan snack. While it brings back memories of their school and neighbourhood, the shared connections among multicultural communities would be something for students to reminisce about.
-
-<figure><img src="/images/StudDevelopment/CCE/RHD-1.png"></figure>
-
-<figure><img src="/images/StudDevelopment/CCE/RHD-2.png"></figure>
-
-<figure><img src="/images/StudDevelopment/CCE/RHD-3.png"></figure>
-
-<figure><img src="/images/StudDevelopment/CCE/RHD-4.png" style="width:70%"></figure>
-
-<figure>
-<img src="/images/StudDevelopment/CCE/RHD-5.png" style="width:70%"></figure>
-
-<figure>
-<img src="/images/StudDevelopment/CCE/RHD-6.png" style="width:70%"></figure>
-
-<figure>
-<img src="/images/StudDevelopment/CCE/RHD-7.png" style="width:70%"></figure>
