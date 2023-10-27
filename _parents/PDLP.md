@@ -16,11 +16,11 @@ After the DMA has been uninstalled, your child/ward will be able to use the PLD 
 
 **Actions required by your child/ward:**
 
-At least one day before the DMA uninstallation. Please ensure that all data on your child’s/ward’s PLD have been backed-up (e.g. saved on an external storage device or to a cloud storage) prior to the uninstallation. This will prevent any loss of important data when the DMA is uninstalled.
+**At least one day before the DMA uninstallation**. Please ensure that all data on your child’s/ward’s PLD have been backed-up (e.g. saved on an external storage device or to a cloud storage) prior to the uninstallation. This will prevent any loss of important data when the DMA is uninstalled.
 
-On the day of DMA uninstallation. Please ensure that the PLD is switched off from 6.00 a.m. to 11.00 p.m. This is to ensure that the uninstallation process, which will be done remotely, can proceed smoothly.
+**On the day of DMA uninstallation.** Please ensure that the PLD is switched off from 6:00 am. to 11:00 pm. This is to ensure that the uninstallation process, which will be done remotely, can proceed smoothly.
 
-After the DMA has been uninstalled. Starting from the next day after the DMA uninstallation, you may refer to the attached document for instructions to check if the DMA has been successfully uninstalled from your child’s/ward’s PLD.
+**After the DMA has been uninstalled.** Starting from the next day after the DMA uninstallation, you may refer to the attached document for instructions to check if the DMA has been successfully uninstalled from your child’s/ward’s PLD.
 
 **Technical Support:**
 
