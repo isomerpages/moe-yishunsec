@@ -7,8 +7,8 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Noodle Stall     |  16 Aug 2023    | Has catering experience. <br> Completed food and hygiene course.    |
-| Malay Mixed Vegetable Rice Stall (Halal)   |  30 Aug 2023    | Has catering experience. <br> Completed food and hygiene course.    |
+| Chinese Noodle Stall     |  30 Nov 2023    | Has catering experience. <br> Completed food and hygiene course.    |
+| Malay Mixed Vegetable Rice Stall (Halal)   |  30 Nov 2023    | Has catering experience. <br> Completed food and hygiene course.    |
 
 
 ##### Application Procedure

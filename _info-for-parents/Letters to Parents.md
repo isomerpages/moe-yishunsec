@@ -6,8 +6,9 @@ description: ""
 2023
 --------------
 ##### Term 4
-* [Sec 1 Outdoor Adventure Camp 2023](/files/Letter%20to%20Parents/sec%201%20outdoor%20adventure%20camp%202023.pdf)
-* [Sec 3 Outdoor Adventure Camp 2023](/files/Letter%20to%20Parents/sec%203%20outdoor%20adventure%20camp%202023.pdf)
+* [End of Term 4 - 27 Oct 2023](/files/Letter%20to%20Parents/end%20of%20term%204%20-%2027%20oct%202023.pdf)
+* [Sec 1 Outdoor Adventure Camp 2023 - 18 Oct 2023](/files/Letter%20to%20Parents/sec%201%20outdoor%20adventure%20camp%202023.pdf)
+* [Sec 3 Outdoor Adventure Camp 2023 - 18 Oct 2023](/files/Letter%20to%20Parents/sec%203%20outdoor%20adventure%20camp%202023.pdf)
 
 
 ##### Term 3
