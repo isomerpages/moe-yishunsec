@@ -29,11 +29,11 @@ Special Rooms
 PE Venues
 -----------------------
 
-<figure><img src="/images/YSS/basketball_court_1.png"><figcaption>Basketball Court</figcaption></figure>
+<figure><img src="/images/YSS/basketball_court.jpeg"><figcaption>Basketball Court</figcaption></figure>
 
 <figure><img src="/images/YSS/indoor%20sports%20hall.jpg"><figcaption>Indoor Sports Hall</figcaption></figure> 
 
-<figure><img src="/images/YSS/ParadeSquare.jpg"><figcaption>Parade Square</figcaption></figure> 
+<figure><img src="/images/YSS/paradesquare1.jpeg"><figcaption>Parade Square</figcaption></figure> 
 
 <figure><img src="/images/YSS/football_field-2.jpg"><figcaption>Football Field</figcaption></figure>
 
@@ -75,6 +75,15 @@ Music Room
 
 <figure><img src="/images/YSS/musiclab.jpg"><figcaption>Music Lab</figcaption></figure> 
 
+SBB Room
+----------------------
+<figure><img src="/images/YSS/sr1_room.jpeg"><figcaption>SR1</figcaption></figure>
+
+<figure><img src="/images/YSS/sr2_room.jpeg"><figcaption>SR2</figcaption></figure>
+
+<figure><img src="/images/YSS/sr3_room.jpeg"><figcaption>SR3</figcaption></figure>
+
+<figure><img src="/images/YSS/ess_room.jpeg"><figcaption>Exercise &amp; Sports Science (ESS) Room</figcaption></figure>
 
 School Canteen
 -----------------
