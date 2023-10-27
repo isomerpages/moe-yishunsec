@@ -83,7 +83,7 @@ FSBB Room
 
 <figure><img src="/images/YSS/sr3_room.jpeg"><figcaption>SR3</figcaption></figure>
 
-<figure><img src="/images/YSS/ess_room.jpeg"><figcaption>ESS</figcaption></figure>
+<figure><img src="/images/YSS/ess_room.jpeg"><figcaption>Exercise &amp; Sports Science (ESS) Room</figcaption></figure>
 
 School Canteen
 -----------------
