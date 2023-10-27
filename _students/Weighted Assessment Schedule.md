@@ -11,7 +11,7 @@ description: ""
 * [Term 3 Weighted Assessment - Sec 2](/files/Weighted%20Assessment/2023/t3-wa3_sec_2_2023.pdf)
 * [Term 3 Weighted Assessment - Sec 3](/files/Weighted%20Assessment/2023/t3-wa3_sec_3_2023.pdf)
 * [Term 3 Timed Practice - Sec 4 & 5](/files/Weighted%20Assessment/2023/2023%20timed%20practice%20for%20sec%204%20&%205na.pdf)
-
+____________
 
 #### Term 2 - WA 2
 
@@ -40,15 +40,14 @@ _____________________
 * [Sec 1 - Weighted Assessment Term 3](/files/Weighted%20Assessment/2022/Sec%201%20Weighted%20Assessment%20Term%203.pdf)
 * [Sec 2 - Weighted Assessment Term 3](/files/Weighted%20Assessment/2022/Sec%202%20Weighted%20Assessment%20Term%203.pdf)
 * [Sec 3 - Weighted Assessment Term 3](/files/Weighted%20Assessment/2022/Sec%203%20Weighted%20Assessment%20Term%203.pdf)
-
+___________________
 
 #### Term 2 - WA 2
 
 * [Sec 1 - Weighted Assessment_Term 2](/files/Weighted%20Assessment/2022/Sec%201%20Weighted%20Assessment_Term%202.pdf)
 * [Sec 2 - Weighted Assessment_Term 2](/files/Weighted%20Assessment/2022/Sec%202%20Weighted%20Assessment_Term%202.pdf)
 * [Sec 3 - Weighted Assessment_Term 2](/files/Weighted%20Assessment/2022/Sec%203%20Weighted%20Assessment_Term%202.pdf)
-
-
+____________________
 
 #### Term 1 - WA 1
 
