@@ -6,17 +6,11 @@ description: ""
 ### Latest Announcements
 DMA will be uninstalled from your child’s/ward’s PLD on the following date as he/she is graduating from the school.
 
-	A.	Cohort of Graduating Students: 4NT
-	Date of uninstallation: 30 November 2023
+* 4NT 2023 - Date of uninstallation: 30 November 2023
+* 4E, 5NA, 4N2^ and  4N3^  - Date of uninstallation: 05 January 2024
+* 4N1^ - Date of uninstallation: 31 January 2024
 
-	B.	Cohort of Graduating Students: 4E, 5NA, 4N2* &amp; 4N3*
-	Date of uninstallation: 05 January 2024
-
-	C.	Cohort of Graduating Students: 4N1*
-	Date of uninstallation: 31 January 2024
-
-*Uninstallation ONLY for students who are not continuing with 5NA course in 2024. 
-
+*^Uninstallation ONLY for students who are not continuing with 5NA course in 2024*.
 
 
 ### PDLP Student Device Information Kit
