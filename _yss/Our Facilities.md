@@ -75,6 +75,15 @@ Music Room
 
 <figure><img src="/images/YSS/musiclab.jpg"><figcaption>Music Lab</figcaption></figure> 
 
+FSBB Room
+----------------------
+<figure><img src="/images/YSS/sr1_room.jpeg"><figcaption>SR1</figcaption></figure>
+
+<figure><img src="/images/YSS/sr2_room.jpeg"><figcaption>SR2</figcaption></figure>
+
+<figure><img src="/images/YSS/sr3_room.jpeg"><figcaption>SR3</figcaption></figure>
+
+<figure><img src="/images/YSS/ess_room.jpeg"><figcaption>ESS</figcaption></figure>
 
 School Canteen
 -----------------
