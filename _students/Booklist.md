@@ -5,7 +5,7 @@ description: ""
 ---
 Booklist for 2024
 ----------------
-
+[Instructions to Buy Uniform 2024](/files/Students/Booklist/2024/sale%20of%20uniform%20instruction%20yss%202024.pdf)
 
 #### Sec 1
 * Coming soon
