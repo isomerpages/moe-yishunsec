@@ -3,6 +3,7 @@ title: Sec 3 Subject Combinations
 permalink: /students/subject-combinations/
 description: ""
 ---
+
 #### [Click here to view Sec 3 Posting Results 2023](https://sites.google.com/moe.edu.sg/sec-3-posting-results/home)
 
 
