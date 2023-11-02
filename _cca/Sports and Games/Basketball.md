@@ -83,7 +83,9 @@ tr:nth-child(even) {
 * 2023 North Zone Basketball Competition - ‘C’ Division girls emerged as the top 8
 * 2023 North Zone Basketball Competition - ‘B’ Division boys emerged as the top 8
 
-### Community Partnership between Yishun Sec and Chong Pang CC
+### Events
+
+##### Community Partnership between Yishun Sec and Chong Pang CC
 
 ![](/images/StudDevelopment/CCAs/SportsGames/Basketball/2023/basketball-5.jpeg)
 
