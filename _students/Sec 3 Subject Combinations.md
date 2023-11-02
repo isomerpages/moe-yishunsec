@@ -6,6 +6,7 @@ description: ""
 #### [Click here to view Sec 3 Posting Results 2023](https://sites.google.com/moe.edu.sg/sec-3-posting-results/home)
 
 
+
 ![](/images/Sec%203%20Subject%20Combinations/timeline2023.jpg)
 
 #### Briefing Slides
