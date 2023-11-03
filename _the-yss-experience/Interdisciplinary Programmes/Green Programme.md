@@ -3,23 +3,63 @@ title: Green Programme
 permalink: /the-yss-experience/interdisciplinary-programmes/greenprogramme/
 description: ""
 third_nav_title: Interdisciplinary Programmes
+variant: markdown
 ---
 #### Goal
 
-*   To deliver the important message of environmental sustainability through multifaceted approaches
-*   To instil in students the responsibility to maintain a clean and green school through positive actions
+*   To educate Yishunites about environmental issues, sustainability, and the importance of protecting the environment 
+*   To inspire and encourage Yishunites to become responsible stewards of the environment through ground up initiatives. 
 
+#### Roving Exhibition on Clean Energy by Terra 
 
-<figure><img style="width:80%" src="/images/IP/Green-Programme-Photo-1-reduced.jpg"><figcaption>Commemorating Green Wave Day with a heritage plant – Bamboo Orchid</figcaption></figure>
+An exhibition on Clean Energy was displayed in Yishun Secondary School to educate students on Clean Energy. Green Champions were on site to educate their peers on clean energy through a series of hands-on games and interaction panels.
 
-<figure><img style="width:80%" src="/images/IP/Green-Programme-Photo-3-reduced.jpg"><figcaption>Environment Champions using the SgBioAtlas app to show the different types of birds in YSS</figcaption></figure>
+![](/images/YSS%20Exp/Green_Programme/greenp-1.png)
 
-<figure><img style="width:80%" src="/images/IP/Green-Programme-Photo-4.jpeg"><figcaption>Environment Champions sharing with the residents from Sree Narayana Mission Home on the flora and fauna from the BioAtlas handbook</figcaption></figure>
+#### Hall Assembly Sharing by Green Champions on Keeping Toilets Clean
 
-<figure><img style="width:80%" src="/images/IP/Green-Programme-Photo-5.jpg"><figcaption>Secondary 2 students asking the residents in Chong Pang to make the pledge to conserve energy</figcaption></figure>
+The Green Champions presented on keeping public and school toilets clean during Hall Assembly. This was done as part of an observation they made regarding unclean toilets in school. In their presentation, the Green Champions also emphasised on the importance of having clean toilets as dirty toilets will attract pests and cause the easy spread of diseases.
 
-<figure><img style="width:80%" src="/images/IP/Green-Programme-Photo-6-reduced.jpg"><figcaption>Secondary 2 students were briefed by Mr Lim from NWCDC on the Reduce @ NWCDC programme</figcaption></figure>
+![](/images/YSS%20Exp/Green_Programme/greenp-2.png)
 
-<figure><img src="/images/IP/Green-Programme-Photo-2-reduced.jpg"><figcaption>Assembly Talk by Waterways Society on Water Pollution</figcaption></figure>
+#### YSS Pre-Loved Clothes Collection Drive 2023 in conjunction with Nee Soon South Daddy's Day Out
 
-<figure><img style="width:80%" src="/images/IP/Green-Programme-Photo-7.jpeg"><figcaption>Urban Farmers at Work</figcaption></figure>
+In collaboration with Nee Soon South Daddy's Day Out, YSS partnered with Zone H RC in a pre-loved clothing . Pre-loved clothing were collected and a booth was set up on the day of event to give them out to residents during Nee Soon South Daddy's Day out on 17 June 23.
+
+![](/images/YSS%20Exp/Green_Programme/greenp-3.png)
+
+#### Book Chope – Giving used textbooks a second chance
+
+As part of reducing resources, YSS organised a textbook collection drive to collect used textbooks from graduating students. Students were invited to come forward to select textbooks that they might need for the new school year. As such, resources can be further reduced and saved.
+
+![](/images/YSS%20Exp/Green_Programme/greenp-4.png)
+
+#### Commemoration of World Water Day 2023 
+
+In collaboration with the Geography Unit, a week of activities have been planned to raise greater awareness for World Water Day. 
+
+20-24 March - ‘Where’s Water Wally?’ Game, pledge towards Sustainable Water Usage @ Booth in the Canteen, Creating of bookmarks by the S1 level, Design of Posters by the S3 level 
+
+22 March - ‘Go Blue Day’. Staff is encouraged to wear blue attire on that day & School Wide Kahoot Quiz after morning assembly
+
+![](/images/YSS%20Exp/Green_Programme/greenp-5.png)
+
+![](/images/YSS%20Exp/Green_Programme/greenp-6.png)
+
+![](/images/YSS%20Exp/Green_Programme/greenp-7.png)
+
+#### Solar Energy Learning Journey @ ITE College East
+
+As part of students' learning experience as a Green Champion, a learning journey to ITE @ College was organised to allow students to know more the effectiveness of using solar energy. Students were also given the opportunity to create a bookmark using used leaves.
+
+![](/images/YSS%20Exp/Green_Programme/greenp-8.png)
+
+#### Recycling Competition 2023
+
+A recycling competition was organised to bring about greater awareness on recycling responsibly. Students from all levels and classes compete against one another as they brought in large amount of recyclables. Students were able to learn more about recycling right through this. The top class brought in a total of 50 kg of recyclables!
+
+![](/images/YSS%20Exp/Green_Programme/greenp-9.png)
+
+![](/images/YSS%20Exp/Green_Programme/greenp-10.png)
+
+![](/images/YSS%20Exp/Green_Programme/greenp-11.png)
