@@ -48,4 +48,18 @@ In collaboration with the Geography Unit, a week of activities have been planned
 
 ![](/images/YSS%20Exp/Green_Programme/greenp-7.png)
 
+#### Solar Energy Learning Journey @ ITE College East
 
+As part of students' learning experience as a Green Champion, a learning journey to ITE @ College was organised to allow students to know more the effectiveness of using solar energy. Students were also given the opportunity to create a bookmark using used leaves.
+
+![](/images/YSS%20Exp/Green_Programme/greenp-8.png)
+
+#### Recycling Competition 2023
+
+A recycling competition was organised to bring about greater awareness on recycling responsibly. Students from all levels and classes compete against one another as they brought in large amount of recyclables. Students were able to learn more about recycling right through this. The top class brought in a total of 50 kg of recyclables!
+
+![](/images/YSS%20Exp/Green_Programme/greenp-9.png)
+
+![](/images/YSS%20Exp/Green_Programme/greenp-10.png)
+
+![](/images/YSS%20Exp/Green_Programme/greenp-11.png)
