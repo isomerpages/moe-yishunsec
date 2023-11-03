@@ -3,11 +3,19 @@ title: Green Programme
 permalink: /the-yss-experience/interdisciplinary-programmes/greenprogramme/
 description: ""
 third_nav_title: Interdisciplinary Programmes
+variant: markdown
 ---
 #### Goal
 
-*   To deliver the important message of environmental sustainability through multifaceted approaches
-*   To instil in students the responsibility to maintain a clean and green school through positive actions
+*   To educate Yishunites about environmental issues, sustainability, and the importance of protecting the environment 
+*   To inspire and encourage Yishunites to become responsible stewards of the environment through ground up initiatives. 
+
+#### Roving Exhibition on Clean Energy by Terra 
+
+An exhibition on Clean Energy was displayed in Yishun Secondary School to educate students on Clean Energy. Green Champions were on site to educate their peers on clean energy through a series of hands-on games and interaction panels.
+
+
+
 
 
 <figure><img style="width:80%" src="/images/IP/Green-Programme-Photo-1-reduced.jpg"><figcaption>Commemorating Green Wave Day with a heritage plant – Bamboo Orchid</figcaption></figure>
