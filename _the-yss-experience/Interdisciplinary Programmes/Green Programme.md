@@ -46,6 +46,6 @@ In collaboration with the Geography Unit, a week of activities have been planned
 
 ![](/images/YSS%20Exp/Green_Programme/greenp-6.png)
 
-
+![](/images/YSS%20Exp/Green_Programme/greenp-7.png)
 
 
