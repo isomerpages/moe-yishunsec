@@ -4,7 +4,7 @@ permalink: /instructional-prog/
 description: ""
 variant: markdown
 ---
-#### Aesthetics - Music & Retail Operations
+#### Aesthetics - Music & [Retail Operations](/instructional-programme/aesthetics/ro/)
 
 #### [Craft and Technology](/instructional-programme/craftandtech/)
 
