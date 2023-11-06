@@ -36,12 +36,21 @@ This initiative by the National Arts Council (NAC) supports partnership between 
 
 To further develop selected students who have passion and interest in digital music making, going into post production skills such as mixing.
 
+![](/images/IP/Aesthetics/music%20masterclass%20photo%201.jpg)
 
+![](/images/IP/Aesthetics/eugene%20bakers%20in%20space%20photo%202.jpg)
+
+![](/images/IP/Aesthetics/2%20rs%20with%20eugene%20bakers%20in%20space%20photo%203.jpg)
 
 
 #### ASPIRE! NT Music Camp
 
 Annual camp to expose the Sec 3NT Music students to Live Sound stage setups as well as have a platform to hone performance accuracy and confidence.
+
+![](/images/IP/Aesthetics/aspire%20nt%20music%20camp%20photo%204.jpg)
+
+![](/images/IP/Aesthetics/aspire%20nt%20music%20camp%202%20photo%205.jpg)
+
 
 #### Singapore Symphony Orchestra x Yishun Sec Performing Arts-Based Learning Pilot Programme
 
@@ -50,6 +59,10 @@ This year, Yishun Secondary school took on a partnership with the Singapore Symp
 20 selected students from the Symphonic Band, Choir, Guzheng as well as the lower secondary Music programme took part in a Music and Movement workshop to better understand the Symphony pieces before going for the concert, where they experienced the common motifs heard in the symphony through active listening, the Dalcroze method as well as through interaction with 2 SSO musicians who were also playing at the concert itself.
 
 At the concert, the students who were part of the workshop recognised the motifs and were engaged in listening throughout the concert, enjoying classical music in a way they never did before.
+
+![](/images/IP/Aesthetics/selected%20students%20in%20pre-workshop%20photo%206.jpg)
+
+![](/images/IP/Aesthetics/sso%20x%20yss%20pilot%20pabl%20programme%20photo%207.jpg)
 
 
 ### Photos
