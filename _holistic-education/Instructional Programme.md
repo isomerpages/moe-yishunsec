@@ -2,8 +2,9 @@
 title: Instructional Programme
 permalink: /instructional-prog/
 description: ""
+variant: markdown
 ---
-#### [Aesthetics (Music and Retail Operations)](/instructional-programme/aesthetics/)
+#### Aesthetics - Music & Retail Operations
 
 #### [Craft and Technology](/instructional-programme/craftandtech/)
 
