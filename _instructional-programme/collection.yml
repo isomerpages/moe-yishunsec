@@ -2,6 +2,7 @@ collections:
   instructional-programme:
     output: true
     order:
+      - Aesthetics/.keep
       - Music.md
       - Craft and Technology.md
       - English Language.md
