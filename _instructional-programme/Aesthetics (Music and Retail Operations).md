@@ -63,9 +63,3 @@ At the concert, the students who were part of the workshop recognised the motifs
 ![](/images/IP/Aesthetics/selected%20students%20in%20pre-workshop%20photo%206.jpg)
 
 ![](/images/IP/Aesthetics/sso%20x%20yss%20pilot%20pabl%20programme%20photo%207.jpg)
-
-
-### Photos
-
-![](/images/IP/Aesthetics/Ast_photo1.png)
-![](/images/IP/Aesthetics/Ast_photo2.png)
