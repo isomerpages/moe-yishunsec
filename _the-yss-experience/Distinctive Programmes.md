@@ -2,6 +2,7 @@
 title: Distinctive Programmes
 permalink: /the-yss-experience/distinctive-programmes/
 description: ""
+variant: markdown
 ---
 <figure><img src="/images/YSS%20Exp/ALP/distinctive_prog.png"></figure>
 
@@ -14,15 +15,6 @@ Consisting of two elements Applied Learning Programme (ALP) and Lifelong Learnin
 The holistic programme takes on a 3-tiered approach where all students, at Tier 1, learn to appreciate sonic arts through school assembly programmes, music lessons, and Student-Initiated Learning (SIL) modules. Passionate students are further stretched in music masterclasses and will have opportunities to showcase their work. By Tier 3, students are involved in performances, productions, and partnerships with institutes of higher learning and overseas collaborations.
 
 ### Key Programmes
-
-#### Artist-in-School Scheme (AISS)
-
-This initiative by the National Arts Council (NAC) supports partnership between Singapore artists and mainstream schools. It allows schools to co-design customized arts learning experiences that deepen students’ engagement in and through the arts. Working closely with James Lye of Makor Records, students are exposed to fundamentals of popular song genres. They are also equipped with basic MIDI playing and recording skills.
-
-<figure><img src="/images/YSS%20Exp/ALP/music_masterclass_photo_1.jpeg"><figcaption>Music Masterclass</figcaption></figure>
-<figure><img src="/images/YSS%20Exp/ALP/eugene_bakers_in_space_photo_2.jpeg"><figcaption>Eugene Bakers in Space</figcaption></figure>
-<figure><img src="/images/YSS%20Exp/ALP/2_rs_with_eugene_bakers_in_space_photo_3.jpeg"><figcaption>2 RS with Eugene Bakers in Space</figcaption></figure>
-
 
 #### Student-Initiated Learning (SIL)
 
