@@ -38,9 +38,9 @@ As part of reducing resources, YSS organised a textbook collection drive to coll
 
 In collaboration with the Geography Unit, a week of activities have been planned to raise greater awareness for World Water Day. 
 
-20-24 March - ‘Where’s Water Wally?’ Game, pledge towards Sustainable Water Usage @ Booth in the Canteen, Creating of bookmarks by the S1 level, Design of Posters by the S3 level 
+20-24 March - ‘Where’s Water Wally?’ Game, pledge towards Sustainable Water Usage @ Booth in the Canteen, Creating of bookmarks by the S1 level, Design of Posters by the S3 level.
 
-22 March - ‘Go Blue Day’. Staff is encouraged to wear blue attire on that day & School Wide Kahoot Quiz after morning assembly
+22 March - ‘Go Blue Day’. Staff is encouraged to wear blue attire on that day & School Wide Kahoot Quiz after morning assembly.
 
 ![](/images/YSS%20Exp/Green_Programme/greenp-5.png)
 
