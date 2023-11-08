@@ -52,9 +52,9 @@ variant: markdown
 
 ![](/images/YSS%20Exp/YSS_Goes_Global/vietnam-8.JPG)
 
-*One interesting thing I learnt from the coconut candy making is that Singapore and Vietnam are interconnected as in both countries fusion fruits can be found. In Vietnam, coconut is made into chewy candy. There are also  a variety of flavours and colours. This is very similar to coconut candies such as Hu Zhen Long candies. Instead of only coconut flavor, mangosteen and durian flavor candies are sold in Singapore.* ~ Natasha 3N2
+*"One interesting thing I learnt from the coconut candy making is that Singapore and Vietnam are interconnected as in both countries fusion fruits can be found. In Vietnam, coconut is made into chewy candy. There are also  a variety of flavours and colours. This is very similar to coconut candies such as Hu Zhen Long candies. Instead of only coconut flavor, mangosteen and durian flavor candies are sold in Singapore."* ~ Natasha 3N2
 
-*Being able to visit Mekong Delta and actually experience riding the boat and trying out the different tidbits like the coconut candy and the natural honey was undoubtedly a once-in-a-lifetime experience. I was able to enjoy the scenic beauty and at the same time appreciate the nature and food the Vietnamese eat. It also gave me exposure to different parts of the country and i really enjoyed the trip to Mekong Delta.* ~ Valerie 3E1
+*"Being able to visit Mekong Delta and actually experience riding the boat and trying out the different tidbits like the coconut candy and the natural honey was undoubtedly a once-in-a-lifetime experience. I was able to enjoy the scenic beauty and at the same time appreciate the nature and food the Vietnamese eat. It also gave me exposure to different parts of the country and i really enjoyed the trip to Mekong Delta."* ~ Valerie 3E1
 
 ![](/images/YSS%20Exp/YSS_Goes_Global/vietnam-9.JPG)
 
@@ -75,4 +75,3 @@ variant: markdown
 *"On the last day of our trip, we went to a cooking class to learn about the authentic meals of vietnam such as fried spring rolls, mango salad and grilled prawn with noodles. We also managed to try out a traditional Vietnamese dessert which was interesting. I found the experience really enjoyable as I never thought I would be able to have a chance in doing this. We also went to the Ho Chi Minh Fine Arts museum and took a look at interesting art forms such as oil painting and paintings of the past. overall, having a chance to be able to experience the authentic culture of vietnam as well as be able to appreciate the fine arts of Vietnam was certainly a memorable one." *~ Valerie 3E1
 
 *"Today, for the last day of our trip to Vietnam, we attended the Hoa Tuc Cooking class, where we learned to prepare authentic, delicious, and culturally significant dishes, including crispy mango salad, spring rolls, and barbecue prawns. Through this experience, I learnt how to truly appreciate Vietnamese culture and their cusines. After the trip to the cooking class, we then proceeded to the Museum of fine arts, where we viewed both traditional Vietnamese crafts and some European crafts aswell. During the trip to the museum of fine arts, i was most struck by the different types of painting methods, for example oil and lacquer paintings. These paintings both displayed and showcased  a vivid description of the nations history and culture."* ~ Kaeden 3E3
-
