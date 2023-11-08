@@ -4,9 +4,7 @@ permalink: /taiwan1/
 description: ""
 variant: markdown
 ---
-### Taiwan - Trip 1
-
-#### Daily Updates: 
+### Taiwan
 
 <style>
   .iframe-container {
@@ -24,15 +22,62 @@ variant: markdown
   }
 </style>
 
-
-<div class="iframe-container">
-  <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIOgy_zPWe6tqQCkiMRGmAvgodSTAwazJfY7nYOkx5aPdtiImX8tysC1r0X-QL4rngtMD_t6nYbKdV/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
-
-[Click here to view the photos in Slides.](https://docs.google.com/presentation/d/1vAVYuFXxmn7isZvfy2VawvM6VUEDGxeN9RNSFXR3FX0/edit?usp=sharing)
-
 ![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1_poster.png)
 
 #### Briefing Slides
 
 * [Taiwan Pre-trip Briefing - 06 Oct 2023](/files/YSS%20Goes%20Global/taiwan%20pre-trip%20briefing%20-%2006%20oct%202023.pdf)
+
+#### Photos
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-102.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-101.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-107.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-103.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-104.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-105.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-106.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-111.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-108.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-109.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-110.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-116.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-112.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-113.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-114.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-115.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-119.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-117.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-118.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-122.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-120.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-121.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-126.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-123.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-124.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1-125.JPG)
