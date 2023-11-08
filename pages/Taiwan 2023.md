@@ -6,22 +6,6 @@ variant: markdown
 ---
 ### Taiwan
 
-<style>
-  .iframe-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio (height / width) */
-  }
-
-  .iframe-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
-
 ![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1_poster.png)
 
 #### Briefing Slides
