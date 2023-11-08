@@ -4,9 +4,7 @@ permalink: /taiwan1/
 description: ""
 variant: markdown
 ---
-### Taiwan - Trip 1
-
-#### Daily Updates: 
+### Taiwan
 
 <style>
   .iframe-container {
@@ -24,15 +22,11 @@ variant: markdown
   }
 </style>
 
-
-<div class="iframe-container">
-  <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIOgy_zPWe6tqQCkiMRGmAvgodSTAwazJfY7nYOkx5aPdtiImX8tysC1r0X-QL4rngtMD_t6nYbKdV/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
-
-[Click here to view the photos in Slides.](https://docs.google.com/presentation/d/1vAVYuFXxmn7isZvfy2VawvM6VUEDGxeN9RNSFXR3FX0/edit?usp=sharing)
-
 ![](/images/YSS%20Exp/YSS_Goes_Global/taiwan_trip1_poster.png)
 
 #### Briefing Slides
 
 * [Taiwan Pre-trip Briefing - 06 Oct 2023](/files/YSS%20Goes%20Global/taiwan%20pre-trip%20briefing%20-%2006%20oct%202023.pdf)
+
+#### Photos
+
