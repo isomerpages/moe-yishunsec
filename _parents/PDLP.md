@@ -2,13 +2,14 @@
 title: PDLP
 permalink: /parents/pdlp/
 description: ""
+variant: markdown
 ---
-### Announcements for Graduating Class 2023
+### Announcements for Graduating Classes of 2023
 DMA will be uninstalled from your child’s/ward’s PLD on the following date as he/she is graduating from the school.
 
-* **4NT 2023** - Date of uninstallation: **30 November 2023**
-* **4E, 5NA, 4N2^ and  4N3^  2023** - Date of uninstallation: **05 January 2024**
-* **4N1^ 2023** - Date of uninstallation: **31 January 2024**
+* **4NT 2023** - Date of uninstallation: **30 November 2023** at 12pm
+* **4E, 5NA, 4N2^ and  4N3^  2023** - Date of uninstallation: **05 January 2024** at 12pm
+* **4N1^ 2023** - Date of uninstallation: **31 January 2024** at 12pm
 
 *^Uninstallation ONLY for students who are not continuing with 5NA course in 2024*.
 
