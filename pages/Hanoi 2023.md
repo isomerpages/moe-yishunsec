@@ -6,29 +6,62 @@ variant: markdown
 ---
 ### Hanoi Trip
 
-#### Daily Updates:
-
-<style>
-  .iframe-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio (height / width) */
-  }
-
-  .iframe-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
-
-
-<div class="iframe-container">
-  <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5P9Olqsglf2oo9pnukHoSo1CeBbpV9mMBCHwKOciqe6D6Vl1Gc-ORjkBHi-nmV8CeomZ8jE2VKzTC/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
-
-[Click here to view photos in Slides](https://docs.google.com/presentation/d/1-yJRLe2GMYTN-SLtAzTj15QisFAu9o0CgL6P0JcvFbM/edit?usp=sharing)
-
 ![](/images/YSS%20Exp/YSS_Goes_Global/hanoi_trip.jpeg)
+
+### Photos
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_5.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_4.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_3.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_1.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_2.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_7.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_8.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_9.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_10.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_11.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_12.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_13.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_14.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_15.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_16.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_17.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_18.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_19.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_20.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_21.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_22.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_23.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_24.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_25.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_26.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_27.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_28.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Hanoi_29.JPG)
