@@ -56,13 +56,13 @@ variant: markdown
 
 ![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_22.JPG)
 
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_23a.JPG)
+![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_23a.jpg)
 
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_24c.JPG)
+![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_24c.jpg)
 
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_25b.JPG)
+![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_25b.jpg)
 
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_26a.JPG)
+![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_26a.jpg)
 
 ![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_27.JPG)
 
