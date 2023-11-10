@@ -12,21 +12,21 @@ variant: markdown
 
 ### Photos
 
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_1.JPG)
-
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_2.JPG)
-
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_3.JPG)
-
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_4.JPG)
-
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_5.JPG)
-
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_6.JPG)
+![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_8.JPG)
 
 ![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_7.JPG)
 
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_8.JPG)
+![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_6.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_5.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_4.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_3.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_2.JPG)
+
+![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_1.JPG)
 
 ![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_9.JPG)
 
@@ -56,13 +56,8 @@ variant: markdown
 
 ![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_22.JPG)
 
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_23.JPG)
 
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_24.JPG)
 
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_25.JPG)
-
-![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_26.JPG)
 
 ![](/images/YSS%20Exp/YSS_Goes_Global/Taiwan2_27.JPG)
 
