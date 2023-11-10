@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /instructional-programme/mtl/
 description: ""
+variant: markdown
 ---
 ### Goal
 
@@ -16,9 +17,24 @@ To develop every child into a self-directed and lifelong learner who has a passi
 **Broadcasting programme for Chinese Language, Malay Language and Tamil Language:**
 1. To provide students with an enriched and holistic experience in Mother Tongue Languages learning and cultural appreciation.
 
+
+### Events
+
+* National Secondary Schools Lantern Riddles Competition 2023
+* 2023 National Chinese Short Film Competition for Secondary Schools, Junior Colleges and Centralised Institute
+* 6th Text Recital Competition for Primary and Secondary Schools
+* 8th National Poetry Competition for Secondary School Students
+* National Secondary Schools Translation Competition
+* Proficiency awards in Tamil Literature (Elective)
+* Chinese New Year
+
+
+
 ### Highlights / Achievements
 
 Mother Tongue Languages Fortnight with the theme “Customs, Traditions, Beliefs”. Students participated in a variety of activities ranging from hands on, quizzes and experiential learning on traditions and customs including traditional beliefs. Through the activities, they had the opportunity to learn the history and culture of their Mother Tongue languages.
+
+
 
 ### Mother Tongue Languages Teachers
 
