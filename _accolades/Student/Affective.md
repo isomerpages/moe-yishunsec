@@ -3,9 +3,29 @@ title: Affective
 permalink: /accolades/student/affective/
 description: ""
 third_nav_title: Student
+variant: markdown
 ---
 2023
 --------------
+
+#### Live On Festival (LOF) 2023
+
+Live On Festival (LOF) is organised by the National Organ Transplant Unit (NOTU), Ministry of Health. NOTU oversees both living donor and deceased donor organ transplants and is also responsible for the promotion of altruistic act of organ donation. and transplantation activities in Singapore.
+
+Live On Festival encourages participants, in particular youths, to express their thoughts on organ donation and transplantation through art and writing. Designed with the perspective to be consonant with the goals of the Ministry of Education (MOE)’s Character and Citizenship Education (CCE) curriculum, inculcating values of responsibility, compassion, empathy and altruism by providing insights into the delicate and emotive nature of the topic of organ donation and transplantation.
+
+2 students received awards in the school category for their artwork entries. Lin Xi from Sec 3E5 received the Distinction Award for her mixed media artwork titled Rich in biodiversity: right in the heart of the island, Singapore. Erindianz Amellia Binte Suriyan from 3E5 received the Merit Award for her mixed media artwork titled HEARTfelt Connections.
+
+
+
+
+
+
+
+
+
+#### The Prove It! Contest
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xW2e0jIoruo" height="315" width="560"></iframe>
 
 The National Library Board recently organised The Prove It! Contest that challenges students in their knowledge and application of information literacy (IL) and critical thinking skills. To date, over 1,300 lower secondary students had participated in the contest since 2013. The contest aims to equip students with news and info-literacy skills. It also instils in them the confidence to become effective student ambassadors by spearheading their own advocacy efforts in their schools and community. This contest is supported by the Ministry of Education, Black Dot Research and Rice Media.
