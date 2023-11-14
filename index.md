@@ -18,17 +18,6 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
-      title: YSS Goes Global
-      subtitle: Announcements
-      id: infopic
-      description: To provide an opportunity for YSS students to stretch their talent
-        as well as to learn and interact with their peers from overseas via
-        exchange programmes.
-      button: Read More
-      url: /the-yss-experience/interdisciplinary-programmes/yssgoesglobal/
-      image: /images/Announcements/yss goes global_3.jpg
-      alt: Image alt text
-  - infopic:
       title: Open House 2023
       subtitle: Announcements
       id: infopic
