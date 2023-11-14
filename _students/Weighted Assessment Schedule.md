@@ -2,6 +2,7 @@
 title: Weighted Assessment Schedule
 permalink: /students/WA/
 description: ""
+variant: markdown
 ---
 2023
 -----------------
@@ -11,7 +12,8 @@ description: ""
 * [Term 3 Weighted Assessment - Sec 2](/files/Weighted%20Assessment/2023/t3-wa3_sec_2_2023.pdf)
 * [Term 3 Weighted Assessment - Sec 3](/files/Weighted%20Assessment/2023/t3-wa3_sec_3_2023.pdf)
 * [Term 3 Timed Practice - Sec 4 & 5](/files/Weighted%20Assessment/2023/2023%20timed%20practice%20for%20sec%204%20&%205na.pdf)
-____________
+
+______________________________
 
 #### Term 2 - WA 2
 
@@ -20,8 +22,8 @@ ____________
 * [Term 2 Weighted Assessment - Sec 3](/files/Weighted%20Assessment/2023/Term%202%20Weighted%20Assessment%20Sec%203%202023.pdf)
 * [Term 2 Weighted Assessment - Sec 4 & 5](/files/Weighted%20Assessment/2023/wa_sec_4and5_term2-2023.pdf)
 
-___________________
 
+________________________________
 
 #### Term 1 - WA 1
 
@@ -30,7 +32,9 @@ ___________________
 * [Term 1 Weighted Assessment - Sec 3](/files/Weighted%20Assessment/2023/Term%201%20Weighted%20Assessment%20-%20Sec%203%202023.pdf)
 * [Term 1 Weighted Assessment - Sec 4 & 5](/files/Weighted%20Assessment/2023/Term%201%20Weighted%20Assessment%20-%20Sec%204_5%202023.pdf)
 
-_____________________
+
+__________________________________
+
 
 2022
 ------------------
@@ -40,14 +44,17 @@ _____________________
 * [Sec 1 - Weighted Assessment Term 3](/files/Weighted%20Assessment/2022/Sec%201%20Weighted%20Assessment%20Term%203.pdf)
 * [Sec 2 - Weighted Assessment Term 3](/files/Weighted%20Assessment/2022/Sec%202%20Weighted%20Assessment%20Term%203.pdf)
 * [Sec 3 - Weighted Assessment Term 3](/files/Weighted%20Assessment/2022/Sec%203%20Weighted%20Assessment%20Term%203.pdf)
-___________________
+
+_______________________________
 
 #### Term 2 - WA 2
 
 * [Sec 1 - Weighted Assessment_Term 2](/files/Weighted%20Assessment/2022/Sec%201%20Weighted%20Assessment_Term%202.pdf)
 * [Sec 2 - Weighted Assessment_Term 2](/files/Weighted%20Assessment/2022/Sec%202%20Weighted%20Assessment_Term%202.pdf)
 * [Sec 3 - Weighted Assessment_Term 2](/files/Weighted%20Assessment/2022/Sec%203%20Weighted%20Assessment_Term%202.pdf)
-____________________
+
+________________________________
+
 
 #### Term 1 - WA 1
 
