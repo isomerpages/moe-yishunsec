@@ -16,7 +16,7 @@ Live On Festival encourages participants, in particular youths, to express their
 
 2 students received awards in the school category for their artwork entries. Lin Xi from Sec 3E5 received the Distinction Award for her mixed media artwork titled Rich in biodiversity: right in the heart of the island, Singapore. Erindianz Amellia Binte Suriyan from 3E5 received the Merit Award for her mixed media artwork titled HEARTfelt Connections.
 
-
+<figure><img src=""></figure>
 
 
 
