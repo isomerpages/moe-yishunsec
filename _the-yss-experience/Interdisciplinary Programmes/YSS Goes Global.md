@@ -3,6 +3,7 @@ title: YSS Goes Global
 permalink: /the-yss-experience/interdisciplinary-programmes/yssgoesglobal/
 description: ""
 third_nav_title: Interdisciplinary Programmes
+variant: markdown
 ---
 Media release: [Singapore students top “Global Competence” domain of 2018 PISA study](/accolades/school/)
 
@@ -27,8 +28,6 @@ Besides travelling abroad, Yishun Secondary School also look forward to hosting 
 
 ### YSS Goes Global Programme - 2023
 #### Key Programmes
-
-*Click below to view daily updates:*
 
 * [Taiwan](/taiwan1/) - (31 Oct to 6 Nov 2023)
 * [Ho Chi Minh City - Vietnam](/vietnam/) - (3 Nov to 7 Nov 2023)

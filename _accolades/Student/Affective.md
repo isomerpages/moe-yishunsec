@@ -3,9 +3,42 @@ title: Affective
 permalink: /accolades/student/affective/
 description: ""
 third_nav_title: Student
+variant: markdown
 ---
 2023
 --------------
+
+#### Live On Festival (LOF) 2023
+
+Live On Festival (LOF) is organised by the National Organ Transplant Unit (NOTU), Ministry of Health. NOTU oversees both living donor and deceased donor organ transplants and is also responsible for the promotion of altruistic act of organ donation. and transplantation activities in Singapore.
+
+Live On Festival encourages participants, in particular youths, to express their thoughts on organ donation and transplantation through art and writing. Designed with the perspective to be consonant with the goals of the Ministry of Education (MOE)’s Character and Citizenship Education (CCE) curriculum, inculcating values of responsibility, compassion, empathy and altruism by providing insights into the delicate and emotive nature of the topic of organ donation and transplantation.
+
+2 students received awards in the school category for their artwork entries. Lin Xi from Sec 3E5 received the Distinction Award for her mixed media artwork titled Rich in biodiversity: right in the heart of the island, Singapore. Erindianz Amellia Binte Suriyan from 3E5 received the Merit Award for her mixed media artwork titled HEARTfelt Connections.
+
+<figure><img src="/images/Accolades/Art_Picture1.jpg"><figcaption>Lin Xi, 3E5 <br>Awarded Distinction, School Category, 2023</figcaption></figure>
+
+![](/images/Accolades/Art_Picture2.jpg)
+**Artwork Title:** Rich in biodiversity: right in the heart of the island, Singapore <br>
+**Medium:**  Mixed Media (Colour Pencil, Pencil &amp; Gouache Paint)
+
+**Artist Statement:** <br>
+Singapore calls itself ‘Garden City’. With landscape of towering architecture in the compact city-state, Singapore has interspersed parks, rivers, and ponds amid our high-rises. Visioning my organs as my friend, it would be breathtaking to go on an adventure together and capture the island’s undeniable charm. Depicting the anatomy of the human body as an illustration of the iconic places and activities to discover in regions of Singapore. It is also to raise awareness for the organs that can be donated and transplanted to patients with end stage organ failure or for research and education purposes. The first stop of the adventure is uncovering bird paradise at Singapore’s Bird Park, and its nature wildlife reserve. It symbolises the lungs, and below it is HDB flats, where many calls it ‘Home’, a sense of belonging. Moving to the right, with a walk through the scenic view of the Marina Bay and iconic statue, Merlion Park, representing the liver. While travelling to the stomach of Singapore’s famous island, Sentosa, and taking public transport in the MRT train to span around this rich biodiversity Singapore, right in the heart of the island.
+
+<figure><img src="/images/Accolades/Art_Picture3.jpg"><figcaption>Erindianz Amellia Binte Suriyan, 3E5
+<br>Awarded Merit, School Category, 2023</figcaption></figure>
+
+![](/images/Accolades/Art_Picture4.jpg)
+**Artwork Title:** HEARTfelt Connections <br>
+**Medium:**  Mixed Media (Colour Pencil, Pencil &amp; Gouache Paint)
+
+**Artist Statement:** <br>
+Did you know that up to eight lives can be saved from organ donation? For someone awaiting a transplant, donation can mean the difference between life and death. From the mirror image of a broken vase heart on the left, projecting the past, to the colourful and vibrant transformed heart on the right, symbolising the future. With the bag of blood used for transfusion dripped on, the ‘now’ attempts to knit and fix the broken self, while seeking out by painting and imagining its future self. Donation of organs give them hope for a second chance. For donor families, they can find solace in knowledge of their loved one’s lifesaving legacy.
+
+__________________________
+
+#### The Prove It! Contest
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xW2e0jIoruo" height="315" width="560"></iframe>
 
 The National Library Board recently organised The Prove It! Contest that challenges students in their knowledge and application of information literacy (IL) and critical thinking skills. To date, over 1,300 lower secondary students had participated in the contest since 2013. The contest aims to equip students with news and info-literacy skills. It also instils in them the confidence to become effective student ambassadors by spearheading their own advocacy efforts in their schools and community. This contest is supported by the Ministry of Education, Black Dot Research and Rice Media.
