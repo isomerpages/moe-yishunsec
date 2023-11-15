@@ -1,6 +1,6 @@
 ---
-title: Weighted Assessment Schedule
-permalink: /students/WA/
+title: Exam Schedule
+permalink: /students/exam/
 description: ""
 variant: markdown
 ---
