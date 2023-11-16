@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Instructional Programme.md
       - Student Development/.keep
       - Student Development/CCAs.md
       - Student Development/Citizenship and Character Education.md
