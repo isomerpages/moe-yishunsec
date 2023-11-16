@@ -96,7 +96,9 @@ As a department, various ways are explored to give back to the Community:
 
 ![](/images/IP/CraftandTech/DnT_4_2023.jpg)
 
+![](/images/IP/CraftandTech/Art2023_1.jpg)
 
+![](/images/IP/CraftandTech/Art2023_2.jpg)
 
 ![](/images/IP/CraftandTech/pic%201.png)
 ![](/images/IP/CraftandTech/pic%202.png)
