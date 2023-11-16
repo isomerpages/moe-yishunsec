@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /instructional-programme/physical-education/
 description: ""
+third_nav_title: Instructional Programme
 ---
 ### Goal
 

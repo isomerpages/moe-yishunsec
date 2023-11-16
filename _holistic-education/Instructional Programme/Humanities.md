@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /instructional-programme/humanities/
 description: ""
+third_nav_title: Instructional Programme
 ---
 ### Department Goal
 

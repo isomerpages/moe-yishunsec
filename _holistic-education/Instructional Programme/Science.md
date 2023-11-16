@@ -2,6 +2,7 @@
 title: Science
 permalink: /instructional-programme/science/
 description: ""
+third_nav_title: Instructional Programme
 ---
 ### Goal(s)
 

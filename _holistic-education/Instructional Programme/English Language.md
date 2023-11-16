@@ -2,6 +2,7 @@
 title: English Language
 permalink: /instructional-programme/english-language/
 description: ""
+third_nav_title: Instructional Programme
 ---
 ### Goal
 

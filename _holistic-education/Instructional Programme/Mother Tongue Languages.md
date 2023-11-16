@@ -3,6 +3,7 @@ title: Mother Tongue Languages
 permalink: /instructional-programme/mtl/
 description: ""
 variant: markdown
+third_nav_title: Instructional Programme
 ---
 ### Goal
 

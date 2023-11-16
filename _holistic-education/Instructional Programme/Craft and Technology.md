@@ -3,6 +3,7 @@ title: Craft and Technology
 permalink: /instructional-programme/craftandtech/
 description: ""
 variant: markdown
+third_nav_title: Instructional Programme
 ---
 ## Goal
 

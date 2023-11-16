@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /instructional-programme/mathematics/
 description: ""
+third_nav_title: Instructional Programme
 ---
 ### Department Goal(s)
 

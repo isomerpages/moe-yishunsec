@@ -2,6 +2,7 @@
 title: Exercise & Sports Science (ESS)
 permalink: /instructional-programme/ess/
 description: ""
+third_nav_title: Instructional Programme
 ---
 Exercise & Sports Science is a new GCE O-Level subject to be introduced in 2022. ESS uses movement as the focal point for performance, analysis and critique. Students will understand the relationships amongst the sub-disciplines of sports science and how systems within these sub-disciplines interact to influence how the human body moves in relation to each other and in different contexts. Movement contexts exist in specific exercises and sports, which in turn, manifest themselves in why and how people exercise and participate in sports in society, as influenced by socio-cultural factors such as commercialisation, ethics and equity.
 

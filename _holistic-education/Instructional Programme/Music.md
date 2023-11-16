@@ -3,6 +3,7 @@ title: Music
 permalink: /instructional-programme/music/
 description: ""
 variant: markdown
+third_nav_title: Instructional Programme
 ---
 ### Aesthetics Department Teachers
 
