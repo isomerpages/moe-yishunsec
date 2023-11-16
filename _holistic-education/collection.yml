@@ -2,6 +2,8 @@ collections:
   holistic-education:
     output: true
     order:
+      - Instructional Programme/Information and Communications Technology
+        (ICT).md
       - Instructional Programme/Literature.md
       - Instructional Programme/Mathematics.md
       - Instructional Programme/Mother Tongue Languages.md
