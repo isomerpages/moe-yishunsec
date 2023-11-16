@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Instructional Programme/Physical Education.md
       - Instructional Programme/Science.md
       - Instructional Programme/.keep
       - Student Development/.keep
