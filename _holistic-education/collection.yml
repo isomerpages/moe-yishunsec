@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Instructional Programme/Literature.md
       - Instructional Programme/Mathematics.md
       - Instructional Programme/Mother Tongue Languages.md
       - Instructional Programme/Music.md
