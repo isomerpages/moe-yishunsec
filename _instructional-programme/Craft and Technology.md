@@ -2,6 +2,7 @@
 title: Craft and Technology
 permalink: /instructional-programme/craftandtech/
 description: ""
+variant: markdown
 ---
 ## Goal
 
@@ -87,6 +88,17 @@ As a department, various ways are explored to give back to the Community:
 ![](/images/IP/CraftandTech/craft%20and%20technology_2023.png)
 
 ### Photos
+![](/images/IP/CraftandTech/DnT_1_2023.jpg)
+
+![](/images/IP/CraftandTech/DnT_2_2023.jpg)
+
+![](/images/IP/CraftandTech/DnT_3_2023.jpg)
+
+![](/images/IP/CraftandTech/DnT_4_2023.jpg)
+
+![](/images/IP/CraftandTech/Art2023_1.jpg)
+
+![](/images/IP/CraftandTech/Art2023_2.jpg)
 
 ![](/images/IP/CraftandTech/pic%201.png)
 ![](/images/IP/CraftandTech/pic%202.png)
@@ -97,7 +109,6 @@ As a department, various ways are explored to give back to the Community:
 ![](/images/IP/CraftandTech/pic%207.png)
 ![](/images/IP/CraftandTech/pic%208.png)
 ![](/images/IP/CraftandTech/pic%209.png)
-![](/images/IP/CraftandTech/pic%2010.png)
 ![](/images/IP/CraftandTech/pic%2011.png)
 ![](/images/IP/CraftandTech/pic%2012.png)
 ![](/images/IP/CraftandTech/pic%2013.png)

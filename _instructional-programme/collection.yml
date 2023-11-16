@@ -2,9 +2,6 @@ collections:
   instructional-programme:
     output: true
     order:
-      - Aesthetics/.keep
-      - Aesthetics/Music.md
-      - Aesthetics/Retail Operations.md
       - Craft and Technology.md
       - English Language.md
       - Exercise & Sports Science (ESS).md
@@ -13,5 +10,7 @@ collections:
       - Literature.md
       - Mathematics.md
       - Mother Tongue Languages.md
+      - Music.md
+      - Normal Technical.md
       - Physical Education.md
       - Science.md

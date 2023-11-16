@@ -1,13 +1,12 @@
 ---
 title: Music
-permalink: /instructional-programme/aesthetics/music/
+permalink: /instructional-programme/music/
 description: ""
 variant: markdown
-third_nav_title: Aesthetics
 ---
 ### Aesthetics Department Teachers
 
-![](/images/IP/Aesthetics/aesthetics_2023.jpg)
+![](/images/IP/Music/aesthetics_2023.jpg)
 
 ### Goal
 To develop every student to be a creative, innovative and collaborative life–long learner.
@@ -37,18 +36,18 @@ This initiative by the National Arts Council (NAC) supports partnership between 
 
 To further develop selected students who have passion and interest in digital music making, going into post production skills such as mixing.
 
-<figure><img src="/images/IP/Aesthetics/music%20masterclass%20photo%201.jpg"><figcaption>Music Masterclass</figcaption></figure>
-<figure><img src="/images/IP/Aesthetics/eugene%20bakers%20in%20space%20photo%202.jpg"><figcaption>Eugene Bakers in Space</figcaption></figure>
-<figure><img src="/images/IP/Aesthetics/2%20rs%20with%20eugene%20bakers%20in%20space%20photo%203.jpg"><figcaption>2 RS with Eugene Bakers in Space</figcaption></figure>
+<figure><img src="/images/IP/Music/music%20masterclass%20photo%201.jpg"><figcaption>Music Masterclass</figcaption></figure>
+<figure><img src="/images/IP/Music/eugene%20bakers%20in%20space%20photo%202.jpg"><figcaption>Eugene Bakers in Space</figcaption></figure>
+<figure><img src="/images/IP/Music/2%20rs%20with%20eugene%20bakers%20in%20space%20photo%203.jpg"><figcaption>2 RS with Eugene Bakers in Space</figcaption></figure>
 
 
 #### ASPIRE! NT Music Camp
 
 Annual camp to expose the Sec 3NT Music students to Live Sound stage setups as well as have a platform to hone performance accuracy and confidence.
 
-<figure><img src="/images/IP/Aesthetics/aspire%20nt%20music%20camp%20photo%204.jpg"><figcaption>Aspire NT Music Camp</figcaption></figure>
+<figure><img src="/images/IP/Music/aspire%20nt%20music%20camp%20photo%204.jpg"><figcaption>Aspire NT Music Camp</figcaption></figure>
 
-<figure><img src="/images/IP/Aesthetics/aspire%20nt%20music%20camp%202%20photo%205.jpg"><figcaption>Aspire NT Music Camp 2</figcaption></figure>
+<figure><img src="/images/IP/Music/aspire%20nt%20music%20camp%202%20photo%205.jpg"><figcaption>Aspire NT Music Camp 2</figcaption></figure>
 
 
 #### Singapore Symphony Orchestra x Yishun Sec Performing Arts-Based Learning Pilot Programme
@@ -59,6 +58,6 @@ This year, Yishun Secondary school took on a partnership with the Singapore Symp
 
 At the concert, the students who were part of the workshop recognised the motifs and were engaged in listening throughout the concert, enjoying classical music in a way they never did before.
 
-<figure><img src="/images/IP/Aesthetics/selected%20students%20in%20pre-workshop%20photo%206.jpg"><figcaption>Selected Students in Pre-workshop</figcaption></figure>
+<figure><img src="/images/IP/Music/selected%20students%20in%20pre-workshop%20photo%206.jpg"><figcaption>Selected Students in Pre-workshop</figcaption></figure>
 
-<figure><img src="/images/IP/Aesthetics/sso%20x%20yss%20pilot%20pabl%20programme%20photo%207.jpg"><figcaption>SSO x YSS Pilot PABL Programme</figcaption></figure>
+<figure><img src="/images/IP/Music/sso%20x%20yss%20pilot%20pabl%20programme%20photo%207.jpg"><figcaption>SSO x YSS Pilot PABL Programme</figcaption></figure>
