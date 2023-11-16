@@ -5,17 +5,9 @@ description: ""
 variant: markdown
 third_nav_title: Instructional Programme
 ---
-### Aesthetics Department Teachers
-
 ![](/images/IP/Music/aesthetics_2023.jpg)
 
-### Goal
-To develop every student to be a creative, innovative and collaborative life–long learner.
-
-
-### Music
-
-#### Department goals:
+### Department Goals:
 
 To equip Yishunites with
 * Basic guitar and keyboard instrumental skills
