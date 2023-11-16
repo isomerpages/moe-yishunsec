@@ -2,6 +2,7 @@ collections:
   instructional-programme:
     output: true
     order:
+      - Music.md
       - Retail Operations.md
       - Aesthetics/.keep
       - Craft and Technology.md
