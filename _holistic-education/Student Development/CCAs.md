@@ -3,6 +3,7 @@ title: CCAs
 permalink: /student-development/cca/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 ## Co-Curricular Activities (CCAs)
 
@@ -30,14 +31,14 @@ In Yishun Secondary, students take part in one CCA from the following categories
 ### Sports and Games
 * **[Badminton](/cca/sports-and-games/badminton/)**
 * **[Basketball](/cca/sports-and-games/basketball/)**
-* **[Football (Boys)](/cca/sports-and-games/football/)**
+* **[Football](/cca/sports-and-games/football/)**
 * **[Netball](/cca/sports-and-games/netball/)**
 * **[Volleyball](/cca/sports-and-games/volleyball/)**
 * **[Cross-Country](/cca/sports-and-games/cross-country/)**
 
 
 ### Clubs and Societies
-* **[Media Club (Infocom Technology)](/cca/clubs-and-societies/media-club/)**
+* **[Media Club](/cca/clubs-and-societies/media-club/)**
 * **[Robotics](/cca/clubs-and-societies/robotics/)**
 
 
