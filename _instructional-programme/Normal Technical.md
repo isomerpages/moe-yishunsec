@@ -17,8 +17,12 @@ This is done through both academic and affective programmes in YSS
 **1. Retail Operations – the birth of entrepreneurs!** <br>
 Students get to learn the different types of retail industry, ways to manage retail operations and how to do a sales pitch.
 
+
+
 **2. Computer Applications – creators of game!**<br>
 Students get to create their games and animation, while at the same time, equipping themselves with the necessary office skills and video editing.
+
+
 
 
 #### (B)	Affective Programmes
