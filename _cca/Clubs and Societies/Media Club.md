@@ -3,7 +3,7 @@ title: Media Club
 permalink: /cca/clubs-and-societies/media-club/
 description: ""
 third_nav_title: Clubs and Societies
-variant: tiptap
+variant: markdown
 ---
 <figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-1.jpg"></figure>
 
@@ -26,32 +26,33 @@ variant: tiptap
 
 #### Aperture Exco Structure
 
-![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media.png)
+![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/MediaClubExco_2023.png)
 
 #### Key Student Outcomes
 
 We want to build a community of thinking photographers who are dedicated to deepen their craft and have the courage to explore beyond what they know. We hope to build this community so that everyone will have more confidence to step out of their comfort zone and be resilient in putting in our 100% into the work that we are assigned to.
 
-#### Aperture Events in 2022
+#### Aperture Events
 
-* Participated in Our Schools, Our Stories Photo Contest 2022
+* Our School Our Stories 2023
+* All school events that require AV and Photography support
+
 
 #### Student’s Quotes
 
-*"Being in aperture has shown me what it is like to be living life through a lens -with special moments that are caught in a second, but to be treasured for a lifetime.’'*
-<div style="text-align:right">Bernice Wang</div>
+*"I have learnt how to use a wide variety of cameras through many experiences. During the CCA we have many opportunities to use different cameras and equipment which is a very fun learning experience that I look forward to every CCA lesson."* ~ Rayden(Member)
+
+*“Surely with hardship comes ease."* ~ Naufal(Head of Videography)
+
 
 #### Aperture Photos
 
-<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-2.jpg"></figure>
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/MediaClub_1_2023.jpg"><figcaption>Students playing a game during CCA bonding session</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-3.jpg"></figure>
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/MediaClub_2_2023.jpg"><figcaption>Point of View when getting CCA deployment</figcaption> </figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-4.jpg"></figure>
+<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/MediaClub_3_2023.jpg"><figcaption>Getting ready for a CCA session/deployment</figcaption> </figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-5.jpg"></figure>
-
-<figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-6.jpg"></figure>
 
 ### Audio Visual Aid (AVA)
 
