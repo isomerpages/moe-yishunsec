@@ -11,8 +11,6 @@ description: ""
 Create Opportunities for Students to Acquire Skills, Knowledge and Values through experiential learning opportunities for them to be future-ready.
 
 This is done through both academic and affective programmes in YSS
-
-This is done through both academic and affective programmes in YSS
 	
 #### (A)	Academic Programmes
 	
@@ -37,7 +35,7 @@ Students get to create their games and animation, while at the same time, equipp
 
 StAR programme is a school-based curriculum designed and led by the teachers for G1 students to provide these students with tailor-made support, mentorship and develop essential relevant to every day scenarios. Learners will get to experience the essence of self-awareness, self-management, social awareness, teamwork and responsible decision making.
 
-Insert vid
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/WQ11GL1QjQw?si=NIMNp0sCmm8d8WCI" height="315" width="560"></iframe>
 
 **2)	Sec 2 Experience ITE Programme**
 
