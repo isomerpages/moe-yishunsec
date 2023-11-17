@@ -8,7 +8,7 @@ variant: markdown
 ![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/malay%20dance_2023.JPG)
 
 ### Teacher-in-charge
-* Ms Nur Firdaus Ghazali (I/C)
+* Ms Nurfirdaus Ghazali (I/C)
 * Ms Shahidah Borhan
 
 ### CCA Schedule
