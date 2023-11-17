@@ -56,5 +56,8 @@ variant: markdown
 ### Photos
 
 
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayD1_2023.jpg"><figcaption>SYF 2023</figcaption></figure>
 
-<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayDance14.jpg"><figcaption>Performing at Nee Soon Central</figcaption></figure>
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayD2_2023.jpg"><figcaption>SYF 2023</figcaption></figure>
+
+<figure><img src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayD3_2023.jpg"><figcaption>Amplified Programme at the Esplanade attended by CCA Leaders, Amirah and Rafhanah.</figcaption></figure>
