@@ -89,13 +89,14 @@ As a department, various ways are explored to give back to the Community:
 ![](/images/IP/CraftandTech/craft%20and%20technology_2023.png)
 
 ### Photos
-![](/images/IP/CraftandTech/DnT_1_2023.jpg)
 
-![](/images/IP/CraftandTech/DnT_2_2023.jpg)
+<img src="/images/IP/CraftandTech/DnT_1_2023.jpg" style="height:30%">
 
-![](/images/IP/CraftandTech/DnT_3_2023.jpg)
+<img src="/images/IP/CraftandTech/DnT_2_2023.jpg" style="height:30%">
 
-![](/images/IP/CraftandTech/DnT_4_2023.jpg)
+<img src="/images/IP/CraftandTech/DnT_3_2023.jpg" style="height:30%">
+
+<img src="/images/IP/CraftandTech/DnT_4_2023.jpg" style="height:30%">
 
 ![](/images/IP/CraftandTech/Art2023_1.jpg)
 
