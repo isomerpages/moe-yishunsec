@@ -20,15 +20,15 @@ Booklist for 2024
 
 
 #### Sec 2
-* [S2 FSBB G1](/files/Students/Booklist/2024/s2%20fsbb%20g1.pdf)
-* [S2 FSBB G2](/files/Students/Booklist/2024/s2%20fsbb%20g2.pdf)
-* [S2 FSBB G3](/files/Students/Booklist/2024/s2%20fsbb%20g3.pdf)
+* [S2 FSBB - G1](/files/Students/Booklist/2024/s2%20fsbb%20g1.pdf)
+* [S2 FSBB - G2](/files/Students/Booklist/2024/s2%20fsbb%20g2.pdf)
+* [S2 FSBB - G3](/files/Students/Booklist/2024/s2%20fsbb%20g3.pdf)
 
 
 #### Sec 3
-* [S3 FSBB G1](/files/Students/Booklist/2024/s3%20fsbb%20g1.pdf)
-* [S3 FSBB G2](/files/Students/Booklist/2024/s3%20fsbb%20g2.pdf)
-* [S3 FSBB G3](/files/Students/Booklist/2024/s3%20fsbb%20g3.pdf)
+* [S3 FSBB - G1](/files/Students/Booklist/2024/s3%20fsbb%20g1.pdf)
+* [S3 FSBB - G2](/files/Students/Booklist/2024/s3%20fsbb%20g2.pdf)
+* [S3 FSBB - G3](/files/Students/Booklist/2024/s3%20fsbb%20g3.pdf)
 
 
 #### Sec 4
