@@ -18,15 +18,6 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
-      title: Open House 2023
-      subtitle: Announcements
-      id: infopic
-      description: 18 November 2023 (Saturday) from 9:00 am to 1:00 pm
-      button: Read More
-      url: /openhouse/
-      alt: Image alt text
-      image: /images/Announcements/open house 2023-1.jpeg
-  - infopic:
       title: Letter to Parents
       description: End of Term 4
       button: Read more...
