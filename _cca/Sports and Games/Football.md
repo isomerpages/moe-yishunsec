@@ -9,7 +9,7 @@ variant: markdown
 
 **YSS is a School Football Academy under the Unleash The Roar programme! (https://www.unleashtheroar.com.sg)**
 
-In 2024, YSS will introduce a girls’ football for the incoming secondary one girls as part of this programme.  This will be a cluster CCA for all girls from the N2 cluster.
+In 2024, YSS will introduce a girls’ football for the incoming secondary one girls as part of this programme. This will be a cluster CCA for all girls from the N2 cluster.
 
 ![](/images/StudDevelopment/CCAs/SportsGames/Football/football_2023.JPG)
 
