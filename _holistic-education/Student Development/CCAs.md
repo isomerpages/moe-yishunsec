@@ -31,7 +31,7 @@ In Yishun Secondary, students take part in one CCA from the following categories
 ### Sports and Games
 * **[Badminton](/cca/sports-and-games/badminton/)**
 * **[Basketball](/cca/sports-and-games/basketball/)**
-* **[Football](/cca/sports-and-games/football/)**
+* **[Football (Boys/Girls)](/cca/sports-and-games/football/)**
 * **[Netball](/cca/sports-and-games/netball/)**
 * **[Volleyball](/cca/sports-and-games/volleyball/)**
 * **[Cross-Country](/cca/sports-and-games/cross-country/)**
