@@ -3,8 +3,14 @@ title: Football
 permalink: /cca/sports-and-games/football/
 description: ""
 third_nav_title: Sports and Games
-variant: tiptap
+variant: markdown
 ---
+### Football (Boys/Girls)
+
+**YSS is a School Football Academy under the Unleash The Roar programme! (https://www.unleashtheroar.com.sg)**
+
+In 2024, YSS will introduce a girls’ football for the incoming secondary one girls as part of this programme.  This will be a cluster CCA for all girls from the N2 cluster.
+
 ![](/images/StudDevelopment/CCAs/SportsGames/Football/football_2023.JPG)
 
 ### Teacher-in-charge
@@ -16,6 +22,7 @@ variant: tiptap
 ### CCA Schedule
 * **FOOTBALL (C Boys):** Mondays, Tuesdays &amp; Thursdays 1500 - 1630
 * **FOOTBALL (B Boys):** Mondays, Tuesdays &amp; Thursdays 1600 - 1730
+* **Football (C Girls):** Wednesday &amp; Friday 1600 - 1730
 
 ### Venue
 * School Field
@@ -59,6 +66,7 @@ tr:nth-child(even) {
 
 ### Highlights / Achievements
 
+* School Football Academy under the “Unleash The Roar!” programme
 * Embarked on the yearly National School Games (NSG) Football Tournament where our ‘B’ and ‘C’ Division boys gained invaluable experience
 * Our ‘B’ Division boys qualified for NSG League 1 together with the top 16 schools in Singapore in 2023
 * Organised Yishun Invitational Football Carnival where opportunities were given for schools in our vicinity pitch their skills against each other. Our boys did us proud and clinched 1st place in 2023
