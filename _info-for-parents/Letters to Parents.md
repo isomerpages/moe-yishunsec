@@ -2,10 +2,12 @@
 title: Letters to Parents
 permalink: /parents/info-for-parents/letters/
 description: ""
+variant: markdown
 ---
 2023
 --------------
 ##### Term 4
+* [Release of GCE N - Level Examination Results - 13 Dec 2023.pdf](/files/Letter%20to%20Parents/Release_of_the_2023_GCE_N__Level_Examination_Results___13_Dec_2023.pdf)
 * [End of Term 4 - 27 Oct 2023](/files/Letter%20to%20Parents/end%20of%20term%204%20-%2027oct2023.pdf)
 * [Sec 1 Outdoor Adventure Camp 2023 - 18 Oct 2023](/files/Letter%20to%20Parents/sec%201%20outdoor%20adventure%20camp%202023.pdf)
 * [Sec 3 Outdoor Adventure Camp 2023 - 18 Oct 2023](/files/Letter%20to%20Parents/sec%203%20outdoor%20adventure%20camp%202023.pdf)
