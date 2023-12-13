@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: End of Term 4
+      description: Release of GCE N - Level Examination Results 2023
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
