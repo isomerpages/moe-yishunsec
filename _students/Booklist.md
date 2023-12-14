@@ -16,7 +16,7 @@ Booklist for 2024
 ----------------
 
 #### Sec 1
-<p style="color:red;"> For <b>Sec 1 students</b> taking More Demanding Level (MDL) &amp; Higher Mother Tongue (HMT), you are strongly encouraged  to purchase your books only after the MDL briefing for students on  02 Jan 2024 by Mr Chew Kang Wei. </p>
+<p style="color:red;"><b>Sec 1 students</b> taking More Demanding Level (MDL) &amp; Higher Mother Tongue (HMT), you are strongly encouraged  to purchase your books only after the MDL briefing for students on  02 Jan 2024 by Mr Chew Kang Wei. </p>
 
 * [S1 FSBB - G1](/files/Students/Booklist/2024/S1_FSBB_G1.pdf)
 * [S1 FSBB - G2](/files/Students/Booklist/2024/S1_FSBB_G2.pdf)
