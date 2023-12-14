@@ -16,7 +16,9 @@ Booklist for 2024
 ----------------
 
 #### Sec 1
-* Coming soon
+* [S1 FSBB - G1](/files/Students/Booklist/2024/S1_FSBB_G1.pdf)
+* [S1 FSBB - G2](/files/Students/Booklist/2024/S1_FSBB_G2.pdf)
+* [S1 FSBB - G3](/files/Students/Booklist/2024/S1_FSBB_G3.pdf)
 
 
 #### Sec 2
