@@ -18,6 +18,15 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
+      title: Welcome Sec 1 Students
+      subtitle: Announcements
+      id: infopic
+      description: Important Information for 2024 Sec 1 Students
+      button: Read More...
+      url: https://sites.google.com/moe.edu.sg/yss-sec-1-website
+      image: /images/Announcements/Welcome_Sec_1_students.jpg
+      alt: Image alt text
+  - infopic:
       title: Letter to Parents
       description: Release of GCE N - Level Examination Results 2023
       button: Read more...

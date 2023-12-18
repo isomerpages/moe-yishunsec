@@ -9,14 +9,12 @@ We will be introducing a new PE T-shirt in Semester 2. Please take that into con
 </p>
 
 [Instructions to Buy Uniform 2024](/files/Students/Booklist/2024/sale%20of%20uniform%20instruction%20yss%202024.pdf)
-
 ___________________
 
 Booklist for 2024
 ----------------
-
 #### Sec 1
-<p style="color:red;"><b>Sec 1 students</b> taking More Demanding Level (MDL) &amp; Higher Mother Tongue (HMT), you are strongly encouraged  to purchase your books only after the MDL briefing for students on  02 Jan 2024 by Mr Chew Kang Wei. </p>
+<p style="color:red;"><b>Sec 1 students</b> taking More Demanding Level (MDL) &amp; Higher Mother Tongue (HMT), you are strongly encouraged  to purchase your books only after attending the SBB zoom briefing for students on 21 Dec 2023 at 1 pm by Mr Chew Kang Wei.</p>
 
 * [S1 FSBB - G1](/files/Students/Booklist/2024/S1_FSBB_G1.pdf)
 * [S1 FSBB - G2](/files/Students/Booklist/2024/S1_FSBB_G2.pdf)
