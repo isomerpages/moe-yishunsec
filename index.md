@@ -18,7 +18,7 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
-      title: Welcome Sec 1 Students
+      title: 2024 Sec 1 Students
       subtitle: Announcements
       id: infopic
       description: Important Information for 2024 Sec 1 Students
