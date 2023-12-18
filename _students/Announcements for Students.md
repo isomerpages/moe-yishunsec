@@ -7,7 +7,7 @@ variant: markdown
 2023
 --------------
 **2023 GCE N-Level Results Release - 18 Dec 2023**
-
+* [Briefing Slides](/files/Announcements%20for%20Students/2023/Briefing_Slides_N_Level_Students_admin.pdf)
 
 
 
