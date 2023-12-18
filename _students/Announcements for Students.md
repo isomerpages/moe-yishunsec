@@ -2,9 +2,15 @@
 title: Announcements for Students
 permalink: /students/announcements/
 description: ""
+variant: markdown
 ---
 2023
 --------------
+**2023 GCE N-Level Results Release - 18 Dec 2023**
+
+
+
+
 **2023 Sec 1 to 3 EOY Exam TimeTable - 15 Sep 2023**
 * [Sec 1-3 EOY Exam Timetable 2023](/files/Announcements%20for%20Students/2023/4d_sec_1-3_eoy_exam_timetable_2023_15sep.pdf)
 
