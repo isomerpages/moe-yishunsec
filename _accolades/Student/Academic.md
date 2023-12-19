@@ -3,7 +3,22 @@ title: Academic
 permalink: /accolades/student/academic/
 description: ""
 third_nav_title: Student
+variant: markdown
 ---
+### 2023 GCE N-Level Examination <br>Sec 4 Normal (Academic) Results
+
+*Congratulations to our Secondary 4 Normal (Academic) students!*
+
+![](/images/Accolades/Student/4N.jpg)
+
+### 2023 GCE N-Level Examination <br>Sec 4 Normal (Technical) Results
+
+*Congratulations to our Secondary 4 Normal (Technical) students!*
+
+![](/images/Accolades/Student/4T.jpg)
+
+
+
 ### 2022 GCE O-Level Examination <br>Sec 5 Normal (Academic) Results
 
 
