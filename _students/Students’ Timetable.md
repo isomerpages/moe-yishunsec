@@ -2,13 +2,6 @@
 title: Students’ Timetable
 permalink: /students/timetable/
 description: ""
+variant: tiptap
 ---
-2023 Sem 2
----------------
-#### Term 4 - Week 5 and 6
-
-* [Sec 1 - Term 4 - Week 5 and 6](/files/Timetables/Students%20Timetable/sec%201%20-%20term%204%20week%205%20and%206_updated.pdf)
-* [Sec 2 - Term 4 - Week 5 and 6](/files/Timetables/Students%20Timetable/2023_sec%202%20-%20term%204%20week%205%20and%206_10%20oct.pdf)
-* [Sec 3 - Term 4 - Week 5 and 6](/files/Timetables/Students%20Timetable/2023_%20sec%203%20-%20term%204%20week%205%20and%206_10%20oct.pdf)
-
-*updated on 11 Oct 2023*
+<h2>2024 Sem 1</h2><h4>Term 1</h4><p><em>Coming Soon...</em></p>
