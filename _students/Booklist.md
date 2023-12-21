@@ -14,7 +14,7 @@ ___________________
 Booklist for 2024
 ----------------
 #### Sec 1
-<p style="color:red;"><b>Sec 1 students</b> taking More Demanding Level (MDL) &amp; Higher Mother Tongue (HMT), you are strongly encouraged  to purchase your books only after attending the briefing for students on 05 Jan 2023 at 4:30 pm.</p>
+<p style="color:red;"><b>Sec 1 students</b> taking More Demanding Level (MDL) &amp; Higher Mother Tongue (HMT), you are strongly encouraged  to purchase your books only after attending the briefing for students on 05 Jan 2024 at 4:30 pm.</p>
 
 * [S1 FSBB - G1](/files/Students/Booklist/2024/S1_FSBB_G1.pdf)
 * [S1 FSBB - G2](/files/Students/Booklist/2024/S1_FSBB_G2.pdf)
