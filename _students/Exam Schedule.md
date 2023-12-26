@@ -8,6 +8,7 @@ variant: markdown
 -----------------
 #### Term 1 - WA 1
 
+* Sec 1 WA
 * [Sec 2 WA](/files/Weighted%20Assessment/2024/Sec_2_WA_Term_1_2024.pdf)
 * [Sec 3 WA](/files/Weighted%20Assessment/2024/Sec_3_WA_Term_1_2024.pdf)
 * [Sec 4 & 5 WA](/files/Weighted%20Assessment/2024/Sec_4_5_WA_Term_1_2024.pdf)
