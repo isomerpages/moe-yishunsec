@@ -4,6 +4,18 @@ permalink: /students/exam/
 description: ""
 variant: markdown
 ---
+2024
+-----------------
+#### Term 1 - WA 1
+
+* [Sec 1 WA](/files/Weighted%20Assessment/2024/Sec_1_WA_Term_1_2024.pdf)
+* [Sec 2 WA](/files/Weighted%20Assessment/2024/Sec_2_WA_Term_1_2024.pdf)
+* [Sec 3 WA](/files/Weighted%20Assessment/2024/Sec_3_WA_Term_1_2024.pdf)
+* [Sec 4 & 5 WA](/files/Weighted%20Assessment/2024/Sec_4_5_WA_Term_1_2024.pdf)
+
+
+__________________
+
 2023
 -----------------
 #### Term 3 - WA 3
