@@ -2,30 +2,32 @@
 title: Principal's Message
 permalink: /yss/principalmessage/
 description: ""
+variant: markdown
 ---
 Dear Parents, Students and Partners of Yishun Secondary School,
 
-As we begin 2023, I would like to thank all parents, students and stakeholders for working closely with us last year in providing quality education to all Yishunites.
+As we begin 2024, I would like to thank all parents, students and stakeholders for working closely with us last year in providing quality education to all Yishunites.
 
-I believe the synergy between the school and her partners has been a good one. We were able to stay focused on our goals and continue with providing meaningful learning experiences for our students.
+2023 has been a fruitful year as we explored partnerships and pursued learning experiences both in Singapore and abroad, and continued to carry out the many activities that make school life engaging and meaningful for our students. These included CCAs, national competitions, cohort camps and local and overseas learning journeys.
 
-2022 was a fruitful year as safety measurement measures were gradually relaxed.  We explored new grounds on the home-based learning front. We also reinstated many of the activities that make school life engaging and meaningful for our students. These included CCAs, national competitions, cohort camps and learning journeys.
+In 2024, we have value-added to many of the programmes in school and come up with new ones that will make learning more Exciting, Engaging and Enriching for all Yishunites.
 
-In 2023, as we move deeper into normalcy, we have value-added to many of the programmes in school and come up with new ones that will make learning more Exciting, Engaging and Enriching for all Yishunites.
+We have expanded the **YSS Learning Festival for Students** in terms of scope and length after positive feedback from parents and students. We will continue to take learning beyond the classroom where students can experience for themselves what they have learnt in the textbooks and put theory into practice in this experiential learning venture.
 
-In Term Two of 2023, we look forward to the inaugural YSS Learning Festival for Students. The learning festival takes learning beyond the classroom where students can experience for themselves what they have learnt in the textbooks.  A total of 3 days have been set aside for this experiential learning venture for our students. 
+This year also sees the advent of the **Cluster CCA initiative** where we have new and exciting CCAs added to the ones we currently have. Secondary 1 girls will be able to join the Football CCA. In addition, Secondary 1 students may also choose to join two new CCAs, Wushu or Pipe-band, which are cluster-based CCAs hosted by other schools within the N2 cluster.
 
-With international borders being opened, we will organise overseas learning journeys for our students in 2023. Overseas learning journeys help broaden the minds of our students, keep them rooted to Singapore while learning about foreign cultures and, develop a sense of independence as they visit foreign destinations with their peers. 
+**Overseas learning journeys** help broaden the minds of our students, keep them rooted to Singapore while learning about foreign cultures, and develop a sense of independence as they visit foreign destinations with their peers. We will continue to provide opportunities for our students to venture beyond the comfortable and familiar, and to move beyond seeing the School as our World, to seeing the World as our School.
 
-On the curriculum front, I am happy to say that the staff and I have worked hard in customising a curriculum that is Exciting, Engaging and Enriching for our students. Facilities to support teaching and learning have also been refurbished or created to ensure that students benefit from state-of-the-art technology and, are able to learn in comfort.
+On the curriculum front, the staff and I have always prioritised a curriculum that is Exciting, Engaging and Enriching for our students through building our staff capacity and capabilities and strengthening our resources through leveraging Educational Technology. The various departments will also be embarking on more **interdisciplinary projects** that will foster critical and creative thinking, collaboration and problem-solving skills. This will allow students to see connections between different subjects, making learning more engaging and relevant.
 
-We will continue to provide a holistic education that strives to develop our students as all-rounders who are equipped with the intellectual capacity as well as the sound moral grounding necessary for them to embrace the challenges in life. 
+**Facilities to support teaching and learning** have also been refurbished or created to ensure that students benefit from state-of-the-art technology and, are able to learn in comfort.
 
-We are excited in 2023 as we implement Full Subject-Based Banding (FSBB) for both Secondary One and Two classes. FSBB allows for our students to study subjects at a level that best suits their learning abilities. FSBB also allows for students to interact and integrate better with their peers.
+We will continue to provide a holistic education that strives to develop our students as all-rounders and life-long learners who are equipped with the intellectual capacity as well as the sound moral grounding necessary for them to embrace the challenges in life.
 
 I look forward to our journey together with our parents, our stakeholders, my staff and our students in the coming year.
 
 Best regards and wishing everyone a good year ahead!
+
 
 Mrs Regina Lee
 <br>Principal
