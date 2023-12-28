@@ -4,6 +4,14 @@ permalink: /parents/info-for-parents/letters/
 description: ""
 variant: markdown
 ---
+2024
+--------------
+##### Term 1
+
+* New Academic Year 2024 Letter to Parents - 28 Dec 2023
+
+_______________________
+
 2023
 --------------
 ##### Term 4
