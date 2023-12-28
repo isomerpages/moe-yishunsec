@@ -8,7 +8,7 @@ variant: markdown
 --------------
 ##### Term 1
 
-* New Academic Year 2024 Letter to Parents - 28 Dec 2023
+* [New Academic Year 2024 - 28 Dec 2023](/files/Letter%20to%20Parents/2024/New_Academic_Year_2024___28_Dec_2023.pdf)
 
 _______________________
 
