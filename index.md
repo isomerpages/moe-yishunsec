@@ -28,7 +28,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Letter to Parents
-      description: Release of GCE N - Level Examination Results 2023
+      description: New Academic Year 2024
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
