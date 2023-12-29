@@ -2,10 +2,11 @@
 title: Information for Parents
 permalink: /parents/info-parents/
 description: ""
+variant: markdown
 ---
 #### [Letter to Parents](/parents/info-for-parents/letters/)
 
-#### [2023 Teachers TT for Term 4 Week 1 and 2](/files/Timetables/Teachers%20Timetable/term%204%20week%201%20and%202%20teacher%20timetable2023.pdf)
+#### [2024 Teachers TT ](/files/Timetables/Teachers%20Timetable/2024_Teacher_TT_Sem1_v1.pdf)
 
 #### [Form Teachers List for 2023](/parents/info-for-parents/ft-list/)
 
