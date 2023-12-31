@@ -2,8 +2,6 @@
 title: Consultation Schedule
 permalink: /students/Consultation-Schedule/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-YSS Consultation Schedule 2024
-
-![](/images/Students/Consultation_Schedule_2024.jpeg)
+<p>YSS Consultation Schedule 2024</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/Consultation_Schedule_2024.jpeg"></div><p></p>
