@@ -2,5 +2,6 @@
 title: Form Teachers List
 permalink: /parents/info-for-parents/ft-list/
 description: ""
+variant: markdown
 ---
-![](/images/Parents/ft%20list%202023_24%20jul%202023.jpg)
+![](/images/Parents/FT_list_2024.png)
