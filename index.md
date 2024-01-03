@@ -28,7 +28,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Letter to Parents
-      description: New Academic Year 2024
+      description: Breakfast Meeting 2024
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
