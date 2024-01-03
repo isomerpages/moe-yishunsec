@@ -1,0 +1,24 @@
+collections:
+  holistic-education:
+    output: true
+    order:
+      - Instructional Programme/Craft and Technology.md
+      - Instructional Programme/English Language.md
+      - Instructional Programme/Exercise & Sports Science (ESS).md
+      - Instructional Programme/Humanities.md
+      - Instructional Programme/Information and Communications Technology
+        (ICT).md
+      - Instructional Programme/Literature.md
+      - Instructional Programme/Mathematics.md
+      - Instructional Programme/Mother Tongue Languages.md
+      - Instructional Programme/Music.md
+      - Instructional Programme/Normal Technical.md
+      - Instructional Programme/Physical Education.md
+      - Instructional Programme/Science.md
+      - Instructional Programme/.keep
+      - Student Development/.keep
+      - Student Development/CCAs.md
+      - Student Development/Citizenship and Character Education.md
+      - Student Development/Educational Support.md
+      - Student Development/Level System@YSS.md
+      - Student Development/Prefectorial Board.md

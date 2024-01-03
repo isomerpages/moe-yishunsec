@@ -1,0 +1,16 @@
+logo: /images/yss-logo.png
+links:
+  - title: YSS
+    collection: yss
+  - title: The YSS Experience
+    collection: the-yss-experience
+  - title: Accolades
+    collection: accolades
+  - title: Holistic Education
+    collection: holistic-education
+  - title: Students
+    collection: students
+  - title: Parents
+    collection: parents
+  - title: Contact Us
+    url: /contact-us/

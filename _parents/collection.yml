@@ -1,0 +1,13 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Information for Parents.md
+      - PDLP.md
+      - Parents Gateway.md
+      - School Calendar.md
+      - Cyber Wellness Resources for Parents.md
+      - YSS Curriculum and Blended Learning.md
+      - YSS Assessment Policy.md
+      - Sexuality Education.md
+      - MOE FAS & Edusave.md
