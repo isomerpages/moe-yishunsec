@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: Breakfast Meeting 2024
+      description: Breakfast Meeting with Parents 2024
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
