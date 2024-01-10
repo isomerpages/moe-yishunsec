@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: YSS NDLP 2024
+      description: O-Level Results Release
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
