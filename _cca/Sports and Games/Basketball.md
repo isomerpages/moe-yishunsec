@@ -3,6 +3,7 @@ title: Basketball
 permalink: /cca/sports-and-games/basketball/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 ![](/images/StudDevelopment/CCAs/SportsGames/Basketball/2023/basketball%20(boys)_2023.JPG)
 
@@ -16,12 +17,12 @@ third_nav_title: Sports and Games
 
 ### CCA Schedule
 ##### Girls:
-* Monday from 4 pm to 6 pm and
-* Wednesday from 4 pm to 6 pm
+* Monday from 4 pm to 6:30 pm and
+* Wednesday from 4 pm to 6:30 pm
 
 ##### Boys:
-* Monday from 4 pm to 6 pm and
-* Thursday from 4 pm to 6 pm
+* Monday from 4 pm to 6:30 pm and
+* Thursday from 4 pm to 6:30 pm
 
 ### Venues
 * Basketball Court
