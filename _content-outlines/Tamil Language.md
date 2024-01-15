@@ -2,27 +2,6 @@
 title: Tamil Language
 permalink: /content-outlines/tamil/
 description: ""
+variant: tiptap
 ---
-##### Sec 1
-
-* [Sec 1 Exp](/files/Content%20Outlines%20For%20Tamil/Sec%201%20Express.pdf)
-* [Sec 1NA](/files/Content%20Outlines%20For%20Tamil/Sec%201NA.pdf)
-* [Sec 1NT](/files/Content%20Outlines%20For%20Tamil/1NT.pdf)
-
-##### Sec 2
- * [Sec 2 Exp](/files/Content%20Outlines%20For%20Tamil/2E.pdf)
- * [Sec 2 Higher Tamil](/files/Content%20Outlines%20For%20Tamil/2HTL.pdf)
- * [Sec 2 NA](/files/Content%20Outlines%20For%20Tamil/2NA.pdf)
- * [Sec 2NT](/files/Content%20Outlines%20For%20Tamil/2NT.pdf)
-
-##### Sec 3
-
-* [Sec 3 Exp](/files/Content%20Outlines%20For%20Tamil/3E.pdf)
-* [Sec 3NA](/files/Content%20Outlines%20For%20Tamil/3NA.pdf)
-* [Sec 3NT](/files/Content%20Outlines%20For%20Tamil/3NT.pdf)
-
-##### Sec 4 & 5
-
-* [Sec 4 Exp & 5NA](/files/Content%20Outlines%20For%20Tamil/4E5N.pdf)
-* [Sec 4NA](/files/Content%20Outlines%20For%20Tamil/4NA.pdf)
-* [Sec 4NT](/files/Content%20Outlines%20For%20Tamil/4NT.pdf)
+<h5>Sec 1</h5><ul data-tight="true" class="tight"><li><p><a href="/files/Content Outlines For Tamil/2024_1G1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 1G1</a></p></li><li><p><a href="/files/Content Outlines For Tamil/2024_1G2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 1G2</a></p></li><li><p><a href="/files/Content Outlines For Tamil/2024_1G3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 1G3</a></p></li><li><p><a href="/files/Content Outlines For Tamil/2024_1G3_1HTL.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 1G3 1HTL</a></p></li></ul><h5>Sec 2</h5><ul data-tight="true" class="tight"><li><p><a href="/files/Content%20Outlines%20For%20Tamil/2E.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Exp</a></p></li><li><p><a href="/files/Content%20Outlines%20For%20Tamil/2HTL.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Higher Tamil</a></p></li><li><p><a href="/files/Content%20Outlines%20For%20Tamil/2NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 NA</a></p></li><li><p><a href="/files/Content%20Outlines%20For%20Tamil/2NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2NT</a></p></li></ul><h5>Sec 3</h5><ul data-tight="true" class="tight"><li><p><a href="/files/Content%20Outlines%20For%20Tamil/3E.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Exp</a></p></li><li><p><a href="/files/Content%20Outlines%20For%20Tamil/3NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3NA</a></p></li><li><p><a href="/files/Content%20Outlines%20For%20Tamil/3NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3NT</a></p></li></ul><h5>Sec 4 &amp; 5</h5><ul data-tight="true" class="tight"><li><p><a href="/files/Content%20Outlines%20For%20Tamil/4E5N.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Exp &amp; 5NA</a></p></li><li><p><a href="/files/Content%20Outlines%20For%20Tamil/4NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4NA</a></p></li><li><p><a href="/files/Content%20Outlines%20For%20Tamil/4NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4NT</a></p></li></ul><p></p>
