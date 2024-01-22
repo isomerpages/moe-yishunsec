@@ -2,6 +2,7 @@
 title: Executive and Administration
 permalink: /yss/eas/
 description: ""
+variant: markdown
 ---
 ![](/images/YSS/eas_2023.png)
 
@@ -13,7 +14,7 @@ description: ""
 #### Admin Executives
 
 *   Ms Lim Siew Huay
-*   Ms Tan Joke Ping
+*   Ms Apple Tan
 *   Mrs Jayalaxmi
 *   Mr Muhammad Nur Ridhuan
 
@@ -42,16 +43,14 @@ description: ""
 *   Mdm Maimunah Bte Abdullah
 *   Mdm Tamil Chaldy
 *   Mdm Wong Geck Eng
-*   Mr Ithnin Bin Mohamed Noor
-*   Mdm Kamisah Binte Ibrahim
+*   Mr Zulkernain Bin Osman
 
   
 
 #### Technical Support Officers – D&amp;T
 
-*  Mr Chiang Kok Hoong
-*  Mr Mohamed Shahjohan B Mohd Salleh
 *  Mr Ezahan Bin Mohamed Hanafi
+*  Mr Billy Wan
 
   
 
