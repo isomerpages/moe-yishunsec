@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>2024</h2>
-<p><strong>Sec 4 Breakfast Meeting with Parents - 23 Jan 2024</strong>
+<p><strong>Sec 4 &amp; 5 Breakfast Meeting with Parents - 23 Jan 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
