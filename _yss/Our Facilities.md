@@ -2,6 +2,7 @@
 title: Our Facilities
 permalink: /yss/facilities/
 description: ""
+variant: markdown
 ---
 Garden
 -----------------------
@@ -36,6 +37,8 @@ PE Venues
 <figure><img src="/images/YSS/paradesquare1.jpeg"><figcaption>Parade Square</figcaption></figure> 
 
 <figure><img src="/images/YSS/football_field-2.jpg"><figcaption>Football Field</figcaption></figure>
+
+<figure><img src="/images/YSS/Outdoor_Gym.jpg"><figcaption>Outdoor Gym</figcaption></figure>
 
 <figure><img src="/images/YSS/SchoolHall.png"><figcaption>School Hall</figcaption></figure> 
 
