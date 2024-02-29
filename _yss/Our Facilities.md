@@ -16,7 +16,7 @@ variant: markdown
 
 <figure><img src="/images/YSS/Library.png"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
 
-<figure><img src="/images/IP/ICT/Photo_2-Online-Self-Directed-Learning.jpg"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
+<figure><img src="/images/YSS/Library.jpg"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
 
 <figure><img src="/images/YSS/library1.jpeg"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
 
@@ -72,7 +72,11 @@ variant: markdown
 
 <figure><img src="/images/YSS/Music_Room.jpg"><figcaption>Music Room</figcaption></figure>
 
-<figure><img src="/images/YSS/musiclab.jpg"><figcaption>Music Lab</figcaption></figure> 
+<figure><img src="/images/YSS/musiclab.jpg"><figcaption>Music Lab</figcaption></figure>
+
+<figure><img src="/images/YSS/RecStudio1.jpg"><figcaption>Recording Studio</figcaption></figure>
+
+<figure><img src="/images/YSS/RecStudio2.jpg"><figcaption>Recording Studio</figcaption></figure>
 
 ## Teaching Studio
 
