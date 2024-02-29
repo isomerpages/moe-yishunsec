@@ -4,13 +4,12 @@ permalink: /yss/facilities/
 description: ""
 variant: markdown
 ---
-Garden
------------------------
+## Garden
 
 <figure><img src="/images/YSS/Garden.jpg"><figcaption>School Garden</figcaption></figure> 
 
-Special Rooms
--------------------
+## Special Rooms
+
 <figure><img src="/images/YSS/LT@3.png"><figcaption>Lecture Theater at 3 (LT@3)</figcaption></figure> 
 
 <figure><img src="/images/YSS/Library.png"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
@@ -24,8 +23,7 @@ Special Rooms
 <figure><img src="/images/YSS/the%20hive.jpeg"><figcaption>The HIVE</figcaption></figure> 
  
 
-PE Venues
------------------------
+## PE Venues
 
 <figure><img src="/images/YSS/basketball_court.jpeg"><figcaption>Basketball Court</figcaption></figure>
 
@@ -40,8 +38,8 @@ PE Venues
 <figure><img src="/images/YSS/SchoolHall.png"><figcaption>School Hall</figcaption></figure> 
 
 
-Science Labs
--------------------------
+## Science Labs
+
 <figure><img src="/images/YSS/biolab-1.jpeg"><figcaption>Biology Lab</figcaption></figure> 
 
 <figure><img src="/images/YSS/chem-lab-1.jpeg"><figcaption>Chemistry Lab 1</figcaption></figure> 
@@ -52,8 +50,8 @@ Science Labs
 
 <figure><img src="/images/YSS/Phy_Lab-2.jpeg"><figcaption>Physics Lab 2</figcaption></figure> 
 
-Computer Labs
--------------------------
+## Computer Labs
+
 <figure><img src="/images/YSS/com%20lab%201.jpg"><figcaption>Computer Lab 1</figcaption></figure> 
 
 <figure><img src="/images/YSS/comlab2.jpeg"><figcaption>Computer Lab 2</figcaption></figure> 
@@ -63,20 +61,19 @@ Computer Labs
 
 <figure><img src="/images/YSS/com%20lab%204.jpg"><figcaption>Computer Lab 4</figcaption></figure> 
 
-Design and Technology
----------------------
+## Design and Technology
 
 <figure><img src="/images/YSS/DnTWorkshop.jpeg"><figcaption>D&amp;T Workshop</figcaption></figure> 
 
 
-Music Room
------------------------
+## Music Room
+
 <figure><img src="/images/YSS/Music_Room.jpg"><figcaption>Music Room</figcaption></figure>
 
 <figure><img src="/images/YSS/musiclab.jpg"><figcaption>Music Lab</figcaption></figure> 
 
-Teaching Studio
-----------------------
+## Teaching Studio
+
 <figure><img src="/images/YSS/sr1_room.jpeg"><figcaption>Teaching Studio 1</figcaption></figure>
 
 <figure><img src="/images/YSS/sr2_room.jpeg"><figcaption>Teaching Studio 2</figcaption></figure>
@@ -91,6 +88,5 @@ Teaching Studio
 
 
 
-School Canteen
------------------
+## School Canteen
 <figure><img src="/images/YSS/canteen-1.png"><figcaption>Canteen</figcaption></figure>
