@@ -21,8 +21,6 @@ Special Rooms
 
 <figure><img src="/images/YSS/chat_space.png"><figcaption>Chat Space</figcaption></figure> 
 
-<figure><img src="/images/YSS/MPC.png"><figcaption>Multi Purpose Center (MPC)</figcaption></figure> 
-
 <figure><img src="/images/YSS/the%20hive.jpeg"><figcaption>The HIVE</figcaption></figure> 
 
 <figure><img src="/images/YSS/innotechroom.jpeg"><figcaption>Innotech Room</figcaption></figure> 
