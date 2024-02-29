@@ -10,6 +10,8 @@ variant: markdown
 
 ## Special Rooms
 
+<figure><img src="/images/YSS/YSS_Commons.jpg"><figcaption>YSS Commons</figcaption></figure>
+
 <figure><img src="/images/YSS/LT@3.png"><figcaption>Lecture Theater at 3 (LT@3)</figcaption></figure> 
 
 <figure><img src="/images/YSS/Library.png"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
@@ -25,6 +27,8 @@ variant: markdown
 
 ## PE Venues
 
+<figure><img src="/images/YSS/Outdoor_Gym.jpg"><figcaption>Outdoor Gym</figcaption></figure>
+
 <figure><img src="/images/YSS/basketball_court.jpeg"><figcaption>Basketball Court</figcaption></figure>
 
 <figure><img src="/images/YSS/indoor%20sports%20hall.jpg"><figcaption>Indoor Sports Hall</figcaption></figure> 
@@ -32,8 +36,6 @@ variant: markdown
 <figure><img src="/images/YSS/paradesquare1.jpeg"><figcaption>Parade Square</figcaption></figure> 
 
 <figure><img src="/images/YSS/football_field-2.jpg"><figcaption>Football Field</figcaption></figure>
-
-<figure><img src="/images/YSS/Outdoor_Gym.jpg"><figcaption>Outdoor Gym</figcaption></figure>
 
 <figure><img src="/images/YSS/SchoolHall.png"><figcaption>School Hall</figcaption></figure> 
 
@@ -79,6 +81,10 @@ variant: markdown
 <figure><img src="/images/YSS/sr2_room.jpeg"><figcaption>Teaching Studio 2</figcaption></figure>
 
 <figure><img src="/images/YSS/sr3_room.jpeg"><figcaption>Teaching Studio 3</figcaption></figure>
+
+<figure><img src="/images/YSS/TS4.jpg"><figcaption>Teaching Studio 4</figcaption></figure>
+
+<figure><img src="/images/YSS/TS5.jpg"><figcaption>Teaching Studio 5</figcaption></figure>
 	
 <figure><img src="/images/YSS/innotechroom.jpeg"><figcaption>Teaching Studio 6</figcaption></figure>
 
