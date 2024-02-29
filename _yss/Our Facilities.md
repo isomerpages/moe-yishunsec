@@ -22,8 +22,7 @@ Special Rooms
 <figure><img src="/images/YSS/chat_space.png"><figcaption>Chat Space</figcaption></figure> 
 
 <figure><img src="/images/YSS/the%20hive.jpeg"><figcaption>The HIVE</figcaption></figure> 
-
-<figure><img src="/images/YSS/innotechroom.jpeg"><figcaption>Innotech Room</figcaption></figure> 
+ 
 
 PE Venues
 -----------------------
@@ -76,15 +75,21 @@ Music Room
 
 <figure><img src="/images/YSS/musiclab.jpg"><figcaption>Music Lab</figcaption></figure> 
 
-SBB Room
+Teaching Studio
 ----------------------
-<figure><img src="/images/YSS/sr1_room.jpeg"><figcaption>SR1</figcaption></figure>
+<figure><img src="/images/YSS/sr1_room.jpeg"><figcaption>Teaching Studio 1</figcaption></figure>
 
-<figure><img src="/images/YSS/sr2_room.jpeg"><figcaption>SR2</figcaption></figure>
+<figure><img src="/images/YSS/sr2_room.jpeg"><figcaption>Teaching Studio 2</figcaption></figure>
 
-<figure><img src="/images/YSS/sr3_room.jpeg"><figcaption>SR3</figcaption></figure>
+<figure><img src="/images/YSS/sr3_room.jpeg"><figcaption>Teaching Studio 3</figcaption></figure>
+	
+<figure><img src="/images/YSS/innotechroom.jpeg"><figcaption>Teaching Studio 6</figcaption></figure>
 
+## ESS Room
+	
 <figure><img src="/images/YSS/ess_room.jpeg"><figcaption>Exercise &amp; Sports Science (ESS) Room</figcaption></figure>
+
+
 
 School Canteen
 -----------------
