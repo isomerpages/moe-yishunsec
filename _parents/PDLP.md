@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Announcements for Sec 1 Students</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>PLD issue date - 18/03/2024</p>
+<p>PLD issue date: 18/03/2024</p>
 </li>
 <li>
 <p>Time: 3 pm to 4:30 pm</p>
@@ -467,4 +467,4 @@ faults:</p>
 loss where the student has taken precautions to safeguard the device.</p>
 <p><strong>Note:</strong> Once insurance is claimed for a replacement device,
 the insurance coverage will cease and the replacement device will not be
-covered by insurance.</p>
+covered by insurance.:</p>
