@@ -49,10 +49,10 @@ variant: tiptap
 </ul>
 <h3>Service Centre Details</h3>
 <h5>Acer Laptop Service Centre</h5>
-<p><strong>Location:</strong>
+<p><strong>Location:</strong> 
 <br>29 International Business Park Singapore 609923
 <br>(1.1km from Jurong East MRT)</p>
-<p>Acer Service Centre Number: <strong>6895 6278</strong>
+<p>Acer Service Centre Number: <strong>6895 6278</strong> 
 <br>Website: <a href="https://secured.acer.com.sg/pld" rel="noopener noreferrer nofollow" target="_blank">https://secured.acer.com.sg/pld</a> (For
 buying Acer laptop accessories)
 <br>Acer Service Centre Email: <a href="acercare.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank">acercare.sg@acer.com</a>
@@ -84,7 +84,7 @@ warranty customer)</p>
 <p>WhatsApp support: 6703 6821
 <br>Website: <a href="https://www.asiapac.com.sg/pld-lenovo" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/pld-lenovo</a> (For
 buying Lenovo laptop accessories)</p>
-<p><strong>Lenovo Service Center Location:</strong>
+<p><strong>Lenovo Service Center Location:</strong> 
 <br>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions
 <br>3 Irving Road, #01-17, Singapore 369522
 <br>(Beside Tai Seng MRT station, Exit A)</p>
