@@ -2,6 +2,10 @@
 title: YSS Assessment Policy
 permalink: /parents/assessment-policy/
 description: ""
+variant: markdown
 ---
-<figure><a href="/files/Parents/YSS-Assessment-Policy_revised_Apr-2021.pdf">
-<img src="/images/Parents/YSS-AP-1.png" style="width:500px;">YSS Curriculum and Blended Learning</a></figure>
+![](/images/Parents/YSS_Assessment_Policy_updated_March_2024_Page_1.jpg)
+![](/images/Parents/YSS_Assessment_Policy_updated_March_2024_Page_2.jpg)
+![](/images/Parents/YSS_Assessment_Policy_updated_March_2024_Page_3.jpg)
+![](/images/Parents/YSS_Assessment_Policy_updated_March_2024_Page_4.jpg)
+![](/images/Parents/YSS_Assessment_Policy_updated_March_2024_Page_5.jpg)
