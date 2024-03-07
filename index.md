@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: CNY School Celebration and Early Dismissal
+      description: End of Term 1 2024
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
