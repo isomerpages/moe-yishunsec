@@ -24,8 +24,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <h4>Term 1 - WA 1</h4>
 <ul data-tight="true" class="tight">
 <li>
