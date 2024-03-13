@@ -28,3 +28,6 @@ variant: tiptap
 <p><a href="https://yishunsec.edupage.org/timetable/view.php" rel="noopener noreferrer nofollow" target="_blank">Click here view online version of the timetable.</a>
 </p>
 <p></p>
+<p></p>
+<p><em>updated 13/3/2024</em>
+</p>
