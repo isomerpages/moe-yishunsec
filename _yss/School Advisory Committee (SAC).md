@@ -2,6 +2,7 @@
 title: School Advisory Committee (SAC)
 permalink: /yss/sac/
 description: ""
+variant: markdown
 ---
 ![](/images/YSS/sac_pic2023_v2.jpg)
 
@@ -36,7 +37,7 @@ description: ""
 
   
 
-**Vice-Principal:** Mr Michael Tan
+**Vice-Principal:** Mrs Oh Wee Ming
 
   
 
