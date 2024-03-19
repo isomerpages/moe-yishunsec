@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines for Maths/2024_Sec_1_G3_Math_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 G3 Math Content Outline</a>
+<p><a href="/files/Content Outlines for Maths/Sec_1G3_Math_Content_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 G3 Math Content Outline</a>
 </p>
 </li>
 </ul>
@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines for Maths/2024_Sec_2_G2_Math_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 G2 Math Content Outline</a>
+<p><a href="/files/Content Outlines for Maths/Sec_2G2_Math_Content_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 G2 Math Content Outline</a>
 </p>
 </li>
 <li>
@@ -45,26 +45,26 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines for Maths/2024_Sec_3_G2_Math_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 G2 Math Content Outline</a>
+<p><a href="/files/Content Outlines for Maths/Sec_3G2_Math_Content_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 G2 Math Content Outline</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines for Maths/2024_Sec_3_G3_AM_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 G3 AM Content Outline</a>
+<p><a href="/files/Content Outlines for Maths/Sec_3G3_AM_Content_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 G3 AM Content Outline</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines for Maths/2024_Sec_3_G3_Math_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 G3 Math Content Outline</a>
+<p><a href="/files/Content Outlines for Maths/Sec_3G3_Math_Content_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 G3 Math Content Outline</a>
 </p>
 </li>
 </ul>
 <h4>Sec 4</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines for Maths/2024_Sec_4E_AM_Content_Outline_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4E AM Content Outline</a>
+<p><a href="/files/Content Outlines for Maths/Sec_4E_AM_Content_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4E AM Content Outline</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines for Maths/2024_Sec_4E_Math_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4E Math Content Outline</a>
+<p><a href="/files/Content Outlines for Maths/Sec_4E_Math_Content_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4E Math Content Outline</a>
 </p>
 </li>
 <li>
