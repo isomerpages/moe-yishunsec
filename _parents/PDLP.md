@@ -4,15 +4,6 @@ permalink: /parents/pdlp/
 description: ""
 variant: tiptap
 ---
-<h3>Announcements for Sec 1 Students</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>PLD issue date: 18/03/2024</p>
-</li>
-<li>
-<p>Time: 3 pm to 4:30 pm</p>
-</li>
-</ul>
 <h3>PDLP Student Device Information Kit</h3>
 <ul data-tight="true" class="tight">
 <li>
