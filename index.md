@@ -17,6 +17,13 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
+  - infobar:
+      title: YSS Student Learning Festival 2024
+      subtitle: Announcements
+      id: infobar
+      description: 15 Apr to 19 Apr 2024
+      button: Read More
+      url: /yss-student-learning-festival-2024/
   - infopic:
       title: Letter to Parents
       description: End of Term 1 2024
