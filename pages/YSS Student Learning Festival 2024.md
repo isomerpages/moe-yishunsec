@@ -306,8 +306,7 @@ will be informed about the reporting and dismissal time by their Form Teachers.<
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<h3><strong>Secondary 4/5</strong></h3>
+<h3>&nbsp;<strong>Secondary 4/5</strong></h3>
 <table>
 <tbody>
 <tr>
