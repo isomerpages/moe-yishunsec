@@ -26,7 +26,7 @@ sections:
       url: /yss-student-learning-festival-2024/
   - infopic:
       title: Letter to Parents
-      description: End of Term 1 2024
+      description: "Student Learning Festival 2024 "
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
