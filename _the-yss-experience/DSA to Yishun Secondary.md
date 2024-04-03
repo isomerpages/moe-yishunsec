@@ -2,10 +2,11 @@
 title: DSA to Yishun Secondary
 permalink: /the-yss-experience/dsa/
 description: ""
+variant: markdown
 ---
-![](/images/yss-dsa.jpg)
+![](/images/YSS%20Exp/DSA2024.jpg)
 
-#### General Information about Direct School Admission (Secondary) 2023
+#### General Information about Direct School Admission (Secondary)
 
 The Direct School Admission-Secondary (DSA-Sec) scheme provides students with the opportunity to seek admission to a secondary school, based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the PSLE.
 
