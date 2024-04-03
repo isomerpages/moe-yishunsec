@@ -152,10 +152,10 @@ is <u>also</u> encouraged to apply</p>
 </ul>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong>
+<p><strong><u>Stage 1 (Application)</u></strong> 
 <br>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong>
+<p><strong><u>Stage 2</u></strong> 
 <br>Applicants are required to come for an in- person interview and provide
 samples of student’s past work.</p>
 <h3>2. Music</h3>
@@ -231,10 +231,10 @@ is <u>also</u> encouraged to apply</p>
 </ul>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong>
+<p><strong><u>Stage 1 (Application)</u></strong> 
 <br>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong>
+<p><strong><u>Stage 2</u></strong> 
 <br>Applicants are required to come for an in- person interview and provide
 samples of student’s past work or performance or perform in front of a
 panel.</p>
@@ -282,10 +282,10 @@ is <u>also</u> encouraged to apply</p>
 </ul>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong>
+<p><strong><u>Stage 1 (Application)</u></strong> 
 <br>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong>
+<p><strong><u>Stage 2</u></strong> 
 <br>Applicants are required to come for an in- person interview and provide
 samples of student’s past work or performance or perform in front of a
 panel.</p>
@@ -329,10 +329,10 @@ is <u>also</u> encouraged to apply</p>
 </ul>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong>
+<p><strong><u>Stage 1 (Application)</u></strong> 
 <br>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong>
+<p><strong><u>Stage 2</u></strong> 
 <br>Applicants are required to come for an in- person interview and provide
 samples of student’s past work or performance or perform in front of a
 panel.</p>
@@ -372,13 +372,13 @@ to apply</p>
 </ul>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong>
+<p><strong><u>Stage 1 (Application)</u></strong> 
 <br>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong>
+<p><strong><u>Stage 2</u></strong> 
 <br>Applicants are required to come for an in- person interview and a skills
 assessment.</p>
-<p><strong>Basketball Skills Assessment</strong>
+<p><strong>Basketball Skills Assessment</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -423,13 +423,13 @@ to apply</p>
 </ul>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong>
+<p><strong><u>Stage 1 (Application)</u></strong> 
 <br>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong>
+<p><strong><u>Stage 2</u></strong> 
 <br>Applicants are required to come for an in- person interview and a skills
 assessment.</p>
-<p><strong>Volleyball Skills Assessment</strong>
+<p><strong>Volleyball Skills Assessment</strong> 
 <br>Applicants may undergo a volleyball skill assessment which includes evaluation
 on Ball handling skills, Game awareness and Teamwork.</p>
 <h3>7. Football (Boys)</h3>
@@ -470,13 +470,13 @@ to apply</p>
 </ul>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong>
+<p><strong><u>Stage 1 (Application)</u></strong> 
 <br>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong>
+<p><strong><u>Stage 2</u></strong> 
 <br>Applicants are required to come for an in- person interview and a skills
 assessment.</p>
-<p><strong>Football Skills Assessment</strong>
+<p><strong>Football Skills Assessment</strong> 
 <br>Applicants may undergo a football skill assessment which includes evaluation
 on Ball handling skills, Game awareness and Teamwork.</p>
 <h3>8. Badminton</h3>
@@ -515,13 +515,13 @@ to apply</p>
 </ul>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong>
+<p><strong><u>Stage 1 (Application)</u></strong> 
 <br>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong>
+<p><strong><u>Stage 2</u></strong> 
 <br>Applicants are required to come for an in- person interview and a skills
 assessment.</p>
-<p><strong>Badminton Skills Assessment</strong>
+<p><strong>Badminton Skills Assessment</strong> 
 <br>Applicants may undergo a badminton skill assessment which includes evaluation
 on Racket handling skills, Game awareness and Teamwork.</p>
 <h3>9. Netball</h3>
@@ -560,13 +560,13 @@ to apply</p>
 </ul>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong>
+<p><strong><u>Stage 1 (Application)</u></strong> 
 <br>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong>
+<p><strong><u>Stage 2</u></strong> 
 <br>Applicants are required to come for an in- person interview and a skills
 assessment.</p>
-<p><strong>Netball Skills Assessment</strong>
+<p><strong>Netball Skills Assessment</strong> 
 <br>Applicants may undergo a netball skill assessment which includes evaluation
 on Ball handling skills, Game awareness and Teamwork.</p>
 <p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
@@ -574,13 +574,13 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 <h4>Yishun Secondary School DSA (Sec) 2023 Timeline</h4>
 <p><strong>Date: 4 May – 31 May 2023</strong>
 </p>
-<p><strong>Activity:</strong>
+<p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
 the DSA-Sec Portal <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p><strong>Date: 26 June – 11 September 2023</strong>
 </p>
-<p><strong>Activity:</strong>
+<p><strong>Activity:</strong> 
 <br>Selection trials: School Based / Video Conference Interview</p>
 <ul data-tight="true" class="tight">
 <li>
