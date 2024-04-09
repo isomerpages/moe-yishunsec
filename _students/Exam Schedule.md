@@ -8,7 +8,7 @@ variant: tiptap
 <h4>Term 2 - WA 2</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Weighted Assessment/2024/2024_S1_WA_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA</a>
+<p><a href="/files/Weighted Assessment/2024/2024_Sec_1_WA_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA</a>
 </p>
 </li>
 <li>
