@@ -12,7 +12,7 @@ variant: markdown
 
 <figure><img src="/images/YSS/YSS_Commons.jpg"><figcaption>YSS Commons</figcaption></figure>
 
-<figure><img src="/images/YSS/LT@3.png"><figcaption>Lecture Theater at 3 (LT@3)</figcaption></figure> 
+<figure><img src="/images/YSS/LT@3.png"><figcaption>Lecture Theatre at 3 (LT@3)</figcaption></figure> 
 
 <figure><img src="/images/YSS/Library.png"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
 
