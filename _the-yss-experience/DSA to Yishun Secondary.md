@@ -8,15 +8,15 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DSA_2024.jpg">
 </div>
-<h4>General Information about Direct School Admission (Secondary)</h4>
+<h4>General Information about Direct School Admission (Secondary) 2024</h4>
 <p>The Direct School Admission-Secondary (DSA-Sec) scheme provides students
 with the opportunity to seek admission to a secondary school, based on
 a diverse range of specific academic and non-academic achievements and
 talents that they can demonstrate beyond the PSLE.</p>
-<p>From 4 May 2023, application for DSA-Sec can be submitted through the
+<p>From 29 April 2024, application for DSA-Sec can be submitted through the
 online DSA-Sec Portal. The application is free-of-charge and will be open
-from 4 May to 31 May 2023. For more details, please refer to MOE website
-–<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+from 29 April to 29 May 2024. For more details, please refer to MOE website
+– <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the school’s academic
@@ -24,12 +24,12 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <h4>DSA-Sec @Yishun Secondary School</h4>
 <p>All Secondary One students admitted to our school via DSA-Sec will benefit
-from our talent development programmes to <strong>develop</strong> their <strong>potential</strong>,
-and/or to be groomed to be <strong>leaders</strong> in their respective talent
-areas. They will develop both performance and moral character through our
-customised programme as they grow within their respective CCAs and student
-development programmes.</p>
-<h5>In Yishun Secondary, the <u>9 talent areas</u> under DSA-Sec are:</h5>
+from our talent development programmes to <strong>develop </strong>their <strong>potential</strong>,
+and/or to be groomed to be <strong>leaders </strong>in their respective
+talent areas. They will develop both performance and moral character through
+our customised programme as they grow within their respective CCAs and
+student development programmes.</p>
+<h5>In Yishun Secondary, the <u>10 talent areas</u> under DSA-Sec are:</h5>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong><u>Media:</u></strong> For students who demonstrate aptitude and
@@ -41,10 +41,10 @@ Photography and Videography.</p>
 <li>
 <p><strong><u>Music:</u></strong> For students who demonstrate aptitude and
 passion in Music, they can look forward to being part of our school’s Applied
-Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), Pop
-Music Performance and Music Creation, and in CCAs such as Choir, Guzheng
-Ensemble and Symphonic Band. Students will have the opportunity to offer
-Music Syllabus T at the GCE N (T)-Level Examination.</p>
+Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), Music
+Performance and Creation, and in CCAs such as Choir, Guzheng Ensemble and
+Symphonic Band. Students will have the opportunity to offer Music Syllabus
+T at the GCE N (T)-Level Examination.</p>
 </li>
 <li>
 <p><strong><u>Dance:</u></strong> Students who demonstrate aptitude and passion
@@ -77,8 +77,9 @@ planning, and organising intra and inter-school competitions.</p>
 <p><strong><u>Football (Boys):</u></strong> YSS is a member of the Schools
 Football Academy (SFA). Male students who demonstrate an aptitude and passion
 for Football can look forward to joining our SFA led Football CCA where
-they will be participating in, planning, and organising intra and inter-school
-competitions.</p>
+their football skills will be developed further based on the nationally
+developed training progression. They will be participating in, planning,
+and organising intra and inter-school competitions.</p>
 </li>
 <li>
 <p><strong><u>Badminton:</u></strong> For students who demonstrate aptitude
@@ -90,21 +91,28 @@ and organising intra and inter-school competitions.</p>
 and passion in Netball, they can look forward to participating, planning,
 and organising intra and inter-school competitions.</p>
 </li>
+<li>
+<p><strong><u>Cross-Country:</u></strong> For students who demonstrate aptitude
+and passion in athletics, they can look forward to participating in intra
+and inter-school competitions. Other than cross-country races, the team
+also competes in other track and field events.</p>
+</li>
 </ol>
 <h5>Our selection criteria, in general, are as follows:</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Interest and Passion:</strong> Applicants should demonstrate a
-keen interest in and passion for their respective talent areas</p>
+<p>Interest and Passion: Applicants should demonstrate a keen interest in
+and passion for their respective talent areas</p>
 </li>
 <li>
-<p><strong>Talent and Aptitude:</strong> Applicants should demonstrate evidence
-of talent and/or aptitude in their talent area</p>
+<p>Talent and Aptitude: Applicants should demonstrate evidence of talent
+and/or aptitude in their talent area</p>
 </li>
 <li>
-<p><strong>Conduct and Attitude for Learning:</strong> Applicants should demonstrate
-evidence of good conduct in school, as well as a positive attitude for
-learning and demeanour</p>
+<p>Conduct and Attitude for Learning: Applicants should demonstrate evidence
+of good conduct in school, as well as a positive attitude for learning
+and demeanour</p>
+<p></p>
 </li>
 </ul>
 <h3>1. Media</h3>
