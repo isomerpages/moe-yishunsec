@@ -357,7 +357,7 @@ encouraged to apply</p>
 </ul>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong> 
+<p><strong><u>Stage 1 (Application)</u></strong>
 </p>
 <p>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
@@ -365,7 +365,7 @@ online through the DSA-Sec portal.</p>
 <br>Applicants are required to come for an in- person interview and a skills
 assessment.</p>
 <p></p>
-<p><strong>Basketball Skills Assessment</strong> 
+<p><strong>Basketball Skills Assessment</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -429,59 +429,100 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Student leadership opportunities</p>
+</li>
+<li>
+<p>Participate in National School Games</p>
+</li>
+<li>
+<p>Coaching junior players</p>
+</li>
+<li>
+<p>Planning and organising of intra and inter school programmes</p>
 </li>
 </ul>
 <p></p>
+<p>From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level
+subject. Students who have the aptitude for sports and have the necessary
+skills requisite may apply to take up this subject</p>
 <p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Demonstrate aptitude and passion in Football</p>
+</li>
+<li>
+<p>Preferably have represented their primary schools in National/International
+events (e.g. National School Games, etc)</p>
+</li>
+<li>
+<p>Students who are not in their primary school Football team are also encouraged
+to apply</p>
 <p></p>
 </li>
 </ul>
 <p><strong>Selection Process:</strong>
 </p>
 <p><strong><u>Stage 1 (Application)</u></strong> 
-<br>
-</p>
+<br>Application will be conducted online. Do submit the child's application
+online through the DSA-Sec portal.</p>
 <p></p>
 <p><strong><u>Stage 2</u></strong> 
-<br>
-</p>
+<br>Applicants are required to come for an in- person interview and a skills
+assessment.</p>
 <p><strong>Football Skills Assessment</strong> 
-<br>
-</p>
+<br>Applicants may undergo a football skill assessment which includes evaluation
+on Ball handling skills, Game awareness and Teamwork.</p>
 <h3>8. Badminton</h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Student leadership opportunities</p>
+</li>
+<li>
+<p>Participate in National School Games</p>
+</li>
+<li>
+<p>Coaching junior players</p>
+</li>
+<li>
+<p>Planning and organising of intra and inter school programmes</p>
 </li>
 </ul>
 <p></p>
+<p>From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level
+subject. Students who have the aptitude for sports and have the necessary
+skills requisite may apply to take up this subject</p>
 <p><strong>Selection Criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Demonstrate aptitude and passion in Badminton</p>
+</li>
+<li>
+<p>Preferably have represented their primary schools in National/International
+events (e.g. National School Games, etc)</p>
+</li>
+<li>
+<p>Students who are not in their primary school Badminton team are also encouraged
+to apply</p>
 <p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Selection Process:</strong>
 </p>
 <p><strong><u>Stage 1 (Application)</u></strong> 
-<br>
-</p>
+<br>Application will be conducted online. Do submit the child's application
+online through the DSA-Sec portal.</p>
 <p><strong><u>Stage 2</u></strong> 
-<br>
-</p>
+<br>Applicants are required to come for an in- person interview and a skills
+assessment.</p>
 <p></p>
 <p><strong>Badminton Skills Assessment</strong> 
-<br>
-</p>
+<br>Applicants may undergo a badminton skill assessment which includes evaluation
+on Ball handling skills, Game awareness and Teamwork.</p>
 <h3>9. Netball</h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
@@ -557,7 +598,7 @@ prior to the video conference interview</p>
 release.</p>
 <hr>
 <p>Please click the link below for the PDF version.
-<br><a href="/files/YSS Experience/YSS_DSA_2024_Website_update_v2_1.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA to YSS (2024)</a>
+<br><a href="/files/YSS Experience/YSS_DSA_2024_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA to YSS (2024)</a>
 </p>
 <p>
 <br>
