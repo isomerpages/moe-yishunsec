@@ -541,6 +541,9 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 <p></p>
 </li>
 </ul>
+<p>From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level
+subject. Students who have the aptitude for sports and have the necessary
+skills requisite may apply to take up this subject</p>
 <p><strong>Selection Criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
