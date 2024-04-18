@@ -640,9 +640,7 @@ release.</p>
 <p>Please click the link below for the PDF version.
 <br><a href="/files/YSS Experience/YSS_DSA_2024_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA to YSS (2024)</a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="1" src="https://www.youtube.com/embed/Ea_swGnMzGE"></iframe>
 </div>
@@ -652,7 +650,7 @@ release.</p>
 </div>
 <p>DSA Student’s Voice – Learn how our current DSA students have benefitted
 from joining YSS through DSA.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8RThHkacYFQ?si=AJkWqdYklmbyZgc7"></iframe>
-</div>
-<p>Our YSS talents in action in the recent SYF Arts Presentation 2023.</p>
+<p><a href="https://www.youtube.com/playlist?list=PLrv-TlJ2C0chpwelungvolO4WM8MnXvCO" rel="noopener noreferrer nofollow" target="_blank">Click here to view our YSS talents in action in the recent SYF Arts Presentation 2023.</a>
+</p>
+<p></p>
+<p></p>
