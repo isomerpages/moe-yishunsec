@@ -576,18 +576,37 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Student leadership opportunities</p>
+</li>
+<li>
+<p>Participate in National School Games</p>
+</li>
+<li>
+<p>Coaching junior players</p>
+</li>
+<li>
+<p>Planning and organising of intra and inter school programmes</p>
 </li>
 </ul>
+<p>From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level
+subject. Students who have the aptitude for sports and have the necessary
+skills requisite may apply to take up this subject</p>
 <p><strong>Selection Criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Demonstrate aptitude and passion in athletics and/or long distance running.</p>
+</li>
+<li>
+<p>Preferably have represented their primary schools in National/International
+events (e.g. National School Games, etc)</p>
+</li>
+<li>
+<p>Students who are not in their primary school Athletic/Cross-Country team
+are also encouraged to apply</p>
 <p></p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
 <h4>Yishun Secondary School DSA (Sec) 2024 Timeline</h4>
