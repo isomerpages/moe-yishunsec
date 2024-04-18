@@ -528,6 +528,16 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Student leadership opportunities</p>
+</li>
+<li>
+<p>Participate in National School Games</p>
+</li>
+<li>
+<p>Coaching junior players</p>
+</li>
+<li>
+<p>Planning and organising of intra and inter school programmes</p>
 <p></p>
 </li>
 </ul>
@@ -535,21 +545,29 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Demonstrate aptitude and passion in Netball</p>
+</li>
+<li>
+<p>Preferably have represented their primary schools in National/International
+events (e.g. National School Games, etc)</p>
+</li>
+<li>
+<p>Students who are not in their primary school Badminton team are also encouraged
+to apply</p>
 <p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Selection Process:</strong>
 </p>
 <p><strong><u>Stage 1 (Application)</u></strong> 
-<br>
-</p>
+<br>Application will be conducted online. Do submit the child's application
+online through the DSA-Sec portal.</p>
 <p><strong><u>Stage 2</u></strong> 
-<br>
-</p>
+<br>Applicants are required to come for an in- person interview and a skills
+assessment.</p>
 <p><strong>Netball Skills Assessment</strong> 
-<br>
-</p>
+<br>Applicants may undergo a netball skill assessment which includes evaluation
+on Ball handling skills, Game awareness and Teamwork.</p>
 <h3>10. Cross-Country</h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
