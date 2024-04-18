@@ -653,7 +653,6 @@ release.</p>
 <p>DSA Student’s Voice – Learn how our current DSA students have benefitted
 from joining YSS through DSA.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="1" src="https://www.youtube.com/embed/q_8WndVHWXU"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8RThHkacYFQ?si=AJkWqdYklmbyZgc7"></iframe>
 </div>
-<p>Performing Arts CCA Experience – Watch a montage of our YSS talents in
-action in the recent SYF Arts Presentation 2021.</p>
+<p>Our YSS talents in action in the recent SYF Arts Presentation 2023.</p>
