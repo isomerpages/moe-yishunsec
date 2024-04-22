@@ -638,8 +638,7 @@ prior to the video conference interview</p>
 release.</p>
 <hr>
 <p>Please click the link below for the PDF version.
-<br><a href="/files/YSS Experience/YSS_DSA_2024_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA to YS</a>
-<a href="/files/YSS Experience/YSS_DSA_2024_Website_v2_1.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/YSS Experience/YSS_DSA_2024_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">S (2024)</a>
+<br><a href="/files/YSS Experience/YSS_DSA_2024_Website_v2_1.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA YSS file 2024</a>
 </p>
 <p></p>
 <div class="iframe-wrapper">
