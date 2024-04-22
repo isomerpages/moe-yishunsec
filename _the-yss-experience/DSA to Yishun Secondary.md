@@ -13,9 +13,9 @@ variant: tiptap
 with the opportunity to seek admission to a secondary school, based on
 a diverse range of specific academic and non-academic achievements and
 talents that they can demonstrate beyond the PSLE.</p>
-<p>From 29 April 2024, application for DSA-Sec can be submitted through the
+<p>From 7 May 2024, application for DSA-Sec can be submitted through the
 online DSA-Sec Portal. The application is free-of-charge and will be open
-from 29 April to 29 May 2024. For more details, please refer to MOE website
+from 7 May to 3 June 2024. For more details, please refer to MOE website
 – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
@@ -638,7 +638,7 @@ prior to the video conference interview</p>
 release.</p>
 <hr>
 <p>Please click the link below for the PDF version.
-<br><a href="/files/YSS Experience/YSS_DSA_2024_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA to YSS (2024)</a>
+<br><a href="/files/YSS Experience/YSS_DSA_2024_Website_v2_1.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA YSS file 2024</a>
 </p>
 <p></p>
 <div class="iframe-wrapper">
