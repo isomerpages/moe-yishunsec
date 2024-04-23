@@ -614,9 +614,9 @@ are also encouraged to apply</p>
 </p>
 <p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
-the DSA-Sec Portal <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
-</p>
-<p><strong>Date: 24 June – 09 September 2024</strong>
+the DSA-Sec Portal</p>
+<p></p>
+<p><strong>Date: Mid September</strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Selection trials: School Based / Video Conference Interview</p>
@@ -631,11 +631,10 @@ or photo(s) of their own works/creation (depending on the DSA talent area)
 prior to the video conference interview</p>
 </li>
 </ul>
-<p><strong>Date: By 09 September 2024</strong>
+<p><strong>Date: Mid September</strong>
 </p>
 <p><strong>Activity:</strong> 
-<br>Applicants will be informed of the selection outcome during PSLE results
-release.</p>
+<br>Applicants will be informed of the selection outcome by mid September.</p>
 <hr>
 <p>Please click the link below for the PDF version.
 <br><a href="/files/YSS Experience/YSS_DSA_2024_Website_v2_1.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA YSS file 2024</a>
