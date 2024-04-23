@@ -636,8 +636,6 @@ prior to the video conference interview</p>
 <p><strong>Activity:</strong> 
 <br>Applicants will be informed of the selection outcome.</p>
 <hr>
-<p>Please click the link below for the PDF version.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="1" src="https://www.youtube.com/embed/Ea_swGnMzGE"></iframe>
 </div>
