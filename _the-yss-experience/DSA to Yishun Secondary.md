@@ -614,7 +614,7 @@ are also encouraged to apply</p>
 </p>
 <p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
-the DSA-Sec portal - <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa/application</a>
+the DSA-Sec portal (<em>available on 7 May 2024, 11am</em> ) - <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
 <p></p>
 <p><strong>Date: mid September</strong>
