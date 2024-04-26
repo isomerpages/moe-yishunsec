@@ -23,7 +23,7 @@ variant: tiptap
 <p>Chinese Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 May 2024</p>
+<p>Closed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Has catering experience.
@@ -35,7 +35,7 @@ variant: tiptap
 <p>Chinese Mixed Vegetable Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 May 2024</p>
+<p>Closed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Has catering experience.
