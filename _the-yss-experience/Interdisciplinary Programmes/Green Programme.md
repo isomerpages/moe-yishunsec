@@ -10,6 +10,9 @@ variant: markdown
 *   To educate Yishunites about environmental issues, sustainability, and the importance of protecting the environment 
 *   To inspire and encourage Yishunites to become responsible stewards of the environment through ground up initiatives. 
 
+![](/images/YSS%20Exp/Green_Programme/YSS_Green_Day_2024.jpg)
+
+
 #### Roving Exhibition on Clean Energy by Terra 
 
 An exhibition on Clean Energy was displayed in Yishun Secondary School to educate students on Clean Energy. Green Champions were on site to educate their peers on clean energy through a series of hands-on games and interaction panels.
