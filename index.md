@@ -18,14 +18,6 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
-      title: Letter to Parents
-      description: Student Learning Festival 2024
-      button: Read more...
-      url: /parents/info-for-parents/letters/
-      alt: Letter to parents
-      subtitle: Announcements
-      image: /images/announcement.jpg
-  - infopic:
       title: DSA in YSS
       subtitle: Announcements
       id: infopic
@@ -33,6 +25,23 @@ sections:
       url: /the-yss-experience/dsa/
       image: /images/YSS Exp/DSA_in_YSS.jpg
       alt: Image alt text
+  - infopic:
+      title: X-Country 2024
+      subtitle: Announcements
+      id: infopic
+      description: 17 May 2024, 8 to 11am
+      button: Read More...
+      url: /x-country/
+      image: /images/Cross_Country2024.jpg
+      alt: Image alt text
+  - infopic:
+      title: Letter to Parents
+      description: Student Learning Festival 2024
+      button: Read more...
+      url: /parents/info-for-parents/letters/
+      alt: Letter to parents
+      subtitle: Announcements
+      image: /images/announcement.jpg
   - resources:
       title: Information from YSS
       button: Read more...
