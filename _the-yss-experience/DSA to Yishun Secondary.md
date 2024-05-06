@@ -93,10 +93,10 @@ variant: tiptap
 with the opportunity to seek admission to a secondary school, based on
 a diverse range of specific academic and non-academic achievements and
 talents that they can demonstrate beyond the PSLE.</p>
-<p>From 7 May 2024, application for DSA-Sec can be submitted through the
-online DSA-Sec Portal. The application is free-of-charge and will be open
-from 7 May to 3 June 2024. For more details, please refer to MOE website
-– <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+<p>From 7 May 2024 at 11am, application for DSA-Sec can be submitted through
+the online DSA-Sec Portal. The application is free-of-charge and will be
+open from 7 May (11am) to 3 June 2024 (3pm). For more details, please refer
+to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the school’s academic
@@ -690,7 +690,7 @@ are also encouraged to apply</p>
 <p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
 <h4>Yishun Secondary School DSA (Sec) 2024 Timeline</h4>
-<p><strong>Date: 7 May – 3 June 2024</strong>
+<p><strong>Date: 7 May 2024 <em>(11am)</em> – 3 June 2024 <em>(3pm)</em></strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
