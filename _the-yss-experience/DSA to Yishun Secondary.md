@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_in_YSS.jpg">
 </div>
 <p></p>
-<h4>YSS DSA Open House Training Session</h4>
+<h4>YSS DSA Open House CCA Training Session</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -86,7 +86,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Interested candidates can join the CCA training session. <strong><em><a href="https://go.gov.sg/yssdsa2024" rel="noopener noreferrer nofollow" target="_blank">Click here to register.</a></em></strong>
+<p>Interested candidates can join the above CCA training session, please <strong><em><a href="https://go.gov.sg/yssdsa2024" rel="noopener noreferrer nofollow" target="_blank">click here to register.</a></em></strong>
 </p>
 <h4>General Information about Direct School Admission (Secondary) 2024</h4>
 <p>The Direct School Admission-Secondary (DSA-Sec) scheme provides students
@@ -697,7 +697,7 @@ are also encouraged to apply</p>
 the DSA-Sec portal (<em>available on 7 May 2024, 11am</em> ) - <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
 <p></p>
-<p><strong>Date: July to August 2024 </strong>
+<p><strong>Date: July to August 2024</strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Selection trials: School Based / Video Conference Interview</p>
