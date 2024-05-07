@@ -8,15 +8,95 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_in_YSS.jpg">
 </div>
+<p></p>
+<h4>YSS DSA Open House Training Session</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>13 May 2024 (Monday)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>14 May 2024 (Tuesday)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>15 May 2024 (Wednesday)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Guzheng Ensemble @ YSS Commons</p>
+</li>
+<li>
+<p>Concert band @ Music Room</p>
+</li>
+<li>
+<p>Football @ School Field</p>
+</li>
+<li>
+<p>Volleyball (Girls) @ ISH / Hall</p>
+</li>
+<li>
+<p>Basketball (Boys &amp; Girls) @ Basketball court / ISH</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Media @ Control room / Com lab 1 &amp; 4</p>
+</li>
+<li>
+<p>Choir @ LT@3 / Recording Studio</p>
+</li>
+<li>
+<p>Modern Dance (Boys &amp; Girls) @ Music Room</p>
+</li>
+<li>
+<p>Badminton (Boys &amp; Girls) @ Hall and ISH</p>
+</li>
+<li>
+<p>Football @ School Field</p>
+</li>
+<li>
+<p>Netball (Girls) @ Parade Square</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Indian Dance (Boys &amp; Girls) @ The PLACE</p>
+</li>
+<li>
+<p>Malay Dance (Boys &amp; Girls) @ Hall</p>
+</li>
+<li>
+<p>Cross-Country @ School Field</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Interested candidates can join the CCA training session. <strong><em><a href="https://go.gov.sg/yssdsa2024" rel="noopener noreferrer nofollow" target="_blank">Click here to register.</a></em></strong>
+</p>
 <h4>General Information about Direct School Admission (Secondary) 2024</h4>
 <p>The Direct School Admission-Secondary (DSA-Sec) scheme provides students
 with the opportunity to seek admission to a secondary school, based on
 a diverse range of specific academic and non-academic achievements and
 talents that they can demonstrate beyond the PSLE.</p>
-<p>From 7 May 2024, application for DSA-Sec can be submitted through the
-online DSA-Sec Portal. The application is free-of-charge and will be open
-from 7 May to 3 June 2024. For more details, please refer to MOE website
-– <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+<p>From 7 May 2024 at 11am, application for DSA-Sec can be submitted through
+the online DSA-Sec Portal. The application is free-of-charge and will be
+open from 7 May (11am) to 3 June 2024 (3pm). For more details, please refer
+to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the school’s academic
@@ -610,14 +690,14 @@ are also encouraged to apply</p>
 <p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
 <h4>Yishun Secondary School DSA (Sec) 2024 Timeline</h4>
-<p><strong>Date: 7 May – 3 June 2024</strong>
+<p><strong>Date: 7 May 2024 <em>(11am)</em> – 3 June 2024 <em>(3pm)</em></strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
 the DSA-Sec portal (<em>available on 7 May 2024, 11am</em> ) - <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
 <p></p>
-<p><strong>Date: mid September</strong>
+<p><strong>Date: July to August 2024 </strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Selection trials: School Based / Video Conference Interview</p>
