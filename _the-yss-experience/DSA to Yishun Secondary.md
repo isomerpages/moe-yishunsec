@@ -697,7 +697,7 @@ are also encouraged to apply</p>
 the DSA-Sec portal (<em>available on 7 May 2024, 11am</em> ) - <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
 <p></p>
-<p><strong>Date: July to August </strong>
+<p><strong>Date: July to August</strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Selection trials: School Based / Video Conference Interview</p>
