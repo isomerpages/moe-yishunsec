@@ -70,7 +70,7 @@ To nurture and develop our youths into resilient and responsible citizens throug
 
 ### Students’ Quotes
 
-*“NCDCC has taught me responsibility, gave me lifelong bonds, and provided opportunities I'll forever be grateful for. Despite the challenges, my squad supported me through it all. NCDCC will always have a special place in my heart. "*
+*“NCDCC has taught me responsibility, gave me lifelong bonds, and provided opportunities I'll forever be grateful for. Despite the challenges, my squad supported me through it all. NCDCC will always have a special place in my heart."*
 
 <div style="text-align:right;">-	Jaydias Ng (former USM)</div>
 
