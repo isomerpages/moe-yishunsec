@@ -26,7 +26,7 @@ Compulsory items to bring: Full NCDCC uniform (with badges), NCDCC t-shirt, wate
 
 ### Volunteer Adult Leaders
 * Senior CLT Joe Ng
-* CLT Ihsa
+* CLT Ihsan
 
 
 ### CCA Exco Structure
