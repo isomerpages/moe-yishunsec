@@ -11,7 +11,7 @@ Dear Parent/Guardian,
 
 To ensure that schools continue to be a healthy and safe environment for all, we require parents/guardians to make a travel declaration for your child/ward if he/she will be travelling for the holidays.
 
-We encourage you to do so via the **Parents’ Gateway (PG) app** (refer to [https://pg.moe.edu.sg](https://pg.moe.edu.sg)). To make a travel declaration for your child/ward via**Parents’ Gateway (PG) app**, go to **[SERVICE > DECLARE TRAVELS]**. 
+We encourage you to do so via the **Parents’ Gateway (PG) app** (refer to [https://pg.moe.edu.sg](https://pg.moe.edu.sg)). To make a travel declaration for your child/ward via **Parents’ Gateway (PG) app**, go to **[SERVICE > DECLARE TRAVELS]**. 
 
 * Please declare your child/ward’s travel plan(s), indicating both the country and city of travel, and any city of transit, by **24 May 2024** (the last day of the term). Only one parent is required to make the declaration.  
 * Parents not in PG, please use the link below to submit your child/ward's travel declaration 
