@@ -9,85 +9,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_in_YSS.jpg">
 </div>
 <p></p>
-<h4>YSS DSA Open House CCA Training Session</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>13 May 2024 (Monday)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>14 May 2024 (Tuesday)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>15 May 2024 (Wednesday)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Guzheng Ensemble @ YSS Commons</p>
-</li>
-<li>
-<p>Concert band @ Music Room</p>
-</li>
-<li>
-<p>Football @ School Field</p>
-</li>
-<li>
-<p>Volleyball (Girls) @ ISH / Hall</p>
-</li>
-<li>
-<p>Basketball (Boys &amp; Girls) @ Basketball court / ISH</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Media @ Control room / Com lab 1 &amp; 4</p>
-</li>
-<li>
-<p>Choir @ LT@3 / Recording Studio</p>
-</li>
-<li>
-<p>Modern Dance (Boys &amp; Girls) @ Music Room</p>
-</li>
-<li>
-<p>Badminton (Boys &amp; Girls) @ Hall and ISH</p>
-</li>
-<li>
-<p>Football @ School Field</p>
-</li>
-<li>
-<p>Netball (Girls) @ Parade Square</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Indian Dance (Boys &amp; Girls) @ The PLACE</p>
-</li>
-<li>
-<p>Malay Dance (Boys &amp; Girls) @ Hall</p>
-</li>
-<li>
-<p>Cross-Country @ School Field</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Interested candidates can join the above CCA training session, please <strong><em><a href="https://go.gov.sg/yssdsa2024" rel="noopener noreferrer nofollow" target="_blank">click here to register.</a></em></strong>
-</p>
 <h4>General Information about Direct School Admission (Secondary) 2024</h4>
 <p>The Direct School Admission-Secondary (DSA-Sec) scheme provides students
 with the opportunity to seek admission to a secondary school, based on
@@ -728,5 +649,4 @@ prior to the video conference interview</p>
 from joining YSS through DSA.</p>
 <p><a href="https://www.youtube.com/playlist?list=PLrv-TlJ2C0chpwelungvolO4WM8MnXvCO" rel="noopener noreferrer nofollow" target="_blank">Click here to view our YSS talents in action in the recent SYF Arts Presentation 2023.</a>
 </p>
-<p></p>
 <p></p>
