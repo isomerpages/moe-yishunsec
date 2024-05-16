@@ -10,8 +10,25 @@ variant: markdown
 *   To educate Yishunites about environmental issues, sustainability, and the importance of protecting the environment 
 *   To inspire and encourage Yishunites to become responsible stewards of the environment through ground up initiatives. 
 
+#### YSS Green Day @ Zone H
+
 ![](/images/YSS%20Exp/Green_Programme/YSS_Green_Day_2024.jpg)
 
+YSS Green Day @ Zone H was organised to promote environmental sustainability and green living practices within the community. YSS Green Day @ Zone H offered Nee Soon South Zone H residents many engaging and informative experiences centered around sustainability and environmental conservation. There were booths set up where residents had hands-on experience at upcycling, exploring a curated selection of gently used clothing items, picking out freshly harvested vegetables from community garden as well as being able to learn more on environmental sustainability matters.
+
+![](/images/YSS%20Exp/Green_Programme/1.jpg)
+![](/images/YSS%20Exp/Green_Programme/2.jpg)
+![](/images/YSS%20Exp/Green_Programme/3.jpg)
+![](/images/YSS%20Exp/Green_Programme/4.jpg)
+![](/images/YSS%20Exp/Green_Programme/5.jpg)
+![](/images/YSS%20Exp/Green_Programme/6.jpg)
+![](/images/YSS%20Exp/Green_Programme/7.jpg)
+![](/images/YSS%20Exp/Green_Programme/8.jpg)
+![](/images/YSS%20Exp/Green_Programme/9.jpg)
+![](/images/YSS%20Exp/Green_Programme/10.jpg)
+![](/images/YSS%20Exp/Green_Programme/11.jpg)
+![](/images/YSS%20Exp/Green_Programme/12.png)
+![](/images/YSS%20Exp/Green_Programme/13.jpg)
 
 #### Roving Exhibition on Clean Energy by Terra 
 
