@@ -28,7 +28,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Letter to Parents
-      description: End of Term 2 2024
+      description: End of Sem 1 2024
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
