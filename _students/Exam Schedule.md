@@ -4,7 +4,26 @@ permalink: /students/exam/
 description: ""
 variant: tiptap
 ---
-<h2>2024</h2>
+<h2><strong>2024</strong></h2>
+<h4>Term 3 - WA 3</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Weighted Assessment/2024/WA_Sec_1_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2024/WA_Sec_2_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2024/WA_Sec_3_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2024/WA_Sec_4_5_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 WA</a>
+</p>
+</li>
+</ul>
 <h4>Term 2 - WA 2</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -44,7 +63,7 @@ variant: tiptap
 </li>
 </ul>
 <hr>
-<h2>2023</h2>
+<h2><strong>2023</strong></h2>
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -105,7 +124,7 @@ variant: tiptap
 </li>
 </ul>
 <hr>
-<h2>2022</h2>
+<h2><strong>2022</strong></h2>
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
