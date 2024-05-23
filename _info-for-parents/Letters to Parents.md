@@ -4,7 +4,7 @@ permalink: /parents/info-for-parents/letters/
 description: ""
 variant: tiptap
 ---
-<h2>2024</h2>
+<h2><strong>2024</strong></h2>
 <h5>Term 2</h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -61,7 +61,7 @@ variant: tiptap
 </li>
 </ul>
 <hr>
-<h2>2023</h2>
+<h2><strong>2023</strong></h2>
 <h5>Term 4</h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -168,7 +168,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h2>2022</h2>
+<h2><strong>2022</strong></h2>
 <h5>Term 4</h5>
 <ul data-tight="true" class="tight">
 <li>
