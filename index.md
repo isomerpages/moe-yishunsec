@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Arts Extravaganza
-      subtitle: "ANNOUNCEMENTS "
+      subtitle: ANNOUNCEMENTS
       id: infopic
       description: 23 May 2024, 3:30 to 6:30pm at YSS
       button: Read More...
@@ -36,7 +36,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Letter to Parents
-      description: Student Learning Festival 2024
+      description: End of Term 2 2024
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
