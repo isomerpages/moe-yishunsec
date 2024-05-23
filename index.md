@@ -27,14 +27,6 @@ sections:
       image: /images/Announcements/ArtsExtravaganza_2024_jpg.png
       alt: Image alt text
   - infopic:
-      title: DSA in YSS
-      subtitle: Announcements
-      id: infopic
-      button: Read More
-      url: /the-yss-experience/dsa/
-      image: /images/YSS Exp/DSA_in_YSS.jpg
-      alt: Image alt text
-  - infopic:
       title: Letter to Parents
       description: End of Term 2 2024
       button: Read more...
@@ -42,6 +34,14 @@ sections:
       alt: Letter to parents
       subtitle: Announcements
       image: /images/announcement.jpg
+  - infopic:
+      title: DSA in YSS
+      subtitle: Announcements
+      id: infopic
+      button: Read More
+      url: /the-yss-experience/dsa/
+      image: /images/YSS Exp/DSA_in_YSS.jpg
+      alt: Image alt text
   - resources:
       title: Information from YSS
       button: Read more...
