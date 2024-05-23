@@ -5,6 +5,27 @@ description: ""
 variant: tiptap
 ---
 <h2>2024</h2>
+<p><strong>June Holiday Homework 2024 - 23 May 2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Announcements for Students/June_Hol_HW_2024___S1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Announcements for Students/June_Hol_HW_2024___S2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Announcements for Students/June_Hol_HW_2024___S3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Announcements for Students/June_Hol_HW_2024___S4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p><strong>March Holiday Homework 2024 - 6 Mar 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
