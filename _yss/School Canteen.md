@@ -25,18 +25,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Noodle Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Closed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Has catering experience.
-<br>Completed food and hygiene course.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chinese Mixed Vegetable Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
