@@ -4,9 +4,13 @@ permalink: /parents/info-for-parents/letters/
 description: ""
 variant: tiptap
 ---
-<h2>2024</h2>
+<h2><strong>2024</strong></h2>
 <h5>Term 2</h5>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Letter to Parents/2024/End_of_Sem_1_23May2024.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Sem 1 2024 - 23 May 2024</a>
+</p>
+</li>
 <li>
 <p><a href="/files/Letter to Parents/2024/SLF_Letter_to_Parents_2024___3_Apr_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Learning Festival 2024 - 3 Apr 2024</a>
 </p>
@@ -57,7 +61,7 @@ variant: tiptap
 </li>
 </ul>
 <hr>
-<h2>2023</h2>
+<h2><strong>2023</strong></h2>
 <h5>Term 4</h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -164,7 +168,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h2>2022</h2>
+<h2><strong>2022</strong></h2>
 <h5>Term 4</h5>
 <ul data-tight="true" class="tight">
 <li>
