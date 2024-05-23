@@ -4,7 +4,7 @@ permalink: /students/exam/
 description: ""
 variant: tiptap
 ---
-<h2>2024</h2>
+<h2><strong>2024</strong></h2>
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -63,7 +63,7 @@ variant: tiptap
 </li>
 </ul>
 <hr>
-<h2>2023</h2>
+<h2><strong>2023</strong></h2>
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -124,7 +124,7 @@ variant: tiptap
 </li>
 </ul>
 <hr>
-<h2>2022</h2>
+<h2><strong>2022</strong></h2>
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
