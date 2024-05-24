@@ -18,15 +18,6 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
-      title: Arts Extravaganza
-      subtitle: ANNOUNCEMENTS
-      id: infopic
-      description: 23 May 2024, 3:30 to 6:30pm at YSS
-      button: Read More...
-      url: /arts-extravaganza/
-      image: /images/Announcements/ArtsExtravaganza_2024_jpg.png
-      alt: Image alt text
-  - infopic:
       title: Letter to Parents
       description: End of Sem 1 2024
       button: Read more...
