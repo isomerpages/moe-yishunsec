@@ -2,6 +2,7 @@
 title: Parent Support Group (PSG)
 permalink: /yss/psg/
 description: ""
+variant: markdown
 ---
 #### Our Vision
 
@@ -17,14 +18,17 @@ The Parents Support Group which was formed in 2003 has made valuable contributio
 
 #### PSG EXCO
 
-**Chairman:** Mr Alvin Tan 
 
-**Vice- Chairperson:** Mr Thinesh Rajan 
 
-**Secretary:** Mdm Praba
-
-**Event Coordinator:** Mrs Shirly Chan
-
+| Appointment | Name |
+| -------- | -------- |
+| Chairperson     | Mdm Rozitah Tazi     |
+| Vice Chairpersons     | Mdm Jayakumary d/o Muthu      |
+|     | Mdm Rinisumarti Chalid     |
+| Event  Coordinators     | Mdm Xierra Chan Cheang Kheng     |
+|     | Mdm Zheng Cai Hui     |
+|     | Mdm Mary Goh Luan Cheng     |
+|     | Mdm Eleen AeeshaYap     |
 
 [Click here to submit Parent Support Group Membership Application](https://form.gov.sg/#!/602e2819cdb38800116d0ecd).
 
