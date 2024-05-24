@@ -638,6 +638,15 @@ prior to the video conference interview</p>
 <p><strong>Activity:</strong> 
 <br>Applicants will be informed of the selection outcome.</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/WhatsApp_Image_2024_05_24_at_7_02_40_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/WhatsApp_Image_2024_05_24_at_7_02_40_AM__1_.jpg">
+</div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="1" src="https://www.youtube.com/embed/Ea_swGnMzGE"></iframe>
 </div>
