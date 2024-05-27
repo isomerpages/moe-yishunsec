@@ -28,7 +28,7 @@ The Parents Support Group which was formed in 2003 has made valuable contributio
 | Event  Coordinators     | Mdm Xierra Chan Cheang Kheng     |
 |     | Mdm Zheng Cai Hui     |
 |     | Mdm Mary Goh Luan Cheng     |
-|     | Mdm Eleen AeeshaYap     |
+|     | Mdm Eleen Aeesha Yap     |
 
 [Click here to submit Parent Support Group Membership Application](https://form.gov.sg/#!/602e2819cdb38800116d0ecd).
 
