@@ -28,7 +28,9 @@ batches.</p>
 members and contribute back to the school, community and nation at large.</p>
 <h3>Our Motto</h3>
 <p>Quality Relationships, Caring Community</p>
-<h4><a href="https://www.yishunsec.moe.edu.sg/accolades/student/alumnus/" rel="noopener noreferrer nofollow" target="_blank">Alumnus Achievements</a> </h4>
+<p></p>
+<p><a href="https://www.yishunsec.moe.edu.sg/accolades/student/alumnus/" rel="noopener noreferrer nofollow" target="_blank">Click here to view Alumnus Achievements</a>
+</p>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Alumni/alumni_2023_3.jpg">
