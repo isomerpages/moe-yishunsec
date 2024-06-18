@@ -165,7 +165,7 @@ their service to the school and their care for the students.</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Long Service Award 2024</strong> 
+<p><strong>School Long Service Award 2024</strong>
 </p>
 <p>by Year of Posting to Yishun Secondary</p>
 <p></p>
