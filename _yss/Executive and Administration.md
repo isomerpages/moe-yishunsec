@@ -4,16 +4,13 @@ permalink: /yss/eas/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/eas_2023.png">
-</div>
-<h4>Admin Manager</h4>
+<h4><strong>Admin Manager</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Pek Kian Huat, Alex</p>
 </li>
 </ul>
-<h4>Admin Executives</h4>
+<h4><strong>Admin Executives</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Lim Siew Huay</p>
@@ -24,11 +21,8 @@ variant: tiptap
 <li>
 <p>Mrs Jayalaxmi</p>
 </li>
-<li>
-<p>Mr Muhammad Nur Ridhuan</p>
-</li>
 </ul>
-<h4>Corporate Support Officers</h4>
+<h4><strong>Corporate Support Officers</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mdm Lamra Lamri</p>
@@ -40,19 +34,19 @@ variant: tiptap
 <p>Mr Alan Loh</p>
 </li>
 </ul>
-<h4>Operations Manager</h4>
+<h4><strong>Operations Manager</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Fazal Khan Bin Arunkhan</p>
+<p>Mr Fazal Khan Arunkhan</p>
 </li>
 </ul>
-<h4>ICT Manager</h4>
+<h4><strong>ICT Manager</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Praveen Prakash</p>
 </li>
 </ul>
-<h4>Operations Support Officers</h4>
+<h4><strong>Operations Support Officers</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mdm Maimunah Bte Abdullah</p>
@@ -66,8 +60,14 @@ variant: tiptap
 <li>
 <p>Mr Zulkernain Bin Osman</p>
 </li>
+<li>
+<p>Mr Mohd Sazayami Bin Sa'ad</p>
+</li>
+<li>
+<p>Mdm Gowri d/o Komare Vello</p>
+</li>
 </ul>
-<h4>Technical Support Officers – D&amp;T</h4>
+<h4><strong>Technical Support Officers – D&amp;T</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Ezahan Bin Mohamed Hanafi</p>
@@ -76,7 +76,7 @@ variant: tiptap
 <p>Mr Billy Wan</p>
 </li>
 </ul>
-<h4>Technical Support Officers – Science</h4>
+<h4><strong>Technical Support Officers – Science</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mdm Norhaytiy Bte Bujang</p>
