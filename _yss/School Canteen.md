@@ -28,7 +28,7 @@ variant: tiptap
 <p>Chinese Mixed Vegetable Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canteen stall vacancy filled</p>
+<p>14/6/2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Has catering experience.
