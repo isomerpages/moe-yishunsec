@@ -4,7 +4,11 @@ permalink: /yss/links/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetables/Teachers Timetable/2024_Term_2_Teacher_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Teacher's Timetable</a>
+<p><a href="/files/Timetables/Teachers Timetable/2024_Sem_2_Teachers_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Teacher's Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,7 +70,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetables/VenueTT/2024_Term_2_Venue_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable by Venue</a>
+<p><a href="/files/Timetables/VenueTT/2024_Sem_2_Venue_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable by Venue</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
