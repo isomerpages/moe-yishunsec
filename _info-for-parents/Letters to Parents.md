@@ -8,6 +8,10 @@ variant: tiptap
 <h5>Term 2</h5>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/2024/Smart_Buddy_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Smart Buddy Programme - 10 Jun 2024</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/2024/End_of_Sem_1_23May2024.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Sem 1 2024 - 23 May 2024</a>
 </p>
 </li>
