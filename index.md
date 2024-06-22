@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: End of Sem 1 2024
+      description: Smart Buddy Programme
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
