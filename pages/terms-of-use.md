@@ -1,44 +1,99 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: tiptap
 ---
-### Agreement – Terms
-
-*  Thank you for visiting this Website (“The Website”). The Website is owned and maintained by the Yishun Seconadry School, Singapore (hereinafter “YSS”).
-*  All access of any area of The Website is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms. 
-*  In these Terms, the words “we,” “our” and “us” refer to YSS.
-*  YSS reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
-
-### Access to The Website
-
-*  The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.
-
-### Relying on Information
-
-* The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.
-* The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by YSS.
-
-### Security
-
-* Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.
-* Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.
-
-### Hyperlinks
-
-* We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other site is at your own risk.
-* If you create a link or frame to The Website you do so at your own risk.
-* Private entities who wish to have their websites hyperlinked on The Website can write to [yishun_ss@moe.edu.sg](mailto:yishun_ss@moe.edu.sg), with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.
-* We reserve the right to object to, or disable any link or frame to or from The Website.
-* We reserve the right to change the URL of The Website.
-
-### Intellectual Property
-
-* Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (© Yishun Secondary School, Singapore)
-* Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.
-
-### Disclaimer of Warranties and Liability
-
-* We will not be liable for any loss or damage:
-	*  that you may incur on account of using, visiting or relying on any statement, opinion, representation or information in The Website;
-	*  resulting from any delay in the operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software; or
-	*  the conduct or the views of any person who accesses or uses The Website.
+<p>Thank you for visiting Yishun Secondary School website. By accessing and
+using this Web Site, you shall be deemed to have accepted to be legally
+bound by these Terms of Use. If you do not agree to these Terms of Use,
+please do not use this Web Site.</p>
+<h4>General </h4>
+<p>2. These Terms of Use may be changed from time to time. Changes will be
+posted on this page and your use of this Web Site after such changes have
+been posted will constitute your agreement to the modified Terms of Use
+and all of the changes.</p>
+<h4>Proprietary Rights </h4>
+<p>3. This Web Site is maintained by Yishun Secondary School. It is owned
+by Yishun Secondary School.</p>
+<p>4. The materials located on this Web Site including the information and
+software programs (the Contents), are protected by copyright, trademark
+and other forms of proprietary rights. All rights, title and interest in
+the Contents are owned by, licensed to or controlled by Yishun Secondary
+School.</p>
+<h4>Privacy Policy </h4>
+<p>5. Click here to review this Web Site Privacy Statement.</p>
+<h4>Restrictions on Use of Materials </h4>
+<p>6. Except as otherwise provided, the Contents of this Web Site shall not
+be reproduced, republished, uploaded, posted, transmitted or otherwise
+distributed in any way, without the prior written permission of Yishun
+Secondary School. To use any parts of the contents of this Site, the user
+must seek permission in writing, stating the contents for use; intent of
+use; manner of use; time frame of use and identity of the user. MOE reserves
+the right to refuse permission without declaring reason(s); and/or if information
+submitted by user is deemed insufficient.</p>
+<p>7. Modification of any of the Contents or use of the Contents for any
+other purpose will be a violation of Yishun Secondary School’s copyright
+and other intellectual property rights. Graphics and images on this Web
+Site are protected by copyright and may not be reproduced or appropriated
+in any manner without written permission of Yishun Secondary School.</p>
+<h4>Right of Access </h4>
+<p>8. Yishun Secondary School reserves all rights to deny or restrict access
+to this Web Site to any particular person, or to block access from a particular
+external address to this Web Site, at any time, without ascribing any reasons
+whatsoever.</p>
+<h4>Disclaimer of Warranties and Liability </h4>
+<p>9. The Contents of this Web Site are provided on an "as is" basis without
+warranties of any kind. To the fullest extent permitted by law, Yishun
+Secondary School does not warrant and hereby disclaims any warranty:</p>
+<p>(a) as to the accuracy, correctness, reliability, timeliness, non-infringement,
+title, merchantability or fitness for any particular purpose of the Contents
+of this Web Site;</p>
+<p>(b) that the Contents available through this Web Site or any functions
+associated therewith will be uninterrupted or error-free, or that defects
+will be corrected or that this Web Site and the server is and will be free
+of all viruses and/or other harmful elements.</p>
+<p>10. Yishun Secondary School shall also not be liable for any damage or
+loss of any kind caused as a result (direct or indirect) of the use of
+the Web Site, including but not limited to any damage or loss suffered
+as a result of reliance on the Contents contained in or available from
+the Web Site.</p>
+<h4>Links from This Web Site to Other Web Sites </h4>
+<p>11. This Web Site contains hyperlinks to web sites which are not maintained
+Yishun Secondary School. Yishun Secondary School is not responsible for
+the contents of those web sites and shall not be liable for any damages
+or loss arising from access to those web sites. Use of the hyperlinks and
+access to such web sites are entirely at your own risk.</p>
+<p>12. Hyperlinks to other web sites are provided as a convenience. In no
+circumstances shall Yishun Secondary School be considered to be associated
+or affiliated with any trade or service marks, logos, insignia or other
+devices used or appearing on web sites to which this Web Site is linked.</p>
+<h4>Links to This Web Site from Other Web Sites </h4>
+<p>13. Except as set forth below, caching and links to, and the framing of
+this Web Site or any of the Contents are prohibited.</p>
+<p>14. You must secure permission from Yishun Secondary School prior to hyperlinking
+to, or framing, this Web Site or any of the Contents, or engaging in similar
+activities. Yishun Secondary School reserves the right to impose conditions
+when permitting any hyperlinking to, or framing of this Web Site or any
+of the Contents.</p>
+<p>15. Your linking to, or framing any part of this Web Site or its Contents
+constitute acceptance of these Terms of Use. This is deemed to be the case
+even after the posting of any changes or modifications to these Terms of
+Use. If you do not accept these Terms of Use, you must discontinue linking
+to, or framing of this Web Site or any of the Contents.</p>
+<p>16. In no circumstances shall Yishun Secondary School be considered to
+be associated or affiliated in whatever manner with any trade or service
+marks, logos, insignia or other devices used or appearing on web sites
+that link to this Web Site or any of the Contents.</p>
+<p>17. Yishun Secondary School reserves all rights to disable any links to,
+or frames of any site containing inappropriate, profane, defamatory, infringing,
+obscene, indecent or unlawful topics, names, material or information, or
+material or information that violates any written law, any applicable intellectual
+property, proprietary, privacy or publicity rights.</p>
+<p>18. Yishun Secondary School reserves the right to disable any unauthorised
+links or frames and disclaims any responsibility for the content available
+on any other site reached by links to or from this Web Site or any of the
+Contents.</p>
+<h4>Governing Law </h4>
+<p>19. These Terms of Use shall be governed and construed in accordance with
+laws of the Republic of Singapore.</p>
+<p></p>
