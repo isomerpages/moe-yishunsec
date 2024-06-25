@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><a href="/parents/info-for-parents/letters/" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents</a></h4>
-<h4><a href="/files/Timetables/Teachers Timetable/2024_Sem_2_Teachers_Timetable_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Teachers Timetable</a></h4>
+<h4><a href="/files/Timetables/Teachers Timetable/2024_Sem_2_Teachers_Timetable_25_June_v5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Teachers Timetable</a></h4>
 <h4><a href="/parents/info-for-parents/ft-list/" rel="noopener noreferrer nofollow" target="_blank">Form Teachers List for 2024</a></h4>
 <h4><a href="/parents/info-for-parents/ppp/" rel="noopener noreferrer nofollow" target="_blank">Positive Parenting Programme</a></h4>
 <h4><a href="/parents/info-for-parents/dwp/" rel="noopener noreferrer nofollow" target="_blank">Dialogue with Parents</a></h4>
