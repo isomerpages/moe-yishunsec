@@ -5,6 +5,26 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>2024</strong></h2>
+<h4>Prelim-Exam Timetable for Sec 4 &amp; 5</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Prelim_Exam_TimeTable_Sec_4E5N.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E &amp; 5N</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Prelim_Exam_TimeTable_Sec_4NA_OOS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4NA OOS</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Prelim_Exam_TimeTable_Sec_4NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4NA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Prelim_Exam_TimeTable_Sec_4NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4NT</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
