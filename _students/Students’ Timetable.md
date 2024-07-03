@@ -25,9 +25,24 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><a href="https://yishunsec.edupage.org/timetable/view.php" rel="noopener noreferrer nofollow" target="_blank">Click here view online version of the timetable.</a>
+<p><a href="https://yishunsec.edupage.org/timetable/view.php" rel="noopener noreferrer nofollow" target="_blank">Click here to view the online version of the class timetable.</a>
 </p>
 <p></p>
+<h4>Student's Individual Timetable - Term 3</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/drive/folders/1-rVVLlli-6Ajt5MsYbKsqw2v51lgUYeL?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Students</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/drive/folders/1CEGcesTQc9D9tMDjHHvwup5oVP8O87nZ?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Students</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/drive/folders/1rkvWH3VAC8dotLScMBvp7wxnDH7n-BFo?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Students</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p><em>updated 20/6/2024</em>
 </p>
