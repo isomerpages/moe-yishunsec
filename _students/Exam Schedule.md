@@ -8,7 +8,7 @@ variant: tiptap
 <h4>Prelim-Exam Timetable for Sec 4 &amp; 5</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/Prelim_Exam_TimeTable_Sec_4E5N.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E &amp; 5N</a>
+<p><a href="/files/Students/Prelim_Exam_TimeTable_Sec_4E5N_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E &amp; 5N</a>
 </p>
 </li>
 <li>
