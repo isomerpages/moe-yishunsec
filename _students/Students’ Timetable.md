@@ -28,7 +28,7 @@ variant: tiptap
 <p><a href="https://yishunsec.edupage.org/timetable/view.php" rel="noopener noreferrer nofollow" target="_blank">Click here to view the online version of the class timetable.</a>
 </p>
 <p></p>
-<h4>Student's Individual Timetable - Term 3</h4>
+<h4>Students' Individual Timetables - Term 3</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/drive/folders/1-rVVLlli-6Ajt5MsYbKsqw2v51lgUYeL?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Students</a>
