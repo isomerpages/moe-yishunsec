@@ -28,7 +28,7 @@ variant: tiptap
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Weighted Assessment/2024/WA_Sec_1_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA</a>
+<p><a href="/files/Weighted Assessment/2024/Sec_1_WA3_4Jul2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA</a>
 </p>
 </li>
 <li>
