@@ -44,5 +44,4 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><em>updated 20/6/2024</em>
-</p>
+<p></p>
