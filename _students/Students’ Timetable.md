@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>2024 Sem 2</h2>
-<h4>Term 3</h4>
+<h4>Class Timetables - Term 3</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Timetables/Students Timetable/2024_Sem_2_Sec_1_Timetable_20_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable</a>
