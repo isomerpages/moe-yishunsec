@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: School Gates Opening Hours for Semester 2
+      description: HBL on 11 July 2024
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
