@@ -8,6 +8,10 @@ variant: tiptap
 <h5>Term 3</h5>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/2024/HBL_on_11_Jul_2024___10_Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL on 11 July 2024 - 10 Jul 2024</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/2024/School_Gates_Opening_Hours_Sem2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">School Gates Opening Hours for Semester 2 - 22 Jun 2024</a>
 </p>
 </li>
