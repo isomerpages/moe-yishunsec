@@ -10,6 +10,8 @@ variant: markdown
 *   To educate Yishunites about environmental issues, sustainability, and the importance of protecting the environment 
 *   To inspire and encourage Yishunites to become responsible stewards of the environment through ground up initiatives. 
 
+https://www.gogreen.gov.sg/a-green-day-with-yishun-secondary-school/
+
 #### YSS Green Day @ Zone H
 
 ![](/images/YSS%20Exp/Green_Programme/YSS_Green_Day_2024.jpg)
