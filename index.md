@@ -23,11 +23,11 @@ sections:
       announcement_items:
         - title: HBL on 12 Jul for Sec 1-3 students
           date: 11 July 2024
-          announcement: The school announced HBL on 11 Jul for Sec 1-3 students due to
-            urgent repairs in some of our classrooms. The contractors updated
-            that they required extra time for safety checks. Thus, the school is
-            extending HBL for Sec 1-3 students on 12 Jul. Sec 4&5 students
-            report to school as per normal.
+          announcement: The school is extending HBL for Secondary 1-3 students on 12 July
+            2024. Students who do not have computer or Wi-Fi access at home can
+            report to Comp Lab 1 at 7:30am. Secondary 4/5 students will continue
+            with physical lessons in school as per normal, in specially assigned
+            rooms.
           link_text: ""
           link_url: ""
   - infopic:
