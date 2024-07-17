@@ -36,7 +36,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/2024/WA_Sec_3_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA</a>
+<p><a href="/files/Weighted Assessment/2024/Sec_3_WA_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA</a>
 </p>
 </li>
 <li>
