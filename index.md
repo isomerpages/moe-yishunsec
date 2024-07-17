@@ -17,19 +17,6 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: HBL on 12 Jul for Sec 1-3 students
-          date: 11 July 2024
-          announcement: The school is extending HBL for Secondary 1-3 students on 12 July
-            2024. Students who do not have computer or Wi-Fi access at home can
-            report to Comp Lab 1 at 7:30am. Secondary 4/5 students will continue
-            with physical lessons in school as per normal, in specially assigned
-            rooms.
-          link_text: ""
-          link_url: ""
   - infopic:
       title: Letter to Parents
       description: HBL on 11 July 2024

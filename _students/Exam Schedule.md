@@ -8,7 +8,7 @@ variant: tiptap
 <h4>Prelim-Exam Timetable for Sec 4 &amp; 5</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/Prelim_Exam_TimeTable_Sec_4E5N_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E &amp; 5N</a>
+<p><a href="/files/Students/Prelim_Exam_TimeTable_Sec_4E5N_V2_Jul2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E &amp; 5N</a>
 </p>
 </li>
 <li>
@@ -36,7 +36,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/2024/WA_Sec_3_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA</a>
+<p><a href="/files/Weighted Assessment/2024/Sec_3_WA_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA</a>
 </p>
 </li>
 <li>
