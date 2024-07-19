@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Student
 variant: tiptap
 ---
+<h4>Congratulations to Following Students</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/Congratulation_on_Outstanding_A_Level_Results.png">
+</div>
 <h4>Kang Wen Jin</h4>
 <ul data-tight="true" class="tight">
 <li>
