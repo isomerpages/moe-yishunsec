@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 <p></p>
 <h4>Students' Individual Timetables - Term 3</h4>
-<p><em>Please use your school email address to access.</em>
+<p><em>Please login with your school email address to access.</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
