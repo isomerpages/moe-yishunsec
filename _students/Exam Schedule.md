@@ -5,6 +5,29 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>2024</strong></h2>
+<h4>EOY Exam Timetable Sec 1 to 3</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/EOY_Exam_Timetable_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/EOY_Exam_Timetable_Sec_2E_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2E NA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/EOY_Exam_Timetable_Sec_2NT_OOS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2NT OOS</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/EOY_Exam_Timetable_Sec_3E_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3E NA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/EOY_Exam_Timetable_Sec_3NT_OOS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3NT OOS</a>
+</p>
+</li>
+</ul>
 <h4>Prelim-Exam Timetable for Sec 4 &amp; 5</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -40,7 +63,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/2024/WA_Sec_4_5_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 WA</a>
+<p><a href="/files/Weighted Assessment/2024/2024_Timed_Practice_Sem_4___5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Timed Practice</a>
 </p>
 </li>
 </ul>
