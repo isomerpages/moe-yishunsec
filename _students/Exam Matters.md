@@ -35,19 +35,19 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Students/2024_Sec_2__EOY_Exam_Format_and_Topics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2  EOY Exam Format and Topics</a>
+<p><a href="/files/Students/2024_Sec_2__EOY_Exam_Format_and_Topics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 EOY Exam Format and Topics</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/2024_Sec_3E__EOY_Exam_Format_and_Topics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3E  EOY Exam Format and Topics</a>
+<p><a href="/files/Students/2024_Sec_3E__EOY_Exam_Format_and_Topics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3E EOY Exam Format and Topics</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/2024_Sec_3N__EOY_Exam_Format_and_Topics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3N  EOY Exam Format and Topics</a>
+<p><a href="/files/Students/2024_Sec_3N__EOY_Exam_Format_and_Topics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3N EOY Exam Format and Topics</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/2024_Sec_3NT__EOY_Exam_Format_and_Topics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3NT  EOY Exam Format and Topics</a>
+<p><a href="/files/Students/2024_Sec_3NT__EOY_Exam_Format_and_Topics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3NT EOY Exam Format and Topics</a>
 </p>
 </li>
 </ul>
