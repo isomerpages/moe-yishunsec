@@ -3,8 +3,9 @@ title: Netball
 permalink: /cca/sports-and-games/netball/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/SportsGames/Netball/netball_2023.JPG)
+![](/images/StudDevelopment/CCAs/SportsGames/Netball/Netball_P1.jpg)
 
 ### Teacher-in-charge
 * Ms Nithya Selvaraju (I/C)
