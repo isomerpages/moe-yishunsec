@@ -11,7 +11,9 @@ variant: markdown
 
 In 2024, YSS will introduce a girls’ football for the incoming secondary one girls as part of this programme. This will be a cluster CCA for all girls from the N2 cluster.
 
-![](/images/StudDevelopment/CCAs/SportsGames/Football/football_2023.JPG)
+![](/images/StudDevelopment/CCAs/SportsGames/Football/Football__Girls__P1.jpg)
+
+![](/images/StudDevelopment/CCAs/SportsGames/Football/Football__Boys__P1.jpg)
 
 ### Teacher-in-charge
 * Mr Toh Wen Yi (I/C)
