@@ -3,8 +3,11 @@ title: Badminton
 permalink: /cca/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/SportsGames/Badminton/2023/badminton_2023.JPG)
+![](/images/StudDevelopment/CCAs/SportsGames/Badminton/Badminton__Girls__P1.jpg)
+
+![](/images/StudDevelopment/CCAs/SportsGames/Badminton/Badminton__Boys__P1.jpg)
 
 ### Teacher-in-charge
 * Mr Li Bin (I/C)    
