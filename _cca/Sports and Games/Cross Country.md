@@ -9,6 +9,7 @@ variant: markdown
 
 ### Teacher-in-charge
 * Mrs Jayalaxmi
+* Mr Chee Jih Heong
 * Mr Aidil
 
 ### CCA Schedule
