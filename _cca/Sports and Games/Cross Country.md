@@ -3,9 +3,13 @@ title: Cross Country
 permalink: /cca/sports-and-games/cross-country/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
+![](/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/Cross_Country_P1.jpg)
+
 ### Teacher-in-charge
 * Mrs Jayalaxmi
+* Mr Chee Jih Heong
 * Mr Aidil
 
 ### CCA Schedule
