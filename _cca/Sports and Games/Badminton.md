@@ -10,10 +10,10 @@ variant: markdown
 ![](/images/StudDevelopment/CCAs/SportsGames/Badminton/Badminton__Boys__24.jpg)
 
 ### Teacher-in-charge
-* Mr Li Bin (I/C)    
-* Mr Suhairi Bin Samsudin
+* Mr Yeung Chun Nam (I/C)
 * Mr Lee Chye Sheng
-* Mr Yeung Chun Nam   
+* Mr Raju
+* Ms Ng Tian Wen 
 
 
 ### CCA Schedule
