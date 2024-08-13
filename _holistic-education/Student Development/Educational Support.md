@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-![](/images/StudDevelopment/EduSupport/Educational_Support_1553.jpg)
+![](/images/StudDevelopment/EduSupport/Educational_Support_2024.jpg)
 
 ### Mission
 ***To nurture students who are connected, competent and contributing members of the school and the community.***
