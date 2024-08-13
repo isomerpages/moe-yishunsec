@@ -3,8 +3,9 @@ title: Choir
 permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/PerformingArts/Choir/choir_2023.JPG)
+![](/images/StudDevelopment/CCAs/PerformingArts/Choir/Choir_24.jpg)
 
 ### Teacher-in-charge
 * Mr Lim Meng Teck
