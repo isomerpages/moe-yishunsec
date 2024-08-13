@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /instructional-programme/physical-education/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 ### Goal
 
@@ -25,7 +26,7 @@ Reinforce pro-social behavior through participation and performance
 
 ### PE Department Teachers
 
-![](/images/IP/PE/pe%20dept_2023.png)
+![](/images/IP/PE/PE_1567.jpg)
 
 ### Photos
 
