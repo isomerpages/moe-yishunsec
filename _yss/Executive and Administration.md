@@ -13,9 +13,6 @@ variant: tiptap
 <h4><strong>Admin Executives</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Lim Siew Huay</p>
-</li>
-<li>
 <p>Ms Apple Tan</p>
 </li>
 <li>
@@ -32,6 +29,9 @@ variant: tiptap
 </li>
 <li>
 <p>Mr Alan Loh</p>
+</li>
+<li>
+<p>Mr Jeremy Lim</p>
 </li>
 </ul>
 <h4><strong>Operations Manager</strong></h4>
