@@ -3,8 +3,9 @@ title: Girl Guides
 permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/girl%20guides_2023.JPG)
+![](/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/Girl_Guides_24.jpg)
 
 ### Teacher-in-charge	
 * Ms Herdaninseh (I/C)
