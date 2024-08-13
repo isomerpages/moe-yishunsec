@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports and Games
 variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/SportsGames/Volleyball/Volleyball_P1.jpg)
+![](/images/StudDevelopment/CCAs/SportsGames/Volleyball/Volleyball_24.jpg)
 
 ### Teacher-in-charge
 * Mr Jeremy Loy (I/C)
