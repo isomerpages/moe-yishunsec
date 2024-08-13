@@ -72,7 +72,7 @@ Mother Tongue Languages Fortnight with the theme “Customs, Traditions, Beliefs
 
 ### Mother Tongue Languages Teachers
 
-![](/images/IP/MTL/mtl_2023.png)
+![](/images/IP/MTL/Mother_Tongue_1519.jpg)
 
 ### Photos
 
