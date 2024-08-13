@@ -3,12 +3,13 @@ title: Humanities
 permalink: /instructional-programme/humanities/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 ### Department Goal
 
 The Humanities Department strives to develop inquisitive learners who are able to appreciate and question the world they live in with the hope to groom empathetic and informed global citizens.
 
-![](/images/IP/Humanities/humanities%20dept_2023.png)
+![](/images/IP/Humanities/Humanities_1582.jpg)
 
 Through engaging experiences in the Humanities classroom and the supplementation of the Key Initiatives, students draw connections between their own lived experiences and the larger national, regional and global events that shape the world we live in. The use of inquiry as the main anchor for the classroom experience allows the student space to think critically, ask questions and make reasoned judgements. This is demonstrated in day-to-day conversations with the students and also through commendable competition results such as achieving a Certificate of Achievement (Bronze) for the NUS Geography Challenge and coming in 2nd place for the NLB S.U.R.E. competition.
 
