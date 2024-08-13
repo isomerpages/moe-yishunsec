@@ -10,6 +10,7 @@ variant: markdown
 ### Teacher-in-charge	
 * Mrs Tay Ai Ti
 * Mdm Cheng Sin Yee
+* Mdm Sieow Lee Mei
 
 ### CCA Schedule
 * Mondays, 3:40pm to 6pm
