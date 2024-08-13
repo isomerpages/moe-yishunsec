@@ -7,9 +7,7 @@ variant: markdown
 ---
 <figure><img src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-1.jpg"></figure>
 
-![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/sec%203%20media%20club_2023.JPG)
-
-![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/sec%204%20media%20club_2023.JPG)
+![](/images/StudDevelopment/CCAs/Clubs_Societies/Media/Infocomm_Technology__Media_Production__24.jpg)
 
 #### Teacher-in-charge
 * Mr Zul Idham (I/C)
