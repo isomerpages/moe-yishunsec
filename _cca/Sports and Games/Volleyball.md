@@ -10,7 +10,7 @@ variant: markdown
 ### Teacher-in-charge
 * Mr Jeremy Loy (I/C)
 * Ms Oh Hui Qi
-* Miss. Cassandra Tay (Sem 2)
+* Ms Cassandra Tay
 
 ### CCA Schedule
 * Mondays and Wednesdays from 4pm to 6pm
