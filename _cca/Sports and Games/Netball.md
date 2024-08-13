@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports and Games
 variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/SportsGames/Netball/Netball_P1.jpg)
+![](/images/StudDevelopment/CCAs/SportsGames/Netball/Netball_24.jpg)
 
 ### Teacher-in-charge
 * Ms Nithya Selvaraju (I/C)
