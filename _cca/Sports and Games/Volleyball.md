@@ -9,7 +9,7 @@ variant: markdown
 
 ### Teacher-in-charge
 * Mr Jeremy Loy (I/C)
-* Ms Zarina
+* Ms Oh Hui Qi
 * Miss. Cassandra Tay (Sem 2)
 
 ### CCA Schedule
