@@ -3,8 +3,9 @@ title: Guzheng
 permalink: /cca/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/PerformingArts/Guzheng/guzheng_2023.JPG)
+![](/images/StudDevelopment/CCAs/PerformingArts/Guzheng/Guzheng_24.jpg)
 
 ### Teacher-in-charge	
 * Mrs Tay Ai Ti
