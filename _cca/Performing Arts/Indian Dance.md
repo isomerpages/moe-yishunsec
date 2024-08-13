@@ -10,7 +10,6 @@ variant: markdown
 ### Teacher-in-charge	
 * Mdm. Renuga (I/C)
 * Mdm. Santhalingam Kalpana
-* Ms Zhang Hui (T1)
 
 ### CCA Schedule
 * Tuesday from 4 pm to 6 pm
