@@ -10,7 +10,7 @@ variant: markdown
 ### Teacher-in-charge
 * Ms Nithya Selvaraju (I/C)
 * Ms Sabrina Bte Mohd Amran
-* Ms Juanita
+* Ms Lim Sin Yee
 * Ms Joan Chin
 
 ### CCA Schedule
