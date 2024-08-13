@@ -3,14 +3,15 @@ title: Robotics
 permalink: /cca/clubs-and-societies/robotics/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/robotics_2023.JPG)
+![](/images/StudDevelopment/CCAs/Clubs_Societies/Robotics/Robotics_24.jpg)
 
 ### Teacher-in-charge
 * Mr Phua Joo Shia (I/C)
 * Mr Ang Swee Siang Josh
 * Ms Yoong Hai Ling
-* Ms Wong Shu Kuan Madeline
+* Ms Madeline Wong
 
 ### CCA Schedule
 * Wednesday from 4 to 6 pm
