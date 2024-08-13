@@ -10,7 +10,7 @@ variant: markdown
 ### Teacher-in-charge	
 * Ms Herdaninseh (I/C)
 * Ms Ummu Sumaiyah Binte Eliase
-* Mrs Leong Sin Yee
+* Ms Juanita
 
 ### CCA Schedule
 * Wednesday, 3:30pm – 6pm
