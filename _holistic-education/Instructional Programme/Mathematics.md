@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /instructional-programme/mathematics/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 ### Department Goal(s)
 
@@ -100,7 +101,7 @@ tr:nth-child(even) {
 		
 ### Mathematics, CPA and POA Teachers
 		
-![](/images/IP/Math/math%20dept_2023.png)
+![](/images/IP/Math/Math_1500.jpg)
 		
 ### Photos
 
