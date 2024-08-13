@@ -4,6 +4,10 @@ permalink: /yss/eas/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/EAS_1542.jpg">
+</div>
 <h4><strong>Admin Manager</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
