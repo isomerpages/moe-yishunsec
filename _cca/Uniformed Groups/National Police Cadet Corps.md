@@ -3,8 +3,9 @@ title: National Police Cadet Corps
 permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc_2023.JPG)
+![](/images/StudDevelopment/CCAs/UniformedGroups/NPCC/National_Police_Cadet_Corps_24.jpg)
 
 ### Teachers-in-charge
 * A/ASP (NPCC) Jarren Lye (Officer-in-Charge)
