@@ -3,6 +3,7 @@ title: Information and Communications Technology (ICT)
 permalink: /instructional-programme/ict/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 ### Goal
 
@@ -19,7 +20,7 @@ To nurture a community of confident, socially responsible and future-ready learn
 
 ### ICT Department Staff and Teachers
   
-![](/images/IP/ICT/ict_2023.png)
+![](/images/IP/ICT/Information___Communication_Technology_1534.jpg)
 
 
 ### Photos
