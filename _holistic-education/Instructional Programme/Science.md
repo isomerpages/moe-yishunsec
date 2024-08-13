@@ -3,6 +3,7 @@ title: Science
 permalink: /instructional-programme/science/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 ### Goal(s)
 
@@ -17,7 +18,7 @@ Beyond Classroom Experience: A variety of science-based activities that exposes 
 
 ### Science Department Teachers
 
-![](/images/IP/Science/2023/science%20dept_2023.png)
+![](/images/IP/Science/Science_1509.jpg)
 
 ### Highlights / Achievements
 
