@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/malay%20dance_2023.JPG)
+![](/images/StudDevelopment/CCAs/PerformingArts/MalayDance/Malay_Dance_24.jpg)
 
 ### Teacher-in-charge
 * Ms Nurfirdaus Ghazali (I/C)

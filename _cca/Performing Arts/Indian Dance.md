@@ -3,14 +3,13 @@ title: Indian Dance
 permalink: /cca/performing-arts/indian-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/indian%20dance_2023.JPG)
-
+![](/images/StudDevelopment/CCAs/PerformingArts/IndianDance/Indian_Dance_24.jpg)
 
 ### Teacher-in-charge	
 * Mdm. Renuga (I/C)
 * Mdm. Santhalingam Kalpana
-* Ms Zhang Hui (T1)
 
 ### CCA Schedule
 * Tuesday from 4 pm to 6 pm

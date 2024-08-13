@@ -3,12 +3,14 @@ title: Guzheng
 permalink: /cca/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/PerformingArts/Guzheng/guzheng_2023.JPG)
+![](/images/StudDevelopment/CCAs/PerformingArts/Guzheng/Guzheng_24.jpg)
 
 ### Teacher-in-charge	
 * Mrs Tay Ai Ti
 * Mdm Cheng Sin Yee
+* Mdm Sieow Lee Mei
 
 ### CCA Schedule
 * Mondays, 3:40pm to 6pm

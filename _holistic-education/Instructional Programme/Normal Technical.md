@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Instructional Programme
 ---
-![](/images/IP/NT/NT_Dept2023.jpg)
 
 ### NT Department’s Mission
 

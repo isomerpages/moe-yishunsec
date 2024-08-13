@@ -3,13 +3,14 @@ title: Girl Guides
 permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/girl%20guides_2023.JPG)
+![](/images/StudDevelopment/CCAs/UniformedGroups/GirlGuides/Girl_Guides_24.jpg)
 
 ### Teacher-in-charge	
 * Ms Herdaninseh (I/C)
 * Ms Ummu Sumaiyah Binte Eliase
-* Mrs Leong Sin Yee
+* Ms Juanita
 
 ### CCA Schedule
 * Wednesday, 3:30pm – 6pm

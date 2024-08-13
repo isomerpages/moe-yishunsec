@@ -3,6 +3,7 @@ title: English Language
 permalink: /instructional-programme/english-language/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 ### Goal
 
@@ -34,7 +35,7 @@ You may approach your English Language teacher if you would like to have your wr
 
 ### English Language and Literature Teachers
 
-![](/images/IP/English/2023/english%20department_2023.png)
+![](/images/IP/English/English_Language___Media_Literacy_1522.jpg)
 
 ### Photos
 

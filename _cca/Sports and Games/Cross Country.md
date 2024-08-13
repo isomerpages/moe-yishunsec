@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports and Games
 variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/Cross_Country_P1.jpg)
+![](/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/Cross_Country_24.jpg)
 
 ### Teacher-in-charge
 * Mrs Jayalaxmi

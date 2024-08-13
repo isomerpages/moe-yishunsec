@@ -3,16 +3,15 @@ title: Choir
 permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/PerformingArts/Choir/choir_2023.JPG)
+![](/images/StudDevelopment/CCAs/PerformingArts/Choir/Choir_24.jpg)
 
 ### Teacher-in-charge
-* Mr Lim Meng Teck
-* Mdm Azizah Bte Abdul Rahim
-* Ms Juliet Yeo Li-yen
-* Mr Joshua Khong You Wei
-* Mr Yap Li-Ren
-
+* Mr Khong You Wei (I/C)
+* Ms Vera Lee
+* Mdm Azizah
+* Mr Yap Li Ren
 
 ### CCA Schedule
 * Tuesday (3:30 pm- 6 pm)

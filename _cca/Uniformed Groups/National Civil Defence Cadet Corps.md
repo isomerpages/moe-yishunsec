@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/NCDCC1_2024.jpg)
+![](/images/StudDevelopment/CCAs/UniformedGroups/NCDCC/National_Civil_Defence_Cadet_Corps_24.jpg)
 
 ### Teacher-in-charge	
 * Mr Zakir Hussain (OIC)

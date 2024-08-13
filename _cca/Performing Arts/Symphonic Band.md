@@ -3,14 +3,15 @@ title: Symphonic Band
 permalink: /cca/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/PerformingArts/Band/concert%20band_2023.JPG)
+![](/images/StudDevelopment/CCAs/PerformingArts/Band/Concert_Band_24.jpg)
 
 ### Teacher-in-charge
-* Mr Sivaprakasam Raju (I/C)
-* Ms Vera Lee
-* Mr Daniel Woon
-* Ms Ng Tian Wen
+* Mr Daniel Woon (I/C)
+* Ms Wu Jiang Hui
+* Ms Esther Seah Wei Qin
+* Ms Ng Puay Hoon
 
 ### CCA Schedule
 

@@ -5,9 +5,10 @@ description: ""
 third_nav_title: Sports and Games
 variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/SportsGames/Basketball/Basketball__Girls__P1.jpg)
+![](/images/StudDevelopment/CCAs/SportsGames/Basketball/Basketball__Girls__24.jpg)
 
-![](/images/StudDevelopment/CCAs/SportsGames/Basketball/Basketball__Boys__P1.jpg)
+![](/images/StudDevelopment/CCAs/SportsGames/Basketball/Basketball__Boys__24.jpg)
+
 ### Teacher-in-charge
 * Mr. Tan Hong Peng 
 * Ms. Yvonne Tay 
