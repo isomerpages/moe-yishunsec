@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Instructional Programme
 ---
-![](/images/IP/Music/aesthetics_2023.jpg)
+![](/images/IP/Music/Aesthetics_1495.jpg)
 
 ### Department Goals:
 
