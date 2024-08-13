@@ -3,13 +3,15 @@ title: Modern Dance
 permalink: /cca/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-![](/images/StudDevelopment/CCAs/PerformingArts/ModernDance/modern%20dance_2023.JPG)
+![](/images/StudDevelopment/CCAs/PerformingArts/ModernDance/Modern_Dance_24.jpg)
 
 ### Teacher-in-charge
 * Mrs Ng Yulin (I/C)
 * Mdm Zhang Hui
 * Mr Mohammad Rizal
+* Ms Zarina
 
 ### CCA Schedule
 * Tuesday from 4 pm to 6 pm and
