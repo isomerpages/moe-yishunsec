@@ -3,6 +3,7 @@ title: Citizenship and Character Education
 permalink: /student-development/cce/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 ### Goal
 
@@ -31,7 +32,7 @@ Our school also received the following awards:
 
 ### CCE Teachers
 
-![](/images/StudDevelopment/CCE/cce_2023.png)
+![](/images/StudDevelopment/CCE/Character___Citizenship_Education_1576.jpg)
 
 #### ECG Information on Post Secondary Pathways
 
