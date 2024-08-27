@@ -25,7 +25,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Letter to Parents
-      description: Parenting Workshop Run English
+      description: Term 4
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
