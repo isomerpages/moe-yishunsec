@@ -18,12 +18,6 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
-      title: Teachers' Day 2024
-      subtitle: Announcements
-      id: infopic
-      image: /images/Teachers_Day_2024_1.jpg
-      alt: Image alt text
-  - infopic:
       title: Letter to Parents
       description: Term 4
       button: Read more...
