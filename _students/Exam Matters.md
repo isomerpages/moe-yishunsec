@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Students/2024_Sec_3N_eoy_exam_format_and_topics_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3N EOY Exam Format and Topics</a>
+<p><a href="/files/Students/2024_Sec_3N_eoy_exam_format___topics_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3N EOY Exam Format and Topics</a>
 </p>
 </li>
 <li>
