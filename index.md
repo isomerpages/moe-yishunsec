@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: Term 4
+      description: Term 4 Timetable
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
