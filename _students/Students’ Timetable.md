@@ -8,19 +8,19 @@ variant: tiptap
 <h4>Class Timetables - Term 4</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetables/Students Timetable/Sec_1_Class_TT_Term_4_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/2024_Sem_2_Sec_1_Timetable_20_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/Sec_2_Class_TT_Term_4_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/2024_Sem_2_Sec_2_Timetable_20_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/Sec_3_Class_TT_Term_4_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/2024_Sem_2_Sec_3_Timetable_20_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/Sec_4___5_Class_TT_Term_4_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/2024_Sem_2_Sec_4_5_Timetable_20_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Timetable</a>
 </p>
 </li>
 </ul>
