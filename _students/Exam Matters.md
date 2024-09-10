@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Students/EOY_Exam_Timetable_Sec_2NT_OOS_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2NT OOS</a>
+<p><a href="/files/Students/EOY_Exam_Timetable_Sec_2NT_OOS_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2NT OOS</a>
 </p>
 </li>
 <li>
