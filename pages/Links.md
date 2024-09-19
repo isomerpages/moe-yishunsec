@@ -144,7 +144,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pair Chat</a>
+<p><a href="https://pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pair Chat (AI tool)</a>
 </p>
 </td>
 </tr>
@@ -210,7 +210,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">ChatGPT (AI tool)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.haze.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Haze Situation Update</a>
@@ -219,7 +220,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank">Microsoft Copilot (AI tool)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NEA Website</a>
