@@ -11,33 +11,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3>DMA Guide for Parents</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Parents/PDLP/2023_dma%20parent%20guide%20-%20default%20option.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default Option</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents/PDLP/2023_dma%20parent%20guide%20-%20option%20a_1.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents/PDLP/2023_dma%20parent%20guide%20-%20option%20b_1.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1b62IdeAw_ey_8zSF6H7Bxn5j8Lfjsnzx/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Overriding School Sleep Hours</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1Z12ioBGk58D5Fo8kMoKmfv-P5AkkQK6B/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parent Account Password Reset</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1jSkaMA7kC_pxCpj__lNYv-uI8umL92JY/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Setting Rules to Restrict Usage</a>
-</p>
-</li>
-</ul>
 <h3>Service Centre Details</h3>
 <h5>Acer Laptop Service Centre</h5>
 <p><strong>Location:</strong> 
