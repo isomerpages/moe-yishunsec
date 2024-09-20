@@ -4,7 +4,7 @@ permalink: /parents/pdlp/
 description: ""
 variant: tiptap
 ---
-<h3>PDLP Student Device Information Kit</h3>
+<h4>PDLP Student Device Information Kit</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Parents/PDLP/pdlp%20student%20device%20information%20kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Information Kit</a>
