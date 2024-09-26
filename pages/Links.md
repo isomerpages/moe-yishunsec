@@ -90,7 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://yishunsec.edupage.org/login/" rel="noopener nofollow" target="_blank">YSS Edupage</a>
+<p><a href="https://yishunsec.edupage.org/login/" rel="noopener nofollow" target="_blank">Edupage</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
