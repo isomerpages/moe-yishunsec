@@ -66,7 +66,7 @@ the single-tier miscellaneous fee.</p>
 For further clarification, please contact <strong>Ms Apple Tan</strong> at <strong>6876 7129</strong>.</p>
 </li>
 </ol>
-<p><strong>Web link:</strong>  <a href="https://go.gov.sg/moe-edusave-fas2023" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-edusave-fas2023</a>
+<p><strong>Web link:</strong>  <a href="https://go.gov.sg/moe-edusave-fas2023" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-edusave-fas</a>
 </p>
 <p><strong>Attachments:</strong>
 </p>
