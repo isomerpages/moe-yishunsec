@@ -39,19 +39,24 @@ hosting foreign friends in Singapore</p>
 <h4>Key Programmes</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Taipei (Taiwan) - 27 Oct to 1 Nov 2024</p>
+<p><a href="/taipei-2024/" rel="noopener nofollow" target="_blank">Taipei (Taiwan)</a> -
+27 Oct to 1 Nov 2024</p>
 </li>
 <li>
-<p>Hong Kong - 4 Nov to 8 Nov 2024</p>
+<p><a href="/hong-kong-2024/" rel="noopener nofollow" target="_blank">Hong Kong</a> -
+4 Nov to 8 Nov 2024</p>
 </li>
 <li>
-<p>Shanghai and Hangzhou (China) - 7 Nov to 13 Nov 2024</p>
+<p><a href="/shanghai-and-hangzhou-2024/" rel="noopener nofollow" target="_blank">Shanghai and Hangzhou (China)</a> -
+7 Nov to 13 Nov 2024</p>
 </li>
 <li>
-<p>Ho Chi Minh (Vietnam) - 8 Nov to 13 Nov 2024</p>
+<p><a href="/ho-chi-minh-2024/" rel="noopener nofollow" target="_blank">Ho Chi Minh (Vietnam)</a> -
+8 Nov to 13 Nov 2024</p>
 </li>
 <li>
-<p>Hanoi and Sapa (Vietnam) - 9 Nov to 14 Nov 2024</p>
+<p><a href="/hanoi-and-sapa-2024/" rel="noopener nofollow" target="_blank">Hanoi and Sapa (Vietnam)</a> -
+9 Nov to 14 Nov 2024</p>
 </li>
 </ul>
 <p></p>
@@ -61,23 +66,23 @@ hosting foreign friends in Singapore</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/taiwan1/" rel="noopener noreferrer nofollow" target="_blank">Taiwan</a> -
-(31 Oct to 6 Nov 2023)</p>
+31 Oct to 6 Nov 2023</p>
 </li>
 <li>
 <p><a href="/vietnam/" rel="noopener noreferrer nofollow" target="_blank">Ho Chi Minh City - Vietnam</a> -
-(3 Nov to 7 Nov 2023)</p>
+3 Nov to 7 Nov 2023</p>
 </li>
 <li>
 <p><a href="/taiwan2/" rel="noopener noreferrer nofollow" target="_blank">Taiwan</a> -
-(4 Nov to 9 Nov 2023)</p>
+4 Nov to 9 Nov 2023</p>
 </li>
 <li>
 <p><a href="/hongkong/" rel="noopener noreferrer nofollow" target="_blank">Hong Kong</a> -
-(5 Nov to 10 Nov 2023)</p>
+5 Nov to 10 Nov 2023</p>
 </li>
 <li>
 <p><a href="/hanoi/" rel="noopener noreferrer nofollow" target="_blank">Hanoi - Vietnam</a> -
-(5 Nov to 9 Nov 2023)</p>
+5 Nov to 9 Nov 2023</p>
 </li>
 </ul>
 <p></p>
