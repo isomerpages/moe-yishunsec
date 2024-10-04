@@ -36,7 +36,7 @@ cultures and lifestyles.</p>
 <p>Besides travelling abroad, Yishun Secondary School also look forward to
 hosting foreign friends in Singapore</p>
 <h3>YSS Goes Global Programme - 2024</h3>
-<h4>Key Programmes</h4>
+<h4>Overseas Trips:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/taipei-2024/" rel="noopener nofollow" target="_blank">Taipei (Taiwan)</a> -
@@ -62,7 +62,7 @@ hosting foreign friends in Singapore</p>
 <p></p>
 <hr>
 <h3>YSS Goes Global Programme - 2023</h3>
-<h4>Key Programmes</h4>
+<h4>Overseas Trips:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/taiwan1/" rel="noopener noreferrer nofollow" target="_blank">Taiwan</a> -
