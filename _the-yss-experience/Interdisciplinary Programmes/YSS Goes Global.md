@@ -51,7 +51,7 @@ hosting foreign friends in Singapore</p>
 <p>Ho Chi Minh (Vietnam) - 8 Nov to 13 Nov 2024</p>
 </li>
 <li>
-<p>Hanoi and Sapa (Vienam) - 9 Nov to 14 Nov 2024</p>
+<p>Hanoi and Sapa (Vietnam) - 9 Nov to 14 Nov 2024</p>
 </li>
 </ul>
 <p></p>
