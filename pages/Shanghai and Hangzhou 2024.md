@@ -9,3 +9,10 @@ description: ""
 <iframe height="600" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDVlLJ6RZcbo6x64OMFPQMmXzhpuRiai_0jE60N4simdy3biqRYhU5S9IDzVHOSbdQrfnPSc1gcrZp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/YSS Goes Global/2024_YSS_China_Cultural_Immersion_Programme_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>
+</p>
+</li>
+</ul>
+<p></p>
