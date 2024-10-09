@@ -5,20 +5,24 @@ description: ""
 variant: tiptap
 ---
 <h2>2024 Sem 2</h2>
-<h4>Class Timetables - Term 4</h4>
+<h4>Class Timetables - Term 4 Week 5 </h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetables/Students Timetable/Sec_1_Term_4_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/Sec_1___Week_5__10_and_11_October_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1 - 10 &amp; 11 October 2024</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/Sec_2_Term_4_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/Sec_2___Week_5__10_and_11_October_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2 - 10 &amp; 11 October 2024</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/Sec_3_Term_4_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/Sec_3___Week_5__10_and_11_October_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3 - 10 &amp; 11 October 2024</a>
 </p>
 </li>
+</ul>
+<p></p>
+<h4>Class Timetables - Term 4</h4>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Timetables/Students Timetable/Sec_4E5N_Term_4_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Timetable</a>
 </p>
