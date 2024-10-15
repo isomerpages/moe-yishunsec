@@ -50,7 +50,7 @@ questions. We have clinched 1<strong> Gold Award by Khoo Kang Zhe, Eugene (3 Int
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>NIE Mathematics Challenge for Sec 1 and 2:</strong> 
+<p><strong>NIE Mathematics Challenge for Sec 1 and 2:</strong>
 </p>
 <p>This is online Math quiz that is closely aligned to the current secondary
 Mathematics syllabus. The two High Distinction awardees are <strong>Fong Sze Yang (1 Resilience) and Adora Koh Yu Shaan (2 Resilience)</strong> and
@@ -431,10 +431,274 @@ award.</p>
 </tbody>
 </table>
 <p></p>
-<p>SASMO Competition Silver, Bronze and Honorable Mention Awardees</p>
-<p></p>
-<p></p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SASMO<strong> Competition Silver, Bronze and Honorable Mention Awardees</strong>
+</p>
+</li>
+</ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FUA CHEE HENG DARREN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ADORA KOH YU SHAAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Soar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHENG YI HONG EVAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YE PEIWEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HIPONA KEZIAH CODY DADDY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHU LITING ELVA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MIAO JUNHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Strive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TANG PEI TYI HELENE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOH YAN NI CHLOE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YONG JIA YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIN JIANQI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHOO KANG ZHE, EUGENE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JAYDEN TIU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XANDER CHAN XIAN XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Strive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RYAN KOH TENG WANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Innovate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DERRICK LAI CHIN YONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Innovate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WONG JIA SUEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIU SI RU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TANEEKAN NEO HUI JUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Soar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZION KOH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEAH KAI CHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Seek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN LEI YUAN AVEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Mathematics, CPA and POA Teachers</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/Math_1500.jpg">
