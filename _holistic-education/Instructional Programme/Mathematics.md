@@ -704,47 +704,45 @@ award.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/Math_1500.jpg">
 </div>
 <h3>Photos</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Math/2023/dr%20benjamin%20mathemagic_sec%201&amp;2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/Photo_1_SLF.jpg">
 </div>
-<p>Dr Benjamin Mathemagic_Sec 1&amp;2</p>
+<p>SLF Interdisciplinary projects for Sec 1 ( IBL/IDL MA-FN @Sheng Siong
+Supermarket); Sec 2 (MA-PE@ Sports Hub); Sec 3 (IBL/IDL MA-Sc@ GBTB) and
+Sec 3NT (IBL/IDL MA-EL@ Orchid Bowl) and Sec 4NT (MA-EL @Jewel)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Math/2023/escape_room_sec%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/Photo_2a_Sec_1_interclass_ArithmetEQ_Challenge.jpg">
 </div>
-<p>Escape_room_Sec 2</p>
+<p>Sec 1 Inter-class ArithmetEQ Challenge</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Math/2023/gbtb_sec%203.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/Photo_2b__ArithmetEQ_Challenge_for_N2_Primary_Schools.jpg">
 </div>
-<p>GBTB_Sec 3</p>
+<p>Organiser for ArithmetEQ Challenge for N2 Primary Schools</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Math/2023/hypermart%20sec%201nt.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/Photo_3_NDE.jpg">
 </div>
-<p>Hypermart Sec 1NT</p>
+<p>NDE: Ye Peiwen (2 Care) and Lvonne Lim Yu Xin (2 Seek) qualified for National
+Round</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Math/2023/ngee%20ann%20challenge_sec%203e.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/Photo_4_SASMO.jpg">
 </div>
-<p>Ngee Ann Challenge_Sec 3E</p>
+<p>SASMO Participants: Gold Award by Khoo Kang Zhe, Eugene (3 Integrity),
+4 Silver, 9 Bronze, 8 Honorable Mention</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Math/2023/nie%20math%20challenge_sec%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/Photo_6_SIMC.jpg">
 </div>
-<p>NIE Math Challenge_Sec 1</p>
+<p>SIMC- Chen Jiaxin (3 Integrity), Ryan Koh Teng Wang (3 Strive), Siew Junze
+Jacob (2 Respect)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Math/2023/sasmo_awardees%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/Photo_7_NP_Math_Challenge_1st_runner_up.jpg">
 </div>
-<p>SASMO_awardees 1</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Math/2023/sasmo_awardees%202.jpg">
-</div>
-<p>SASMO_awardees 2</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Math/2023/sports%20hub%20sec%202.jpg">
-</div>
-<p>Sports Hub Sec 2</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Math/2023/super%20bowling_nt.jpg">
-</div>
-<p>Super Bowling_NT</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Math/2023/na_math_competition.jfif">
-</div>
-<p>NA Math competition</p>
+<p>Math Challenge at NP : Gold and Silver Award For Omega Escape and Overall
+1st Runner-up award</p>
+<p></p>
