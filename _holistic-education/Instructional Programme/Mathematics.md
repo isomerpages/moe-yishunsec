@@ -699,6 +699,49 @@ award.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4>CPA</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Animation and Game Making (AGM) Competition 2024</strong>
+</p>
+</li>
+</ul>
+<p>Selected students developed their animations and games based on the theme
+of “Intergenerational Harmony” using Scratch programming software in this
+competition organised by Computer Education Unit at the Curriculum Planning
+and Development Division (CPDD).</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 SOAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KWAN YU HONG JEREMY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Mathematics, CPA and POA Teachers</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/Math_1500.jpg">
