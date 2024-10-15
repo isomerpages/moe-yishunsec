@@ -5,6 +5,22 @@ description: ""
 variant: tiptap
 ---
 <h2>2024 Sem 2</h2>
+<h4>Term 4 Week 6 - 16 to 18 Oct 2024</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/16_Oct_2024_Wed.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/17_Oct_2024_Thu.png">
+</div>
+<p><strong><u>Fri, 18 Oct 2024:</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Promotion Day (no lesson for students)</p>
+</li>
+</ul>
 <h4>Class Timetables - Term 4 Week 6</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -17,21 +33,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/Timetables/Students Timetable/Sec_3_Week_6_14_and_15_October_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3 - 14 &amp; 15 October 2024</a>
-</p>
-</li>
-</ul>
-<h4>Class Timetables - Term 4 Week 5</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetables/Students Timetable/Sec_1___Week_5__10_and_11_October_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1 - 10 &amp; 11 October 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetables/Students Timetable/Sec_2___Week_5__10_and_11_October_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2 - 10 &amp; 11 October 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetables/Students Timetable/Sec_3___Week_5__10_and_11_October_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3 - 10 &amp; 11 October 2024</a>
 </p>
 </li>
 </ul>
