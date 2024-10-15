@@ -6,7 +6,6 @@ variant: tiptap
 ---
 <h2>2024 Sem 2</h2>
 <h4>Term 4 Week 6 - 16 to 18 Oct 2024</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/16_Oct_2024_Wed.png">
 </div>
