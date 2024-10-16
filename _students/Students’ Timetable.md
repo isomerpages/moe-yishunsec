@@ -20,21 +20,6 @@ variant: tiptap
 <p>Promotion Day (no lesson for students)</p>
 </li>
 </ul>
-<h4>Class Timetables - Term 4 Week 6</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetables/Students Timetable/Sec_1_Week_6_14_and_15_October_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1 - 14 &amp; 15 October 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetables/Students Timetable/Sec_2_Week_6_14_and_15_October_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2 - 14 &amp; 15 October 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetables/Students Timetable/Sec_3_Week_6_14_and_15_October_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3 - 14 &amp; 15 October 2024</a>
-</p>
-</li>
-</ul>
 <p></p>
 <h4>Class Timetables - Term 4</h4>
 <ul data-tight="true" class="tight">
