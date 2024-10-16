@@ -778,6 +778,11 @@ Round</p>
 4 Silver, 9 Bronze, 8 Honorable Mention</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/NIE_Challenge_1.jpg">
+</div>
+<p>NIE Challenge : 2 High Distinctions, 18 Distinctions and 47 Credits Awards</p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/Photo_6_SIMC.jpg">
 </div>
 <p>SIMC- Chen Jiaxin (3 Integrity), Ryan Koh Teng Wang (3 Strive), Siew Junze
@@ -788,4 +793,10 @@ Jacob (2 Respect)</p>
 </div>
 <p>Math Challenge at NP : Gold and Silver Award For Omega Escape and Overall
 1st Runner-up award</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/CPA_Awardees.jpg">
+</div>
+<p>Animation and Game Making (AGM) Competition (Bronze) -Kwan Yu Hong, Jeremy
+(3 Soar)</p>
 <p></p>
