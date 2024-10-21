@@ -116,7 +116,19 @@ and form class.</p>
 <h3>Resources</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/PDLP/YSS%20NDLP%202023%20-%2016%20Jan%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">YSS NDLP 2023 - 16 Jan 2023</a>
+<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">MOE Resource Kit for Parents</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">Parent Kit - Raising a Digitally Smart Child</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener nofollow" target="_blank">Bite-size tips and advice via Parenting with MOEsg Instagram</a>
+</p>
+</li>
+<li>
+<p><a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf" rel="noopener nofollow" target="_blank">Parenting for Wellness Toolbox for Parents</a>
 </p>
 </li>
 <li>
@@ -128,27 +140,11 @@ and form class.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Resource Kit for Parents - HBL</a>
-</p>
-</li>
-<li>
 <p><a href="/files/HBL/Parents-Guide-to-Device-Use-for-Home-Based-Learning_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents' Guide To Device Use for HBL</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents/PDLP/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness for Your Child</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE - Practising Cyber Wellness</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents" rel="noopener noreferrer nofollow" target="_blank">MLC - Better internet (Latest Resources for Parents</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.help123.sg/" rel="noopener noreferrer nofollow" target="_blank">Learn How to Keep Your Family Safe Online - HELP 123</a>
 </p>
 </li>
 <li>
