@@ -4,13 +4,28 @@ permalink: /students/Booklist/
 description: ""
 variant: markdown
 ---
-<p style="color:red;">
-We will be introducing a new PE T-shirt in Semester 2. Please take that into consideration when purchasing your child’s school uniform. Currently, they will have two PE lessons in a week.
-</p>
+Booklist for 2025
+----------------
 
-[Instructions to Buy Uniform 2024](/files/Students/Booklist/2024/sale%20of%20uniform%20instruction%20yss%202024.pdf)
+#### Sec 2
+* [YSS-S2 FSBB G1](/files/Students/Booklist/YSS_S2_FSBB_G1_2025.pdf)
+* [YSS-S2 FSBB G2](/files/Students/Booklist/YSS_S2_FSBB_G2_2025.pdf)
+* [YSS-S2 FSBB G3](/files/Students/Booklist/YSS_S2_FSBB_G3_2025.pdf)
+
+#### Sec 3
+* [YSS-S3 FSBB G1](/files/Students/Booklist/YSS_S3_FSBB_G1_2025.pdf)
+* [YSS-S3 FSBB G2](/files/Students/Booklist/YSS_S3_FSBB_G2_2025.pdf)
+* [YSS-S3 FSBB G3](/files/Students/Booklist/YSS_S3_FSBB_G3_2025.pdf)
+
+#### Sec 4
+* [YSS-S4 (EXP)](/files/Students/Booklist/YSS_S4__EXP__2025.pdf)
+* [YSS-S4 (NA)](/files/Students/Booklist/YSS_S4__NA__2025.pdf)
+* [YSS-S4 (NT)](/files/Students/Booklist/YSS_S4__NT__2025.pdf)
+
 
 __________________
+
+[Instructions to Buy Uniform 2024](/files/Students/Booklist/2024/sale%20of%20uniform%20instruction%20yss%202024.pdf)
 
 Booklist for 2024
 ----------------
