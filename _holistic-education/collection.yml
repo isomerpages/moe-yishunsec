@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Instructional Programme/Craft and Technology.md
       - Instructional Programme/.keep
       - Student Development/.keep
       - Student Development/CCAs.md
