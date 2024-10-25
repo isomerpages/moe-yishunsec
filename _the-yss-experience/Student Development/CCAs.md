@@ -8,6 +8,8 @@ variant: tiptap
 <h2>Co-Curricular Activities (CCAs)</h2>
 <p>In Yishun Secondary, students take part in one CCA from the following
 categories.</p>
+<p><a href="/students/CCA-Schedule/" rel="noopener nofollow" target="_blank">CCA Schedule</a>
+</p>
 <h3>Uniformed Groups</h3>
 <ul data-tight="true" class="tight">
 <li>
