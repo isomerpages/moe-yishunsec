@@ -5,8 +5,6 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<h3><strong>Staff Professional Development</strong></h3>
-<p></p>
 <h4><strong>Staff Awards</strong></h4>
 <p><strong>Mdm Malar Velee d/o Perumal</strong> received the Most Inspiring
 Tamil Teachers’ (MITT) Award in recognition of their outstanding contributions
