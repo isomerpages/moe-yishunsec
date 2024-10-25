@@ -30,7 +30,6 @@ in the teaching and learning of the Tamil Language.</p>
 </ul>
 <p>&nbsp;This year, our school has a total of 27 winners. Of these, we have
 15 Silver and 12 Gold winners.</p>
-<p>&nbsp;</p>
 <p>Let us congratulate the following colleagues on being this year’s MSEA
 winners:</p>
 <h4><strong><u>Gold</u></strong></h4>
