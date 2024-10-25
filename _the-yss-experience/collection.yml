@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - The YSS Experience.md
+      - Instructional Programme/Normal Technical.md
       - Instructional Programme/Physical Education.md
       - Instructional Programme/Science.md
       - Instructional Programme/.keep
