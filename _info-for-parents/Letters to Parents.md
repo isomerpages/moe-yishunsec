@@ -8,7 +8,7 @@ variant: tiptap
 <h5>Term 4</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Letter to Parents/End_of_Term_4_2024.pdf" rel="noopener nofollow" target="_blank">End of Term 4 - 24 Oct 2024</a>
+<p><a href="/files/Letter to Parents/End_of_Term_4_2024_v2.pdf" rel="noopener nofollow" target="_blank">End of Term 4 - 24 Oct 2024</a>
 </p>
 </li>
 <li>
