@@ -2,14 +2,14 @@ collections:
   parents:
     output: true
     order:
-      - Info of School Publications.md
-      - Financial Matters/MOE Group Personal Accident (GPA) Insurance.md
-      - Financial Matters/School and Miscellaneous Fees.md
-      - Financial Matters/MOE FAS & Edusave.md
-      - Financial Matters/.keep
       - Information for Parents.md
       - PDLP.md
       - Parents Gateway.md
       - School Calendar.md
       - Cyber Wellness Resources for Parents.md
       - Sexuality Education.md
+      - Financial Matters/.keep
+      - Financial Matters/MOE Group Personal Accident (GPA) Insurance.md
+      - Financial Matters/School and Miscellaneous Fees.md
+      - Financial Matters/MOE FAS & Edusave.md
+      - Info of School Publications.md
