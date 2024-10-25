@@ -8,13 +8,13 @@ third_nav_title: Our People
 <h3><strong>Staff Professional Development</strong></h3>
 <p></p>
 <h4><strong>Staff Awards</strong></h4>
-<p>Mdm Malar Velee d/o Perumal received the Most Inspiring Tamil Teachers’
-(MITT) Award in recognition of their outstanding contributions in the teaching
-and learning of the Tamil Language.</p>
+<p><strong>Mdm Malar Velee d/o Perumal</strong> received the Most Inspiring
+Tamil Teachers’ (MITT) Award in recognition of their outstanding contributions
+in the teaching and learning of the Tamil Language.</p>
 <div class="iframe-wrapper">
 <iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IH_oeCJTlGQ?si=NctbGKh7RDuD72pT&amp;amp;start=2579"></iframe>
 </div>
-<p></p>
+<h4><strong>MOE Service Excellence Award 2024</strong></h4>
 <p>The MOE Service Excellence Award (MSEA) recognises MOE staff who</p>
 <ul data-tight="true" class="tight">
 <li>
