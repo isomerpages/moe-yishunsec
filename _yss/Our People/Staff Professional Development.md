@@ -54,6 +54,13 @@ are some of those activities:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/YSSJio_.png">
 </div>
 <h4><strong>Staff Awards</strong></h4>
+<p>Mdm Malar Velee d/o Perumal received the Most Inspiring Tamil Teachers’
+(MITT) Award in recognition of their outstanding contributions in the teaching
+and learning of the Tamil Language.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IH_oeCJTlGQ?si=NctbGKh7RDuD72pT&amp;amp;start=2579"></iframe>
+</div>
+<p></p>
 <p>The following staff were recognised for their continued excellence in
 their service to the school and their care for the students.</p>
 <table style="minWidth: 75px">
