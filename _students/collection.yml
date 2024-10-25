@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - DSA to Yishun Secondary.md
       - Announcements for Students.md
       - Students’ Timetable.md
       - Exam Matters.md
