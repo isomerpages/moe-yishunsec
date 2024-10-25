@@ -2,15 +2,15 @@ collections:
   yss:
     output: true
     order:
-      - Our People/Executive and Administration.md
-      - Our People/SMC Members.md
-      - Our People/Organisation Chart.md
-      - Our People/.keep
       - Principal's Message.md
       - About Us/.keep
       - About Us/Mission, vision and values.md
       - About Us/Historical Milestones.md
       - About Us/School Crest, Song, Creed & Motto.md
+      - Our People/.keep
+      - Our People/Executive and Administration.md
+      - Our People/SMC Members.md
+      - Our People/Organisation Chart.md
       - YSS Alumni.md
       - School Advisory Committee (SAC).md
       - Parent Support Group (PSG).md
