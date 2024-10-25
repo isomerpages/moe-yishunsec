@@ -1,5 +1,4 @@
 collections:
   holistic-education:
     output: true
-    order:
-      - Student Development/.keep
+    order: []
