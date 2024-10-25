@@ -1,5 +1,5 @@
 ---
-title: School Canteen
+title: Canteen Info
 permalink: /yss/school-canteen/
 description: ""
 variant: tiptap
@@ -28,7 +28,7 @@ variant: tiptap
 <p>Chinese Mixed Vegetable Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14/6/2024</p>
+<p>Closed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Has catering experience.

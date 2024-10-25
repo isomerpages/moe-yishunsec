@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Instructional Programme
 ---
-
 ### NT Department’s Mission
 
 Create Opportunities for Students to Acquire Skills, Knowledge and Values through experiential learning opportunities for them to be future-ready.

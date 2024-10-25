@@ -100,7 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student ICON Email</a>
+<p><a href="https://forms.gle/9wJdoyP5tusj8sCD9" rel="noopener noreferrer nofollow" target="_blank">Student Referral Form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.gle/9wJdoyP5tusj8sCD9" rel="noopener noreferrer nofollow" target="_blank">Student Referral Form</a>
+<p><a href="https://form.gov.sg/6295ca0ec3cb8100127d89d6" rel="noopener noreferrer nofollow" target="_blank">Teacher's Discipline Referral Tool</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6295ca0ec3cb8100127d89d6" rel="noopener noreferrer nofollow" target="_blank">Teacher's Discipline Referral Tool</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,7 +130,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/students/announcements/" rel="noopener noreferrer nofollow" target="_blank">Announcements for Students</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">Self-reset Student's MIMS / Email Password</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness</a>
+<p><a href="https://yss.padlet.org/" rel="noopener noreferrer nofollow" target="_blank">Padlet</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +150,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">Self-reset Student's MIMS / Email Password</a>
+<p><a href="https://nearpod.com/" rel="noopener noreferrer nofollow" target="_blank">Nearpod</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,7 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://yss.padlet.org/" rel="noopener noreferrer nofollow" target="_blank">Padlet</a>
+<p><a href="https://www.mindmeister.com/" rel="noopener noreferrer nofollow" target="_blank">Mindmeister</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,7 +170,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://nearpod.com/" rel="noopener noreferrer nofollow" target="_blank">Nearpod</a>
+<p><a href="https://www.kamiapp.com/" rel="noopener noreferrer nofollow" target="_blank">Kami App</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mindmeister.com/" rel="noopener noreferrer nofollow" target="_blank">Mindmeister</a>
+<p><a href="https://form.gov.sg/6461c57c1af9a80012cbb53d" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration for non-PG users</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,7 +190,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kamiapp.com/" rel="noopener noreferrer nofollow" target="_blank">Kami App</a>
+<p><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">ChatGPT (AI tool)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,7 +200,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6461c57c1af9a80012cbb53d" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration for non-PG users</a>
+<p><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank">Microsoft Copilot (AI tool)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -210,8 +210,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">ChatGPT (AI tool)</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.haze.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Haze Situation Update</a>
@@ -220,8 +219,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank">Microsoft Copilot (AI tool)</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NEA Website</a>

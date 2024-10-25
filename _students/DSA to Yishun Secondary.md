@@ -1,6 +1,6 @@
 ---
 title: DSA to Yishun Secondary
-permalink: /the-yss-experience/dsa/
+permalink: /students/dsa/
 description: ""
 variant: tiptap
 ---

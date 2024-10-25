@@ -3,6 +3,7 @@ title: SMC Members
 permalink: /yss/smc/
 description: ""
 variant: tiptap
+third_nav_title: Our People
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/School_Management_Committee_1589.jpg">

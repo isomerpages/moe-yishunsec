@@ -3,9 +3,29 @@ collections:
     output: true
     order:
       - The YSS Experience.md
-      - My Experience in YSS.md
-      - School Events.md
-      - DSA to Yishun Secondary.md
+      - Instructional Programme/.keep
+      - Instructional Programme/YSS Curriculum and Blended Learning.md
+      - Instructional Programme/YSS Assessment Policy.md
+      - Instructional Programme/Craft and Technology.md
+      - Instructional Programme/English Language.md
+      - Instructional Programme/Exercise & Sports Science (ESS).md
+      - Instructional Programme/Humanities.md
+      - Instructional Programme/Information and Communications Technology
+        (ICT).md
+      - Instructional Programme/Literature.md
+      - Instructional Programme/Mathematics.md
+      - Instructional Programme/Mother Tongue Languages.md
+      - Instructional Programme/Music.md
+      - Instructional Programme/Normal Technical.md
+      - Instructional Programme/Physical Education.md
+      - Instructional Programme/Science.md
+      - Student Development/.keep
+      - Student Development/CCAs.md
+      - Student Development/Citizenship and Character Education.md
+      - Student Development/Educational Support.md
+      - Student Development/Level System@YSS.md
+      - Student Development/Prefectorial Board.md
+      - Student Development/Peer Leaders.md
       - Distinctive Programmes.md
       - Interdisciplinary Programmes/.keep
       - Interdisciplinary Programmes/StAR @YSS!.md

@@ -3,6 +3,7 @@ title: Executive and Administration
 permalink: /yss/eas/
 description: ""
 variant: tiptap
+third_nav_title: Our People
 ---
 <p></p>
 <div class="isomer-image-wrapper">

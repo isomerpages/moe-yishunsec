@@ -2,6 +2,7 @@
 title: School and Miscellaneous Fees
 permalink: /parents/info-for-parents/fees/
 description: ""
+third_nav_title: Financial Matters
 ---
 The monthly school fees payable by Singaporean, International Student (IS) and Singapore Permanent Resident (SPR)
 

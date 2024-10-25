@@ -2,6 +2,7 @@
 title: MOE Group Personal Accident (GPA) Insurance
 permalink: /parents/info-for-parents/insurance/
 description: ""
+third_nav_title: Financial Matters
 ---
 **MOE has an insurance plan with NTUC Income for students.**
 
