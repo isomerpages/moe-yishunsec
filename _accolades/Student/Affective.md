@@ -6,10 +6,11 @@ third_nav_title: Student
 variant: tiptap
 ---
 <h2>2024</h2>
-<p>Our students S Mattea Abby and Nicholas Tan presented their work and share
-their stories with Guest of Honor Senior Parliamentary Secretary (MOE)
-Shawn Huang at the annual Gift to SG event, NDP 2024 by Our Heart for Singapore
-Gallery.</p>
+<h4>Present Work to SPS (MOE) Shawn Huang &amp; NDP Chairman EXCO (8 Aug'24)</h4>
+<p>Our students <strong>S Mattea Abby and Nicholas Tan</strong> presented their
+work and share their stories with Guest of Honor Senior Parliamentary Secretary
+(MOE) Shawn Huang at the annual Gift to SG event, NDP 2024 by Our Heart
+for Singapore Gallery.</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GsSqQRKKJgI?si=eTvMlZ3TatHTQvfA&amp;amp;start=65"></iframe>
 </div>
