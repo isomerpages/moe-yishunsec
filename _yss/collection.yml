@@ -2,6 +2,7 @@ collections:
   yss:
     output: true
     order:
+      - Our People/Executive and Administration.md
       - Our People/SMC Members.md
       - Our People/Organisation Chart.md
       - Our People/.keep
