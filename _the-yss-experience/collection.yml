@@ -2,6 +2,7 @@ collections:
   the-yss-experience:
     output: true
     order:
+      - Distinctive Programmes.md
       - The YSS Experience.md
       - DSA to Yishun Secondary.md
       - Interdisciplinary Programmes/.keep
