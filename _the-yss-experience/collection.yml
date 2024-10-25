@@ -2,8 +2,8 @@ collections:
   the-yss-experience:
     output: true
     order:
-      - Distinctive Programmes.md
       - The YSS Experience.md
+      - Distinctive Programmes.md
       - Interdisciplinary Programmes/.keep
       - Interdisciplinary Programmes/StAR @YSS!.md
       - Interdisciplinary Programmes/Green Programme.md
