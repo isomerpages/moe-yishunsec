@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Instructional Programme/Craft and Technology.md
-      - Instructional Programme/English Language.md
       - Instructional Programme/.keep
       - Student Development/.keep
       - Student Development/CCAs.md
