@@ -54,7 +54,7 @@ in the teaching and learning of the Tamil Language.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Awarded Area of Contribution</strong>
+<p><strong>Award</strong>
 </p>
 </td>
 </tr>
@@ -65,6 +65,41 @@ in the teaching and learning of the Tamil Language.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NCC Long Service Medal 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>National Day Award 2024</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Yin Chieu Audrey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Commendation Medal, 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Ee Hoon Evon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Long Service Medal, 2024</p>
 </td>
 </tr>
 </tbody>
