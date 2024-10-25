@@ -18,6 +18,15 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
+      title: Open House 2024
+      subtitle: Announcements
+      id: infopic
+      description: Saturday, 16 November 2024, 9am to 2pm
+      button: Read More
+      url: /openhouse/
+      image: /images/OH24_website_v1.jpg
+      alt: Image alt text
+  - infopic:
       title: Letter to Parents
       description: End of Term 4
       button: Read more...
