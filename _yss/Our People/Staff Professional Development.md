@@ -5,14 +5,43 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<h4><strong>Staff Awards</strong></h4>
+<h3><strong>Staff Awards</strong></h3>
 <p><strong>Mdm Malar Velee d/o Perumal</strong> received the Most Inspiring
 Tamil Teachers’ (MITT) Award in recognition of their outstanding contributions
 in the teaching and learning of the Tamil Language.</p>
 <div class="iframe-wrapper">
 <iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IH_oeCJTlGQ?si=NctbGKh7RDuD72pT&amp;amp;start=2579"></iframe>
 </div>
-<h4><strong>MOE Service Excellence Award 2024</strong></h4>
+<h4>Academy Award for Professional Development</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awarded Area of Contribution</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RENUGA D/O KONASEGARAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>INNOVATOR (SGLDC/SLS)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Recognised as Associate(s) of the Academy of Singapore Teachers 2024.</p>
+<p></p>
+<h4>MOE Service Excellence Award 2024</h4>
 <p>The MOE Service Excellence Award (MSEA) recognises MOE staff who</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -30,7 +59,7 @@ in the teaching and learning of the Tamil Language.</p>
 15 Silver and 12 Gold winners.</p>
 <p>Let us congratulate the following colleagues on being this year’s MSEA
 winners:</p>
-<h4><strong><u>Gold</u></strong></h4>
+<h4><u>Gold</u></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -146,7 +175,7 @@ winners:</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong><u>Silver</u></strong></h4>
+<h4><u>Silver</u></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
