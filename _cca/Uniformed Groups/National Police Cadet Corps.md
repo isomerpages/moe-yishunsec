@@ -51,7 +51,7 @@ variant: tiptap
 </ul>
 <p>(Certain courses / competitions organised by NPCC HQ may fall outside
 of regular training days)</p>
-<h3>Venue</h3>
+<h3>Venues</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parade Square</p>
