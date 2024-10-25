@@ -4,6 +4,6 @@ permalink: /openhouse/
 description: ""
 variant: markdown
 ---
-![](/images/Announcements/oh23_prog.png)
+![](/images/OH2024.png)
 
-![](/images/Announcements/open_house_2023.jpeg)
+![](/images/Open_house_2024_v1.jpg)
