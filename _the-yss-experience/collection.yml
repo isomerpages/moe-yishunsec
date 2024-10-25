@@ -3,8 +3,9 @@ collections:
     output: true
     order:
       - The YSS Experience.md
-      - Instructional Programme/YSS Assessment Policy.md
+      - Instructional Programme/.keep
       - Instructional Programme/YSS Curriculum and Blended Learning.md
+      - Instructional Programme/YSS Assessment Policy.md
       - Instructional Programme/Craft and Technology.md
       - Instructional Programme/English Language.md
       - Instructional Programme/Exercise & Sports Science (ESS).md
@@ -18,7 +19,6 @@ collections:
       - Instructional Programme/Normal Technical.md
       - Instructional Programme/Physical Education.md
       - Instructional Programme/Science.md
-      - Instructional Programme/.keep
       - Student Development/.keep
       - Student Development/CCAs.md
       - Student Development/Citizenship and Character Education.md
