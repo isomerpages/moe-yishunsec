@@ -15,7 +15,7 @@ variant: markdown
 * Tuesday from 4 pm to 6 pm
 
 ### Venue
-* Performing Arts Room
+* The Place
 
 ### CCA Exco Structure
 
