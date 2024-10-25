@@ -14,9 +14,10 @@ variant: markdown
 
 ### CCA Schedule
 * Mondays, 3:40pm to 6pm
+* Wednesday, 3:40pm to 6pm
 
 ### Venue
-* MPC
+* YSS Commons
 
 
 ### CCA Exco Structure
