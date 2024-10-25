@@ -31,7 +31,8 @@ in the teaching and learning of the Tamil Language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RENUGA D/O KONASEGARAN</p>
+<p><strong>RENUGA D/O KONASEGARAN</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>INNOVATOR (SGLDC/SLS)</p>
@@ -40,7 +41,34 @@ in the teaching and learning of the Tamil Language.</p>
 </tbody>
 </table>
 <p>Recognised as Associate(s) of the Academy of Singapore Teachers 2024.</p>
-<p></p>
+<h4>NCC Long Service Medal 2024</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awarded Area of Contribution</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MAJ (NCC) Ong Chee Kiong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC Long Service Medal 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>MOE Service Excellence Award 2024</h4>
 <p>The MOE Service Excellence Award (MSEA) recognises MOE staff who</p>
 <ul data-tight="true" class="tight">
