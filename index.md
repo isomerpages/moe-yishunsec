@@ -39,7 +39,7 @@ sections:
       subtitle: Announcements
       id: infopic
       button: Read More
-      url: /the-yss-experience/dsa/
+      url: /students/dsa/
       image: /images/YSS Exp/DSA_in_YSS.jpg
       alt: Image alt text
   - resources:
