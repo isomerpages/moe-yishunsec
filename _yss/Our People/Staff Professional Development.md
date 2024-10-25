@@ -12,7 +12,7 @@ third_nav_title: Our People
 (MITT) Award in recognition of their outstanding contributions in the teaching
 and learning of the Tamil Language.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IH_oeCJTlGQ?si=NctbGKh7RDuD72pT&amp;amp;start=2579"></iframe>
+<iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IH_oeCJTlGQ?si=NctbGKh7RDuD72pT&amp;amp;start=2579"></iframe>
 </div>
 <p></p>
 <p>The MOE Service Excellence Award (MSEA) recognises MOE staff who</p>
