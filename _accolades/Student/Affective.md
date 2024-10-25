@@ -12,7 +12,7 @@ work and share their stories with Guest of Honor Senior Parliamentary Secretary
 (MOE) Shawn Huang at the annual Gift to SG event, NDP 2024 by Our Heart
 for Singapore Gallery.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GsSqQRKKJgI?si=eTvMlZ3TatHTQvfA&amp;amp;start=65"></iframe>
+<iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GsSqQRKKJgI?si=eTvMlZ3TatHTQvfA&amp;amp;start=65"></iframe>
 </div>
 <p>_____________________________________________________</p>
 <h2>2023</h2>
