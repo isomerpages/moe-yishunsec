@@ -2,11 +2,11 @@ collections:
   students:
     output: true
     order:
-      - Student Handbook.md
       - Announcements for Students.md
       - Students’ Timetable.md
       - Exam Matters.md
       - Content Outlines.md
+      - Student Handbook.md
       - School Rules and Regulations.md
       - Sec 3 Subject Combinations.md
       - CCA Schedule.md
