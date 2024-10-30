@@ -17,6 +17,12 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
+  - infobar:
+      title: YSS Goes Global
+      subtitle: Announcements
+      id: infobar
+      button: Read More
+      url: /the-yss-experience/interdisciplinary-programmes/yssgoesglobal/
   - infopic:
       title: Open House 2024
       subtitle: Announcements
