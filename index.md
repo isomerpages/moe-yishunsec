@@ -30,7 +30,7 @@ sections:
       description: Saturday, 16 November 2024, 9am to 2pm
       button: Read More
       url: /openhouse/
-      image: /images/OH24_website_v1.jpg
+      image: /images/OH_2024_v3.jpg
       alt: Image alt text
   - infopic:
       title: Letter to Parents
