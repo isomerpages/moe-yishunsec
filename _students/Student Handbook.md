@@ -2,7 +2,7 @@
 title: Student Handbook
 permalink: /students/student-handbook/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<figure><a href="/files/YSS/Student_Handbook_for_2024_v3_3.pdf">
-<img src="/images/YSS/SchoolHandbook24.jpg" style="width:350px;">YSS Student Handbook 2024</a></figure>
+<a class="isomer-image-wrapper" href="/files/YSS/Student_Handbook_for_2024_v3_3.pdf"><img style="width:350px;" height="auto" width="100%" src="/images/YSS/SchoolHandbook24.jpg"></a>
+<p></p>
