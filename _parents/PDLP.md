@@ -10,8 +10,8 @@ variant: tiptap
 <p>New MOE DMA will be deployed remotely to your child’s/ward’s PLD on <strong>4 November 2024</strong>.</p>
 </li>
 <li>
-<p>Indicate preferred choice of After-School DMA Parent Option by <strong>18 November 2024</strong>.
-Form link will sent through PG on <strong>12 November 2024</strong>.</p>
+<p>Indicate preferred choice of After-School DMA Parent Option by <strong>19 November 2024</strong>.
+Form link will sent through PG on <strong>11 November 2024</strong>.</p>
 </li>
 <li>
 <p>After School DMA Parent Option will only take effect in <strong>6</strong>  <strong>January 2025</strong>.</p>

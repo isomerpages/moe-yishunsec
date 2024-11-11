@@ -2,7 +2,7 @@
 title: Affective
 permalink: /accolades/student/affective/
 description: ""
-third_nav_title: Student
+third_nav_title: Students
 variant: tiptap
 ---
 <h2>2024</h2>

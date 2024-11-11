@@ -2,7 +2,7 @@
 title: Alumnus
 permalink: /accolades/student/alumnus/
 description: ""
-third_nav_title: Student
+third_nav_title: Students
 variant: tiptap
 ---
 <h4>Congratulations to Following Students</h4>
