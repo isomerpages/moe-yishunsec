@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Sports and Games
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Wushu_2024.jpg">
+</div>
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
