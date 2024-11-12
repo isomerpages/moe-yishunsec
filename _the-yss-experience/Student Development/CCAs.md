@@ -86,6 +86,10 @@ categories.</p>
 <p><strong><a href="/cca/sports-and-games/cross-country/" rel="noopener noreferrer nofollow" target="_blank">Cross-Country</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="/wushu/" rel="noopener nofollow" target="_blank">Wushu</a></strong>
+</p>
+</li>
 </ul>
 <h3>Clubs and Societies</h3>
 <ul data-tight="true" class="tight">
