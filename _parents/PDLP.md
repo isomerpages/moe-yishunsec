@@ -33,13 +33,9 @@ dates</p>
 </ul>
 <p><strong><u>What you have to do?</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p>After the above mentioned date, ensure your PLD remains connected to Wi-Fi.
 This will allow for the removal of restrictions and enable the device to
 automatically reset to factory settings.</p>
-</li>
-</ul>
 <h4>PDLP Student Device Information Kit</h4>
 <ul data-tight="true" class="tight">
 <li>
