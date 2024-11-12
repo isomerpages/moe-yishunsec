@@ -11,19 +11,22 @@ third_nav_title: Sports and Games
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Li Bin</p>
+<p>Mr. Li Bin</p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Tuesday, 3:30 pm - 6:00 pm</p>
+</li>
+<li>
+<p>Thursday, 3:30pm - 6:00 pm</p>
 </li>
 </ul>
 <h3>Venue</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chung Cheng High School (Yishun) Indoor Sports Court</p>
 </li>
 </ul>
 <h3>CCA Goals</h3>
