@@ -47,7 +47,7 @@ third_nav_title: Student Development
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL2024_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL2024_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL2024_2_1.png">
 </div>
 <h4>PSL Bonding Sessions</h4>
 <div class="isomer-image-wrapper">
