@@ -42,6 +42,27 @@ third_nav_title: Student Development
 <p>To help create a greater sense of belonging amongst Yishunites</p>
 </li>
 </ol>
-<h4>Termly Student Well-Being Campaigns </h4>
+<h4>Termly Student Well-Being Campaigns</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL2024_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL2024_2.png">
+</div>
+<h4>PSL Bonding Sessions</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL2024_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL2024_4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL2024_5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL2024_6.png">
+</div>
+<h4>Peer Appreciation Day</h4>
+<p></p>
 <p></p>
 <p></p>
