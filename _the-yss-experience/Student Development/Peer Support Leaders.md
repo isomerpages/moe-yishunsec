@@ -72,4 +72,8 @@ third_nav_title: Student Development
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL2024_9.png">
 </div>
+<h4>Examination Welfare Packs for Students</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL2024_10.png">
+</div>
 <p></p>
