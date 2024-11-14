@@ -72,7 +72,7 @@ buying Acer laptop accessories)
 <div class="isomer-image-wrapper">
 <img style="width:500px;" height="auto" width="100%" src="/images/Parents/Acer_Service_Centre.png">
 </div>
-<p>Acer Service Centre</p>
+<p></p>
 <h5>Lenovo Laptop Service Centre</h5>
 <p>Lenovo Helpdesk Number: <strong>800 852 8100</strong> 
 <br>(After selecting your preferred language, please press “2” for standard
@@ -81,27 +81,29 @@ warranty customer)</p>
 <br>Website: <a href="https://www.asiapac.com.sg/pld-lenovo" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/pld-lenovo</a> (For
 buying Lenovo laptop accessories)</p>
 <p><strong>Lenovo Service Center Location:</strong> 
-<br>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions
-<br>3 Irving Road, #01-17, Singapore 369522
-<br>(Beside Tai Seng MRT station, Exit A)</p>
-<p>Lenovo Service Centre Number: <strong>6871 4838</strong> 
-<br>Lenovo Service Centre Email: <a href="mailto:lenovo@smartcares.com" rel="noopener noreferrer nofollow" target="_blank">lenovo@smartcares.com</a> 
+<br>Servlink Technologies – Lenovo Authorised Service Centre</p>
+<p>Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407</p>
+<p>Hotline: +65 6817 1435</p>
+<p>Email: <a href="mailto:Svcctr@servlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
 <br>Pre-Registration (For Faster Service/Drop-off): <a href="https://smartcares.com/lenovo" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo</a>
 </p>
 <p><strong>Opening hours:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mon – Sat: 11:00h – 19:00h</p>
+<p>Monday to Friday: 9:00 AM – 6:00 PM</p>
 </li>
 <li>
-<p>Closed on Sun and Public Holidays</p>
+<p>Saturday: 9:00 AM – 1:00 PM</p>
+</li>
+<li>
+<p>Closed on Sundays and Public Holidays</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width:500px;" height="auto" width="100%" src="/images/Parents/lenovo%20SC.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/Lenovo_Service_Centre.png">
 </div>
-<p>Lenovo Service Centre</p>
+<p></p>
 <h3>School-based Helpline</h3>
 <p>Mondays – Fridays: 8:30 am – 4:30 pm</p>
 <p>During school operating hours, students should contact the School-based
