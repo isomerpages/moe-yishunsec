@@ -8,8 +8,16 @@ variant: tiptap
 <h2>Co-Curricular Activities (CCAs)</h2>
 <p>In Yishun Secondary, students take part in one CCA from the following
 categories.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/students/CCA-Schedule/" rel="noopener nofollow" target="_blank">CCA Schedule</a>
 </p>
+</li>
+<li>
+<p><a href="/files/CCA/2025_N2_Cluster_S1_Briefing__CCAs_Beyond_School.pdf" rel="noopener nofollow" target="_blank">2025 N2 Cluster S1 Briefing_CCAs Beyond School</a>
+</p>
+</li>
+</ul>
 <h3>Uniformed Groups</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -107,6 +115,7 @@ categories.</p>
 <li>
 <p><a href="https://yishunsec.moe.edu.sg/qql/slot/u276/Holistic%20Education/Student%20Development/CCA/CCA%20LEAPS%202.0/LEAPS-2.0-Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
