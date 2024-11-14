@@ -10,11 +10,11 @@ variant: tiptap
 categories.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/students/CCA-Schedule/" rel="noopener nofollow" target="_blank">CCA Schedule</a>
+<p><a href="/students/CCA-Schedule/" rel="noopener nofollow" target="_blank">YSS CCA Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/CCA/2025_N2_Cluster_S1_Briefing__CCAs_Beyond_School.pdf" rel="noopener nofollow" target="_blank">2025 N2 Cluster S1 Briefing_CCAs Beyond School</a>
+<p><a href="/files/CCA/2025_N2_Cluster_S1_Briefing__CCAs_Beyond_School.pdf" rel="noopener nofollow" target="_blank">CCAs at N2 Cluster Schools</a>
 </p>
 </li>
 </ul>
