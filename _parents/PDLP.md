@@ -81,10 +81,10 @@ warranty customer)</p>
 <br>Website: <a href="https://www.asiapac.com.sg/pld-lenovo" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/pld-lenovo</a> (For
 buying Lenovo laptop accessories)</p>
 <p><strong>Lenovo Service Center Location:</strong> 
-<br>Servlink Technologies – Lenovo Authorised Service Centre</p>
-<p>Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407</p>
-<p>Hotline: +65 6817 1435</p>
-<p>Email: <a href="mailto:Svcctr@servlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
+<br>Servlink Technologies – Lenovo Authorised Service Centre
+<br>Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407
+<br>Hotline: +65 6817 1435
+<br>Email: <a href="mailto:Svcctr@servlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
 <br>Pre-Registration (For Faster Service/Drop-off): <a href="https://smartcares.com/lenovo" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo</a>
 </p>
 <p><strong>Opening hours:</strong>
