@@ -42,4 +42,25 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Slide12_Vietnam24.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Slide13_Vietnam24.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Slide14_Vietnam24.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Slide15_Vietnam24.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Slide16_Vietnam24.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Slide17_Vietnam24.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Slide18_Vietnam24.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Slide19_Vietnam24.jpg">
+</div>
 <p></p>
