@@ -8,7 +8,7 @@ variant: tiptap
 <h4>Oct - Dec Holiday CCA Schedule 2024</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/YSS_Oct_Dec_CCA_Schedule_2024.pdf" rel="noopener nofollow" target="_blank">YSS Oct-Dec CCA Schedule 2024</a>
+<p><a href="/files/Students/YSS_Oct_Dec_CCA_Schedule_2024___Compiled.pdf" rel="noopener nofollow" target="_blank">YSS Oct-Dec CCA Schedule 2024</a>
 </p>
 </li>
 </ul>
