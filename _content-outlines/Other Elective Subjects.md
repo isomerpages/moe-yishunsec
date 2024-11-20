@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h2>Retail Operations</h2>
+<h2>Retail Operations (RO)</h2>
 <h4>Sec 3</h4>
 <ul data-tight="true" class="tight">
 <li>
