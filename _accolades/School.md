@@ -5,8 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3>A Green Day with Yishun Secondary School</h3>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://www.gogreen.gov.sg/a-green-day-with-yishun-secondary-school/" rel="noopener nofollow" target="_blank">https://www.gogreen.gov.sg/a-green-day-with-yishun-secondary-school/</a>
 </p>
+</li>
+</ul>
 <p></p>
 <p>________</p>
 <div class="isomer-image-wrapper">
