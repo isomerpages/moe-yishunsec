@@ -12,7 +12,7 @@ third_nav_title: Our People
 <h4><strong>Admin Manager</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Pek Kian Huat, Alex</p>
+<p>Mr Alex Pek</p>
 </li>
 <li>
 <p>Mr Alan Tan</p>
