@@ -14,6 +14,9 @@ third_nav_title: Our People
 <li>
 <p>Mr Pek Kian Huat, Alex</p>
 </li>
+<li>
+<p>Mr Alan Tan</p>
+</li>
 </ul>
 <h4><strong>Admin Executives</strong></h4>
 <ul data-tight="true" class="tight">
