@@ -23,6 +23,9 @@ third_nav_title: Our People
 <li>
 <p>Mrs Jayalaxmi</p>
 </li>
+<li>
+<p>Mr Jeremy Lim</p>
+</li>
 </ul>
 <h4><strong>Corporate Support Officers</strong></h4>
 <ul data-tight="true" class="tight">
@@ -34,9 +37,6 @@ third_nav_title: Our People
 </li>
 <li>
 <p>Mr Alan Loh</p>
-</li>
-<li>
-<p>Mr Jeremy Lim</p>
 </li>
 </ul>
 <h4><strong>Operations Manager</strong></h4>
@@ -60,16 +60,10 @@ third_nav_title: Our People
 <p>Mdm Tamil Chaldy</p>
 </li>
 <li>
-<p>Mdm Wong Geck Eng</p>
-</li>
-<li>
 <p>Mr Zulkernain Bin Osman</p>
 </li>
 <li>
 <p>Mr Mohd Sazayami Bin Sa'ad</p>
-</li>
-<li>
-<p>Mdm Gowri d/o Komare Vello</p>
 </li>
 </ul>
 <h4><strong>Technical Support Officers – D&amp;T</strong></h4>
@@ -84,10 +78,10 @@ third_nav_title: Our People
 <h4><strong>Technical Support Officers – Science</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Norhaytiy Bte Bujang</p>
+<p>Mdm Siti Alwiyah Bte Ismail</p>
 </li>
 <li>
-<p>Mdm Siti Alwiyah Bte Ismail</p>
+<p>Mdm Fatimatuz Zahrak Bin Azman</p>
 </li>
 </ul>
 <p></p>
