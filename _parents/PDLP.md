@@ -15,7 +15,7 @@ variant: tiptap
 Form link will sent through PG on <strong>11 November 2024</strong>.</p>
 </li>
 <li>
-<p>After School DMA Parent Option will only take effect in <strong>6</strong>  <strong>January 2025</strong>.</p>
+<p>After School DMA Parent Option will only take effect from <strong>6</strong>  <strong>January 2025</strong>.</p>
 </li>
 </ul>
 <h4>For 2024 Graduating Students:</h4>
