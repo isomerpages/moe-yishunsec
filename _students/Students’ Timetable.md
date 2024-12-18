@@ -4,6 +4,9 @@ permalink: /students/timetable/
 description: ""
 variant: tiptap
 ---
+<h2>2025 Sem 1</h2>
+<p>Timetables will be ready by <strong>29 Dec 2024</strong>.</p>
+<p></p>
 <h2>2024 Sem 2</h2>
 <p><a href="https://yishunsec.edupage.org/timetable/view.php" rel="noopener noreferrer nofollow" target="_blank">Click here to view the online version of the class timetable.</a>
 </p>
