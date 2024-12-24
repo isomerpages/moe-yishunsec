@@ -329,8 +329,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ang Ling Xuan, Charlene</p>
@@ -347,8 +346,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Katie Lim En Tong</p>
@@ -365,8 +363,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Evelina Selvarajoo Adaikalam</p>
@@ -383,8 +380,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nur Syuhaidah Binte Mohammad Sidek</p>
@@ -401,8 +397,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Zhi En , Adwin</p>
@@ -419,8 +414,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raean Oh Yin En</p>
@@ -437,8 +431,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Noor Hidayah Qistina Bte Noor Hidayat</p>
@@ -1110,8 +1103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Abigail Chin Yu En</p>
@@ -1128,8 +1120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cason Chan Shao Heng</p>
@@ -1146,8 +1137,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lakshana Sree D/O Loganathan</p>
@@ -1164,8 +1154,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wong Yin Kei Phoebe</p>
@@ -1182,8 +1171,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jeron Chua Cheng Jun</p>
@@ -1200,8 +1188,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Alexis Chia Lee Teng</p>
@@ -1218,8 +1205,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lim Xin Er, Ezann</p>
@@ -1236,8 +1222,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rajagopalan Pravinraj</p>
@@ -1254,8 +1239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T2</strong>
-</p>
+<p>4T2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nayra Alvyra Binte Mohamad</p>
@@ -1272,8 +1256,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nur Farisyah Adawiyah Binte Zulkifly</p>
@@ -1290,8 +1273,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4T1</strong>
-</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zhang Yiting</p>
