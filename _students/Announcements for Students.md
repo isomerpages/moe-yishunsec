@@ -13,7 +13,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <p><strong>September Holiday Homework 2024 - 27 Aug 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -30,7 +29,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <p><strong>June Holiday Homework 2024 - 23 May 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -51,7 +49,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <p><strong>March Holiday Homework 2024 - 6 Mar 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -72,7 +69,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <p><strong>2023 GCE O-Level Results Release - 11 Jan 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -81,7 +77,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <p>____________________</p>
 <h2>2023</h2>
 <p><strong>2023 GCE N-Level Results Release - 18 Dec 2023</strong>
