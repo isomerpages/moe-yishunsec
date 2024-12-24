@@ -5,6 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h2>2024</h2>
+<p><strong>2024 GCE N-Level Results Release - 16 Dec 2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Briefing_Slides_for_GCE_N_Level_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>
+</p>
+</li>
+</ul>
 <p><strong>September Holiday Homework 2024 - 27 Aug 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -21,7 +29,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <p><strong>June Holiday Homework 2024 - 23 May 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -42,7 +49,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <p><strong>March Holiday Homework 2024 - 6 Mar 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -63,7 +69,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <p><strong>2023 GCE O-Level Results Release - 11 Jan 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -72,7 +77,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <p>____________________</p>
 <h2>2023</h2>
 <p><strong>2023 GCE N-Level Results Release - 18 Dec 2023</strong>
