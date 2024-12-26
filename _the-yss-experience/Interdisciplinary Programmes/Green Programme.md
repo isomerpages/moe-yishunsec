@@ -19,7 +19,7 @@ the environment through ground up initiatives.</p>
 <h4>A Green Day with Yishun Secondary School</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.gogreen.gov.sg/a-green-day-with-yishun-secondary-school/" rel="noopener noreferrer nofollow" target="_blank">https://www.gogreen.gov.sg/a-green-day-with-yishun-secondary-school/</a>
+<p><a href="https://www.gogreen.gov.sg/news-media/news-media-detail?title=a-green-day-with-yishun-secondary-school" rel="noopener nofollow" target="_blank">https://www.gogreen.gov.sg/news-media/news-media-detail?title=a-green-day-with-yishun-secondary-school</a>
 </p>
 </li>
 </ul>
