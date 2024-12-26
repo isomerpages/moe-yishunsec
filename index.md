@@ -26,7 +26,7 @@ sections:
       url: https://sites.google.com/moe.edu.sg/yss-sec-1-website/home
   - infopic:
       title: Letter to Parents
-      description: End of Term 4
+      description: New Academic Year 2025
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
