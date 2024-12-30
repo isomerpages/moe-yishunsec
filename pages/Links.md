@@ -125,7 +125,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/676e0e00764607af7607882c" rel="noopener nofollow" target="_blank">Sec 4</a>
+<p><a href="https://form.gov.sg/676e0e00764607af7607882c" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
 </li>
 </ul>
