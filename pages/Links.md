@@ -110,8 +110,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6295ca0ec3cb8100127d89d6" rel="noopener noreferrer nofollow" target="_blank">Teacher's Discipline Referral Tool</a>
+<p>Teacher's Discipline Referral Tool:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://form.gov.sg/676e0af22c8a9b4faa6702ec" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/676e0d2fa795fcbf104a566c" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/676e0dba609b30e7224a8f8a" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/676e0e00764607af7607882c" rel="noopener nofollow" target="_blank">Sec 4</a>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://iexams.seab.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">iExam 2</a>
