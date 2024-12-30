@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <p>The monthly school fees payable by Singaporean, International Student
 (IS) and Singapore Permanent Resident (SPR)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Schools Fees 2023" src="/images/Parents/School%20Fees.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/School_Fees_2025.png">
 </div>
 <h5>Payment by GIRO</h5>
 <ul data-tight="true" class="tight">
