@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Timetable by Venue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://icon.moe.edu.sg/home" rel="noopener noreferrer nofollow" target="_blank">ICON Email 2.0</a>
