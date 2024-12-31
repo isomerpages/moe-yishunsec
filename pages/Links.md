@@ -60,8 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetables/Teachers Timetable/Teacher_Timetable_Sem_2_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Teacher's Timetable</a>
-</p>
+<p>Teachers' Timetable</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a>
@@ -70,8 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetables/VenueTT/Venue_Timetable_Sem_2_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable by Venue</a>
-</p>
+<p>Timetable by Venue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://icon.moe.edu.sg/home" rel="noopener noreferrer nofollow" target="_blank">ICON Email 2.0</a>
@@ -90,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://yishunsec.edupage.org/login/" rel="noopener nofollow" target="_blank">Edupage</a>
+<p><a href="https://yishunsec.edupage.org/login/" rel="noopener nofollow" target="_blank">EduPage</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

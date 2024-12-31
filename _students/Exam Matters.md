@@ -8,11 +8,27 @@ variant: tiptap
 <h4>Term 1 - WA 1</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_Weighted_Assessment.pdf" rel="noopener nofollow" target="_blank">2025 Overview of YSS Weighted Assessment</a>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_Weighted_Assessment_for_Year_2025.pdf" rel="noopener nofollow" target="_blank">2025 Overview of YSS Weighted Assessment</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_Weighted_Assessment_Sec_1_Term_1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_Weighted_Assessment_Sec_2_Term_1.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_Weighted_Assessment_Sec_3_Term_1.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_Weighted_Assessment_Sec_4_and_5_Term_1.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
 </li>
 </ul>
-<p></p>
+<p>______________</p>
 <h2><strong>2024</strong></h2>
 <h4>EOY Exam Timetable Sec 1 to 3</h4>
 <ul data-tight="true" class="tight">
