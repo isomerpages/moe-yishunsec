@@ -52,3 +52,5 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
+<p><em>Updated on 31 Dec 2024.</em>
+</p>
