@@ -60,8 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetables/Teachers Timetable/Teacher_Timetable_Sem_2_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Teacher's Timetable</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a>
