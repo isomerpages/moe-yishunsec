@@ -7,19 +7,19 @@ variant: tiptap
 <h2>2025 Sem 1</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetables/Students Timetable/2025_Sec_1_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/2025_Sec_1_Class_Timetable_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/2025_Sec_2_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/2025_Sec_2_Class_Timetable_v2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/2025_Sec_3_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 3 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/2025_Sec_3_Class_Timetable_v2.pdf" rel="noopener nofollow" target="_blank">Sec 3 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/2025_Sec_4_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 4 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/2025_Sec_4_and_5_Class_Timetable_v2.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Timetable</a>
 </p>
 </li>
 </ul>
@@ -36,6 +36,18 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://drive.google.com/drive/folders/1CEGcesTQc9D9tMDjHHvwup5oVP8O87nZ?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 2 Students</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/drive/folders/1rkvWH3VAC8dotLScMBvp7wxnDH7n-BFo?usp=sharing" rel="noopener nofollow" target="_blank">2025 Sec 3 Students</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/drive/folders/1C9tK03mpgbbCQcwLK28hdYCGujsAP5qH?usp=sharing" rel="noopener nofollow" target="_blank">2025 Sec 4 Students</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/drive/folders/1bQ7xhwokCdPqJq0qNUXOJbmhDg_xVl7B?usp=sharing" rel="noopener nofollow" target="_blank">2025 Sec 5 Students</a>
 </p>
 </li>
 </ul>
