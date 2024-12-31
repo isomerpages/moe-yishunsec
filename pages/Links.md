@@ -60,7 +60,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers' Timetable</p>
+<p><a href="/files/Timetables/Teachers Timetable/Teachers_Timetable_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Teachers' Timetable 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a>
@@ -69,7 +70,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Timetable by Venue</p>
+<p><a href="/files/Timetables/VenueTT/Venues_Timetable_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable by Venue 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://icon.moe.edu.sg/home" rel="noopener noreferrer nofollow" target="_blank">ICON Email 2.0</a>
