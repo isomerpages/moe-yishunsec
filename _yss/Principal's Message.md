@@ -60,3 +60,7 @@ my staff and our students in the coming year.</p>
 <p>Mrs Regina Lee
 <br>Principal</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Mrs_Regina_Lee.jpg">
+</div>
+<p></p>
