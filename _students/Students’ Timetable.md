@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/2025_Sec_4_and_5_Class_Timetable_v2.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/2025_Sec_4_5Class_Timetable_v3.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Timetable</a>
 </p>
 </li>
 </ul>
