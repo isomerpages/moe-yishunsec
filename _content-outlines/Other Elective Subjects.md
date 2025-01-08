@@ -67,21 +67,21 @@ variant: tiptap
 <h4>Sec 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines for Electives/2024_Sec_3_G2_POA_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 G2 POA Content Outline</a>
+<p><a href="/files/Content Outlines for Electives/Sec_3_G2_Content_Outline_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 3 G2 POA Content Outline</a>
 </p>
 </li>
 </ul>
 <h4>Sec 4</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines for Electives/2024_Sec_4NA_POA_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4NA POA Content Outline</a>
+<p><a href="/files/Content Outlines for Electives/Sec_4_G2_POA_Content_Outline_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec G2 POA Content Outline</a>
 </p>
 </li>
 </ul>
 <h4>Sec 5</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines for Electives/2024_Sec_5NA_POA_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 5NA POA Content Outline</a>
+<p><a href="/files/Content Outlines for Electives/Sec_5NA_POA_Content_Outline_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 5NA POA Content Outline</a>
 </p>
 </li>
 </ul>
