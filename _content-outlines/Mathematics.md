@@ -53,7 +53,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines for Maths/Sec_3G3_Math_Content_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 G3 Math Content Outline</a>
+<p><a href="/files/Content Outlines for Maths/Sec_3_G3_Math_Content_Outline_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 3 G3 Math Content Outline</a>
 </p>
 </li>
 </ul>
