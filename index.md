@@ -17,13 +17,6 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
-  - infobar:
-      title: Welcome Sec 1 Students
-      subtitle: Announcements
-      id: infobar
-      description: Information for 2025 Sec 1 Students & Parents
-      button: Read More
-      url: https://sites.google.com/moe.edu.sg/yss-sec-1-website/home
   - infopic:
       title: Letter to Parents
       description: New Academic Year 2025
