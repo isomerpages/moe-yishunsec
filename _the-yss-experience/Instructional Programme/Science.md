@@ -3,62 +3,125 @@ title: Science
 permalink: /instructional-programme/science/
 description: ""
 third_nav_title: Instructional Programme
-variant: markdown
+variant: tiptap
 ---
-### Goal(s)
-
-* To nurture students into thinkers, innovators, and contributors.
-* To cultivate the joy of learning Science by developing students’ knowledge, skills and attitudes in scientific-thinking through a well-designed curriculum that focuses on scientific inquiry and authentic learning.
-* To prepare students for a life-long passion in learning Science and enable them to innovate and contribute to a technologically-driven society.
-
-
-### Key Programmes
-
-Beyond Classroom Experience: A variety of science-based activities that exposes students to science beyond the textbook in different environments.
-
-### Science Department Teachers
-
-![](/images/IP/Science/Science_1509.jpg)
-
-### Highlights / Achievements
-
-#### Programme: 
-
-**Beyond Classroom Experience: Molecular Gastronomy Workshop @ the Singapore Science Centre:**
-
-In Term 2, all sec 3 students attended the Molecular Gastronomy Workshop. The Science Department organised this learning experience to help students recognise the importance of science and technology in food. Through this experience, students learnt different techniques to create food that combines science and art. This allows them to understand the chemistry behind various cooking methods.
-
-<figure><img src="/images/IP/Science/2023/photo%201_%20hands%20on%20in%20molecular%20gastronomy.jpg"><figcaption>Hands on in Molecular Gastronomy</figcaption></figure>
-
-<figure><img style="width:300px" src="/images/IP/Science/2023/photo%202_%20forming%20alginate%20at%20molecular%20gastronomy.jpeg"><figcaption>Forming alginate in Molecular Gastronomy</figcaption></figure>
-
-**Science Fair at Jiemin Primary School:**
-
-On 24 May, a group of Sec 2 students were invited to set up booths at Jiemin Primary School Science Fair. The sec 2 students presented and shared scientific concepts they have learnt in lower secondary science such as acids and bases to the primary 5 students.
-
-<figure><img src="/images/IP/Science/2023/photo%203_%20science%20fair%20at%20jiemin%20primary%20school.jpeg"><figcaption>Science Fair at Jiemin Primary School </figcaption></figure>
-
-#### Achievements: 
-
-**Illustratum 2023:**
-
-Illustratum 2023 competition organised by NUS Physics provides a platform for enthusiasts to present complex concepts in a way that captivates and engages. It also fosters curiosity, develops creative and critical thinking as well as a long-life passion for science exploration in students. 
-
-It is the first time that Yishun Secondary School has participated in the competition and one of the team - YISHUN SEC TEAM 2 has clinched the Distinction Award. We competed against schools such as NUS High School of Mathematics and Science, School of Science and Technology and Nanyang Girls’ High School. The awardees are from 3E2: Mohammad Danish Aiman Bin Mohammad Rizal, Chai Chung You Jeremy and Chin Jun Hong Alfred. The other team, YISHUN SEC TEAM 1 from 3E1 Loh Qian Ting, Jaydias Ng Ke Cheng and Vrion Chan received the Certificate of Participation Award.
-
-<figure><img src="/images/IP/Science/2023/photo%204_%20illustratum%20distinction%20award.jpg"><figcaption>Illustratum Distinction Award</figcaption></figure>
-
-<figure><img src="/images/IP/Science/2023/photo%205_%20students%20who%20took%20part%20in%20illustratum%202023.jpg"><figcaption>Students who took part in Illustratum 2023</figcaption></figure>
-
-**21st Elementz Science Project Competition:**
-
-This competition organised by Anderson Secondary School generates interest in scientific study through investigative-type projects in science and provide a platform for North Zone primary and lower secondary school students to share their research findings. The project titled “Investigate Which Type of Starch Makes the Strongest Bioplastics” has received the Silver Award. The awardees are from 1 Care: Hipona Keziah Cody Daddy, Tong Li Xin Fiona, Sun Yuanzhi and Looi Yu Hao Nicas. 
-
-<figure><img src="/images/IP/Science/2023/photo%206_%20elementz%20competition%202023.jpeg"><figcaption>Elementz Competition 2023</figcaption></figure>
-
-<figure><img src="/images/IP/Science/2023/photo%207_%20students%20who%20took%20part%20in%20elementz%20competition.jpeg"><figcaption>Students who took part in Elementz 2023</figcaption></figure>
-
-
-**8th Singapore Junior Biology Olympiad:**
-
-The 8th Singapore Junior Biology Olympiad is jointly organized by the Singapore Institute of Biology and Science Centre Singapore to promote the advancement of Biology for Secondary School students and to encourage students to excel in Biology. The competition comprised a theory round for all students, followed by a practical round for the top seven schools. Demerin Njay Gadon from 4E1 clinched the Silver Award, Loh Tian Fa from 4E1 received the Bronze Award and Y Kanthn from 4E1 received the Honorable Mention.
+<h3>Goal(s)</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To nurture students into thinkers, innovators, and contributors.</p>
+</li>
+<li>
+<p>To cultivate the joy of learning Science by developing students’ knowledge,
+skills and attitudes in scientific-thinking through a well-designed curriculum
+that focuses on scientific inquiry and authentic learning.</p>
+</li>
+<li>
+<p>To prepare students for a life-long passion in learning Science and enable
+them to innovate and contribute to a technologically-driven society.</p>
+</li>
+</ul>
+<h3>Key Programmes</h3>
+<p>Beyond Classroom Experience: A variety of science-based activities that
+exposes students to science beyond the textbook in different environments.</p>
+<h3>Science Department Teachers</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Science_1509.jpg">
+</div>
+<h3>Thinker-Innovator-Contributor Highlights / Achievements (focusing on learning experiences / processes):</h3>
+<h4>Programme:</h4>
+<p><strong><u>Interdisciplinary and Inquiry-based Learning at Rifle Range Nature Park during Student Learning Fest (SLF)</u></strong>
+</p>
+<p>The Science Department adopted an interdisciplinary (Biology-Geography)
+and inquiry-based approach to allow Secondary 4 and 5 Biology students
+to appreciate three overarching ideas: (1) sustainability and conservation,
+(2) relationship between humans and nature and (3) protection of species.
+This was done through a pre-SLF lesson and learning journey at Rifle Range
+Nature Park. Through the entire learning experience, students became well-informed
+of Singapore's efforts in sustainability endeavors and witnessed the application
+of science and technology in park management and conservation. Students
+also gained emerging 21st century competencies as they worked in groups
+to make sense of conflicting needs in Singapore (i.e. urban development
+and environmental conservation) and to critically evaluate collected evidence.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo1_2025.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo2_2025.jpg">
+</div>
+<p>Students visited checkpoints at Rifle Range Nature Park to observe and
+collect information on sustainability features within the park.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo3_2025.jpg">
+</div>
+<p>Students were rewarded with a panoramic view at the Culogo Deck</p>
+<p><strong><u>Secondary 2 Jiemin Primary School Science Outreach</u></strong>
+</p>
+<p>As part of the Secondary 2 science talent program, a group of 24 Secondary
+2 students participated in Jiemin Primary School’s science fair on 26 June
+2024. During the science fair, they explain science concepts that they
+have learnt to the primary school students. The primary school students
+also had the opportunity to do simple experiments and hands-on activities.
+The primary 5 students enthusiastically participated in hands-on experiments,
+where they explored concepts like electricity and chromatography.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo4_2025.jpg">
+</div>
+<p>Jiemin Primary outreach: Yishunites from the Sec 2 science talent programme
+explaining the science behind the popsicle stick catapult.</p>
+<h3>Achievements</h3>
+<p><strong><u>Secondary 1 STEM Playground challenge</u></strong>
+</p>
+<p>Over the course of Term 1 and Term 2, our Secondary 1 students took part
+in the STEM playground challenge jointly held by Science Centre Singapore,
+The James Dyson Foundation and MOE (CPDD). The challenge required our students
+to create a cotton reel using simple materials like rubber bands and toothpicks.
+The challenge also required use to garner votes for a video posted on a
+social media platform. A grand total of 15,716 students from 111 primary
+and secondary schools participated. Yishun Secondary School has emerged
+top 10 in the Secondary School Category.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo5_2025.jpg">
+</div>
+<p>Stem Challenge: Sec 1 science students trying to create cotton reel from
+simple materials like toothpicks and rubber bands.</p>
+<p><strong><u>9th Singapore Junior Biology Olympiad (SJBO)</u></strong>
+</p>
+<p>SJBO is an annual Biology competition that pushes students to excel in
+the discipline by incorporating practical skills and thinking approaches
+in the study of Biology, and promoting critical thinking through application
+questions. Months of revision culminated in an Online Theory Test where
+students applied their learning by attempting a series of rigorous questions
+of ‘O’ and ‘A’ level standards, as well as IBO standard. Out of thirteen
+participants, Bernice Teng Kai Xin from Wong Zhi Hung from 4E1 received
+the Honourable Mention Award for their stellar performance.</p>
+<p><strong><u>Genetic Modification Advisory Committee (GMAC) Students Challenge 2024</u></strong>
+</p>
+<p>GMAC is a multi-agency national committee committed to its task in objectively
+imparting scientifically-sound information on gene modification (GM) technology
+and genetically modified organisms (GMOs) to the public. As part of its
+ongoing public education efforts, GMAC organized the infographic Design
+Competition based on the theme of “What is CRISPR-Cas9 Technology and its
+Applications?” where two teams of Pure Biology students participated in.
+The competition promoted active learning in our students and stimulated
+students’ interest in science-based GM-related topics. The teams showed
+commendable efforts in their research to ensure objectivity, relevance
+and accuracy of scientific information when designing their posters. A
+total of eight students received the Certificate of Participation Award.</p>
+<p><strong><u>16th Singapore National Crystal Growing Challenge at National University of Singapore</u></strong> 
+</p>
+<p>This is a biennial event for secondary school, junior college and polytechnic
+students which was held on 25 May 2024. Steffi Wee from 3 Innovate, Khoo
+Kang Zhe, Eugene from 3 Integrity, Mohamed Mubeen Mohamed Raseem from 3
+Seek and Rathod Dhruv Dilipkumar from 3 Care and their teacher-mentors,
+Ms Ng Puay Hoon and Mr Joshua Khong spent months growing crystals in the
+school’s chemistry laboratory. This year, the students presented Ammonium
+Copper(II) Sulphate Hexahydrate crystals for the Junior Category. They
+received the Certificate of Participation Award.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo6_2025.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo7_2025.jpg">
+</div>
+<p>Students with their crystals</p>
+<p></p>
