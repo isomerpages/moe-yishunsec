@@ -107,7 +107,7 @@ students’ interest in science-based GM-related topics. The teams showed
 commendable efforts in their research to ensure objectivity, relevance
 and accuracy of scientific information when designing their posters. A
 total of eight students received the Certificate of Participation Award.</p>
-<p><strong><u>16th Singapore National Crystal Growing Challenge at National University of Singapore</u></strong> 
+<p><strong><u>16th Singapore National Crystal Growing Challenge at National University of Singapore</u></strong>
 </p>
 <p>This is a biennial event for secondary school, junior college and polytechnic
 students which was held on 25 May 2024. Steffi Wee from 3 Innovate, Khoo
