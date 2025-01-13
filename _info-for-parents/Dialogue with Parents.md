@@ -9,15 +9,16 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/Dialogue with Parents/Sec_1_Parent_Engagement_10Jan2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 Parent Engagement</a>
+<p><a href="/files/Parents/Dialogue with Parents/Sec_1_Parent_Engagement_10Jan2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 Parent Engagement Slides</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Letter to Parents/YSS___Parent_Engagement_Deck_2025.pdf" rel="noopener nofollow" target="_blank">PLD Parent Engagement Deck</a>
+<p><a href="/files/Letter to Parents/YSS___Parent_Engagement_Deck_2025.pdf" rel="noopener nofollow" target="_blank">PLD - Parent Engagement Slides</a>
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Parents/Dialogue with Parents/CCA_Parents_Engagement_2025.pdf" rel="noopener nofollow" target="_blank">CCA - Parents Engagement Slides</a>
+</p>
 </li>
 </ul>
 </li>
