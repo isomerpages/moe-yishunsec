@@ -4,6 +4,24 @@ permalink: /parents/info-for-parents/dwp/
 description: ""
 variant: tiptap
 ---
+<h2>2025</h2>
+<p><strong>Sec 1 Parents Engagement Session - 10 Jan 2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parents/Dialogue with Parents/Sec_1_Parent_Engagement_10Jan2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 Parent Engagement</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Letter to Parents/YSS___Parent_Engagement_Deck_2025.pdf" rel="noopener nofollow" target="_blank">PLD Parent Engagement Deck</a>
+</p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+</li>
+</ul>
 <h2>2024</h2>
 <p><strong>Sec 1 Breakfast Meeting with Parents - 26 Mar 2024</strong>
 </p>
