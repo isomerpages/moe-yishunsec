@@ -36,10 +36,60 @@ dates</p>
 <p>After the above mentioned date, ensure your PLD remains connected to Wi-Fi.
 This will allow for the removal of restrictions and enable the device to
 automatically reset to factory settings.</p>
-<h4>PDLP Student Device Information Kit</h4>
+<h3>Resources</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/PDLP/pdlp%20student%20device%20information%20kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Information Kit</a>
+<p><a href="/files/Letter to Parents/YSS_NDLP_2025___13Jan2025.pdf" rel="noopener nofollow" target="_blank">YSS NDLP 2025 - 13 Jan 2025</a>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Letter to Parents/YSS___Parent_Engagement_Deck_2025.pdf" rel="noopener nofollow" target="_blank">YSS Parent Engagement Deck 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Letter to Parents/Parent_Handbook_2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook 2025</a>
+</p>
+</li>
+</ol>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">MOE Resource Kit for Parents</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents/PDLP/pdlp%20student%20device%20information%20kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">Parent Kit - Raising a Digitally Smart Child</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener nofollow" target="_blank">Bite-size tips and advice via Parenting with MOEsg Instagram</a>
+</p>
+</li>
+<li>
+<p><a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf" rel="noopener nofollow" target="_blank">Parenting for Wellness Toolbox for Parents</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents/PDLP/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">IP2 - Parent Handbook I on Learning with a PLD</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents/PDLP/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">IP3 - Parent Handbook II on Learning with a PLD</a>
+</p>
+</li>
+<li>
+<p><a href="/files/HBL/Parents-Guide-to-Device-Use-for-Home-Based-Learning_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents' Guide To Device Use for HBL</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE - Practising Cyber Wellness</a>
+</p>
+</li>
+<li>
+<p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Library’s Learning &amp; Information Literacy resources</a>
 </p>
 </li>
 </ul>
@@ -147,45 +197,7 @@ hours.</p>
 <p>Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com.
 When emailing the SLS Helpdesk, include your full name, name of the school
 and form class.</p>
-<h3>Resources</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">MOE Resource Kit for Parents</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">Parent Kit - Raising a Digitally Smart Child</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener nofollow" target="_blank">Bite-size tips and advice via Parenting with MOEsg Instagram</a>
-</p>
-</li>
-<li>
-<p><a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf" rel="noopener nofollow" target="_blank">Parenting for Wellness Toolbox for Parents</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents/PDLP/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">IP2 - Parent Handbook I on Learning with a PLD</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents/PDLP/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">IP3 - Parent Handbook II on Learning with a PLD</a>
-</p>
-</li>
-<li>
-<p><a href="/files/HBL/Parents-Guide-to-Device-Use-for-Home-Based-Learning_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents' Guide To Device Use for HBL</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE - Practising Cyber Wellness</a>
-</p>
-</li>
-<li>
-<p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Library’s Learning &amp; Information Literacy resources</a>
-</p>
-</li>
-</ul>
+<h3></h3>
 <h3>2023 Device Details for Sec 1</h3>
 <p><strong>Acer Chromebook Spin R753TN (Chromebook Convertible)</strong>
 </p>
