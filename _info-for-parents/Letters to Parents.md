@@ -8,6 +8,20 @@ variant: tiptap
 <h4>Term 1</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/YSS_NDLP_2025___13Jan2025.pdf" rel="noopener nofollow" target="_blank">YSS NDLP 2025 - 13 Jan 2025</a>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Letter to Parents/YSS___Parent_Engagement_Deck_2025.pdf" rel="noopener nofollow" target="_blank">YSS Parent Engagement Deck 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Letter to Parents/Parent_Handbook_2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook 2025</a>
+</p>
+</li>
+</ol>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/New_Academic_Year_2025_Letter_to_Parents__27_Dec_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">New Academic Year 2025 - 27 Dec 2024</a>
 </p>
 </li>

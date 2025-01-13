@@ -4,6 +4,17 @@ permalink: /students/announcements/
 description: ""
 variant: tiptap
 ---
+<h2>2025</h2>
+<p><strong>2024 GCE O-Level Results Release - 10 Jan 2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/O_Level_Presentation_Admin_brief.pdf" rel="noopener nofollow" target="_blank">Briefing Slides</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p>____________________</p>
 <h2>2024</h2>
 <p><strong>2024 GCE N-Level Results Release - 16 Dec 2024</strong>
 </p>
@@ -235,6 +246,8 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p></p>
+<p>____________________</p>
 <h2>2022</h2>
 <p><strong>Release of GCE N(A) &amp; N(T) Results - 19 Dec 2022</strong>
 </p>
