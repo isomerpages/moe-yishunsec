@@ -42,24 +42,17 @@ variant: tiptap
 </li>
 </ul>
 <h2>Computer Applications (CPA)</h2>
-<h4>Sec 2</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Content Outlines for Electives/2024_Sec_2_G1_CPA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 G1 CPA</a>
-</p>
-</li>
-</ul>
 <h4>Sec 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines for Electives/2024_Sec_3_G1_CPA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 G1 CPA</a>
+<p><a href="/files/Content Outlines for Electives/Content_Outline_2025_3G1.pdf" rel="noopener nofollow" target="_blank">Sec 3 CPA 2025 3G1</a>
 </p>
 </li>
 </ul>
 <h4>Sec 4</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines for Electives/2024_Sec_4NT_CPA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4NT CPA</a>
+<p><a href="/files/Content Outlines for Electives/Content_Outline_2025_4G1.pdf" rel="noopener nofollow" target="_blank">Sec 4 CPA 2025 4G1</a>
 </p>
 </li>
 </ul>
