@@ -39,6 +39,18 @@ automatically reset to factory settings.</p>
 <h3>Resources:</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Parents/PDLP/CE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Option A</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents/PDLP/CE10_Parent_User_Guide_for_Option_B_UPDATED.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Option B</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents/PDLP/CE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Default Option</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/YSS_NDLP_2025___13Jan2025.pdf" rel="noopener nofollow" target="_blank">YSS NDLP 2025 - 13 Jan 2025</a>
 </p>
 <ol data-tight="true" class="tight">
