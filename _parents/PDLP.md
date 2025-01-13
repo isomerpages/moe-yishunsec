@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
-<h4>For Sec 1 to 3 students:</h4>
+<h4>For Sec 1 to 3 students</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>New MOE DMA will be deployed remotely to your child’s/ward’s PLD on <strong>4 November 2024</strong>.</p>
@@ -18,7 +18,7 @@ Form link will sent through PG on <strong>11 November 2024</strong>.</p>
 <p>After School DMA Parent Option will only take effect from <strong>6</strong>  <strong>January 2025</strong>.</p>
 </li>
 </ul>
-<h4>For 2024 Graduating Students:</h4>
+<h4>For 2024 Graduating Students</h4>
 <p>MOE restriction on 2024 graduating students PLD will be removed on following
 dates</p>
 <ul data-tight="true" class="tight">
@@ -36,7 +36,7 @@ dates</p>
 <p>After the above mentioned date, ensure your PLD remains connected to Wi-Fi.
 This will allow for the removal of restrictions and enable the device to
 automatically reset to factory settings.</p>
-<h3>Resources</h3>
+<h3>Resources:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Letter to Parents/YSS_NDLP_2025___13Jan2025.pdf" rel="noopener nofollow" target="_blank">YSS NDLP 2025 - 13 Jan 2025</a>
