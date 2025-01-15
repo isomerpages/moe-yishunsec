@@ -2,9 +2,13 @@
 title: Art
 permalink: /content-outlines/art/
 description: ""
+variant: tiptap
 ---
-### Levels
-
-* [Art - Lower Secondary](/files/Content%20Outlines%20For%20Art/Content-Outline-Art-Lower-Secondary-2021.pdf)
-
-* [Art - Upper Secondary](/files/Content%20Outlines%20For%20Art/Content-Outline-Art-Upper-Secondary-2021.pdf)
+<h3>Levels</h3>
+<ul>
+<li>
+<p><a href="/files/Content Outlines For Art/Content_Outline___Art_Lower_Sec.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Art - Lower Secondary</a>
+</p>
+</li>
+</ul>
+<p></p>
