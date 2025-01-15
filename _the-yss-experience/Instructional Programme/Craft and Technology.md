@@ -333,44 +333,70 @@ James Dyson Foundation (JDF) and Commonwealth Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Team:</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lor Jin
-Ting Avery, 3 Resilience (2024)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muhammed
-Murshid Bin Muhammed Iqbal, 3 Care (2024)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selvakumar
-Naresh, 3 Integrity (2024)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ethan Wong
-Wai Hin (Wang Weixuan), 3 Care (2024)</p>
-<p>Awarded First Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lor Jin Ting Avery, 3 Resilience (2024)</p>
+</li>
+<li>
+<p>Muhammed Murshid Bin Muhammed Iqbal, 3 Care (2024)</p>
+</li>
+<li>
+<p>Selvakumar Naresh, 3 Integrity (2024)</p>
+</li>
+<li>
+<p>Ethan Wong Wai Hin (Wang Weixuan), 3 Care (2024)</p>
+<p><strong>Awarded First Prize</strong>
+</p>
+</li>
+</ul>
 <p></p>
 <p>Team:</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Hui
-Jie, 3 Care (2024)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muhammad
-Azfar Bin Mohamed Gani, 3 Resilience (2024)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ramesh Hemanth,
-3 Respect (2024)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bong Yu
-Yang, Raynen, 3 Respect (2024)</p>
-<p>Awarded Second Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Hui Jie, 3 Care (2024)</p>
+</li>
+<li>
+<p>Muhammad Azfar Bin Mohamed Gani, 3 Resilience (2024)</p>
+</li>
+<li>
+<p>Ramesh Hemanth, 3 Respect (2024)</p>
+</li>
+<li>
+<p>Bong Yu Yang, Raynen, 3 Respect (2024)</p>
+<p><strong>Awarded Second Prize</strong>
+</p>
+</li>
+</ul>
 <p></p>
 <p>Team:</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arockiaraj
-Jabalisaniya, 3 Resilience (2024)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Loy Cheng
-Le, 3 Integrity (2024)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neelakandan
-Meena Sabareeshvar, 3 Respect (2024)</p>
-<p>Awarded Third Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Arockiaraj Jabalisaniya, 3 Resilience (2024)</p>
+</li>
+<li>
+<p>Loy Cheng Le, 3 Integrity (2024)</p>
+</li>
+<li>
+<p>Neelakandan Meena Sabareeshvar, 3 Respect (2024)</p>
+<p><strong>Awarded Third Prize</strong>
+</p>
+</li>
+</ul>
 <p></p>
 <p>Team:</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karthikeyan
-Trinaethraa, 3 Respect (2024)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jayden Tiu,
-3 Care (2024)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Jun Yi,
-3 Integrity (2024)</p>
-<p>Awarded Special Mention</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Karthikeyan Trinaethraa, 3 Respect (2024)</p>
+</li>
+<li>
+<p>Jayden Tiu, 3 Care (2024)</p>
+</li>
+<li>
+<p>Ng Jun Yi, 3 Integrity (2024)</p>
+</li>
+</ul>
+<p><strong>Awarded Special Mention</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -391,13 +417,16 @@ design (done during D&amp;T lesson) to plate their sauce (during FCE lesson)
 during Student Learning Fest (Art).</p>
 <p>&nbsp;</p>
 <p>Xuanie Tan Yin Xuan, 2 Respect (2024)</p>
-<p>Awarded First Prize</p>
+<p><strong>Awarded First Prize</strong>
+</p>
 <p>&nbsp;</p>
 <p>Iman Delysha Binte Abdullah, 2 Soar (2024)</p>
-<p>Awarded Second Prize</p>
+<p><strong>Awarded Second Prize</strong>
+</p>
 <p>&nbsp;</p>
 <p>Lim Jia Xuan, 2 Innovate (2024)</p>
-<p>Awarded Third Prize</p>
+<p><strong>Awarded Third Prize</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -410,13 +439,16 @@ Hope Technik Pte Ltd</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dai Jinheng, Jeremy, 3E4 (2023)</p>
-<p>Awarded First Prize</p>
+<p><strong>Awarded First Prize</strong>
+</p>
 <p>&nbsp;</p>
 <p>Yoong Jia Yi, 3E4 (2023)</p>
-<p>Awarded Second Prize</p>
+<p><strong>Awarded Second Prize</strong>
+</p>
 <p>&nbsp;</p>
 <p>Lin Jian Siang, 3E4 (2023)</p>
-<p>Awarded Third Prize</p>
+<p><strong>Awarded Third Prize</strong>
+</p>
 </td>
 </tr>
 <tr>
