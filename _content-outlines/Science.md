@@ -84,16 +84,9 @@ variant: tiptap
 <h4>Sec 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines For Science/2024_3E_Chemistry_6092_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 3E Pure Chem - 6092</a>
+<p><a href="/files/Content Outlines For Science/2025_3E_G3_Chemistry_6092.pdf" rel="noopener nofollow" target="_blank">2025 3E_G3_Chemistry_6092</a>
 </p>
-</li>
-<li>
-<p><a href="/files/Content Outlines For Science/2024_3E_Sci_Chem__5086_5088_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 3E Sci Chem - 5086_5088</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Content Outlines For Science/2024_3NA_Sci_Chem__5105_5107_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 3NA Sci Chem - 5105_5107</a>
-</p>
+<p></p>
 </li>
 </ul>
 <h4>Sec 4</h4>
