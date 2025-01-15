@@ -291,7 +291,8 @@ of the Art unit’s community work</p>
 <p>Loy Cheng Le, 3 Integrity (2024)</p>
 </li>
 </ul>
-<p>Awarded Second Prize</p>
+<p><strong>Awarded Second Prize</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -545,10 +546,7 @@ Hope Technik Pte Ltd</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p></p>
-<p></p>
 <h3>Craft &amp; Technology Teachers</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/CraftandTech/Craft___Technology_1555.jpg">
 </div>
