@@ -5,7 +5,22 @@ description: ""
 variant: tiptap
 ---
 <h2>2025</h2>
-<p><strong>Sec 2 Breakfast Meeting with Parents - 13 Jan 2024</strong>
+<p><strong>Sec 4&amp;5 Breakfast Meeting with Parents - 15 Jan 2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 4&amp;5 Briefing Slides</p>
+</li>
+</ul>
+<p><strong>Sec 3 Breakfast Meeting with Parents - 14 Jan 2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parents/Dialogue with Parents/2025_Sec_3_Breakfast_Meeting_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Briefing Slides</a>
+</p>
+</li>
+</ul>
+<p><strong>Sec 2 Breakfast Meeting with Parents - 13 Jan 2025</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
