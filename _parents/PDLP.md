@@ -36,8 +36,13 @@ dates</p>
 <p>After the above mentioned date, ensure your PLD remains connected to Wi-Fi.
 This will allow for the removal of restrictions and enable the device to
 automatically reset to factory settings.</p>
+<p></p>
 <h3>Resources:</h3>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="https://moes.portal.relay.school" rel="noopener nofollow" target="_blank">DMA Parent Portal</a>
+</p>
+</li>
 <li>
 <p><a href="/files/Parents/PDLP/CE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Option A</a>
 </p>
