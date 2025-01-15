@@ -250,29 +250,271 @@ of the Art unit’s community work</p>
 <p></p>
 <p></p>
 <h3>Highlights / Achievements</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition / Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Highlight / Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE Series Singapore Competition (IDE Challenge)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The department uses a variety of technologies to engage students like
-3D Pen for art sculpturing, ICT tools like Google Apps, Canva, Miro Board,
-videos for FCE / F&amp;N, and prototyping, ICT tools like Google apps,
-SketchBook, videos, and micro:bit for D&amp;T.</p>
+<p>Jaren Ong Yan Jun, 3 Resilience (2024)</p>
 </li>
 <li>
-<p>MOE D&amp;T Awards in Creative Innovation (Tan Jia Jin) and Creative Adaptation
-(Wu Jiajun) were awarded.</p>
+<p>Iman Nasuha Bin Abdullah, 3 Integrity (2024)</p>
 </li>
 <li>
-<p>Claudine Toh En Ya of 4E3 (2021)’s entry was shortlisted for D&amp;T Awards
-2022.</p>
-</li>
-<li>
-<p>Art works exhibited at the Singapore Youth Festival 2020 online exhibition.</p>
-</li>
-<li>
-<p>Lower Secondary culinary competition, culinary workshops by chefs, and
-healthy eating workshop were some highlights from the department.</p>
+<p>Loy Cheng Le, 3 Integrity (2024)</p>
 </li>
 </ul>
+<p>Awarded Second Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Challenge – Cardboard Chair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalists:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Neelakandan Meena Sabareeshvar, 3 Respect (2024)</p>
+</li>
+<li>
+<p>Arockiaraj Jabalisaniya, 3 Resilience (2024)</p>
+</li>
+<li>
+<p>Lor Jin Ting Avery, 3 Resilience (2024)</p>
+</li>
+<li>
+<p>Loy Cheng Le, 3 Integrity (2024)</p>
+</li>
+<li>
+<p>Jaren Ong Yan Jun, 3 Resilience (2024)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Real-World Co-design Platform, a programme in partnership with DesignSingapore
+Council (Dsg) and industrial experts from Orcadesign, with support from
+James Dyson Foundation (JDF) and Commonwealth Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team:</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lor Jin
+Ting Avery, 3 Resilience (2024)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muhammed
+Murshid Bin Muhammed Iqbal, 3 Care (2024)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selvakumar
+Naresh, 3 Integrity (2024)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ethan Wong
+Wai Hin (Wang Weixuan), 3 Care (2024)</p>
+<p>Awarded First Prize</p>
+<p></p>
+<p>Team:</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Hui
+Jie, 3 Care (2024)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muhammad
+Azfar Bin Mohamed Gani, 3 Resilience (2024)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ramesh Hemanth,
+3 Respect (2024)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bong Yu
+Yang, Raynen, 3 Respect (2024)</p>
+<p>Awarded Second Prize</p>
+<p></p>
+<p>Team:</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arockiaraj
+Jabalisaniya, 3 Resilience (2024)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Loy Cheng
+Le, 3 Integrity (2024)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neelakandan
+Meena Sabareeshvar, 3 Respect (2024)</p>
+<p>Awarded Third Prize</p>
+<p></p>
+<p>Team:</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karthikeyan
+Trinaethraa, 3 Respect (2024)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jayden Tiu,
+3 Care (2024)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Jun Yi,
+3 Integrity (2024)</p>
+<p>Awarded Special Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 - 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ceramics workshop</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Best Pinch Bowl Design Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Secondary Two students created their own animal-inspired pinch bowl
+design (done during D&amp;T lesson) to plate their sauce (during FCE lesson)
+during Student Learning Fest (Art).</p>
+<p>&nbsp;</p>
+<p>Xuanie Tan Yin Xuan, 2 Respect (2024)</p>
+<p>Awarded First Prize</p>
+<p>&nbsp;</p>
+<p>Iman Delysha Binte Abdullah, 2 Soar (2024)</p>
+<p>Awarded Second Prize</p>
+<p>&nbsp;</p>
+<p>Lim Jia Xuan, 2 Innovate (2024)</p>
+<p>Awarded Third Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3D Modelling Competition organised by Rocket Labs in collaboration with
+Hope Technik Pte Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dai Jinheng, Jeremy, 3E4 (2023)</p>
+<p>Awarded First Prize</p>
+<p>&nbsp;</p>
+<p>Yoong Jia Yi, 3E4 (2023)</p>
+<p>Awarded Second Prize</p>
+<p>&nbsp;</p>
+<p>Lin Jian Siang, 3E4 (2023)</p>
+<p>Awarded Third Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Live On Festival (LOF)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lin Xi, 3E5 (2023)
+<br>Awarded Distinction, School Category, 2023</p>
+<p>Mixed media artwork titled Rich in biodiversity</p>
+<p></p>
+<p>Erindianz Amellia Binte Suriyan, 3E5 (2023)</p>
+<p>Awarded Merit, School Category, 2023</p>
+<p>Mixed media artwork titled HEARTfelt Connections</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 - present</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Organic Vegetable Farming workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Secondary Three D&amp;T and NFS students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE D&amp;T Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Claudine Toh En Ya, 4E3 (2021)</p>
+<p>Shortlisted entry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021 - present</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Chef Culinary Competition</p>
+<p>&nbsp;</p>
+<p>Culinary enrichment workshops</p>
+<p>&nbsp;</p>
+<p>Healthy eating workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Interested students who registered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (online exhibition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art works exhibited</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE D&amp;T Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wu Jiajun</p>
+<p>Awarded Creative Adaptation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE D&amp;T Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Jia Jin</p>
+<p>Awarded Creative Innovation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
 <h3>Craft &amp; Technology Teachers</h3>
 <p></p>
 <div class="isomer-image-wrapper">
