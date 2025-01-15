@@ -641,10 +641,18 @@ Hope Technik Pte Ltd</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/CraftandTech/pic%2019.png">
 </div>
-<p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/CraftandTech/DnT2024_1.jpg">
+</div>
+<p>D&amp;T students learning to construct and program a robotic arm that
+can grip blocks
 <br>
 </p>
 <div class="iframe-wrapper">
 <iframe height="882" width="496" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pmfmn2kObkc"></iframe>
 </div>
 <p>Constructed a voltmeter for battery testing using the PLD and micro:bit</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/CraftandTech/DnT2024_2.jpg">
+</div>
+<p>Organic Vegetable Farming Programme for D&amp;T and NFS students</p>
