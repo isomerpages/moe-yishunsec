@@ -44,6 +44,10 @@ variant: tiptap
 <p><a href="/files/Parents/Dialogue with Parents/CCA_Parents_Engagement_2025.pdf" rel="noopener nofollow" target="_blank">CCA - Parents Engagement Slides</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Parents/Dialogue with Parents/Full_Subject_Based_Banding_Briefing_for_Parents.pdf" rel="noopener nofollow" target="_blank">Full Subject Based Banding Briefing for Parents</a>
+</p>
+</li>
 </ul>
 </li>
 </ul>
