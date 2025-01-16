@@ -4,7 +4,7 @@ permalink: /accolades/school/
 description: ""
 variant: tiptap
 ---
-<h3>Cultural Exchange with Singapore Yishun Secondary School Students</h3>
+<h3>Cultural Immersion Programme with Lam Tai Fai College, Hong Kong</h3>
 <p><a href="https://www.ltfc.edu.hk/Website/index.php/campus-news/2283-cultural-exchange-with-singapore-yishun-secondary-school-students.html" rel="noopener noreferrer nofollow" target="_blank">https://www.ltfc.edu.hk/Website/index.php/campus-news/2283-cultural-exchange-with-singapore-yishun-secondary-school-students.html</a>
 </p>
 <h3>A Green Day with Yishun Secondary School</h3>
