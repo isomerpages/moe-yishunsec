@@ -4,8 +4,6 @@ permalink: /students/subject-combinations/
 description: ""
 variant: tiptap
 ---
-<h4>Click here to check <a href="https://sites.google.com/moe.edu.sg/sec-3-posting-results/home" rel="noopener nofollow" target="_blank">Sec 3 Posting Results</a></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 3 Subject Combinations/Subject_Combi_Timeline_2024.jpg">
 </div>
