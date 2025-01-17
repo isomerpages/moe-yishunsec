@@ -147,7 +147,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">Self-reset Student's MIMS / Email Password</a>
+<p><a href="https://yss.padlet.org/" rel="noopener noreferrer nofollow" target="_blank">Padlet</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,7 +157,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://yss.padlet.org/" rel="noopener noreferrer nofollow" target="_blank">Padlet</a>
+<p><a href="https://nearpod.com/" rel="noopener noreferrer nofollow" target="_blank">Nearpod</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,7 +167,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://nearpod.com/" rel="noopener noreferrer nofollow" target="_blank">Nearpod</a>
+<p><a href="https://www.mindmeister.com/" rel="noopener noreferrer nofollow" target="_blank">Mindmeister</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,7 +177,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mindmeister.com/" rel="noopener noreferrer nofollow" target="_blank">Mindmeister</a>
+<p><a href="https://form.gov.sg/6461c57c1af9a80012cbb53d" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration for non-PG users</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -187,7 +187,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6461c57c1af9a80012cbb53d" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration for non-PG users</a>
+<p><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">ChatGPT (AI tool)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,7 +197,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">ChatGPT (AI tool)</a>
+<p><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank">Microsoft Copilot (AI tool)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -207,7 +207,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank">Microsoft Copilot (AI tool)</a>
+<p><a href="https://quillbot.com/ai-content-detector" rel="noopener nofollow" target="_blank">AI Content Detector</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -217,8 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://quillbot.com/ai-content-detector" rel="noopener nofollow" target="_blank">AI Content Detector</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB Learning &amp; Information Literacy Resources</a>
