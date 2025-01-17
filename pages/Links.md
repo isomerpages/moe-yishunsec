@@ -217,7 +217,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://quillbot.com/ai-content-detector" rel="noopener nofollow" target="_blank">AI Content Detector</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB Learning &amp; Information Literacy Resources</a>
