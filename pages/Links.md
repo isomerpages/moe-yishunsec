@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetables/Teachers Timetable/Teachers_Timetable_v4.pdf" rel="noopener noreferrer nofollow" target="_blank">Teachers' Timetable 2025</a>
+<p><a href="/files/Timetables/Teachers Timetable/2025_Teacher_Timetable_v5.pdf" rel="noopener noreferrer nofollow" target="_blank">Teachers' Timetable 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetables/VenueTT/Venues_Timetable_v4.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable by Venue 2025</a>
+<p><a href="/files/Timetables/VenueTT/2025_Venues_Timetable_v5.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable by Venue 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
