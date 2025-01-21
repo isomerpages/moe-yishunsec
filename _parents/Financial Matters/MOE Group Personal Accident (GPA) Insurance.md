@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Financial Matters
 variant: tiptap
 ---
-<h3><strong>MOE has an insurance plan with NTUC Income for students.</strong></h3>
+<h3>MOE has an insurance plan with NTUC Income for students.</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>All student accident insurance claims submission are to be submitted electronically</p>
