@@ -7,19 +7,19 @@ variant: tiptap
 <h2>2025 Sem 1</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetables/Students Timetable/2025_Sec_1_Class_Timetable_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/2025_Sec_1_Class_Timetable_v3.pdf" rel="noopener nofollow" target="_blank">Sec 1 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/2025_Sec_2_Class_Timetable_v2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/2025_Sec_2_Class_Timetable_v3.pdf" rel="noopener nofollow" target="_blank">Sec 2 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/2025_Sec_3_Class_Timetable_v2.pdf" rel="noopener nofollow" target="_blank">Sec 3 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/2025_Sec_3_Class_Timetable_v3.pdf" rel="noopener nofollow" target="_blank">Sec 3 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/2025_Sec_4_5Class_Timetable_v3.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Timetable</a>
+<p><a href="/files/Timetables/Students Timetable/2025_Sec_4_and_5Class_Timetable_v3.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Timetable</a>
 </p>
 </li>
 </ul>
