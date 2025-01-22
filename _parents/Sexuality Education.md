@@ -937,8 +937,8 @@ completed form is to be submitted by 30/01/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at <strong>68767129</strong> or email:
-<a href="mailto:yishun_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yishun_ss@moe.edu.sg</a>for discussion or to seek clarification about
+<a href="mailto:yishun_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yishun_ss@moe.edu.sg_</a>for discussion or to seek clarification about
 the school’s sexuality education programme.</p>
 </li>
 </ol>
-<p></p>
+<p>_</p>
