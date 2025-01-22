@@ -8,6 +8,10 @@ variant: tiptap
 <h4>Term 1</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/Letter_to_Parent__Sexuality_Education_2025.pdf" rel="noopener nofollow" target="_blank">Sexuality Education 2025 - 22 Jan 2025</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/YSS_NDLP_2025___13Jan2025.pdf" rel="noopener nofollow" target="_blank">YSS NDLP 2025 - 13 Jan 2025</a>
 </p>
 <ol data-tight="true" class="tight">
