@@ -926,14 +926,14 @@ external providers.</p>
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <em><a href="/files/Parents/Sexuality Education/Annex_A_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></em>.
-The completed form is to be submitted by 30/01/2025.</p>
+at the start of the year and is also downloadable <a href="/files/Parents/Sexuality Education/Annex_A_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The
+completed form is to be submitted by 30/01/2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <em><a href="/files/Parents/Sexuality Education/Annex_B_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></em>.
-The completed form is to be submitted by 30/01/2025.</p>
+at the start of the year and is also downloadable <a href="/files/Parents/Sexuality Education/Annex_B_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The
+completed form is to be submitted by 30/01/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at <strong>68767129</strong> or email:
