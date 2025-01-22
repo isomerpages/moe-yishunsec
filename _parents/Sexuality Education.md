@@ -257,7 +257,7 @@ etc.)</p>
 </tbody>
 </table>
 <p></p>
-<h3>2025 Sexuality Education Lessons in CCE</h3>
+<h4>2025 Sexuality Education Lessons in CCE</h4>
 <h4><strong>Secondary 2</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -403,7 +403,7 @@ both offline and online</p>
 </tbody>
 </table>
 <p></p>
-<h3>2025 Sexuality Education Lessons in CCE</h3>
+<h4>2025 Sexuality Education Lessons in CCE</h4>
 <h4><strong>Secondary 3</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -566,7 +566,7 @@ alignment with our beliefs</p>
 </tbody>
 </table>
 <p></p>
-<h3>2025 Sexuality Education Lessons in CCE</h3>
+<h4>2025 Sexuality Education Lessons in CCE</h4>
 <h4><strong>Secondary 4</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -765,7 +765,7 @@ alignment with our beliefs</p>
 </tbody>
 </table>
 <p></p>
-<h3>2025 Sexuality Education Lessons in CCE</h3>
+<h4>2025 Sexuality Education Lessons in CCE</h4>
 <h4><strong>Secondary 5</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -835,7 +835,7 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<h3>eTeens Programme:</h3>
+<h4>eTeens Programme:</h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>eTeens is a programme developed by Health Promotion Board, in collaboration
@@ -916,7 +916,7 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
-<h3>INFORMATION FOR PARENTS</h3>
+<h4>INFORMATION FOR PARENTS</h4>
 <ol start="10">
 <li>
 <p>Parents may opt their children out of the Sexuality Education lessons,
