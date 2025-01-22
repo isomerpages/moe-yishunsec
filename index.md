@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: YSS NDLP 2025
+      description: Sexuality Education 2025
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
