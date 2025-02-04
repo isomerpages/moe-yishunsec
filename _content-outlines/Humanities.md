@@ -45,7 +45,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines_Humanities/Geography/Sec_4_G3_Pure_Geography_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 G3 Pure Geography Content Outline</a>
+<p><a href="/files/Content Outlines_Humanities/Geography/Sec_4_G3_Pure_Geography_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 G3 Pure Geo Content Outline</a>
 </p>
 </li>
 </ul>
