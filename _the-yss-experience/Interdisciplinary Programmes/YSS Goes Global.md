@@ -39,7 +39,8 @@ hosting foreign friends in Singapore</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/SMP_Kristen_Penabur_Jakarta_4_5_Feb_2025.jpg">
 </div>
-<p>SMP Kristen Penabur Jakarta 4-5 Feb 2025</p>
+<p><em>SMP Kristen Penabur Jakarta 4-5 Feb 2025</em>
+</p>
 <h3>Cultural Immersion Programme with Lam Tai Fai College, Hong Kong</h3>
 <p><a href="https://www.ltfc.edu.hk/Website/index.php/campus-news/2283-cultural-exchange-with-singapore-yishun-secondary-school-students.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ltfc.edu.hk/Website/index.php/campus-news/2283-cultural-exchange-with-singapore-yishun-secondary-school-students.html</u></a>
 </p>
