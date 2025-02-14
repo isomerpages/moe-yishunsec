@@ -35,6 +35,11 @@ opportunity to make international friends and expose them to different
 cultures and lifestyles.</p>
 <p>Besides travelling abroad, Yishun Secondary School also look forward to
 hosting foreign friends in Singapore</p>
+<h3>Hosting our friends from Asia (change from ASEAN to Asia)</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Schools_in_Guizhou_7_Feb_2025_1.jpg">
+</div>
+<p>Schools in Guizhou 7 Feb 2025</p>
 <h3>Hosting our friends from ASEAN</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/SMP_Kristen_Penabur_Jakarta_4_5_Feb_2025.jpg">
