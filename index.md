@@ -19,12 +19,12 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: Sexuality Education 2025
+      description: Suspension of Food Resilience Preparedness Programme (FRPP)
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
       subtitle: Announcements
-      image: /images/announcement.jpg
+      image: /images/Announcements/Letter_to_Parents.png
   - infopic:
       title: DSA in YSS
       subtitle: Announcements
