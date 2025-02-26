@@ -5,6 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>2025</strong></h2>
+<h4>Term 2 - WA 2</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA_2025_v2.pdf" rel="noopener nofollow" target="_blank">2025 Overview of YSS Weighted Assessment</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/Sec_1_T2_WA2___2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 T2 WA2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/Sec_2_T2_WA2___2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 T2 WA2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/Sec_3_T2_WA2___2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 T2 WA2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/Sec_4_5_T2_WA2___2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 T2 WA 2</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4>Term 1 - WA 1</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -12,19 +36,19 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/Sec_1_2025_WA_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA_Sec_1_Term_1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/Sec_2_2025_WA_v2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA_Sec_2_Term_1_updated_on_13_Jan.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/Sec_3_2025_WA_v2.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/Weighted Assessment/2025_YSS_WA_Sec_3_Term_1_updated_4_Feb.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/Sec_4_5_2025_WA_v2.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA_S4_and_5_Term_1_updated_on_21_Jan_1700.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
 </li>
 </ul>
