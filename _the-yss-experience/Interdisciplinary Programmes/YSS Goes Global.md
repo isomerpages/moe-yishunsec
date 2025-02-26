@@ -35,7 +35,7 @@ opportunity to make international friends and expose them to different
 cultures and lifestyles.</p>
 <p>Besides travelling abroad, Yishun Secondary School also look forward to
 hosting foreign friends in Singapore</p>
-<h3>Hosting friends from Asia  </h3>
+<h3>Hosting friends from Asia</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/SMP_Kristen_Penabur_Schools.jpg">
 </div>
