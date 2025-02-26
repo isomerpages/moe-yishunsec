@@ -8,23 +8,23 @@ variant: tiptap
 <h4>Term 1 - WA 1</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_Weighted_Assessment_for_Year_2025.pdf" rel="noopener nofollow" target="_blank">2025 Overview of YSS Weighted Assessment</a>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA_2025_v2.pdf" rel="noopener nofollow" target="_blank">2025 Overview of YSS Weighted Assessment</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA_Sec_1_Term_1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/Weighted Assessment/Sec_1_2025_WA_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA_Sec_2_Term_1_updated_on_13_Jan.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/Weighted Assessment/Sec_2_2025_WA_v2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/2025_YSS_WA_Sec_3_Term_1_updated_4_Feb.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/Weighted Assessment/Sec_3_2025_WA_v2.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/2025_Overview_of_YSS_WA_Sec_4_and_5_T1_updated_on_11_Feb.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
+<p><a href="/files/Weighted Assessment/Sec_4_5_2025_WA_v2.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
 </li>
 </ul>
