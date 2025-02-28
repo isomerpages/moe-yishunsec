@@ -8,6 +8,10 @@ variant: tiptap
 <h4>Term 1</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/Sec_1_3_HBL_Days_and_Upper_Secondary_School_based_Oral_Exam___28_Feb_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 HBL Days and Upper Secondary School-based Oral Exam - 28 Feb 2025</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/Suspension_of_Food_Resilience_Preparedness_Programme__FRPP_.pdf" rel="noopener nofollow" target="_blank">Suspension of Food Resilience Preparedness Programme (FRPP) - 20 Feb 2025</a>
 </p>
 </li>
