@@ -8,6 +8,10 @@ variant: tiptap
 <h4>Term 1</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/MTL_Fortnight_Acknowledgement_form_Sec_1___3_Mar_2025.pdf" rel="noopener nofollow" target="_blank">MTL Fortnight for Sec 1 - 3 Mar 2025</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/Sec_1_3_HBL_Days_and_Upper_Secondary_School_based_Oral_Exam___28_Feb_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 HBL Days and Upper Secondary School-based Oral Exam - 28 Feb 2025</a>
 </p>
 </li>
