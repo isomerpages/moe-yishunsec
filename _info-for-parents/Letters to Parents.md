@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Letter to Parents/MTL_Fortnight_Acknowledgement_form_Sec_1___3_Mar_2025.pdf" rel="noopener nofollow" target="_blank">MTL Fortnight for Sec 1 - 26 Feb 2025</a>
+<p><a href="/files/Letter to Parents/MTL_Fortnight_Acknowledgement_form_Sec_1___26_Feb_2025.pdf" rel="noopener nofollow" target="_blank">MTL Fortnight for Sec 1 - 26 Feb 2025</a>
 </p>
 </li>
 <li>
