@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: MTL Fortnight for Sec 1 - 3 Mar 2025
+      description: Sec 1-3 HBL Days and Upper Secondary School-based Oral Exam
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
