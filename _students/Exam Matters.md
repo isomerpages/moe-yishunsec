@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/Sec_2_T2_WA2___2025_v2.pdf" rel="noopener nofollow" target="_blank">Sec 2 T2 WA2</a>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA_Sec_2_Mar25.pdf" rel="noopener nofollow" target="_blank">Sec 2 T2 WA2</a>
 </p>
 </li>
 <li>
