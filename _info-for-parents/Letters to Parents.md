@@ -8,6 +8,10 @@ variant: tiptap
 <h4>Term 1</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/End_of_Term_1___13_Mar_2025.pdf" rel="noopener nofollow" target="_blank">End of Term 1 - 13 Mar 2025</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/Sec_1_3_HBL_Days_and_Upper_Secondary_School_based_Oral_Exam___28_Feb_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 HBL Days and Upper Secondary School-based Oral Exam - 28 Feb 2025</a>
 </p>
 </li>
