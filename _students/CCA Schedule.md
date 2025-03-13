@@ -9,7 +9,7 @@ variant: tiptap
 <h4>2025 March holidays CCA schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/YSS_March_Holidays_CCA_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">17 Mar to 21 Mar 2025</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1fOJxUtNQ-F_VAPJ4A1ChLTMpxdvVRQkmBAw4qsSsJ2k/edit?usp=sharing" rel="noopener nofollow" target="_blank">17 Mar to 21 Mar 2025</a>
 </p>
 </li>
 </ul>
