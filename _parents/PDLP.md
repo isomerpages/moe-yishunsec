@@ -198,7 +198,6 @@ hours.</p>
 <p>Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com.
 When emailing the SLS Helpdesk, include your full name, name of the school
 and form class.</p>
-<h3></h3>
 <h3>2023 Device Details for Sec 1</h3>
 <p><strong>Acer Chromebook Spin R753TN (Chromebook Convertible)</strong>
 </p>
