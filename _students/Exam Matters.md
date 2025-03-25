@@ -32,7 +32,7 @@ variant: tiptap
 <h4>Term 1 - WA 1</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA_2025_v2.pdf" rel="noopener nofollow" target="_blank">2025 Overview of YSS Weighted Assessment</a>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA_2025_v2.pdf" rel="noopener nofollow" target="_blank">2025 Overview of YSS WA 1</a>
 </p>
 </li>
 <li>
