@@ -5,38 +5,22 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
-<h4>For Sec 1 to 3 students</h4>
+<h4>For Sec 1 students:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>New MOE DMA will be deployed remotely to your child’s/ward’s PLD on <strong>4 November 2024</strong>.</p>
-</li>
-<li>
-<p>Indicate preferred choice of After-School DMA Parent Option by <strong>19 November 2024</strong>.
-Form link will sent through PG on <strong>11 November 2024</strong>.</p>
-</li>
-<li>
-<p>After School DMA Parent Option will only take effect from <strong>6</strong>  <strong>January 2025</strong>.</p>
-</li>
-</ul>
-<h4>For 2024 Graduating Students</h4>
-<p>MOE restriction on 2024 graduating students PLD will be removed on following
-dates</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>4T - <strong>06 November 2024</strong>
+<p>PLDs will be issued to Secondary 1 students on <strong>3 April 2025</strong>
 </p>
 </li>
 <li>
-<p>4E/4N/5N - <strong>15 November 2024</strong>
+<p>Parents/Guardians must select After-School DMA options through Parents
+Gateway by <strong>15 April 2025</strong>
+</p>
+</li>
+<li>
+<p>The selected After-School DMA options will be implemented from <strong>5 May 2025</strong>
 </p>
 </li>
 </ul>
-<p><strong><u>What you have to do?</u></strong>
-</p>
-<p>After the above mentioned date, ensure your PLD remains connected to Wi-Fi.
-This will allow for the removal of restrictions and enable the device to
-automatically reset to factory settings.</p>
-<p></p>
 <h3>Resources:</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -214,7 +198,6 @@ hours.</p>
 <p>Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com.
 When emailing the SLS Helpdesk, include your full name, name of the school
 and form class.</p>
-<h3></h3>
 <h3>2023 Device Details for Sec 1</h3>
 <p><strong>Acer Chromebook Spin R753TN (Chromebook Convertible)</strong>
 </p>
