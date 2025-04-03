@@ -17,6 +17,13 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
+  - infobar:
+      title: OUR GR39TEST SHOW
+      id: infobar
+      description: 39th Speech & Prize Presentation and Student Leaders' Investiture -
+        4 Apr 2025 @ 5pm
+      button: Read More
+      url: /Speech_Day_and_Student_Leaders_Investiture_2025_v1
   - infopic:
       title: Letter to Parents
       description: End of Term 1 2025
