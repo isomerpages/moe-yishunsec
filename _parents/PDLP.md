@@ -17,7 +17,7 @@ Gateway by <strong>15 April 2025</strong>
 </p>
 </li>
 <li>
-<p>The selected After-School DMA options will be implemented from <strong>5 May 2025</strong>
+<p>The selected After-School DMA options will be implemented by <strong>5 May 2025</strong>
 </p>
 </li>
 </ul>
