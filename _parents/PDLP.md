@@ -28,7 +28,7 @@ Gateway by <strong>15 April 2025</strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents/PDLP/CE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Option A</a>
+<p><a href="/files/Parents/PDLP/Chromebook___Parent_Option_A_Group.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Option A</a>
 </p>
 </li>
 <li>
