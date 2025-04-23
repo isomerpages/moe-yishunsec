@@ -8,11 +8,11 @@ variant: tiptap
 <h4>Term 2 - WA 2</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA_25Mar25.pdf" rel="noopener nofollow" target="_blank">2025 Overview of YSS WA 2</a>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA___23_Apr_2025.pdf" rel="noopener nofollow" target="_blank">2025 Overview of YSS WA 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/2025_Sec_1_WA2_Term2.pdf" rel="noopener nofollow" target="_blank">Sec 1 T2 WA 2</a>
+<p><a href="/files/Weighted Assessment/Sec1WA_23Apr2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 T2 WA 2</a>
 </p>
 </li>
 <li>
@@ -20,11 +20,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/2025_Sec_3_WA_4Apr2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 T2 WA 2</a>
+<p><a href="/files/Weighted Assessment/Sec3WA_23Apr2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 T2 WA 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA_Sec_4_5_Mar25.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 T2 WA 2</a>
+<p><a href="/files/Weighted Assessment/Sec4_5WA_23Apr2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 T2 WA 2</a>
 </p>
 </li>
 </ul>
