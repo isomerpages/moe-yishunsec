@@ -4,7 +4,7 @@ permalink: /yss-student-learning-festival/
 variant: tiptap
 description: ""
 ---
-<h3>YSS Student Learning Festival 2025</h3>
+<h3><strong>YSS Student Learning Festival 2025</strong></h3>
 <p>In line with our aim to provide exciting and enriching learning experiences
 for our students, the school is organising our Student Learning FestivaI
 in Term 2 Week 8, from Tue, 13 May to Fri, 16 May. The learning festival
