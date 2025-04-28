@@ -17,6 +17,14 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
+  - infobar:
+      title: YSS Student Learning Festival 2025
+      subtitle: Announcements
+      id: infobar
+      description: In line with our aim to provide exciting and enriching learning
+        experiences for our students...
+      button: Read More
+      url: /yss-student-learning-festival
   - infopic:
       title: Letter to Parents
       description: General Elections 2025 – Adjustment to School Programmes and Activities
