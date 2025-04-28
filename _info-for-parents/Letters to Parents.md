@@ -5,6 +5,22 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>2025</strong></h2>
+<h4>Term 2</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Letter to Parents/General_Elections_2025___Adjustment_to_School_Programmes_and_Activities___25Apr2025.pdf" rel="noopener nofollow" target="_blank">General Elections 2025 – Adjustment to School Programmes and Activities - 25 Apr 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Letter to Parents/YSS_ANNUAL_CROSS_COUNTRY_EVENT_25Apr2025.pdf" rel="noopener nofollow" target="_blank">YSS Annual Cross-Country Event - 25 Apr 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Letter to Parents/Secondary_3_Outdoor_Adventure_Day_Camp_2025_23Apr2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Outdoor Adventure Day Camp 2025 - 23 Apr 2025</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4>Term 1</h4>
 <ul data-tight="true" class="tight">
 <li>
