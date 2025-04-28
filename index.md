@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: End of Term 1 2025
+      description: General Elections 2025 – Adjustment to School Programmes and Activities
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
