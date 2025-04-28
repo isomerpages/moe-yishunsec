@@ -4,18 +4,22 @@ permalink: /yss-student-learning-festival/
 variant: tiptap
 description: ""
 ---
+<h3>YSS Student Learning Festival 2025</h3>
 <p>In line with our aim to provide exciting and enriching learning experiences
 for our students, the school is organising our Student Learning FestivaI
-in Term 2 Week 5, from Mon, 15 Apr to Fri, 19 Apr. The learning festival
+in Term 2 Week 8, from Tue, 13 May to Fri, 16 May. The learning festival
 brings the classroom out into the world so students can experience for
 themselves what they have learnt in the textbooks and benefit from educational
 and development opportunities beyond our standard curriculum.</p>
-<p>The reporting times and end times for the programme differ according to
-the grouping of the students. Each student would have received his/her
-customised programme for the five days by Mon, 8 Apr, and your child/ward
-will be informed about the reporting and dismissal time by their Form Teachers.</p>
+<p>The timings for the programmes differ according to the grouping of the
+students and your child/ward will be informed about the reporting and dismissal
+time by their Form Teachers.</p>
 <h3><strong>Secondary 1</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -28,82 +32,55 @@ will be informed about the reporting and dismissal time by their Form Teachers.<
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>Mon, 15 April</p>
+<td rowspan="2" colspan="1">
+<p>Tue, 13 May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A Walk in the Park</p>
+<p>Science Exploring Day</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science Exploration</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>StAR Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Tue, 16 April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A Walk in the Park</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science Exploration</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>StAR Programme</p>
+<p>Historical Investigation – Contributions of Immigrants in the 1900s</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Wed, 17 April</p>
+<p>Wed, 14 May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grocery Shopping</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science Centre Workshop</p>
+<p>Science Exploring Day</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thu, 18 April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Grocery Shopping</p>
+<p>Historical Investigation – Contributions of Immigrants in the 1900s</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Thu, 15 May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science Centre Workshop</p>
+<p>Geographical-Science Investigation to Bishan-Ang Mo Kio Park</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri, 19 April</p>
+<p>Fri, 16 May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Video Editing</p>
+<p>HBL</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3><strong>Secondary 2</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -198,7 +175,11 @@ will be informed about the reporting and dismissal time by their Form Teachers.<
 </tbody>
 </table>
 <h3><strong>Secondary 3</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -307,7 +288,11 @@ will be informed about the reporting and dismissal time by their Form Teachers.<
 </tbody>
 </table>
 <h3>&nbsp;<strong>Secondary 4/5</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
