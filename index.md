@@ -36,4 +36,12 @@ sections:
   - resources:
       title: Information from YSS
       button: Read more...
+  - infobar:
+      title: YSS Student Learning Festival 2025
+      subtitle: Announcements
+      id: infobar
+      description: In line with our aim to provide exciting and enriching learning
+        experiences for our students...
+      button: Read More
+      url: /yss-student-learning-festival
 ---
