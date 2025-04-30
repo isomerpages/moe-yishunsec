@@ -27,7 +27,7 @@ sections:
       url: /yss-student-learning-festival
   - infopic:
       title: Letter to Parents
-      description: General Elections 2025 – Adjustment to School Programmes and Activities
+      description: Student Learning Festival - 30 Apr 2025
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
