@@ -4,23 +4,6 @@ permalink: /parents/pdlp/
 description: ""
 variant: tiptap
 ---
-<h3>Announcements</h3>
-<h4>For Sec 1 students:</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>PLDs will be issued to Secondary 1 students on <strong>3 April 2025</strong>
-</p>
-</li>
-<li>
-<p>Parents/Guardians must select After-School DMA options through Parents
-Gateway by <strong>15 April 2025</strong>
-</p>
-</li>
-<li>
-<p>The selected After-School DMA options will be implemented by <strong>5 May 2025</strong>
-</p>
-</li>
-</ul>
 <h3>Resources:</h3>
 <ul data-tight="true" class="tight">
 <li>
