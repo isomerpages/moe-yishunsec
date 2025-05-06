@@ -577,7 +577,7 @@ team are <u>also</u> encouraged to apply</p>
 <p></p>
 <p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
-<h4>Yishun Secondary School DSA (Sec) 2024 Timeline</h4>
+<h4>Yishun Secondary School DSA (Sec) 2025 Timeline</h4>
 <p><strong>Date: 7 May – 3 June</strong>
 </p>
 <p><strong>Activity:</strong> 
