@@ -4,20 +4,19 @@ permalink: /students/dsa/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_in_YSS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/YSS_DSA.png">
 </div>
 <p></p>
-<h4>General Information about Direct School Admission (Secondary) 2024</h4>
+<h4>General Information about Direct School Admission (Secondary) for Admission in 2026</h4>
 <p>The Direct School Admission-Secondary (DSA-Sec) scheme provides students
 with the opportunity to seek admission to a secondary school, based on
 a diverse range of specific academic and non-academic achievements and
 talents that they can demonstrate beyond the PSLE.</p>
-<p>From 7 May 2024 at 11am, application for DSA-Sec can be submitted through
+<p>From 7 May 2025 at 11 am, application for DSA-Sec can be submitted through
 the online DSA-Sec Portal. The application is free-of-charge and will be
-open from 7 May (11am) to 3 June 2024 (3pm). For more details, please refer
-to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+open from 7 May (11am) to 3 June (3pm) 2025. For more details, please refer
+to MOE website –<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the school’s academic
@@ -25,37 +24,28 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <h4>DSA-Sec @Yishun Secondary School</h4>
 <p>All Secondary One students admitted to our school via DSA-Sec will benefit
-from our talent development programmes to <strong>develop </strong>their <strong>potential</strong>,
-and/or to be groomed to be <strong>leaders </strong>in their respective
-talent areas. They will develop both performance and moral character through
-our customised programme as they grow within their respective CCAs and
-student development programmes.</p>
-<h5>In Yishun Secondary, the <u>10 talent areas</u> under DSA-Sec are:</h5>
+from our talent development programmes to develop their potential, and/or
+to be groomed to be leaders in their respective talent areas. They will
+develop both performance and moral character through our customised programme
+as they grow within their respective CCAs and student development programmes.</p>
+<h5>In Yishun Secondary, the <u>9 talent areas</u> under DSA-Sec are:</h5>
 <ol data-tight="true" class="tight">
-<li>
-<p><strong><u>Media:</u></strong> For students who demonstrate aptitude and
-passion in Media, they can look forward to being part of our school’s Applied
-Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), and/or
-take part in CCAs such as Media Club focussing on Audio-Visual Aid (AVA),
-Photography and Videography.</p>
-</li>
 <li>
 <p><strong><u>Music:</u></strong> For students who demonstrate aptitude and
 passion in Music, they can look forward to being part of our school’s Applied
 Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), Music
 Performance and Creation, and in CCAs such as Choir, Guzheng Ensemble and
-Symphonic Band. Students will have the opportunity to offer Music Syllabus
-T at the GCE N (T)-Level Examination.</p>
+Symphonic Band.</p>
 </li>
 <li>
 <p><strong><u>Dance:</u></strong> Students who demonstrate aptitude and passion
 in Dance can be involved in dance performances at our school-based art
-showcases, as well as being part of school’s cultural dance CCAs such as <strong>Malay Dance</strong> or <strong>Indian Dance</strong>.
-Students who demonstrate an aptitude and passion for contemporary, hip-hop
-and street dance can be part of <strong>Modern Dance</strong>. They can
-be involved in external competitions that will further develop their dance
-techniques and their character. Students will learn to lead, to care and
-to empathise as they plan and train for concerts and competitions.</p>
+showcases, as well as being part of school’s cultural dance CCAs such as
+Malay Dance or Indian Dance. Students who demonstrate an aptitude and passion
+for contemporary, hip-hop and street dance can be part of Modern Dance.
+They can be involved in external competitions that will further develop
+their dance techniques and their character. Students will learn to lead,
+to care and to empathise as they plan and train for concerts and competitions.</p>
 </li>
 <li>
 <p><strong><u>Drama-English:</u></strong> For students who demonstrate aptitude
@@ -113,9 +103,118 @@ and/or aptitude in their talent area</p>
 <p>Conduct and Attitude for Learning: Applicants should demonstrate evidence
 of good conduct in school, as well as a positive attitude for learning
 and demeanour</p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Talent Area</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student’s experience in Yishun Secondary School</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Selection Criteria</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Selection Process</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Drama - English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>D’lite Club (English Drama)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Student leadership opportunities</p>
+</li>
+<li>
+<p>Performance at <em>Arts Extravaganza</em>
+</p>
+</li>
+<li>
+<p>Script writing workshop</p>
+</li>
+<li>
+<p>Exposure to different theatre forms</p>
+</li>
+<li>
+<p>Performances within and outside of school</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate aptitude and passion in Drama</p>
+<p></p>
+</li>
+<li>
+<p>Preferably have represented their primary schools in National/International
+events (e.g. SYF, competitions etc)</p>
+<p></p>
+</li>
+<li>
+<p>Students without any prior experience or formal training in Drama are <u>also </u>encouraged
+to apply</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Stage 1 </u></strong>(Application)</p>
+<p>Application will be conducted online. Do submit the child's application
+online through the DSA-Sec portal.</p>
+<p></p>
+<p><strong><u>Stage 2</u></strong>
+</p>
+<p>Applicants are required to come for an in- person interview and provide
+samples of student’s past work or performance or perform in front of a
+panel.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>1. Media</h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
