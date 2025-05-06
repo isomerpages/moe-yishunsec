@@ -578,7 +578,7 @@ team are <u>also</u> encouraged to apply</p>
 <p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
 <h4>Yishun Secondary School DSA (Sec) 2025 Timeline</h4>
-<p><strong>Date:  7 May (11am) to 3 June (3pm) 2025</strong>
+<p><strong>Date: 7 May (11am) to 3 June (3pm) 2025</strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
@@ -626,6 +626,6 @@ outcome during PSLE results release</p>
 </div>
 <p>DSA Student’s Voice – Learn how our current DSA students have benefitted
 from joining YSS through DSA.</p>
-<p><a href="https://www.youtube.com/playlist?list=PLrv-TlJ2C0chpwelungvolO4WM8MnXvCO" rel="noopener noreferrer nofollow" target="_blank">Click here to view our YSS talents in action in the recent SYF Arts Presentation 2023.</a>
+<p><a href="https://www.youtube.com/playlist?list=PLrv-TlJ2C0chpwelungvolO4WM8MnXvCO" rel="noopener noreferrer nofollow" target="_blank">Click here to view our YSS talents in action in the recent SYF Arts Presentation.</a>
 </p>
 <p></p>
