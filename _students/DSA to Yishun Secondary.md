@@ -15,12 +15,15 @@ talents that they can demonstrate beyond the PSLE.</p>
 <p>From 7 May 2025 at 11 am, application for DSA-Sec can be submitted through
 the online DSA-Sec Portal. The application is free-of-charge and will be
 open from 7 May (11am) to 3 June (3pm) 2025. For more details, please refer
-to MOE website –<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+to MOE website –<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the school’s academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
+<p>Students who are successfully admitted to the school via DSA are required
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from year 1-4.</p>
 <h4>DSA-Sec @Yishun Secondary School</h4>
 <p>All Secondary One students admitted to our school via DSA-Sec will benefit
 from our talent development programmes to develop their potential, and/or
@@ -157,7 +160,9 @@ events (e.g. SYF, competitions etc)</p>
 </li>
 <li>
 <p>Students <u>without</u> any prior experience or formal training in Music
-are <u>also</u> encouraged to apply</p>
+are <u>also</u> encouraged to apply. The school will assess applicants based
+on the selection criteria, which may include assessing the potential of
+the applicants.</p>
 </li>
 </ul>
 <p></p>
@@ -212,7 +217,9 @@ events (e.g. SYF, competitions etc)</p>
 </li>
 <li>
 <p>Students <u>without</u> any prior experience or formal training in Dance
-are <u>also</u> encouraged to apply</p>
+are <u>also</u> encouraged to apply. The school will assess applicants based
+on the selection criteria, which may include assessing the potential of
+the applicants.</p>
 </li>
 </ul>
 <p></p>
@@ -263,7 +270,9 @@ events (e.g. SYF, competitions etc)</p>
 </li>
 <li>
 <p>Students <u>without</u> any prior experience or formal training in Drama
-are <u>also</u> encouraged to apply</p>
+are <u>also</u> encouraged to apply. The school will assess applicants based
+on the selection criteria, which may include assessing the potential of
+the applicants.</p>
 <p></p>
 </li>
 </ul>
@@ -311,7 +320,8 @@ events (e.g. National School Games, etc)</p>
 </li>
 <li>
 <p>Students who are <u>not</u> in their primary school Basketball team are <u>also</u> encouraged
-to apply</p>
+to apply. The school will assess applicants based on the selection criteria,
+which may include assessing the potential of the applicants.</p>
 <p></p>
 </li>
 </ul>
@@ -366,7 +376,8 @@ events (e.g. National School Games, etc)</p>
 </li>
 <li>
 <p>Students who are <u>not</u> in their primary school Volleyball team are <u>also</u> encouraged
-to apply</p>
+to apply. The school will assess applicants based on the selection criteria,
+which may include assessing the potential of the applicants.</p>
 </li>
 </ul>
 <p></p>
@@ -419,7 +430,8 @@ events (e.g. National School Games, etc)</p>
 </li>
 <li>
 <p>Students who are <u>not</u> in their primary school Football team are <u>also</u> encouraged
-to apply</p>
+to apply. The school will assess applicants based on the selection criteria,
+which may include assessing the potential of the applicants.</p>
 </li>
 </ul>
 <p></p>
@@ -469,7 +481,8 @@ events (e.g. National School Games, etc)</p>
 </li>
 <li>
 <p>Students who are <u>not</u> in their primary school Badminton team are <u>also</u> encouraged
-to apply</p>
+to apply. The school will assess applicants based on the selection criteria,
+which may include assessing the potential of the applicants.</p>
 </li>
 </ul>
 <p></p>
@@ -519,8 +532,9 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are <u>not</u> in their primary school Badminton team are <u>also</u> encouraged
-to apply</p>
+<p>Students who are <u>not</u> in their primary school Netball team are <u>also</u> encouraged
+to apply. The school will assess applicants based on the selection criteria,
+which may include assessing the potential of the applicants.</p>
 </li>
 </ul>
 <p></p>
@@ -571,18 +585,21 @@ events (e.g. National School Games, etc)</p>
 </li>
 <li>
 <p>Students who are <u>not</u> in their primary school Athletic/Cross-Country
-team are <u>also</u> encouraged to apply</p>
+team are <u>also</u> encouraged to apply. The school will assess applicants
+based on the selection criteria, which may include assessing the potential
+of the applicants.</p>
 </li>
 </ul>
 <p></p>
 <p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
 <h4>Yishun Secondary School DSA (Sec) 2025 Timeline</h4>
-<p><strong>Date: 7 May – 3 June</strong>
+<p><strong>Date: 7 May (11am) to 3 June (3pm) 2025</strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
-the DSA-Sec Portal -<strong> </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+the DSA-Sec Portal <em>(will be available on 7 May 2025, 11am)</em> -<strong> </strong>
+<a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
 <p></p>
 <p><strong>Date: 30 June – 29 August</strong>
@@ -626,6 +643,6 @@ outcome during PSLE results release</p>
 </div>
 <p>DSA Student’s Voice – Learn how our current DSA students have benefitted
 from joining YSS through DSA.</p>
-<p><a href="https://www.youtube.com/playlist?list=PLrv-TlJ2C0chpwelungvolO4WM8MnXvCO" rel="noopener noreferrer nofollow" target="_blank">Click here to view our YSS talents in action in the recent SYF Arts Presentation 2023.</a>
+<p><a href="https://www.youtube.com/playlist?list=PLrv-TlJ2C0chpwelungvolO4WM8MnXvCO" rel="noopener noreferrer nofollow" target="_blank">Click here to view our YSS talents in action in the recent SYF Arts Presentation</a>
 </p>
 <p></p>
