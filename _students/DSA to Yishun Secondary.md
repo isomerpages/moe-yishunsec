@@ -156,8 +156,8 @@ and demeanour</p>
 events (e.g. SYF, competitions etc)</p>
 </li>
 <li>
-<p>Students without any prior experience or formal training in Music are
-also encouraged to apply</p>
+<p>Students <u>without</u> any prior experience or formal training in Music
+are <u>also</u> encouraged to apply</p>
 </li>
 </ul>
 <p></p>
@@ -211,8 +211,8 @@ and/or street dance.</p>
 events (e.g. SYF, competitions etc)</p>
 </li>
 <li>
-<p>Students without any prior experience or formal training in Dance are
-also encouraged to apply</p>
+<p>Students <u>without</u> any prior experience or formal training in Dance
+are <u>also</u> encouraged to apply</p>
 </li>
 </ul>
 <p></p>
@@ -231,7 +231,8 @@ panel.</p>
 <h3><strong>3. Drama - English</strong></h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
-<p>D’lite Club (English Drama)</p>
+<p><strong>D’lite Club (English Drama)</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Student leadership opportunities</p>
@@ -261,8 +262,8 @@ panel.</p>
 events (e.g. SYF, competitions etc)</p>
 </li>
 <li>
-<p>Students without any prior experience or formal training in Drama are
-also encouraged to apply</p>
+<p>Students <u>without</u> any prior experience or formal training in Drama
+are <u>also</u> encouraged to apply</p>
 <p></p>
 </li>
 </ul>
@@ -309,8 +310,8 @@ panel.</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are not in their primary school Basketball team are also
-encouraged to apply</p>
+<p>Students who are <u>not</u> in their primary school Basketball team are <u>also</u> encouraged
+to apply</p>
 <p></p>
 </li>
 </ul>
@@ -364,8 +365,8 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are not in their primary school Volleyball team are also
-encouraged to apply</p>
+<p>Students who are <u>not</u> in their primary school Volleyball team are <u>also</u> encouraged
+to apply</p>
 </li>
 </ul>
 <p></p>
@@ -417,7 +418,7 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are not in their primary school Football team are also encouraged
+<p>Students who are <u>not</u> in their primary school Football team are <u>also</u> encouraged
 to apply</p>
 </li>
 </ul>
@@ -467,7 +468,7 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are not in their primary school Badminton team are also encouraged
+<p>Students who are <u>not</u> in their primary school Badminton team are <u>also</u> encouraged
 to apply</p>
 </li>
 </ul>
@@ -518,7 +519,7 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are not in their primary school Badminton team are also encouraged
+<p>Students who are <u>not</u> in their primary school Badminton team are <u>also</u> encouraged
 to apply</p>
 </li>
 </ul>
@@ -569,8 +570,8 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are not in their primary school Athletic/Cross-Country team
-are also encouraged to apply</p>
+<p>Students who are <u>not</u> in their primary school Athletic/Cross-Country
+team are <u>also</u> encouraged to apply</p>
 </li>
 </ul>
 <p></p>
