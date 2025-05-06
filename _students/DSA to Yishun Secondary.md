@@ -626,6 +626,6 @@ outcome during PSLE results release</p>
 </div>
 <p>DSA Student’s Voice – Learn how our current DSA students have benefitted
 from joining YSS through DSA.</p>
-<p><a href="https://www.youtube.com/playlist?list=PLrv-TlJ2C0chpwelungvolO4WM8MnXvCO" rel="noopener noreferrer nofollow" target="_blank">Click here to view our YSS talents in action in the recent SYF Arts Presentation.</a>
+<p><a href="https://www.youtube.com/playlist?list=PLrv-TlJ2C0chpwelungvolO4WM8MnXvCO" rel="noopener noreferrer nofollow" target="_blank">Click here to view our YSS talents in action in the recent SYF Arts Presentation</a>
 </p>
 <p></p>
