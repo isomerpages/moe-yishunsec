@@ -15,7 +15,7 @@ talents that they can demonstrate beyond the PSLE.</p>
 <p>From 7 May 2025 at 11 am, application for DSA-Sec can be submitted through
 the online DSA-Sec Portal. The application is free-of-charge and will be
 open from 7 May (11am) to 3 June (3pm) 2025. For more details, please refer
-to MOE website –<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+to MOE website –<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the school’s academic
@@ -598,7 +598,8 @@ of the applicants.</p>
 </p>
 <p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
-the DSA-Sec Portal -<strong> </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+the DSA-Sec Portal <em>(will be available on 7 May 2025, 11am)</em> -<strong> </strong>
+<a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
 <p></p>
 <p><strong>Date: 30 June – 29 August</strong>
