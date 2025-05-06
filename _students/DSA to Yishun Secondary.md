@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/YSS_DSA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/YSS_DSA_1.png">
 </div>
-<p></p>
 <h4>General Information about Direct School Admission (Secondary) for Admission in 2026</h4>
 <p>The Direct School Admission-Secondary (DSA-Sec) scheme provides students
 with the opportunity to seek admission to a secondary school, based on
