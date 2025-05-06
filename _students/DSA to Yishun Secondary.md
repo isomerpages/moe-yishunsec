@@ -4,20 +4,18 @@ permalink: /students/dsa/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_in_YSS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/YSS_DSA_1.png">
 </div>
-<p></p>
-<h4>General Information about Direct School Admission (Secondary) 2024</h4>
+<h4>General Information about Direct School Admission (Secondary) for Admission in 2026</h4>
 <p>The Direct School Admission-Secondary (DSA-Sec) scheme provides students
 with the opportunity to seek admission to a secondary school, based on
 a diverse range of specific academic and non-academic achievements and
 talents that they can demonstrate beyond the PSLE.</p>
-<p>From 7 May 2024 at 11am, application for DSA-Sec can be submitted through
+<p>From 7 May 2025 at 11 am, application for DSA-Sec can be submitted through
 the online DSA-Sec Portal. The application is free-of-charge and will be
-open from 7 May (11am) to 3 June 2024 (3pm). For more details, please refer
-to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+open from 7 May (11am) to 3 June (3pm) 2025. For more details, please refer
+to MOE website –<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the school’s academic
@@ -25,37 +23,28 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <h4>DSA-Sec @Yishun Secondary School</h4>
 <p>All Secondary One students admitted to our school via DSA-Sec will benefit
-from our talent development programmes to <strong>develop </strong>their <strong>potential</strong>,
-and/or to be groomed to be <strong>leaders </strong>in their respective
-talent areas. They will develop both performance and moral character through
-our customised programme as they grow within their respective CCAs and
-student development programmes.</p>
-<h5>In Yishun Secondary, the <u>10 talent areas</u> under DSA-Sec are:</h5>
+from our talent development programmes to develop their potential, and/or
+to be groomed to be leaders in their respective talent areas. They will
+develop both performance and moral character through our customised programme
+as they grow within their respective CCAs and student development programmes.</p>
+<h5>In Yishun Secondary, the <u>9 talent areas</u> under DSA-Sec are:</h5>
 <ol data-tight="true" class="tight">
-<li>
-<p><strong><u>Media:</u></strong> For students who demonstrate aptitude and
-passion in Media, they can look forward to being part of our school’s Applied
-Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), and/or
-take part in CCAs such as Media Club focussing on Audio-Visual Aid (AVA),
-Photography and Videography.</p>
-</li>
 <li>
 <p><strong><u>Music:</u></strong> For students who demonstrate aptitude and
 passion in Music, they can look forward to being part of our school’s Applied
 Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), Music
 Performance and Creation, and in CCAs such as Choir, Guzheng Ensemble and
-Symphonic Band. Students will have the opportunity to offer Music Syllabus
-T at the GCE N (T)-Level Examination.</p>
+Symphonic Band.</p>
 </li>
 <li>
 <p><strong><u>Dance:</u></strong> Students who demonstrate aptitude and passion
 in Dance can be involved in dance performances at our school-based art
-showcases, as well as being part of school’s cultural dance CCAs such as <strong>Malay Dance</strong> or <strong>Indian Dance</strong>.
-Students who demonstrate an aptitude and passion for contemporary, hip-hop
-and street dance can be part of <strong>Modern Dance</strong>. They can
-be involved in external competitions that will further develop their dance
-techniques and their character. Students will learn to lead, to care and
-to empathise as they plan and train for concerts and competitions.</p>
+showcases, as well as being part of school’s cultural dance CCAs such as
+Malay Dance or Indian Dance. Students who demonstrate an aptitude and passion
+for contemporary, hip-hop and street dance can be part of Modern Dance.
+They can be involved in external competitions that will further develop
+their dance techniques and their character. Students will learn to lead,
+to care and to empathise as they plan and train for concerts and competitions.</p>
 </li>
 <li>
 <p><strong><u>Drama-English:</u></strong> For students who demonstrate aptitude
@@ -113,87 +102,49 @@ and/or aptitude in their talent area</p>
 <p>Conduct and Attitude for Learning: Applicants should demonstrate evidence
 of good conduct in school, as well as a positive attitude for learning
 and demeanour</p>
-<p></p>
 </li>
 </ul>
-<h3>1. Media</h3>
-<p><strong>Student's Experience in Yishun Secondary School:</strong>
-</p>
-<p>INFOCOMM TECHNOLOGY (MEDIA PRODUCTION)</p>
-<p>• Student leadership opportunities</p>
-<p>• Planning and organisation of school programmes</p>
-<p>• Recording Studio Workshop</p>
-<p>• Live Sound Workshop</p>
-<p>• Photography and Editing Workshop</p>
-<p>• Participation as Student Photographers in school and external events</p>
-<p>The Applied Learning Programme (ALP) in Yishun Secondary is <strong>Sonic Arts (Music, Media and Technology)</strong>,
-which is infused in our curriculum and CCA, Infocomm Technology (Media
-Production)</p>
 <p></p>
-<p><strong>Selection Criteria:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Demonstrate aptitude and passion in Media</p>
-</li>
-<li>
-<p>Shortlisted students will be requested to submit their existing portfolio
-of work.</p>
-</li>
-<li>
-<p>Students without any prior experience or formal training in Media are
-also encouraged to apply</p>
-<p></p>
-</li>
-</ul>
-<p><strong>Selection Process:</strong>
-</p>
-<p><strong><u>Stage 1 (Application)</u></strong> 
-<br>Application will be conducted online. Do submit the child's application
-online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong> 
-<br>Applicants are required to come for an in- person interview and provide
-samples of student’s past work.</p>
-<h3>2. Music</h3>
+<h3><strong>1. Music</strong></h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
 <p><strong>Choir/Guzheng Ensemble/Concert Band</strong>
 </p>
-<p><strong>• </strong>Student leadership opportunities</p>
-<p>• Participation in student leaders’ workshops and conferences</p>
-<p>• Choir/Guzheng/Concert Band exchanges with other secondary schools</p>
-<p>• Master classes and workshops</p>
-<p>• Performance at Singapore Youth Festival Arts Presentations</p>
-<p>• Performance at YSS Arts Extravaganza</p>
-<p>• Training to be a student conductor (Choir and Concert Band)</p>
-<p>• Participation in local music festivals and competitions</p>
-<p></p>
-<p><strong>Pop Music Performance and Music Creation</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Music Production and Song Writing Workshop with professional music producer.</p>
+<p>Student leadership opportunities</p>
 </li>
 <li>
-<p>Performances within and outside of school</p>
+<p>Participation in student leaders’ workshops and conferences</p>
+</li>
+<li>
+<p>Choir/Guzheng/Concert Band exchanges with other secondary schools</p>
+</li>
+<li>
+<p>Master classes and workshops</p>
+</li>
+<li>
+<p>Performance at Singapore Youth Festival Arts Presentations</p>
 </li>
 <li>
 <p>Performance at YSS Arts Extravaganza</p>
 </li>
 <li>
+<p>Training to be a student conductor (Choir and Concert Band)</p>
+</li>
+<li>
 <p>Participation in local music festivals and competitions</p>
 </li>
 <li>
-<p>Masterclass for voice projection, singing, and stage presence</p>
+<p>Pop Music Performance and Music Creation</p>
 </li>
 <li>
 <p>Exposure to Sonic Arts and Music Week</p>
-<p></p>
-<p>The Applied Learning Programme (ALP) in Yishun Secondary is <strong>Sonic Arts (Music, Media and Technology)</strong>,
-which is infused in our curriculum and Performing Arts CCAs.</p>
-<p></p>
 </li>
 </ul>
+<p><em>The Applied Learning Programme (ALP) in Yishun Secondary is </em><strong><em>Sonic Arts (Music, Media and Technology)</em></strong><em>, which is infused in our curriculum and Performing Arts CCAs.</em>
+</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -205,21 +156,24 @@ which is infused in our curriculum and Performing Arts CCAs.</p>
 events (e.g. SYF, competitions etc)</p>
 </li>
 <li>
-<p>Students without any prior experience or formal training in Music are
-also encouraged to apply</p>
-<p></p>
+<p>Students <u>without</u> any prior experience or formal training in Music
+are <u>also</u> encouraged to apply</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong> 
-<br>Application will be conducted online. Do submit the child's application
+<p><strong><u>Stage 1 (Application)</u></strong>
+</p>
+<p>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong> 
-<br>Applicants are required to come for an in- person interview and provide
+<p><strong><u>Stage 2</u></strong>
+</p>
+<p>Applicants are required to come for an in- person interview and provide
 samples of student’s past work or performance or perform in front of a
 panel.</p>
-<h3>3. Dance</h3>
+<p></p>
+<h3><strong>2. Dance</strong></h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
 <p><strong>Indian Dance/Malay Dance/Modern Dance</strong>
@@ -244,6 +198,7 @@ panel.</p>
 <p>Performances within and outside of school</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -256,21 +211,24 @@ and/or street dance.</p>
 events (e.g. SYF, competitions etc)</p>
 </li>
 <li>
-<p>Students without any prior experience or formal training in Dance are
-also encouraged to apply</p>
-<p></p>
+<p>Students <u>without</u> any prior experience or formal training in Dance
+are <u>also</u> encouraged to apply</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong> 
-<br>Application will be conducted online. Do submit the child's application
+<p><strong>Stage 1 (Application)</strong>
+</p>
+<p>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong> 
-<br>Applicants are required to come for an in- person interview and provide
+<p><strong>Stage 2</strong>
+</p>
+<p>Applicants are required to come for an in- person interview and provide
 samples of student’s past work or performance or perform in front of a
 panel.</p>
-<h3>4. Drama - English</h3>
+<p></p>
+<h3><strong>3. Drama - English</strong></h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
 <p><strong>D’lite Club (English Drama)</strong>
@@ -290,9 +248,9 @@ panel.</p>
 </li>
 <li>
 <p>Performances within and outside of school</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -304,22 +262,24 @@ panel.</p>
 events (e.g. SYF, competitions etc)</p>
 </li>
 <li>
-<p>Students without any prior experience or formal training in Drama are
-also encouraged to apply</p>
+<p>Students <u>without</u> any prior experience or formal training in Drama
+are <u>also</u> encouraged to apply</p>
 <p></p>
 </li>
 </ul>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong> 
-<br>Application will be conducted online. Do submit the child's application
+<p><strong><u>Stage 1 (Application)</u></strong>
+</p>
+<p>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong> 
-<br>Applicants are required to come for an in- person interview and provide
+<p><strong><u>Stage 2</u></strong>
+</p>
+<p>Applicants are required to come for an in- person interview and provide
 samples of student’s past work or performance or perform in front of a
 panel.</p>
 <p></p>
-<h3>5. Basketball</h3>
+<h3><strong>4. Basketball</strong></h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -334,12 +294,11 @@ panel.</p>
 </li>
 <li>
 <p>Planning and organisating intra and inter school programmes</p>
-<p></p>
 </li>
 </ul>
-<p>From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level
-subject. Students who have the aptitude for sports and have the necessary
-skills requisite may apply to take up this subject</p>
+<p><em>YSS offers Exercise and Sports Science as a GCE O-level subject. Students who have the aptitude for sports and have the necessary skills requisite may apply to take up this subject.</em>
+</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -351,8 +310,8 @@ skills requisite may apply to take up this subject</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are not in their primary school Basketball team are also
-encouraged to apply</p>
+<p>Students who are <u>not</u> in their primary school Basketball team are <u>also</u> encouraged
+to apply</p>
 <p></p>
 </li>
 </ul>
@@ -362,10 +321,10 @@ encouraged to apply</p>
 </p>
 <p>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong> 
-<br>Applicants are required to come for an in- person interview and a skills
+<p><strong><u>Stage 2</u></strong>
+</p>
+<p>Applicants are required to come for an in- person interview and a skills
 assessment.</p>
-<p></p>
 <p><strong>Basketball Skills Assessment</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -374,7 +333,8 @@ assessment.</p>
 on Ball handling skills, Game awareness and Teamwork.</p>
 </li>
 </ul>
-<h3>6. Volleyball (Girls)</h3>
+<p></p>
+<h3><strong>5. Volleyball [Girls]</strong></h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -389,12 +349,11 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 </li>
 <li>
 <p>Planning and organising intra and inter school programmes</p>
-<p></p>
 </li>
 </ul>
-<p>From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level
-subject. Students who have the aptitude for sports and have the necessary
-skills requisite may apply to take up this subject.</p>
+<p><em>YSS offers Exercise and Sports Science as a GCE O-level subject. Students who have the aptitude for sports and have the necessary skills requisite may apply to take up this subject.</em>
+</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -406,24 +365,27 @@ skills requisite may apply to take up this subject.</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are not in their primary school Volleyball team are also
-encouraged to apply</p>
+<p>Students who are <u>not</u> in their primary school Volleyball team are <u>also</u> encouraged
+to apply</p>
 </li>
 </ul>
 <p></p>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong> 
-<br>Application will be conducted online. Do submit the child's application
+<p><strong><u>Stage 1 (Application)</u></strong>
+</p>
+<p>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong> 
-<br>Applicants are required to come for an in- person interview and a skills
+<p><strong><u>Stage 2</u></strong>
+</p>
+<p>Applicants are required to come for an in- person interview and a skills
 assessment.</p>
-<p><strong>Volleyball Skills Assessment</strong> 
-<br>Applicants may undergo a volleyball skill assessment which includes evaluation
+<p><strong>Volleyball Skills Assessment</strong>
+</p>
+<p>Applicants may undergo a volleyball skill assessment which includes evaluation
 on Ball handling skills, Game awareness and Teamwork.</p>
 <p></p>
-<h3>7. Football (Boys)</h3>
+<h3><strong>6. Football [Boys]</strong></h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
 <p><strong>Football (SFA)</strong>
@@ -442,10 +404,8 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 <p>Planning and organising of intra and inter school programmes</p>
 </li>
 </ul>
-<p></p>
-<p>From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level
-subject. Students who have the aptitude for sports and have the necessary
-skills requisite may apply to take up this subject</p>
+<p><em>YSS offers Exercise and Sports Science as a GCE O-level subject. Students who have the aptitude for sports and have the necessary skills requisite may apply to take up this subject.</em>
+</p>
 <p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
@@ -458,24 +418,26 @@ skills requisite may apply to take up this subject</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are not in their primary school Football team are also encouraged
+<p>Students who are <u>not</u> in their primary school Football team are <u>also</u> encouraged
 to apply</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong> 
-<br>Application will be conducted online. Do submit the child's application
+<p><strong><u>Stage 1 (Application)</u></strong>
+</p>
+<p>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p></p>
-<p><strong><u>Stage 2</u></strong> 
-<br>Applicants are required to come for an in- person interview and a skills
+<p><strong><u>Stage 2</u></strong>
+</p>
+<p>Applicants are required to come for an in- person interview and a skills
 assessment.</p>
-<p><strong>Football Skills Assessment</strong> 
-<br>Applicants may undergo a football skill assessment which includes evaluation
+<p><strong><u>Football Skills Assessment</u></strong>
+</p>
+<p>Applicants may undergo a football skill assessment which includes evaluation
 on Ball handling skills, Game awareness and Teamwork.</p>
-<h3>8. Badminton</h3>
+<h3><strong>7. Badminton</strong></h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -492,10 +454,9 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 <p>Planning and organising of intra and inter school programmes</p>
 </li>
 </ul>
+<p><em>YSS offers Exercise and Sports Science as a GCE O-level subject. Students who have the aptitude for sports and have the necessary skills requisite may apply to take up this subject.</em>
+</p>
 <p></p>
-<p>From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level
-subject. Students who have the aptitude for sports and have the necessary
-skills requisite may apply to take up this subject</p>
 <p><strong>Selection Criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -507,24 +468,27 @@ skills requisite may apply to take up this subject</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are not in their primary school Badminton team are also encouraged
+<p>Students who are <u>not</u> in their primary school Badminton team are <u>also</u> encouraged
 to apply</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong> 
-<br>Application will be conducted online. Do submit the child's application
+<p><strong><u>Stage 1 (Application)</u></strong>
+</p>
+<p>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong> 
-<br>Applicants are required to come for an in- person interview and a skills
+<p><strong><u>Stage 2</u></strong>
+</p>
+<p>Applicants are required to come for an in- person interview and a skills
 assessment.</p>
-<p></p>
-<p><strong>Badminton Skills Assessment</strong> 
-<br>Applicants may undergo a badminton skill assessment which includes evaluation
+<p><strong><u>Badminton Skills Assessment</u></strong>
+</p>
+<p>Applicants may undergo a badminton skill assessment which includes evaluation
 on Ball handling skills, Game awareness and Teamwork.</p>
-<h3>9. Netball</h3>
+<p></p>
+<h3><strong>8. Netball</strong></h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -539,12 +503,11 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 </li>
 <li>
 <p>Planning and organising of intra and inter school programmes</p>
-<p></p>
 </li>
 </ul>
-<p>From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level
-subject. Students who have the aptitude for sports and have the necessary
-skills requisite may apply to take up this subject</p>
+<p><em>YSS offers Exercise and Sports Science as a GCE O-level subject. Students who have the aptitude for sports and have the necessary skills requisite may apply to take up this subject.</em>
+</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -556,23 +519,27 @@ skills requisite may apply to take up this subject</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are not in their primary school Badminton team are also encouraged
+<p>Students who are <u>not</u> in their primary school Badminton team are <u>also</u> encouraged
 to apply</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <p><strong>Selection Process:</strong>
 </p>
-<p><strong><u>Stage 1 (Application)</u></strong> 
-<br>Application will be conducted online. Do submit the child's application
+<p><strong><u>Stage 1 (Application)</u></strong>
+</p>
+<p>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2</u></strong> 
-<br>Applicants are required to come for an in- person interview and a skills
+<p><strong><u>Stage 2</u></strong>
+</p>
+<p>Applicants are required to come for an in- person interview and a skills
 assessment.</p>
-<p><strong>Netball Skills Assessment</strong> 
-<br>Applicants may undergo a netball skill assessment which includes evaluation
+<p><strong><u>Netball Skills Assessment</u></strong>
+</p>
+<p>Applicants may undergo a netball skill assessment which includes evaluation
 on Ball handling skills, Game awareness and Teamwork.</p>
-<h3>10. Cross-Country</h3>
+<p></p>
+<h3><strong>9. Cross Country</strong></h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -589,9 +556,9 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 <p>Planning and organising of intra and inter school programmes</p>
 </li>
 </ul>
-<p>From 2022, YSS will be offering Exercise and Sports Science as a GCE O-level
-subject. Students who have the aptitude for sports and have the necessary
-skills requisite may apply to take up this subject</p>
+<p><em>YSS offers Exercise and Sports Science as a GCE O-level subject. Students who have the aptitude for sports and have the necessary skills requisite may apply to take up this subject.</em>
+</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -603,49 +570,52 @@ skills requisite may apply to take up this subject</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are not in their primary school Athletic/Cross-Country team
-are also encouraged to apply</p>
-<p></p>
+<p>Students who are <u>not</u> in their primary school Athletic/Cross-Country
+team are <u>also</u> encouraged to apply</p>
 </li>
 </ul>
+<p></p>
 <p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
-<h4>Yishun Secondary School DSA (Sec) 2024 Timeline</h4>
-<p><strong>Date: 7 May 2024 <em>(11am)</em> – 3 June 2024 <em>(3pm)</em></strong>
+<h4>Yishun Secondary School DSA (Sec) 2025 Timeline</h4>
+<p><strong>Date: 7 May – 3 June</strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
-the DSA-Sec portal (<em>available on 7 May 2024, 11am</em> ) - <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+the DSA-Sec Portal -<strong> </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p></p>
-<p><strong>Date: July to August 2024</strong>
+<p><strong>Date: 30 June – 29 August</strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Selection trials: School Based / Video Conference Interview</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shortlisted applicants will be informed by the school on details of the
-interview and audition/skills assessment</p>
+interview and audition/skills assessment.</p>
 </li>
 <li>
 <p>Shortlisted applicants may submit video(s) of past performances/matches
 or photo(s) of their own works/creation (depending on the DSA talent area)
-prior to the video conference interview</p>
+prior to the interview</p>
 </li>
 </ul>
-<p><strong>Date: mid September</strong>
+<p></p>
+<p><strong>Date: By 4 September</strong>
 </p>
 <p><strong>Activity:</strong> 
-<br>Applicants will be informed of the selection outcome.</p>
+<br>Students will receive DSA outcomes</p>
+<p></p>
+<p><strong>Date: 27 October – 31 October</strong>
+</p>
+<p><strong>Activity:</strong> Students to choose their preferred schools
+<br>
+</p>
+<p><strong>Date: Late November</strong>
+</p>
+<p><strong>Activity:</strong> Applicants will be informed of the selection
+outcome during PSLE results release</p>
 <hr>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/WhatsApp_Image_2024_05_24_at_7_02_40_AM.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/WhatsApp_Image_2024_05_24_at_7_02_40_AM__1_.jpg">
-</div>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="1" src="https://www.youtube.com/embed/Ea_swGnMzGE"></iframe>
