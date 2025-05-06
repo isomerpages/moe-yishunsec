@@ -321,7 +321,7 @@ encouraged to apply</p>
 </p>
 <p>Application will be conducted online. Do submit the child's application
 online through the DSA-Sec portal.</p>
-<p><strong><u>Stage 2 </u></strong>
+<p><strong><u>Stage 2</u></strong>
 </p>
 <p>Applicants are required to come for an in- person interview and a skills
 assessment.</p>
@@ -578,32 +578,43 @@ are also encouraged to apply</p>
 <p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
 <h4>Yishun Secondary School DSA (Sec) 2024 Timeline</h4>
-<p><strong>Date: 7 May 2024 <em>(11am)</em> – 3 June 2024 <em>(3pm)</em></strong>
+<p><strong>Date: 7 May – 3 June</strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
-the DSA-Sec portal (<em>available on 7 May 2024, 11am</em> ) - <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+the DSA-Sec Portal -<strong> </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a><strong>.</strong>
 </p>
 <p></p>
-<p><strong>Date: July to August 2024</strong>
+<p><strong>Date: 30 June – 29 August</strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Selection trials: School Based / Video Conference Interview</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shortlisted applicants will be informed by the school on details of the
-interview and audition/skills assessment</p>
+interview and audition/skills assessment.</p>
 </li>
 <li>
 <p>Shortlisted applicants may submit video(s) of past performances/matches
 or photo(s) of their own works/creation (depending on the DSA talent area)
-prior to the video conference interview</p>
+prior to the interview</p>
 </li>
 </ul>
-<p><strong>Date: mid September</strong>
+<p></p>
+<p><strong>Date: By 4 September</strong>
 </p>
 <p><strong>Activity:</strong> 
-<br>Applicants will be informed of the selection outcome.</p>
+<br>Students will receive DSA outcomes</p>
+<p></p>
+<p><strong>Date: 27 October – 31 October</strong>
+</p>
+<p><strong>Activity:</strong> Students to choose their preferred schools
+<br>
+</p>
+<p><strong>Date: Late November</strong>
+</p>
+<p><strong>Activity:</strong> Applicants will be informed of the selection
+outcome during PSLE results release</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
