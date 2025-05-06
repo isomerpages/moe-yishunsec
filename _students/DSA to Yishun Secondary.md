@@ -519,7 +519,7 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 events (e.g. National School Games, etc)</p>
 </li>
 <li>
-<p>Students who are <u>not</u> in their primary school Badminton team are <u>also</u> encouraged
+<p>Students who are <u>not</u> in their primary school Netball team are <u>also</u> encouraged
 to apply</p>
 </li>
 </ul>
@@ -578,7 +578,7 @@ team are <u>also</u> encouraged to apply</p>
 <p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
 <h4>Yishun Secondary School DSA (Sec) 2025 Timeline</h4>
-<p><strong>Date: 7 May – 3 June</strong>
+<p><strong>Date:  7 May (11am) to 3 June (3pm) 2025</strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
