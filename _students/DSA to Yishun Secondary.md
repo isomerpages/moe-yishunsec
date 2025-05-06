@@ -21,6 +21,9 @@ to MOE website –<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener n
 the student’s aptitudes and strengths, bearing in mind the school’s academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
+<p>Students who are successfully admitted to the school via DSA are required
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from year 1-4.</p>
 <h4>DSA-Sec @Yishun Secondary School</h4>
 <p>All Secondary One students admitted to our school via DSA-Sec will benefit
 from our talent development programmes to develop their potential, and/or
@@ -157,7 +160,9 @@ events (e.g. SYF, competitions etc)</p>
 </li>
 <li>
 <p>Students <u>without</u> any prior experience or formal training in Music
-are <u>also</u> encouraged to apply</p>
+are <u>also</u> encouraged to apply. The school will assess applicants based
+on the selection criteria, which may include assessing the potential of
+the applicants.</p>
 </li>
 </ul>
 <p></p>
@@ -212,7 +217,9 @@ events (e.g. SYF, competitions etc)</p>
 </li>
 <li>
 <p>Students <u>without</u> any prior experience or formal training in Dance
-are <u>also</u> encouraged to apply</p>
+are <u>also</u> encouraged to apply. The school will assess applicants based
+on the selection criteria, which may include assessing the potential of
+the applicants.</p>
 </li>
 </ul>
 <p></p>
@@ -263,7 +270,9 @@ events (e.g. SYF, competitions etc)</p>
 </li>
 <li>
 <p>Students <u>without</u> any prior experience or formal training in Drama
-are <u>also</u> encouraged to apply</p>
+are <u>also</u> encouraged to apply. The school will assess applicants based
+on the selection criteria, which may include assessing the potential of
+the applicants.</p>
 <p></p>
 </li>
 </ul>
@@ -311,7 +320,8 @@ events (e.g. National School Games, etc)</p>
 </li>
 <li>
 <p>Students who are <u>not</u> in their primary school Basketball team are <u>also</u> encouraged
-to apply</p>
+to apply. The school will assess applicants based on the selection criteria,
+which may include assessing the potential of the applicants.</p>
 <p></p>
 </li>
 </ul>
@@ -366,7 +376,8 @@ events (e.g. National School Games, etc)</p>
 </li>
 <li>
 <p>Students who are <u>not</u> in their primary school Volleyball team are <u>also</u> encouraged
-to apply</p>
+to apply. The school will assess applicants based on the selection criteria,
+which may include assessing the potential of the applicants.</p>
 </li>
 </ul>
 <p></p>
@@ -419,7 +430,8 @@ events (e.g. National School Games, etc)</p>
 </li>
 <li>
 <p>Students who are <u>not</u> in their primary school Football team are <u>also</u> encouraged
-to apply</p>
+to apply. The school will assess applicants based on the selection criteria,
+which may include assessing the potential of the applicants.</p>
 </li>
 </ul>
 <p></p>
@@ -469,7 +481,8 @@ events (e.g. National School Games, etc)</p>
 </li>
 <li>
 <p>Students who are <u>not</u> in their primary school Badminton team are <u>also</u> encouraged
-to apply</p>
+to apply. The school will assess applicants based on the selection criteria,
+which may include assessing the potential of the applicants.</p>
 </li>
 </ul>
 <p></p>
@@ -520,7 +533,8 @@ events (e.g. National School Games, etc)</p>
 </li>
 <li>
 <p>Students who are <u>not</u> in their primary school Netball team are <u>also</u> encouraged
-to apply</p>
+to apply. The school will assess applicants based on the selection criteria,
+which may include assessing the potential of the applicants.</p>
 </li>
 </ul>
 <p></p>
@@ -571,7 +585,9 @@ events (e.g. National School Games, etc)</p>
 </li>
 <li>
 <p>Students who are <u>not</u> in their primary school Athletic/Cross-Country
-team are <u>also</u> encouraged to apply</p>
+team are <u>also</u> encouraged to apply. The school will assess applicants
+based on the selection criteria, which may include assessing the potential
+of the applicants.</p>
 </li>
 </ul>
 <p></p>
