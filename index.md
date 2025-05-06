@@ -39,7 +39,7 @@ sections:
       id: infopic
       button: Read More
       url: /students/dsa/
-      image: /images/YSS Exp/DSA_in_YSS.jpg
+      image: /images/Students/YSS_DSA_1.png
       alt: Image alt text
   - resources:
       title: Information from YSS
