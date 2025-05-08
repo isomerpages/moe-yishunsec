@@ -618,20 +618,20 @@ prior to the interview</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Date: By 4 September</strong>
+<p><strong>Date: Between 25 Aug and 4 Sep 2025</strong>
 </p>
 <p><strong>Activity:</strong> 
-<br>Students will receive DSA outcomes</p>
+<br>Students will receive DSA application outcome.</p>
 <p></p>
 <p><strong>Date: 27 October – 31 October</strong>
 </p>
-<p><strong>Activity:</strong> Students to choose their preferred schools
+<p><strong>Activity:</strong> Students to choose their preferred schools.
 <br>
 </p>
 <p><strong>Date: Late November</strong>
 </p>
-<p><strong>Activity:</strong> Applicants will be informed of the selection
-outcome during PSLE results release</p>
+<p><strong>Activity:</strong> Applicants will be informed of the allocation
+outcome during PSLE results release.</p>
 <hr>
 <p></p>
 <div class="iframe-wrapper">
