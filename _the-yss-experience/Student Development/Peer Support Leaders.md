@@ -42,6 +42,26 @@ third_nav_title: Student Development
 <p>To help create a greater sense of belonging amongst Yishunites</p>
 </li>
 </ol>
+<h4>Peer Support Leaders in the Creative Movement Programme for Youths</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL_2025.png">
+</div>
+<p>This study explores the impact of the Creative Movement Programme for
+Youths, an initiative by EtonHouse Community Fund Limited, on the development
+of the Peer Support Leaders (PSLs) in Yishun Secondary School over a period
+of 8 weeks. The programme, designed to support the holistic growth of children
+and youths, integrates movement-based activities to enhance emotional intelligence,
+self-awareness, and interpersonal skills.</p>
+<p>Participants exhibited notable improvements in their confidence when expressing
+themselves in front of others. They developed a deeper understanding of
+their peers' actions by recognising the emotional motivations behind them.
+The PSLs also demonstrated heightened awareness of their own body language
+as a reflection of their inner emotional states.</p>
+<p>Furthermore, the programme equipped students with practical strategies
+to manage stress and engage more empathetically with their peers. These
+outcomes suggest that creative movement can serve as a powerful tool for
+nurturing social-emotional competencies among youth leaders, contributing
+positively to school environments and peer support systems.</p>
 <h4>Termly Student Well-Being Campaigns</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL2024_1.png">
