@@ -420,30 +420,68 @@ Unit)</p>
 </th>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>2025</p>
+</td>
 <td rowspan="1" colspan="1">
+<p>Teddy Toh Jun Xian (4 Innovate)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zara Amanda Binti Mohamad Ridduan (4 Integrity)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Ling Swee Lindy (4E2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Jie En Brandon (4N1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ko Ke Xuan (4E4)
-<br>Nur Suhailah Bte Omar (4N2)</p>
+<p>Ko Ke Xuan (4E4)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Nur Suhailah Bte Omar (4N2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ramesh Marimuthu Oviya Sree (4E1)
-<br>Tay Zun Meng, Lincoln (4E4)</p>
+<p>Ramesh Marimuthu Oviya Sree (4E1)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tay Zun Meng, Lincoln (4E4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Priyakumar Hari Krishna (4E1)
-<br>Marayag Bernice Ada Escobido (4N1)</p>
+<p>Priyakumar Hari Krishna (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Marayag Bernice Ada Escobido (4N1)</p>
 </td>
 </tr>
 </tbody>
