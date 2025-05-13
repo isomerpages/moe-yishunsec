@@ -23,7 +23,7 @@ variant: tiptap
 <p>Mondays, 3:40pm to 6pm</p>
 </li>
 <li>
-<p>Wednesday, 3:40pm to 6pm</p>
+<p>Wednesdays, 3:40pm to 6pm</p>
 </li>
 </ul>
 <h3>Venue</h3>
@@ -33,41 +33,83 @@ variant: tiptap
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Chairperson: <strong>Darren Lai Chin Teck</strong>
-</p>
-</li>
-<li>
-<p>Vice Chairperson: <strong>Dai Jinheng Jeremy</strong>
-</p>
-</li>
-<li>
-<p>Ensemble Leader: <strong>Bernice Teng Kai Xin</strong>
-</p>
-</li>
-<li>
-<p>Honorary Secretary: <strong>Goo Min Ting</strong>
-</p>
-</li>
-<li>
-<p>Assistant Honorary Secretary: <strong>Chow Ying Rui</strong>
-</p>
-</li>
-<li>
-<p>Welfare and Publication In Charge: <strong>Reanne Loong Li Xuan</strong>
-</p>
-</li>
-<li>
-<p>Welfare and Publication assistant In Charge: <strong>Chloe Lim Zhi Xin</strong>
-</p>
-</li>
-</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NADYAH BINTE MOHAMAD ZULKHARNAIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHEN ZHIQING JENNIFER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ensemble Leader</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE ANGELYN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Logistics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM EN YU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Head of Logistics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NURSYIRIN BINTE NUR FAIZAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YVIAN ZHANG XINYI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Head of Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MICHELLE CHUA KAI LING</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Key Student Outcomes</h3>
 <p>For students to</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Deepen their appreciation of cultural music,</p>
+<p>Deepen their appreciation of cultural music</p>
 </li>
 <li>
 <p>Hone musical and performance competencies and</p>
@@ -79,21 +121,24 @@ variant: tiptap
 <h3>Highlights / Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival Arts Presentation 2017, 2019, 2021 – Certificate
-of Accomplishment</p>
-</li>
-<li>
-<p>International Chinese Instrumental Competition as part of the Singapore
-Raffles Cultural and Arts Festival 2016 – Silver</p>
+<p>Singapore Youth Festival Arts Presentation 2021 – Certificate of Accomplishment</p>
 </li>
 <li>
 <p>Singapore Youth Festival Arts Presentation 2023 – Certificate of Commendation</p>
 </li>
+<li>
+<p>Singapore Youth Festival Arts Presentation 2025 - Certificate of Accomplishment</p>
+<p></p>
+</li>
 </ul>
-<h3>Events in 2023</h3>
+<h3>Events</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival Arts Presentation 2023</p>
+<p>Singapore Youth Festival Arts Presentation 2025</p>
+</li>
+<li>
+<p>Guzheng Concert at Ci Yuan Community Club</p>
+<p></p>
 </li>
 </ul>
 <h3>SYF 2023 Video</h3>
@@ -121,10 +166,18 @@ Raffles Cultural and Arts Festival 2016 – Silver</p>
 <p>Jeremy, Vice Chairperson 2023-2024</p>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/farewell%20party%202023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/Guzheng_1_25.jpg">
 </div>
-<p>Farewell Party 2023</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/syf%202023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/Guzheng_2_25.jpg">
 </div>
-<p>SYF 2023</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/Guzheng_3_25.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/Guzheng_4_25.jpg">
+</div>
+<p></p>
