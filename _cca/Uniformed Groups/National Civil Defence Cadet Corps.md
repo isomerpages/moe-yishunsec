@@ -44,8 +44,8 @@ our youths to be active &amp; concerned citizens with life-saving skills.</p>
 <h5>Achievements:</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unit Overall Proficiency Award: Gold (2018, 2019, 2021, 2022, 2023 &amp;
-2024)</p>
+<p>Unit Overall Proficiency Award: <strong>Gold </strong>(2018, 2019, 2021,
+2022, 2023 &amp; 2024)</p>
 </li>
 <li>
 <p>Awarded Commendation Medal for UACDC 2022</p>
