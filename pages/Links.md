@@ -110,6 +110,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/6461c57c1af9a80012cbb53d" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration for non-PG users</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg" rel="noopener nofollow" target="_blank">Parents Gateway</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teacher's Discipline Referral Tool:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -161,7 +171,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pair Chat (AI tool)</a>
+<p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
 </p>
 </td>
 </tr>
@@ -177,7 +187,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6461c57c1af9a80012cbb53d" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration for non-PG users</a>
+<p><a href="https://pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pair Chat (AI tool)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,7 +201,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
+<p><a href="https://go.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Go.gov.sg (for shorten URL &amp; QR code)</a>
 </p>
 </td>
 </tr>
@@ -201,7 +211,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Go.gov.sg (for shorten URL &amp; QR code)</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillFuture Student Portal</a>
 </p>
 </td>
 </tr>
@@ -209,15 +219,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://quillbot.com/ai-content-detector" rel="noopener nofollow" target="_blank">AI Content Detector</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillFuture Student Portal</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB Learning &amp; Information Literacy Resources</a>

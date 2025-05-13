@@ -5,16 +5,10 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/Cross_Country_24.jpg">
-</div>
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mrs Jayalaxmi</p>
-</li>
-<li>
-<p>Mr Chee Jih Heong</p>
 </li>
 <li>
 <p>Mr Aidil</p>

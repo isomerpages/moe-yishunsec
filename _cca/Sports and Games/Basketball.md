@@ -5,17 +5,8 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/Basketball__Girls__24.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/Basketball__Boys__24.jpg">
-</div>
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
-<li>
-<p>Mr. Tan Hong Peng</p>
-</li>
 <li>
 <p>Ms. Yvonne Tay</p>
 </li>

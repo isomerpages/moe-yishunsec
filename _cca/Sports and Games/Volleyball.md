@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Volleyball/Volleyball_24.jpg">
-</div>
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -15,9 +12,6 @@ variant: tiptap
 </li>
 <li>
 <p>Ms Oh Hui Qi</p>
-</li>
-<li>
-<p>Ms Cassandra Tay</p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>
