@@ -8,7 +8,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/YSS_DSA_1.png">
 </div>
 <p></p>
-<p><strong><a href="https://form.gov.sg/680998370c75b952d782d094" rel="noopener nofollow" target="_blank">Click here to register your interest join the CCA training in YSS.</a></strong>
+<p><strong><a href="https://form.gov.sg/680998370c75b952d782d094" rel="noopener nofollow" target="_blank">Click here to register your interest to join the CCA training in YSS.</a></strong>
 </p>
 <h4>General Information about Direct School Admission (Secondary) for Admission in 2026</h4>
 <p>The Direct School Admission-Secondary (DSA-Sec) scheme provides students
