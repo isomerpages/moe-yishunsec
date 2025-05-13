@@ -8,9 +8,6 @@ variant: tiptap
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr. Tan Hong Peng</p>
-</li>
-<li>
 <p>Ms. Yvonne Tay</p>
 </li>
 <li>
