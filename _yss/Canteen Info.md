@@ -25,14 +25,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Mixed Vegetable Rice Stall</p>
+<p>Chinese Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Closed</p>
+<p>15 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Has catering experience.
-<br>Completed food and hygiene course.</p>
+<br>
+</p>
+</li>
+<li>
+<p>Completed food and hygiene course.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
