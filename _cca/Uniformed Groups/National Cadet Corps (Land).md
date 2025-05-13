@@ -27,7 +27,7 @@ variant: tiptap
 <p>Wednesdays 3:30 pm to 6 pm</p>
 </li>
 <li>
-<p>PDS on Tuesday 3:30 pm to 5:30 pm (for selected cadets)</p>
+<p>PDS on Tuesdays 3:30 pm to 5:30 pm (for selected cadets)</p>
 </li>
 </ul>
 <h3>Venues</h3>
