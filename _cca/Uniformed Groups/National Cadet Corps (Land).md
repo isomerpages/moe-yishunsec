@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Teachers-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Commanding Officer: <strong>CPT (NCC) Ong Chee Kiong</strong>
+<p>Commanding Officer: <strong>MAJ (NCC) Ong Chee Kiong</strong>
 </p>
 </li>
 <li>
@@ -16,8 +16,9 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Teacher Officers: <strong>2LT Ms Thiam Jia Hui and 2LT Ms Germaine Goh</strong>
+<p>Teacher Officers: <strong>2LT Ms Germaine Goh</strong>
 </p>
+<p></p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>
@@ -32,19 +33,107 @@ variant: tiptap
 <h3>Venues</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Classroom 4N2 and 4N3</p>
-</li>
-<li>
 <p>Parade square</p>
-</li>
-<li>
-<p>Area behind Design block.</p>
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/cca_exco.png">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UNIT SERGEANT MAJOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE YI ZHUAN MATTHEW</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASSISTANT SERGEANT MAJOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUCUS MAK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>COMPANY SERGEANT MAJOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VISHAL NITHIN VELUSAMY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 SOAR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>COMPANY SERGEANT MAJOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PRAVEENN KUMAR ALAGARSAMY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASSISTANT COMPANY SERGEANT MAJOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOHAMED FARUQ BIN RAJA MOHAMED AYUB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASSISTANT COMPANY SERGEANT MAJOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ETHAN KOH JIA WEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 SOAR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASSISTANT COMPANY SERGEANT MAJOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PENG YUAN KAI OWEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 STRIVE</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Key Student Outcomes</h3>
 <p>The primary mission of NCC is to develop resourceful, responsible, resilient,
 loyal leaders and team players through fun and challenging military related
