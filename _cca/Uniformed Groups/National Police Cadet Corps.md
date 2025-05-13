@@ -487,40 +487,30 @@ Unit)</p>
 </tbody>
 </table>
 <h3>Student’s Quotes</h3>
-<p><em>“Overall, NPCC has been an enriching experience where I was able to learn valuable leadership skills. Through the lows, I have learnt on how to communicate with my squadmates. Through the highs, I have learnt to cherish the hard work that we have put in and really get to bond with my squadmates. Although the trainings were tiring and sometimes frustrating, the negative feelings seem to go away instantly the next day."</em>
+<p><em>“NPCC is more than just doing drills or learning hard skills, but  to also forge bonds between people from different walks of life of life. Despite many challenges that I have faced, I learnt to move on and rectify this mistakes to become a better version of myself. Through the ups and downs, I can definitely say that I have developed that sense of leadership in me that can lead and guide my juniors to greater heights.”</em>
 </p>
-<p>~Mohammad Danish Aiman, FieId Instructor and Head Of Logistics</p>
+<p><em>~Toh Hong Yuan Freddy (2025), Chairperson</em>
+</p>
+<p><em>“NPCC has been a fruitful and enriching experience for me where I learnt numerous hard skills which are rarely touched on in school. I also forged strong bonds with my squadmates and improved my leadership skills. NPCC has also instilled a sense of confidence in me, especially since I am tasked with the responsibility of teaching my juniors as the Squad In-Charge. Though some trainings were tiring, seeing my juniors improve motivated me to carry on and made me feel like every effort I put in was worth it.</em>
+</p>
+<p><em>~Allison Ong Rui En (2025), Secondary 2 Squad I/C</em>
+</p>
 <p><em>“It has been an exhilarating experience being in the Precision Drills Sequence (PDS) squad. As the In-Charge, I am tasked with teaching my cadets and fellow squadmates. I feel that being in PDS teaches resilience as an immense amount of time and effort is needed to master the drills and stunts. However, PDS has never felt dreadful or unappealing as I came to learn them of my own volition. I truly feel that PDS is my passion and I would never give up the opportunity to learn new tricks."</em>
 </p>
-<p>~Nurhilmi bin Nurfaizal, Precision Drill Sequence I/C</p>
+<p><em>~Nurhilmi bin Nurfaizal (2024), Precision Drill Sequence I/C</em>
+</p>
 <p><em>“Although NPCC may seem like it is just solely focused on hard skills, over time, it taught me numerous leadership skills. To me, NPCC has helped me come out of my shell and helped me with not just hard skills, also with building my confidence and leadership qualities, all of which can be applied in the future. When teaching my cadets, it can feel tiring and stressful, but the rewarding feeling that I get after successfully teaching is truly incomparable.”</em>
 </p>
-<p>~Natasha Alya, Secondary 1 Assistant Squad I/C</p>
+<p><em>~Natasha Alya (2024), Secondary 1 Assistant Squad I/C</em>
+</p>
+<p></p>
 <h3>Photos</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-1.jpg">
-</div>
-<p>Participants of the 2023 NPCC Annual Paradet</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-2.png">
-</div>
-<p>Our Officer-in-Charge with our 7th consecutive UOPA Distinction / Gold
-Award!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-3.png">
-</div>
-<p>First NPCC-NCC combined Precision Drill Sequence Rehearsals!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-4.jpg">
 </div>
 <p>Secondary 2 cadets analysing a crime scene as part of their Crime Scene
 Investigation (CSI) practical lesson, conducted by Teacher-Officer P/INSP
 (NPCC) Crescencia Chay</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-5.png">
-</div>
-<p>Recipients of the prestigious SPF-NPCC Badge with our Principal, Mrs Regina
-Lee</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-6.png">
 </div>
@@ -533,29 +523,24 @@ Competition: Attack on A.I..</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-8.png">
 </div>
-<p>Our cadets in action at the 2023 CCA Open House</p>
+<p>Our cadets in action at the CCA Open House</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-9.png">
 </div>
-<p>Our first campfire since the COVID-19 pandemic! (Unit Camp 2022)</p>
+<p>Our campfire</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-10.png">
 </div>
-<p>Cadets enjoying an outdoor cooking experience as part of the 2022 Unit
-Camp</p>
+<p>Cadets enjoying an outdoor cooking experience as part of the Unit Camp</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-11.png">
 </div>
-<p>National Day Parade 2022, our first fully-physical parade post-COVID</p>
+<p>National Day Parade</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-11a.png">
 </div>
 <p>Cadets sharing anti-scam residents with the residents of Yishun as part
 of their Passion Youth Ambassador (PYA) programme</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-12.png">
-</div>
-<p>YSS Unit Cohesion 2022: Hike to Pulau Ubin</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-13.png">
 </div>
