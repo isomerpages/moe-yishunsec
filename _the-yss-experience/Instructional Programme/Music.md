@@ -47,7 +47,7 @@ Annual camp to expose the Sec 3NT Music students to Live Sound stage setups as w
 
 This year, Yishun Secondary school took on a partnership with the Singapore Symphony Orchestra (SSO) to be part of a pilot programme comprising a music workshop and attendance at an SSO concert. The purpose of this pilot programme is to aid in strengthening the local arts scene, in the SSO’s offerings for students and youth in the future.
 
-20 selected students from the Symphonic Band, Choir, Guzheng as well as the lower secondary Music programme took part in a Music and Movement workshop to better understand the Symphony pieces before going for the concert, where they experienced the common motifs heard in the symphony through active listening, the Dalcroze method as well as through interaction with 2 SSO musicians who were also playing at the concert itself.
+20 selected students from the Concert Band, Choir, Guzheng as well as the lower secondary Music programme took part in a Music and Movement workshop to better understand the Symphony pieces before going for the concert, where they experienced the common motifs heard in the symphony through active listening, the Dalcroze method as well as through interaction with 2 SSO musicians who were also playing at the concert itself.
 
 At the concert, the students who were part of the workshop recognised the motifs and were engaged in listening throughout the concert, enjoying classical music in a way they never did before.
 
