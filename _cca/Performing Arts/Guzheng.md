@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/Guzheng/Guzheng_24.jpg">
-</div>
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
