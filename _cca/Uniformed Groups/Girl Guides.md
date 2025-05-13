@@ -218,7 +218,7 @@ citizens of the world.</p>
 <h3>Student’s Quotes</h3>
 <p><em>“My experience in BPA has greatly influenced who I am now. I conducted a lot of research and learnt a lot about proposal planning while getting ready for the BPA. It gave me the opportunity to discover what goes into organizing an enjoyable and successful CCA session. The most enjoyable aspect was putting the proposal I planned into action. I became more independent and confident as I had to execute my proposal to Girl Guides from another school. Having said that, BPA has greatly helped in my growth not only as a person but as a guide as well.”</em>
 </p>
-<p><em>- Lee Wen YI, Company Leader and BPA recipient (2024)</em>
+<p><em>~ Lee Wen YI, Company Leader and BPA recipient (2024)</em>
 </p>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
