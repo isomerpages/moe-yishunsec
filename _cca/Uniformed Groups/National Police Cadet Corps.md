@@ -8,34 +8,26 @@ variant: tiptap
 <h3>Teachers-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>A/ASP (NPCC) Jarren Lye (Officer-in-Charge)</p>
+<p>A/ASP (NPCC) Crescencia Chay (Officer-in-Charge)</p>
 </li>
 <li>
-<p>INSP (NPCC) Wu Jianghui (Deputy Officer-in-Charge)</p>
+<p>INSP (NPCC) Lim Su Wen (Deputy Officer-in-Charge)</p>
 </li>
 <li>
-<p>P/INSP (NPCC) Crescencia Chay</p>
-</li>
-<li>
-<p>Ms Serena Sim</p>
-</li>
-<li>
-<p>Ms Lim Su Wen</p>
-</li>
-<li>
-<p>Ms Klaudia Lim</p>
+<p>P/INSP (NPCC) Klaudia Ng</p>
 </li>
 </ul>
 <h3>Volunteer Adult Leaders</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>S/CI (NPCC) Choh Kaifeng</p>
+<p>P/H/INSP (NPCC) Choh Kaifeng</p>
 </li>
 <li>
-<p>CI (NPCC) Yeo Pei Xuan</p>
+<p>P/H/INSP (NPCC) Haritha D/O Elanchelian</p>
 </li>
 <li>
-<p>CI (NPCC) Lee Si Hui, Vanessa</p>
+<p>CI (NPCC) Ko Ke Xuan</p>
+<p></p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>
@@ -43,29 +35,33 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesday from 3:30 pm to 6 pm</p>
+<p>Wednesdays 3:30 pm to 6 pm</p>
+</li>
+<li>
+<p>(For selected cadets only) PDS Squad Training: Tuesday from 3:45 pm to
+6 pm</p>
 </li>
 </ul>
 <p>(Certain courses / competitions organised by NPCC HQ may fall outside
-of regular training days)</p>
+of regular training days.</p>
+<p>Cadets who have been shortlisted for competitions may also need to attend
+additional training sessions.)</p>
 <h3>Venues</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parade Square</p>
 </li>
 <li>
-<p>4T1 / 2E4 Classrooms</p>
-</li>
-<li>
-<p>Spare Classroom (B1-03)</p>
+<p>3 Resilience / 4 Seek Classrooms</p>
+<p></p>
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/npcc-exco2023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/UniformedGroups/NPCC/NPCC_Exco_2025.jpg">
 </div>
 <h3>Key Student Outcomes</h3>
-<p>To groom a resilient team of cadets to become sensible thinkers, humble
+<p>To grow a resilient team of cadets to become sensible thinkers, humble
 leaders and active contributors by developing cadets’ soft-skills, hard-skills,
 and leadership and management skills.</p>
 <h3>Key Events</h3>
@@ -99,11 +95,11 @@ Unit)</p>
 <p>.22 Revolver Shoot – Secondary 2 and 3 Cadets only</p>
 </li>
 <li>
-<p>Inter-unit Competitions (e.g. CSI, Shooting)</p>
+<p>Inter-unit Competitions (e.g. CSI, Shooting, Drills, Campcraft)</p>
 </li>
 <li>
-<p>Precision Drill Sequence (PDS) - <em>NEW from 2023</em>
-</p>
+<p>Precision Drill Sequence (PDS) - NEW from 2023</p>
+<p></p>
 </li>
 </ul>
 <h3>Highlights / Achievements</h3>
@@ -126,10 +122,26 @@ Unit)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In Progress</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -188,6 +200,31 @@ Unit)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Inter-unit Campcraft Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In Progress</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inter-unit Drills Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+<p></p>
+<p>(1 out of 4 National Champions)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Nanyang Girls High School Inter-Unit NPCC Competition: Attack on A.I.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -227,12 +264,42 @@ Unit)</p>
 </th>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>2025</p>
+</td>
 <td rowspan="1" colspan="1">
+<p>Teddy Toh Jun Xian (4 Innovate)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zara Amanda Binti Mohamad Ridduan (4 Integrity)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prisha Murli (4E3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Jie En Brandon (4N1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Izsahqila Bte Ismail (4N1)
-<br>Nur Suhailah Bte Omar (4N2)</p>
+<p>Izsahqila Bte Ismail (4N1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Suhailah Bte Omar (4N2)</p>
 </td>
 </tr>
 <tr>
