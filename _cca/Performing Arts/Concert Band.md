@@ -8,13 +8,13 @@ variant: tiptap
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Daniel Woon (I/C)</p>
+<p>Mr Daniel Woon</p>
 </li>
 <li>
-<p>Ms Wu Jiang Hui</p>
+<p>Ms Durga Gayathri Manogar</p>
 </li>
 <li>
-<p>Ms Esther Seah Wei Qin</p>
+<p>Ms Ng Tian Wen</p>
 </li>
 <li>
 <p>Ms Ng Puay Hoon</p>
@@ -23,17 +23,16 @@ variant: tiptap
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Monday &amp; Wednesday from 4 pm to 6 pm</p>
+<p>Mondays &amp; Wednesdays from 4 pm to 6 pm</p>
 </li>
 </ul>
 <h3>Venue</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Monday:</strong> Music Room, 1E1, 1E2, 1E3, 2E4, 1T1, 1N2 Classrooms</p>
+<p>Music Studio</p>
 </li>
 <li>
-<p><strong>Wednesday:</strong> Hall and Music Room, 1E1, 1E2, 1E3, 2E4, 1T1,
-1N2 Classrooms</p>
+<p>Music Lab</p>
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
@@ -56,47 +55,101 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Band Majors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TEOW KAI JUN</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concert Master</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VELASCO ANGELA MAE RAMOS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3E1</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head Quarter Master</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KHO YUEN TENG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3E1</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Welfare Head</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RAYYAN FOO</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Quarter Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E4</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Publicity and Welfare IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
