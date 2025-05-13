@@ -5,22 +5,16 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Netball/Netball_24.jpg">
-</div>
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Nithya Selvaraju (I/C)</p>
+<p>Ms Joan Chin (I/C)</p>
 </li>
 <li>
 <p>Ms Sabrina Bte Mohd Amran</p>
 </li>
 <li>
 <p>Ms Lim Sin Yee</p>
-</li>
-<li>
-<p>Ms Joan Chin</p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>
@@ -32,7 +26,11 @@ variant: tiptap
 <h3>Venue</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parade Square</p>
+<p>Parade Square on Tuesdays</p>
+</li>
+<li>
+<p>ISH in Jiemin Primary School on Thursdays</p>
+<p></p>
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
@@ -56,35 +54,68 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Captain</p>
+<p>B Division Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ANGEL NGU XIN EN</p>
+<p>CALLISTA PECK XUAN YI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E3</p>
+<p>3 CARE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
+<p>B Division Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MONICA CHIE WALTERS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E1</p>
+<p>3 SEEK</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
+<p>B Division Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALAWIYAH NASYITHOH BINTE YOHANES</p>
+<p>LIM XIANG YING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E1</p>
+<p>3 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NAURAH ASHEEQA BINTE MOHAMMAD ASRI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division Vice-Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BABY MAZLINDAYATI BINTI MUHAMAD MAZLI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 INNOVATE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division Vice-Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SURESH KUMAR KEERTHILAYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 INTEGRITY</p>
 </td>
 </tr>
 </tbody>
@@ -104,7 +135,8 @@ variant: tiptap
 <h3>Highlights / Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Organised friendly matches</p>
+<p>Organised and hosted friendly games such as Nee Soon South Netball Invitationals
+2025</p>
 </li>
 <li>
 <p>‘B’ and ‘C’ Division participated in National School Games [North Zone]</p>
@@ -115,13 +147,10 @@ variant: tiptap
 <li>
 <p>All Netballers are considered leaders and they are given opportunities
 to not only plan, but also execute activities during the bonding sessions.</p>
-</li>
-<li>
-<p>Nur Danisha Bte Mohamad Azhar did YSS Netball proud by clinching the National
-Schools Games Sportsmanship Award (2019)</p>
+<p></p>
 </li>
 </ul>
-<h3>Events in 2023</h3>
+<h3>Events in 2024 &amp; 2025</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>CCA Orientation Day</p>
@@ -130,21 +159,10 @@ Schools Games Sportsmanship Award (2019)</p>
 <p>Open House</p>
 </li>
 <li>
-<p>The team contributed to the community through the Park Cleanup 2023. This
-event aims to foster a sense of responsibility and awareness among students
-about caring for the environment around them.</p>
+<p>Hosted New Taipei Municipal Lujiang Junior High School for CCA exposure</p>
 </li>
 </ul>
-<h3>Student’s quotes</h3>
-<p><em>“Netball taught me that a sport is not just about gameplay or skills. It is about perseverance and teamwork. When I was first appointed as the captain, I did not have confidence. However, with encouragement from my teachers, teammates, and coach I gained my confidence and believed in myself. I learned to lead and motivate the team. Lastly, through these three years, with guidance from my teachers, teammates, and coach, I learned to be a better person, teammate, and netball player.”</em>
-</p>
-<p>Chloe</p>
 <h3>Photos</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/SportsGames/Netball/Netball-1.jpg">
-</div>
-<p>Training</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/SportsGames/Netball/Netball-3.png">
-</div>
+<p></p>
+<p></p>
 <p>Working on our game play</p>
