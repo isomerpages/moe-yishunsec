@@ -157,7 +157,13 @@ the set piece “Overture No 1” by Kelly Tang and the choice piece “Life
 Eternal” by Rossano Galante.</p>
 <p>After months of hard work and practice, the band was awarded a Certificate
 of Accomplishment!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/Band/Concert_Band_1_25.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/Band/Concert_Band_2_25.jpg">
+</div>
 <h3>SYF 2023 Video</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -179,4 +185,3 @@ of Accomplishment!</p>
 </p>
 <p>Lim Chun Hong, Concertmaster</p>
 <p></p>
-<p>SYF Performance</p>
