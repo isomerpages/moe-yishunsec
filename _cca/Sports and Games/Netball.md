@@ -68,7 +68,7 @@ variant: tiptap
 <p>B Division Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MONICA CHIE WALTERS</p>
+<p>ALYSSA WONG JING ERN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 SEEK</p>
