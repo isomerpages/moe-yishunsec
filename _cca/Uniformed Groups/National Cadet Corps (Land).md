@@ -139,7 +139,7 @@ variant: tiptap
 loyal leaders and team players through fun and challenging military related
 activities. Through these activities, NCC also hopes to nurture inspiring
 leaders and committed citizens.</p>
-<h3>Events</h3>
+<h3>Key Events</h3>
 <p><strong>Total Defence award:</strong>
 </p>
 <p>• Junior cadets - Bronze</p>
