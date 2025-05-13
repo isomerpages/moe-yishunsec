@@ -139,41 +139,26 @@ variant: tiptap
 loyal leaders and team players through fun and challenging military related
 activities. Through these activities, NCC also hopes to nurture inspiring
 leaders and committed citizens.</p>
-<h3>Highlights / Achievements</h3>
+<h3>Events</h3>
 <p><strong>Total Defence award:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Junior cadets - Bronze</p>
-</li>
-<li>
-<p>Senior cadets - Silver</p>
-</li>
-<li>
-<p>Cadet Leaders - Gold</p>
-</li>
-</ul>
+<p>• Junior cadets - Bronze</p>
+<p>• Senior cadets - Silver</p>
+<p>• Cadet Leaders - Gold</p>
 <p>Cadets Proficiency Tests (military knowledge and skills)</p>
 <p>Camp Steel, Camp Forge and Specialist Assessment</p>
 <p>Cadet Leaders: attained the Army NCC Badge upon successful completion
-of Specialist Assessment in 2022/2023</p>
+of Specialist Assessment in 2023/ 2024</p>
 <p>Senior Specialist Leaders Course</p>
-<p>Singapore Kindness Movement Initiative by Senior cadets - awarded the
-Kindness Badge for 3rd</p>
-<h3>Events</h3>
-<p>Cadet Leaders, USM and ASM were nominated to participate in the Virtual
-International Cadet Exchange Programme Singapore (ICEP Singapore) 2022.</p>
-<h3>Reflections</h3>
+<h3>Highlights / Achievements</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC_2024_2.jpg">
 </div>
-<p>Exemplary service and dedication at the OCA ceremony held at the Ministry
-of Education Headquarters Edutorium during the SAF/ NCC Commemoration week.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC_2024_1.jpg">
 </div>
-<p>Exemplary service and dedication at the OCA ceremony held at the Ministry
-of Education Headquarters Edutorium during the SAF/ NCC Commemoration week.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC_2024_3.jpg">
 </div>
@@ -187,7 +172,6 @@ leaders. The camaraderie among colleagues has been a source of strength,
 fostering a collaborative environment where we strive towards common goals
 to achieve NCC vision and mission.</p>
 <p>#ncc #toservewithprideanddedication #ysspride</p>
-<p></p>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC-1.jpg">
@@ -195,25 +179,28 @@ to achieve NCC vision and mission.</p>
 <p>Total Defence Guardians Of The City - organised and facilitated by senior
 cadets to the junior cadets to gain a deeper understanding of Total Defence
 and its relevance in today’s context</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/ncc2023-2.jpg">
-</div>
-<p>Precision Drill Squad(PDS) members at the Grand Finals 2023 - Clinched
-top 8 position at National level</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/ncc2023-3.jpg">
 </div>
 <p>NCC training for Individual Field Craft the Dummy weapon Singapore Assault
 Rifle 21 (SAR 21)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/ncc2023-4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC_1_25.jpg">
 </div>
+<p>Air rifle shoot for senior cadets</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/ncc2023-5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC_2_25.jpg">
 </div>
-<p>Cadet leaders at TACTSIM for urban operations simulation exercise (3v3)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/ncc2023-6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC_3_25.jpg">
 </div>
-<p>Junior cadets at the affirmation ceremony and exhibition booths at HQ
-NCC</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/UniformedGroups/NCC/NCC_4_25.jpg">
+</div>
+<p>Our learning journey to Navy Museum during our NCC unit camp 2024</p>
+<p></p>
