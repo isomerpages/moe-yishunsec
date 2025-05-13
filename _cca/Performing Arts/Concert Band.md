@@ -26,7 +26,7 @@ variant: tiptap
 <p>Mondays &amp; Wednesdays from 4 pm to 6 pm</p>
 </li>
 </ul>
-<h3>Venue</h3>
+<h3>Venues</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Music Studio</p>
@@ -148,7 +148,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>CCA Goal</h3>
+<h3>CCA Motto</h3>
 <p>One Band, One Sound, One Family</p>
 <h3>Highlights / Achievements</h3>
 <p>Yishun Secondary School Concert Band took part in the 2025 SYF Arts Presentation.
