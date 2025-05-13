@@ -337,30 +337,68 @@ Unit)</p>
 </th>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>2025</p>
+</td>
 <td rowspan="1" colspan="1">
+<p>Toh Hong Yuan Freddy (4 Seek)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teddy Toh Jun Xian (4 Innovate)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prisha Murli (4E3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Alisha (4E3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Izsahqila Bte Ismail (4N1)
-<br>Tan Yu Herng (4E2)</p>
+<p>Izsahqila Bte Ismail (4N1)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tan Yu Herng (4E2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Divakaran Harini (4E1)
-<br>Yong Kah Hoong (4E4)</p>
+<p>Divakaran Harini (4E1)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Yong Kah Hoong (4E4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Haritha D/O Elanchelian (4E1)
-<br>Lee Si Hui Vanessa (4E2)</p>
+<p>Haritha D/O Elanchelian (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Si Hui Vanessa (4E2)</p>
 </td>
 </tr>
 </tbody>
