@@ -487,7 +487,7 @@ Unit)</p>
 </tbody>
 </table>
 <h3>Student’s Quotes</h3>
-<p><em>“NPCC is more than just doing drills or learning hard skills, but  to also forge bonds between people from different walks of life of life. Despite many challenges that I have faced, I learnt to move on and rectify this mistakes to become a better version of myself. Through the ups and downs, I can definitely say that I have developed that sense of leadership in me that can lead and guide my juniors to greater heights.”</em>
+<p><em>“NPCC is more than just doing drills or learning hard skills, but to also forge bonds between people from different walks of life of life. Despite many challenges that I have faced, I learnt to move on and rectify this mistakes to become a better version of myself. Through the ups and downs, I can definitely say that I have developed that sense of leadership in me that can lead and guide my juniors to greater heights.”</em>
 </p>
 <p><em>~Toh Hong Yuan Freddy (2025), Chairperson</em>
 </p>
