@@ -147,7 +147,6 @@ variant: tiptap
 <li>
 <p>All Netballers are considered leaders and they are given opportunities
 to not only plan, but also execute activities during the bonding sessions.</p>
-<p></p>
 </li>
 </ul>
 <h3>Events in 2024 &amp; 2025</h3>
