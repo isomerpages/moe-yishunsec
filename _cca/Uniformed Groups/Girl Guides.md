@@ -15,7 +15,6 @@ variant: tiptap
 </li>
 <li>
 <p>Mdm Juanita Binte Jamari</p>
-<p></p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>
