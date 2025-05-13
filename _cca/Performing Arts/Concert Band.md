@@ -45,7 +45,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Leadership Roles</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
@@ -56,29 +56,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Band Majors</p>
+<p>Band Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Zhang Haoxuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>3 RS</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Naufal Rizqin Bin Nurul Hisham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seetoh Alexis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 IN</p>
 </td>
 </tr>
 <tr>
@@ -86,18 +86,18 @@ variant: tiptap
 <p>Quarter Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Huzaifah Bin Abdul Harris</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 SO</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ho Yu Jay Timothy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 CA</p>
 </td>
 </tr>
 <tr>
@@ -105,51 +105,45 @@ variant: tiptap
 <p>Publicity and Welfare IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Qaireen Yushini Binte Abdul Halim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>3 SO</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Sun Yuanzhi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Isabella Rose Wijaya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>3 IT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ma Peizhe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 IT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Swee Yeoh, Jerry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 ST</p>
 </td>
 </tr>
 </tbody>
@@ -157,41 +151,13 @@ variant: tiptap
 <h3>CCA Goal</h3>
 <p>One Band, One Sound, One Family</p>
 <h3>Highlights / Achievements</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>The band sent 2 teams to participate in the Singapore Youth Festival.
-Team A performed “Flower Crown” while Team B performed “The Uprising”.
-Both team put in their very best and were awarded Certificate of Accomplishment.</p>
-</li>
-<li>
-<p>The band is also very proud to have been selected to perform for the MOE
-HQ National Day Celebration. Due to safe management measures, we were not
-able to perform live bit instead had to submit a video recording of our
-performance which was played during the event.</p>
-</li>
-<li>
-<p>The Band participated in Arts Extravaganza. In addition, they performed
-at the National Day Dinner celebration organised by Nee Soon Central Community
-Club and played three songs in August.</p>
-</li>
-</ul>
-<h3>Thinker-Innovator-Contributor Highlights (focusing on learning experiences / processes):</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>20 Band Leaders attended the 2021 YOUTH ARTS LEADERS CONNECT! PROGRAMME
-organised by the Wind Bands Association of Singapore, which took place
-3 days over the September holidays and benefitted much from it. They learnt
-what it means to be a leader and how to lead the members, not just to be
-better performers but effective team members. They learnt how to communicate
-to be understood and how to lead with respect and kindness.</p>
-</li>
-<li>
-<p>Although we could not have a proper farewell to show the seniors our appreciation,
-the present exco members took the initiative to prepare video messages
-and gifts as tokens of appreciation and to wish the seniors all the best
-for the national examinations.</p>
-</li>
-</ul>
+<p>Yishun Secondary School Concert Band took part in the 2025 SYF Arts Presentation.
+Under the baton of our band director Mr Chris Yong, the band performed
+the set piece “Overture No 1” by Kelly Tang and the choice piece “Life
+Eternal” by Rossano Galante.</p>
+<p>After months of hard work and practice, the band was awarded a Certificate
+of Accomplishment!</p>
+<p></p>
 <h3>SYF 2023 Video</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -212,15 +178,5 @@ for the national examinations.</p>
 <p><em>“My experiences in Symphonic Band so far is great! I feel that throughout the years in band, I have developed perseverance as each song holds its own challenges, but together with my bandmates, it makes trying my best easier. Moreover, the conductors have never given up on the band despite our difficulties trying to play new pieces. As the Concertmaster of the band, I am very eager to learn how the different instruments work so I can lead my fellow CCA peers. The band has provided me many opportunities to learn by letting me attend different workshops such as the WBAS workshop, where I have honed my leadership and musicianship skills, and gained knowledge on how I can become a better leader now and in the future.”</em>
 </p>
 <p>Lim Chun Hong, Concertmaster</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/Band/Band-3.jpeg">
-</div>
-<p>After the performance</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/Band/Band-2.jpeg">
-</div>
-<p>Practising hard</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/Band/Band-1.jpeg">
-</div>
+<p></p>
 <p>SYF Performance</p>
