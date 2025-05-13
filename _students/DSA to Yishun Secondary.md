@@ -40,7 +40,7 @@ as they grow within their respective CCAs and student development programmes.</p
 passion in Music, they can look forward to being part of our school’s Applied
 Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), Music
 Performance and Creation, and in CCAs such as Choir, Guzheng Ensemble and
-Symphonic Band.</p>
+Concert Band.</p>
 </li>
 <li>
 <p><strong><u>Dance:</u></strong> Students who demonstrate aptitude and passion

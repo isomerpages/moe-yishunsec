@@ -64,7 +64,7 @@ categories.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="/cca/performing-arts/symphonic-band/" rel="noopener noreferrer nofollow" target="_blank">Symphonic Band</a></strong>
+<p><strong><a href="/cca/performing-arts/concert-band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a></strong>
 </p>
 </li>
 </ul>
