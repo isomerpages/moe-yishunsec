@@ -11,12 +11,6 @@ variant: tiptap
 <p>In 2024, YSS will introduce a girls’ football for the incoming secondary
 one girls as part of this programme. This will be a cluster CCA for all
 girls from the N2 cluster.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Football/Football__Girls__24.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Football/Football__Boys__24.jpg">
-</div>
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
