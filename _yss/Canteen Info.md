@@ -31,7 +31,7 @@ variant: tiptap
 <p>15 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Has catering experience.
 <br>
@@ -40,7 +40,7 @@ variant: tiptap
 <li>
 <p>Completed food and hygiene course.</p>
 </li>
-</ul>
+</ol>
 </td>
 </tr>
 </tbody>
