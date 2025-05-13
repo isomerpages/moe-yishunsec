@@ -165,4 +165,4 @@ to not only plan, but also execute activities during the bonding sessions.</p>
 <h3>Photos</h3>
 <p></p>
 <p></p>
-<p>Working on our game play</p>
+<p></p>
