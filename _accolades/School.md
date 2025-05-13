@@ -4,6 +4,13 @@ permalink: /accolades/school/
 description: ""
 variant: tiptap
 ---
+<h3>Our Girls Football team was featured in the Straits Times</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.straitstimes.com/singapore/too-few-female-players-schools-in-singapore-team-up-to-start-girls-football-ccas" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/too-few-female-players-schools-in-singapore-team-up-to-start-girls-football-ccas</a>
+</p>
+</li>
+</ul>
 <h3>A Green Day with Yishun Secondary School</h3>
 <ul data-tight="true" class="tight">
 <li>
