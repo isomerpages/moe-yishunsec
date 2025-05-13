@@ -33,12 +33,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Has catering experience.
+<p>Has catering experience
 <br>
 </p>
 </li>
 <li>
-<p>Completed food and hygiene course.</p>
+<p>Completed food and hygiene course</p>
 </li>
 </ol>
 </td>
