@@ -93,7 +93,7 @@ email OR to the School's General Office.</p>
 </p>
 </li>
 <li>
-<p>Contact Person: Mr Alan Tan (AM)</p>
+<p>Contact Person: Mr. Alan Tan (AM)</p>
 </li>
 </ul>
 <h5>How to get there?</h5>
