@@ -42,6 +42,40 @@ third_nav_title: Student Development
 <p>To help create a greater sense of belonging amongst Yishunites</p>
 </li>
 </ol>
+<h4>Sem 1 Team Bonding at Futsal Arena @ Yishun Park</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL_1.jpg">
+</div>
+<p>Bubble Bump.</p>
+<p>Most of our PSLs had fun during the Semester 1 Team Bonding session. Not
+only did they have fun,they also made new friends in the PSL community
+by playing the Bubble Bump. The event’s objectives were to allow PSLs to
+get to know more about each other and step out of their comfort zone.Through
+these activities, the PSLs had the chance to improve their teamwork and
+communication skills with one another despite being in a bubble. It helped
+the PSLs to learn new things such as looking out for their fellow PSLs’
+safety and encouraging them to participate more during the activities.After
+all, the Student Well-being teachers had spent much time choosing the activities
+for the PSLs so that they could have fun.</p>
+<p>In conclusion, the Semester 1 Team Bonding session was really fun and
+engaging and I hope that we can have more opportunities like this in the
+future.</p>
 <h4>Peer Support Leaders in the Creative Movement Programme for Youths</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL_2025.png">
