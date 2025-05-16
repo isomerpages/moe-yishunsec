@@ -217,7 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://notebooklm.google.com/" rel="noopener nofollow" target="_blank">Google NotebookLM</a>
+<p><a href="https://notebooklm.google.com/" rel="noopener nofollow" target="_blank">Google NotebookLM (AI tool)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
