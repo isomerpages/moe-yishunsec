@@ -31,7 +31,7 @@ variant: tiptap
 <p>15 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Must have</p>
+<p>Must have:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Catering experience
@@ -52,7 +52,7 @@ variant: tiptap
 <p>15 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Must have</p>
+<p>Must have:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Catering experience</p>
