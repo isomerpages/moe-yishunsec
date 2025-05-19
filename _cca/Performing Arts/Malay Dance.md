@@ -8,16 +8,16 @@ variant: tiptap
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Nurfirdaus Ghazali (I/C)</p>
+<p>Ms Nurfirdaus Ghazali</p>
 </li>
 <li>
-<p>Ms Shahidah Borhan</p>
+<p>Ms Syhella Sulaiman</p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesday from 4 pm to 6 pm</p>
+<p>Wednesdays (4 pm – 6 pm)</p>
 </li>
 </ul>
 <h3>Venues</h3>
@@ -27,14 +27,39 @@ variant: tiptap
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Chairman:</strong> Nur Azyyati Naseeha Binte Mohamed Azlan (4N2)</p>
-</li>
-<li>
-<p><strong>Vice-chairman:</strong> Nur Illisha Binte Abdul Latif (4E3)</p>
-</li>
-</ul>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairperson:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurkhairya Nabila Binte Muhammad Khairuddin (4-IN)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-chairperson:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zuriqah Izzati Binti Mohammed Haniff (4-SE)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Key Student Outcomes</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -58,22 +83,17 @@ involvement through dance performance</p>
 <p>Participation in annual Arts Extravaganza</p>
 </li>
 <li>
-<p>Participated in Singapore Youth Festival Arts Presentation – Certificate
-of Distinction 2023</p>
-</li>
-<li>
-<p>CCA leaders participated in Amplified Dance Programme at the Esplanade</p>
+<p>Participated in SYF Arts Presentation – Certificate of Accomplishment
+2025</p>
 </li>
 </ul>
 <h3>Highlights / Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival Arts Presentation – Certificate of Distinction
-2021</p>
+<p>SYF Arts Presentation – Certificate of Distinction 2023</p>
 </li>
 <li>
-<p>Singapore Youth Festival Arts Presentation – Certificate of Distinction
-2019</p>
+<p>SYF Arts Presentation – Certificate of Distinction 2021</p>
 </li>
 </ul>
 <h3>SYF 2023 Video</h3>
@@ -92,15 +112,10 @@ of Distinction 2023</p>
 </div>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayD1_2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/Malay_Dance_25_1.jpg">
 </div>
-<p>SYF 2023</p>
+<p>SYF 2025</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayD2_2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/Malay_Dance_25_2.jpg">
 </div>
-<p>SYF 2023</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/MalayDance/MalayD3_2023.jpg">
-</div>
-<p>Amplified Programme at the Esplanade attended by CCA Leaders, Amirah and
-Rafhanah.</p>
+<p>SYF 2025</p>
