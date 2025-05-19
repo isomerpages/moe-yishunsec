@@ -18,6 +18,13 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
+      title: Cross Country 2025
+      subtitle: Announcements
+      id: infopic
+      description: "Date: 23 May 2025, Friday from 8 am to 11 am at SIT - Punggol Campus."
+      image: /images/Announcements/Cross_Country_2025_1.jpg
+      alt: Image alt text
+  - infopic:
       title: Letter to Parents
       description: Student Learning Festival - 30 Apr 2025
       button: Read more...
