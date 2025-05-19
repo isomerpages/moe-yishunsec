@@ -23,10 +23,11 @@ variant: tiptap
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday (3:30 pm- 6 pm)</p>
+<p>Tuesday (3:45pm to 6:00pm)</p>
 </li>
 <li>
-<p>Thursday (3:30 pm- 6 pm)</p>
+<p>Thursday (3:45pm to 6:00pm)</p>
+<p></p>
 </li>
 </ul>
 <h3>Venues</h3>
@@ -36,17 +37,13 @@ variant: tiptap
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>SN</p>
-</th>
 <th rowspan="1" colspan="1">
 <p>DESIGNATION</p>
 </th>
@@ -56,79 +53,58 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>CHAIRMAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUR SYAMSINA BINTE ZAINALLABIDEEN</p>
+<p>REGAN ONG YI ZHANG</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>VICE CHAIRMAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JERLIN LUW YEE HUI (LIU YIHUI)</p>
+<p>NOOR HAFSYAH QAISARAH BTE NOOR HIDAYAT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>VICE CHAIRMAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STUDENT CONDUCTOR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHERYL CHONG LAY YING</p>
+<p>TAN YAN XIN</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>SECRETARY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ANG LING XUAN, CHARLENE</p>
+<p>FUN YEE SAM</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>PUBLICITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RANEN TAN LE</p>
+<p>ONG JIAYI, AMELIA</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>LOGISTICS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOHAMAD HAKIM BIN MOHAMAD KHALIK</p>
+<p>KONG XIANGYI</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>WELFARE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GLENICE NG QINHUI</p>
+<p>JOYCELYN KANG</p>
 </td>
 </tr>
 </tbody>
@@ -155,30 +131,29 @@ make a difference in others’ lives through community involvement.</p>
 <h3>Highlights / Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Participated in the Singapore Youth Festival Arts Presentation 2021</p>
-</li>
-<li>
 <p>Participated in the Singapore Youth Festival Arts Presentation 2023 (Attained
 the Certificate of Accomplishment)</p>
 </li>
+<li>
+<p>Participated in the Singapore Youth Festival Arts Presentation 2025 (Attained
+the Certificate of Accomplishment)</p>
+<p></p>
+</li>
 </ul>
-<h3>Events in 2023</h3>
+<h3>Events in 2024 and 2025</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Exchange Programme with the Voices of Singapore Adult Choir at Capitol
-Building (Jul)</p>
+<p>CCA Orientation</p>
 </li>
 <li>
-<p>Public Performance for Arts Extravaganza at Yishun Town Hall (Aug)</p>
+<p>Open House</p>
 </li>
 <li>
-<p>Lunch time performance at Khoo Teck Puat Hospital (Oct) VIA</p>
+<p>Arts Extravaganza</p>
 </li>
 <li>
-<p>Learning Journey to B-Dazzle – Sing Choir Competition (Nov)</p>
-</li>
-<li>
-<p>Attend a musical performance @ Funan by Wildrice Production (Nov)</p>
+<p>Watching musical performances at Wildrice Theatre</p>
+<p></p>
 </li>
 </ul>
 <h3>SYF 2023 Video</h3>
