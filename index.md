@@ -18,6 +18,14 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
+      title: Arts Extravaganza 2025
+      subtitle: Announcements
+      id: infopic
+      description: Performances will be held in the school hall from Monday, 19 May to
+        Thursday, 22 May 2025.
+      image: /images/Announcements/AE_2025_Banner_1.jpg
+      alt: Image alt text
+  - infopic:
       title: Cross Country 2025
       subtitle: Announcements
       id: infopic
