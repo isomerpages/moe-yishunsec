@@ -16,23 +16,20 @@ variant: tiptap
 <li>
 <p>Mr Mohammad Rizal</p>
 </li>
-<li>
-<p>Ms Zarina</p>
-</li>
 </ul>
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday from 4 pm to 6 pm and</p>
+<p>Tuesdays from 4 pm to 6 pm</p>
 </li>
 <li>
-<p>Thursday from 4 pm to 6 pm</p>
+<p>Thursdays from 4 pm to 6 pm</p>
 </li>
 </ul>
 <h3>Venue</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Music Room</p>
+<p>YSS Commons Room</p>
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
@@ -45,13 +42,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Leadership Roles</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Class</p>
 </th>
 </tr>
 <tr>
@@ -59,21 +56,10 @@ variant: tiptap
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Sze Teng</p>
+<p>HUMAIRAH BINTE ABDUL HARRIS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-E1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice - Chairperson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Goh Han Nah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S3-E4</p>
+<p>S3-RS</p>
 </td>
 </tr>
 <tr>
@@ -81,10 +67,21 @@ variant: tiptap
 <p>Vice - Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Shafiqah Binte Muhammad Hafidz</p>
+<p>ANGELICA LEU YU TONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-N2</p>
+<p>S3-SO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice - Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN KAI XIN STELLA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-RP</p>
 </td>
 </tr>
 <tr>
@@ -92,10 +89,10 @@ variant: tiptap
 <p>Head of Logistics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Zhi Yi Elisa</p>
+<p>KARINE CHUA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-E1</p>
+<p>S3-SO</p>
 </td>
 </tr>
 <tr>
@@ -103,10 +100,10 @@ variant: tiptap
 <p>Head of Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kyla Thea Ng Kai Le</p>
+<p>SIAW YUE NING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-E2</p>
+<p>S3-SO</p>
 </td>
 </tr>
 <tr>
@@ -114,10 +111,10 @@ variant: tiptap
 <p>Head of Fitness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jayoma Jahzarra Phoebe Tolete</p>
+<p>LIM YINGXUAN SHERVELLE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-E1</p>
+<p>S3-IT</p>
 </td>
 </tr>
 <tr>
@@ -125,10 +122,10 @@ variant: tiptap
 <p>Head of Publicity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong En Ning Geneve</p>
+<p>CORRINE LEO LI MIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-E1</p>
+<p>S3-RS</p>
 </td>
 </tr>
 </tbody>
@@ -151,28 +148,28 @@ collective for a bigger goal.</p>
 <h3>Highlights / Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival 2023: Certificate of Distinction</p>
+<p>Singapore Youth Festival 2023 &amp; 2025: Certificate of Distinction</p>
 </li>
 <li>
-<p>Super 24 Competition 2023 Finals: Top 8</p>
+<p>Super 24 Competition 2024. (2023 Finals: Top 8)</p>
 </li>
 <li>
 <p>37th Speech and Prize Presentation Ceremony Performance</p>
 </li>
 <li>
-<p>YSS Arts Extravaganza 2023</p>
+<p>YSS Arts Extravaganza 2025</p>
 </li>
 <li>
-<p>Hong Kong Cultural and Immersion Programme</p>
+<p>Hong Kong Cultural and Immersion Programme (2023 &amp; 2025)</p>
 </li>
 </ul>
-<h3>Events in 2022</h3>
+<h3>Events</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Internal Dance Competition</p>
 </li>
 <li>
-<p>36th Speech and Prize Presentation Ceremony</p>
+<p>Speech and Prize Presentation Ceremony</p>
 </li>
 <li>
 <p>Arts Extravaganza Concert</p>
@@ -199,10 +196,19 @@ collective for a bigger goal.</p>
 <h3>Student’s Quotes</h3>
 <p><em>"Modern Dance has been the most memorable highlight of my secondary school experience. This CCA has helped me to step out of my comfort zone and taught me ways to express my emotions through dance. I am very grateful for my teachers and teammates who have been with me throughout this journey. I have learnt a lot from the CCA. "</em>
 </p>
-<p>Poon Yu Yi</p>
+<p>~ Poon Yu Yi</p>
 <p><em>"Modern dance has taught me many values such as perseverance and teamwork. I have learnt that I should always aim to do my best during training and performances. Events such as Super 24 gave me the exposure to perform on a public stage which allows me to grow as a dancer. My coach, teachers-in-charge, and friends are always there to encourage me and push me beyond my limits. Overall, I enjoy my time in the modern dance club. "</em>
 </p>
-<p>Poh Shae Qi, Phoebe</p>
+<p>~ Poh Shae Qi, Phoebe</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/Modern_Dance_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/Modern_Dance_2.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/super%2024%20finals%20at%20indoor%20stadium.jpg">
 </div>
