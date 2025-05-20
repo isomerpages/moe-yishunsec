@@ -93,7 +93,7 @@ variant: tiptap
 <p>To cultivate a cohort of committed young visual storytellers who excel
 in photography and videography, demonstrating initiative and innovation
 in their creative pursuits.</p>
-<h4> Short-Term Objectives</h4>
+<h4>Short-Term Objectives</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>To provide comprehensive training in photography and videography techniques,
@@ -136,8 +136,19 @@ our students' technical proficiency in digital imaging</p>
 goal of fostering innovation and concurrently nurturing our students' passion
 and proficiency in the rapidly evolving field of digital media.</p>
 <h4>Photos</h4>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media_Club_4.jpg">
+</div>
+<p>OSOS Competition entry by Legaspi Deandra Gwyneth Tolentino (2 Soar)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media_Club_3.jpg">
+</div>
+<p>Group photo of learning journey to Headrock VR (Sentosa)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media_Club_2.jpg">
+</div>
+<p>Group photo of learning journey to TrueWorld Studios</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media_Club_1.jpg">
+</div>
+<p>Group photo with Canon Trainers</p>
