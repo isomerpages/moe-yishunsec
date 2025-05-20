@@ -23,9 +23,6 @@ variant: tiptap
 <h4>Venues</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Computer Lab 1</p>
-</li>
-<li>
 <p>Computer Lab 4</p>
 </li>
 <li>
