@@ -33,8 +33,9 @@ variant: tiptap
 </li>
 </ul>
 <h4>Exco Structure</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -46,6 +47,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -53,6 +57,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>TAN JIE QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-ST</p>
 </td>
 </tr>
 <tr>
@@ -62,6 +69,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>JESSICA D/O ROBIN</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>S3-CA</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -69,6 +79,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>OOI KE HAN KAELYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-RP</p>
 </td>
 </tr>
 <tr>
@@ -78,6 +91,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>SITI RAHWANI BINTE BUHARI</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>S3-IT</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -85,6 +101,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>IAN HARITH BIN MOHAMAD ISKANDAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-RS</p>
 </td>
 </tr>
 </tbody>
@@ -108,7 +127,7 @@ among members</p>
 school and wider community.</p>
 </li>
 </ol>
-<h4>HIGHLIGHTS OF THE YEAR 2024</h4>
+<h4>HIGHLIGHTS</h4>
 <p>YSS Media Club consistently delivers high-quality, enriching learning
 experiences for our students through a diverse range of activities. Our
 comprehensive programme, encompassing both CCA sessions and school events,
@@ -116,20 +135,23 @@ is strategically designed to cultivate essential skills such as teamwork
 and effective communication. These initiatives simultaneously provide a
 platform for students to exhibit their creativity in the realm of digital
 media production.</p>
-<p>In our pursuit of excellence, we have implemented several notable initiatives
-this year. Key highlights include:</p>
+<p>In our pursuit of excellence, apart from participating in the annual OSOS
+( Our Schools Our Stories ) competition (Pic 1) we have implemented several
+notable initiatives this year.</p>
+<p>Key highlights include:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>An immersive learning journey to Headrock VR in Semester 1, exposing students
-to cutting-edge virtual reality technologies</p>
+to cutting-edge virtual reality technologies. (Pic 2)</p>
 </li>
 <li>
 <p>A professional site visit to TrueWorld Studios in Semester 2, offering
-insights into industry-standard video games production processes</p>
+insights into industry-standard video games production processes. (Pic
+3)</p>
 </li>
 <li>
 <p>The implementation of a specialised Canon Photography Course, enhancing
-our students' technical proficiency in digital imaging</p>
+our students' technical proficiency in digital imaging. (Pic 4)</p>
 </li>
 </ol>
 <p>These curated experiences significantly contributed to our overarching
