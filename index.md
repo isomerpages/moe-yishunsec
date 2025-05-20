@@ -33,6 +33,14 @@ sections:
       image: /images/Announcements/Cross_Country_2025_1.jpg
       alt: Image alt text
   - infopic:
+      title: Our Green Day
+      subtitle: Announcements
+      id: infopic
+      description: "Date: 24 May 2025, Saturday, Time: 10:30 am to 2:30 pm Venue:
+        Yishun Ave 4, Blk 506, Pavilion S761506"
+      image: /images/Announcements/Green_Day_1.png
+      alt: Image alt text
+  - infopic:
       title: Letter to Parents
       description: Student Learning Festival - 30 Apr 2025
       button: Read more...
@@ -51,12 +59,4 @@ sections:
   - resources:
       title: Information from YSS
       button: Read more...
-  - infopic:
-      title: Our Green Day
-      subtitle: Announcements
-      id: infopic
-      description: "Date: 24 May 2025, Saturday, Time: 10:30 am to 2:30 pm Venue:
-        Yishun Ave 4, Blk 506, Pavilion S761506"
-      image: /images/Announcements/Green_Day_1.png
-      alt: Image alt text
 ---
