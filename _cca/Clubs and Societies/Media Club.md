@@ -17,7 +17,7 @@ variant: tiptap
 <h4>CCA Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday, 4 to 6 pm</p>
+<p>Tuesdays, 4 to 6 pm</p>
 </li>
 </ul>
 <h4>Venues</h4>
