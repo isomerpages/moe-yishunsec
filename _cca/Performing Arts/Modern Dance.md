@@ -148,28 +148,28 @@ collective for a bigger goal.</p>
 <h3>Highlights / Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival 2023: Certificate of Distinction</p>
+<p>Singapore Youth Festival 2023 &amp; 2025: Certificate of Distinction</p>
 </li>
 <li>
-<p>Super 24 Competition 2023 Finals: Top 8</p>
+<p>Super 24 Competition 2024. (2023 Finals: Top 8)</p>
 </li>
 <li>
 <p>37th Speech and Prize Presentation Ceremony Performance</p>
 </li>
 <li>
-<p>YSS Arts Extravaganza 2023</p>
+<p>YSS Arts Extravaganza 2025</p>
 </li>
 <li>
-<p>Hong Kong Cultural and Immersion Programme</p>
+<p>Hong Kong Cultural and Immersion Programme (2023 &amp; 2025)</p>
 </li>
 </ul>
-<h3>Events in 2022</h3>
+<h3>Events</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Internal Dance Competition</p>
 </li>
 <li>
-<p>36th Speech and Prize Presentation Ceremony</p>
+<p>Speech and Prize Presentation Ceremony</p>
 </li>
 <li>
 <p>Arts Extravaganza Concert</p>
@@ -196,10 +196,19 @@ collective for a bigger goal.</p>
 <h3>Student’s Quotes</h3>
 <p><em>"Modern Dance has been the most memorable highlight of my secondary school experience. This CCA has helped me to step out of my comfort zone and taught me ways to express my emotions through dance. I am very grateful for my teachers and teammates who have been with me throughout this journey. I have learnt a lot from the CCA. "</em>
 </p>
-<p>Poon Yu Yi</p>
+<p>~ Poon Yu Yi</p>
 <p><em>"Modern dance has taught me many values such as perseverance and teamwork. I have learnt that I should always aim to do my best during training and performances. Events such as Super 24 gave me the exposure to perform on a public stage which allows me to grow as a dancer. My coach, teachers-in-charge, and friends are always there to encourage me and push me beyond my limits. Overall, I enjoy my time in the modern dance club. "</em>
 </p>
-<p>Poh Shae Qi, Phoebe</p>
+<p>~ Poh Shae Qi, Phoebe</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/Modern_Dance_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/Modern_Dance_2.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/super%2024%20finals%20at%20indoor%20stadium.jpg">
 </div>
