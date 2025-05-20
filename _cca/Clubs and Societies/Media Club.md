@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/Media-1.jpg">
-</div>
 <h4>Teacher-in-charge</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -35,151 +32,112 @@ variant: tiptap
 <p>Hall Control Room</p>
 </li>
 </ul>
-<h4>Aperture Exco Structure</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/MediaClubExco_2023.png">
-</div>
-<h4>Key Student Outcomes</h4>
-<p>We want to build a community of thinking photographers who are dedicated
-to deepen their craft and have the courage to explore beyond what they
-know. We hope to build this community so that everyone will have more confidence
-to step out of their comfort zone and be resilient in putting in our 100%
-into the work that we are assigned to.</p>
-<h4>Aperture Events</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Our School Our Stories 2023</p>
-</li>
-<li>
-<p>All school events that require AV and Photography support</p>
-</li>
-</ul>
-<h4>Student’s Quotes</h4>
-<p><em>"I have learnt how to use a wide variety of cameras through many experiences. During the CCA we have many opportunities to use different cameras and equipment which is a very fun learning experience that I look forward to every CCA lesson."</em> ~
-Rayden(Member)</p>
-<p><em>“Surely with hardship comes ease."</em> ~ Naufal(Head of Videography)</p>
-<h4>Aperture Photos</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/MediaClub_1_2023.jpg">
-</div>
-<p>Students playing a game during CCA bonding session</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/MediaClub_2_2023.jpg">
-</div>
-<p>Point of View when getting CCA deployment</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/MediaClub_3_2023.jpg">
-</div>
-<p>Getting ready for a CCA session/deployment</p>
-<h3>Audio Visual Aid (AVA)</h3>
-<h4>AVA CCA Exco Structure</h4>
-<table style="minWidth: 75px">
+<h4>Exco Structure</h4>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>No</p>
+<p>Position</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Leadership Roles</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nick Loh Jian Xiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA Chairperson</p>
+<p>TAN JIE QI</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>Vice-Chairperson (Upper Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choong Jia Yun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA Vice-Chairperson</p>
+<p>JESSICA D/O ROBIN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>Vice-Chairperson (Lower Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Katrina Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Backstage IC</p>
+<p>OOI KE HAN KAELYN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>Head of Deployment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mok Kai Xiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Control IC</p>
+<p>SITI RAHWANI BINTE BUHARI</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>Upper Sec Head of Training</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Li Kang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lighting IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kwok Bing Hay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Logistics IC</p>
+<p>IAN HARITH BIN MOHAMAD ISKANDAR</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Key Student Outcomes</h4>
-<p>Students to learn communication and teamwork skills through AVA events
-Students to be proficient in the use of standard AV hardware and software
-Students to all be proficient leaders by the end of their CCA experience
-Highlights / Achievements Provided seamless AV support for key school events,
-such as Speech Day, Arts Extravaganza and Vocalistic Provided routine AV
-support for daily FRC and weekly assembly programs</p>
-<h4>Events in 2021</h4>
-<p>All school events requiring AV support</p>
-<h4>Student’s Quotes</h4>
-<p><em>“AVA has taught me patience as well as teamwork and communication skills. I have also learnt how to properly lead and coach other students.”</em>
-</p>
-<p>Choong Jia Yun (Vice-chairman)</p>
-<p><em>“AVA has taught me how to work efficiently as a team and to use each other’s strengths to do our best!”</em>
-</p>
-<p>Katrina Tan (Backstage Ic)</p>
-<h4>AVA Photos</h4>
-<div class="isomer-image-wrapper">
-<img style="width:500px;" height="auto" width="100%" src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/AVA-1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px;" height="auto" width="100%" src="/images/StudDevelopment/CCAs/Clubs_Societies/Media/AVA-2.jpg">
-</div>
+<h4>Long-Term Objective</h4>
+<p>To cultivate a cohort of committed young visual storytellers who excel
+in photography and videography, demonstrating initiative and innovation
+in their creative pursuits.</p>
+<h4> Short-Term Objectives</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>To provide comprehensive training in photography and videography techniques,
+ensuring members acquire industry-relevant skills</p>
+</li>
+<li>
+<p>To instil a strong sense of professionalism and service-oriented mindset
+among members</p>
+</li>
+<li>
+<p>To empower students to effectively meet the multimedia needs of both the
+school and wider community.</p>
+</li>
+</ol>
+<h4>HIGHLIGHTS OF THE YEAR 2024</h4>
+<p>YSS Media Club consistently delivers high-quality, enriching learning
+experiences for our students through a diverse range of activities. Our
+comprehensive programme, encompassing both CCA sessions and school events,
+is strategically designed to cultivate essential skills such as teamwork
+and effective communication. These initiatives simultaneously provide a
+platform for students to exhibit their creativity in the realm of digital
+media production.</p>
+<p>In our pursuit of excellence, we have implemented several notable initiatives
+this year. Key highlights include:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>An immersive learning journey to Headrock VR in Semester 1, exposing students
+to cutting-edge virtual reality technologies</p>
+</li>
+<li>
+<p>A professional site visit to TrueWorld Studios in Semester 2, offering
+insights into industry-standard video games production processes</p>
+</li>
+<li>
+<p>The implementation of a specialised Canon Photography Course, enhancing
+our students' technical proficiency in digital imaging</p>
+</li>
+</ol>
+<p>These curated experiences significantly contributed to our overarching
+goal of fostering innovation and concurrently nurturing our students' passion
+and proficiency in the rapidly evolving field of digital media.</p>
+<h4>Photos</h4>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
