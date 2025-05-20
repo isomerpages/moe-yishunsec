@@ -16,23 +16,20 @@ variant: tiptap
 <li>
 <p>Mr Mohammad Rizal</p>
 </li>
-<li>
-<p>Ms Zarina</p>
-</li>
 </ul>
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday from 4 pm to 6 pm and</p>
+<p>Tuesdays from 4 pm to 6 pm</p>
 </li>
 <li>
-<p>Thursday from 4 pm to 6 pm</p>
+<p>Thursdays from 4 pm to 6 pm</p>
 </li>
 </ul>
 <h3>Venue</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Music Room</p>
+<p>YSS Commons Room</p>
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
@@ -45,13 +42,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Leadership Roles</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Class</p>
 </th>
 </tr>
 <tr>
@@ -59,21 +56,10 @@ variant: tiptap
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Sze Teng</p>
+<p>HUMAIRAH BINTE ABDUL HARRIS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-E1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice - Chairperson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Goh Han Nah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S3-E4</p>
+<p>S3-RS</p>
 </td>
 </tr>
 <tr>
@@ -81,10 +67,21 @@ variant: tiptap
 <p>Vice - Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Shafiqah Binte Muhammad Hafidz</p>
+<p>ANGELICA LEU YU TONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-N2</p>
+<p>S3-SO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice - Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN KAI XIN STELLA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-RP</p>
 </td>
 </tr>
 <tr>
@@ -92,10 +89,10 @@ variant: tiptap
 <p>Head of Logistics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Zhi Yi Elisa</p>
+<p>KARINE CHUA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-E1</p>
+<p>S3-SO</p>
 </td>
 </tr>
 <tr>
@@ -103,10 +100,10 @@ variant: tiptap
 <p>Head of Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kyla Thea Ng Kai Le</p>
+<p>SIAW YUE NING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-E2</p>
+<p>S3-SO</p>
 </td>
 </tr>
 <tr>
@@ -114,10 +111,10 @@ variant: tiptap
 <p>Head of Fitness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jayoma Jahzarra Phoebe Tolete</p>
+<p>LIM YINGXUAN SHERVELLE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-E1</p>
+<p>S3-IT</p>
 </td>
 </tr>
 <tr>
@@ -125,10 +122,10 @@ variant: tiptap
 <p>Head of Publicity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong En Ning Geneve</p>
+<p>CORRINE LEO LI MIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-E1</p>
+<p>S3-RS</p>
 </td>
 </tr>
 </tbody>
