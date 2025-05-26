@@ -137,7 +137,6 @@ potential to express themselves through drama and theatre.</p>
 </li>
 <li>
 <p>Certificate of Achievement for the play, A Midsummer Night's Dream</p>
-<p></p>
 </li>
 </ul>
 <h3>SYF Video</h3>
