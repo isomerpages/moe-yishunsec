@@ -5,6 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>2025</strong></h2>
+<h4>Term 3 - WA 3</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA3_Term_3.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Overview of YSS WA3</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4>Term 2 - WA 2</h4>
 <ul data-tight="true" class="tight">
 <li>
