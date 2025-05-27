@@ -35,6 +35,14 @@ opportunity to make international friends and expose them to different
 cultures and lifestyles.</p>
 <p>Besides travelling abroad, Yishun Secondary School also look forward to
 hosting foreign friends in Singapore</p>
+<h3>Hosting Visitors from Myanmar and Thailand</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/pic2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/pic1.jpg">
+</div>
 <h3>Hosting our friends from Shun Lee Catholic School, Hong Kong</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Hosting_our_friends_from_Shun_Lee_Catholic_School__Hong_Kong_1.jpg">
