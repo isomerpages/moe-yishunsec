@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: Student Learning Festival - 30 Apr 2025
+      description: End of Term 2
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
