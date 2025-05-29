@@ -5,6 +5,26 @@ description: ""
 variant: tiptap
 ---
 <h2>2025</h2>
+<h4>June Holiday Homework 2025 - 29 May 2025</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/June_Hol_HW_2025___S1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/June_Hol_HW_2025___S2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Announcements for Students/June_Hol_HW_2025___S3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Announcements for Students/June_Hol_HW_2025___S4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4>Science Practical practice for Sec 4/5 students during the June vacation</h4>
 <p>As part of the preparation for the GCE O level Science Examinations, the
 Science Department will be conducting science practical practice for all
