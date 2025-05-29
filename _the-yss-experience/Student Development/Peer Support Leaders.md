@@ -42,6 +42,59 @@ third_nav_title: Student Development
 <p>To help create a greater sense of belonging amongst Yishunites</p>
 </li>
 </ol>
+<p></p>
+<h4>Recruitment</h4>
+<p>This year, the Peer Support Leaders ran a combined recruitment campaign
+together with the Prefects. They collaborated to present and publicise
+the recruitment campaign to the student body. After the applications were
+submitted, the Peer Support Leaders also worked together with the teachers-in-charge
+to arrange for the nominees to come for interviews on different dates.
+From role playing, to ushering and note-taking during the interviews, our
+Peer Support Leaders were able to demonstrate their attention to detail
+and showed how meticulous they were when given a task to execute.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/Peer Support Leaders/Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/Peer Support Leaders/Picture2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/Peer Support Leaders/Picture3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/Peer Support Leaders/Picture4.jpg">
+</div>
+<p></p>
+<h4>Term 2 Campaign</h4>
+<p>In Term 2, we wanted to focus on the management of anxiety for students
+who have entered a new phase in their student life. The campaign planning
+started early in Term 2, with the PSLs coming together to brainstorm on
+possible campaign activities. The PSL team wanted to emphasise and convey
+the message to fellow Yishunites that their peers can be sources of support
+in dealing with anxiety. As such, the PSLs planned for activities that
+would help strengthen and build bonds between Yishunites. The booths set
+up on the campaign days focused on getting Yishunites to complete tasks
+and questions that would help them build a better understanding of their
+peers. They also took the opportunity to write cards for their buddies
+whom they came with. Through these activities, Yishunites were able to
+know their peers more and also obtain healthy tips on managing anxiety
+from their peers!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/Peer Support Leaders/Picture1_1_25.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/Peer Support Leaders/Picture2_2_25.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/Peer Support Leaders/Picture3_3_25.jpg">
+</div>
 <h4>Sem 1 Team Bonding at Futsal Arena @ Yishun Park</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL_5.jpg">
