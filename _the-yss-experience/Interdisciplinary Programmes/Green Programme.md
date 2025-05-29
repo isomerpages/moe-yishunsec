@@ -23,6 +23,48 @@ the environment through ground up initiatives.</p>
 </p>
 </li>
 </ul>
+<p></p>
+<h4>Our Green Day in the Community</h4>
+<p>Yishun Secondary School, in collaboration with the Nee Soon South Zone
+H Resident Network (RN), proudly organized Green Day in the Community—an
+event dedicated to promoting biodiversity, environmental sustainability,
+and green living practices within our neighborhood.</p>
+<p>Supported by the National Environment Agency (NEA), ALBA, Xishan Primary,
+Northland Primary, Northland Secondary, and Ahmad Ibrahim Secondary, the
+event brought together residents and students for a day of engaging, exciting,
+and educational activities.</p>
+<p>From hands-on workshops to interactive exhibits, participants gained valuable
+insights into sustainable living, environmental conservation, and the importance
+of protecting our natural ecosystems. The event aimed to empower the community
+with knowledge and inspiration to take meaningful steps toward a greener
+future.</p>
+<p>Together, we celebrated our shared commitment to a more sustainable world—one
+small green step at a time.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/Green_Programme/GP_1_25.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/Green_Programme/GP_2_25.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/Green_Programme/GP_3_25.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/Green_Programme/GP_4_25.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/Green_Programme/GP_5_25.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/Green_Programme/GP_6_25.jpg">
+</div>
+<p></p>
 <h4>YSS Green Day @ Zone H</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS%20Exp/Green_Programme/YSS_Green_Day_2024.jpg">
