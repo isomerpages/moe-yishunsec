@@ -29,9 +29,9 @@ third_nav_title: Student Development
 <p>Mr Jeremy Loy</p>
 </li>
 </ul>
-<h4>Peer Support Leaders Executive Committee 2024</h4>
+<h4>Peer Support Leaders Executive Committee 2025</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL_Exec_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/Peer Support Leaders/PSL_EXCO_2025.png">
 </div>
 <h4>Goal of Peer Support Leaders</h4>
 <ol data-tight="true" class="tight">
