@@ -8,11 +8,11 @@ variant: tiptap
 <h4>June Holiday Homework 2025 - 29 May 2025</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/June_Hol_HW_2025___S1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/Announcements for Students/June_Hol_HW_2025___S1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/June_Hol_HW_2025___S2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/Announcements for Students/June_Hol_HW_2025___S2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
