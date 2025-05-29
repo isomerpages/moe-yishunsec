@@ -53,6 +53,23 @@ From role playing, to ushering and note-taking during the interviews, our
 Peer Support Leaders were able to demonstrate their attention to detail
 and showed how meticulous they were when given a task to execute.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/Peer Support Leaders/Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/Peer Support Leaders/Picture2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/Peer Support Leaders/Picture3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/Peer Support Leaders/Picture4.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <h4>Sem 1 Team Bonding at Futsal Arena @ Yishun Park</h4>
