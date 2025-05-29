@@ -42,6 +42,19 @@ third_nav_title: Student Development
 <p>To help create a greater sense of belonging amongst Yishunites</p>
 </li>
 </ol>
+<p></p>
+<h4>Recruitment</h4>
+<p>This year, the Peer Support Leaders ran a combined recruitment campaign
+together with the Prefects. They collaborated to present and publicise
+the recruitment campaign to the student body. After the applications were
+submitted, the Peer Support Leaders also worked together with the teachers-in-charge
+to arrange for the nominees to come for interviews on different dates.
+From role playing, to ushering and note-taking during the interviews, our
+Peer Support Leaders were able to demonstrate their attention to detail
+and showed how meticulous they were when given a task to execute.</p>
+<p></p>
+<p></p>
+<p></p>
 <h4>Sem 1 Team Bonding at Futsal Arena @ Yishun Park</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/PSL_5.jpg">
