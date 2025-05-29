@@ -5,6 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h2>2025</h2>
+<p><strong>Sec 1 Breakfast Meeting with Parents - 26 Mar 2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parents/Dialogue with Parents/Sec_1_Breakfast_Meeting_2025__26_Mar_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 Briefing Slides</a>
+</p>
+</li>
+</ul>
 <p><strong>Sec 4&amp;5 Breakfast Meeting with Parents - 15 Jan 2025</strong>
 </p>
 <ul data-tight="true" class="tight">
