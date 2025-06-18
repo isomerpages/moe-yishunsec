@@ -26,7 +26,7 @@ of themselves in and through musical experiences.</p>
 <p>Upper Secondary Music Programme</p>
 </li>
 </ul>
-<h3>Lower Secondary Music Programme </h3>
+<h3>Lower Secondary Music Programme</h3>
 <h4>Secondary One Curriculum</h4>
 <p><strong>Instrument Fundamentals</strong>
 </p>
