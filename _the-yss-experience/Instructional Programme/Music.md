@@ -62,14 +62,17 @@ to the Metropolitan Festival Orchestra (MFO), performing various arrangements
 of Singapore songs. As part of the pre-concert curriculum, our Secondary
 one students learned how to identify various orchestral instruments and
 performed as an ensemble using the GarageBand application on iPads.</p>
-<p>&gt;&gt; Video</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/We-xK11D63I?si=uvdyw84Q2BjH28nM"></iframe>
+</div>
 <h4>Secondary Two Curriculum</h4>
 <p>In recent years, students are increasingly normalised to consuming and
 creating short-form media content through platforms such as TikTok, Youtube
 and Instagram. In recognition of this, the Secondary Two Music curriculum
 focuses on supporting them in arranging soundtracks to complement online
 multimedia.</p>
-<p>&gt;&gt; Video</p>
+<p><a href="https://www.youtube.com/playlist?list=PLUiT4IPcEsqLiClLCz8Lyv81Eys2NX7Lq" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/playlist?list=PLUiT4IPcEsqLiClLCz8Lyv81Eys2NX7Lq</a>
+</p>
 <h4>Artist-in-School Scheme (AISS)</h4>
 <p>We are beneficiaries of the Artist-in-school scheme- an initiative by
 the National Arts Council (NAC) that supports partnership between Singapore
@@ -98,7 +101,9 @@ at the national level through the SYF Youthstation platform.</p>
 </div>
 <p><em>Students in a masterclass session with Lead Instructor James Lye</em>
 </p>
-<p>&gt;&gt; Video</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z7GPaYtD6aM?si=rqa4K8qL0VjkqUYt"></iframe>
+</div>
 <p><em>“Like” by Tam Jing Xuan and Ahmad Tirmidzi- Special mention for SYF Youthstation-Produced Pathway 2024</em>
 </p>
 <h4>Upper Secondary Music programme</h4>
