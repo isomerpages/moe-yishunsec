@@ -9,32 +9,37 @@ third_nav_title: Instructional Programme
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/Aesthetics_1495.jpg">
 </div>
 <h3>Department Goals:</h3>
-<p>To equip Yishunites with</p>
+<p>To nurture adaptive and creative contributors to discover the best versions
+of themselves in and through musical experiences.</p>
+<h3>Key Programmes</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Basic guitar and keyboard instrumental skills</p>
+<p>Instrument Fundamentals</p>
 </li>
 <li>
-<p>Digital music making skills through a music curriculum using Digital Audio
-Workstations</p>
+<p>Performing Arts Based Learning (PABL)</p>
+</li>
+<li>
+<p>Music Technology and Arrangement</p>
+</li>
+<li>
+<p>Upper Secondary Music Programme</p>
 </li>
 </ul>
-<h3>Key Programmes</h3>
-<ol data-tight="true" class="tight">
-<li>
-<p>AISS Music Arrangement Programme (Sec 2s)</p>
-</li>
-<li>
-<p>Music Masterclass</p>
-</li>
-<li>
-<p>Aspire! NT Music Camp</p>
-</li>
-<li>
-<p>Singapore Symphony Orchestra x Yishun Sec Performing Arts-Based Learning
-Pilot Programme</p>
-</li>
-</ol>
+<h3>Lower Secondary Music Programme </h3>
+<h4>Secondary One Curriculum</h4>
+<p><strong>Instrument Fundamentals</strong>
+</p>
+<p>The Lower Secondary Music (LSM) Programme aims to equip Yishunites with
+fundamental skills in at least two classroom instruments. They are taught
+instrument anatomy, good posture, tuning, as well as playing techniques
+such as strumming. Students are equipped with foundational techniques as
+they perform popular songs in class. They also learn how to interpret chord
+charts and utilise digital resources to learn collaboratively.</p>
+<p>Video</p>
+<p></p>
+<p></p>
+<p></p>
 <h4>Artist-in-School Scheme (AISS)</h4>
 <p>This initiative by the National Arts Council (NAC) supports partnership
 between Singapore artists and mainstream schools. It allows schools to
