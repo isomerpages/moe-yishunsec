@@ -35,7 +35,9 @@ instrument anatomy, good posture, tuning, as well as playing techniques
 such as strumming. Students are equipped with foundational techniques as
 they perform popular songs in class. They also learn how to interpret chord
 charts and utilise digital resources to learn collaboratively.</p>
-<p>&gt;&gt; Video</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yrEB7KgkckM?si=55DbEYuOBtFngMyB"></iframe>
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/Mu_1_25.png">
@@ -86,7 +88,7 @@ Space amongst others.</p>
 </div>
 <p><em>2 RS (2023) with Instructor Eugene</em>
 </p>
-<h4>Music Arrangement Masterclass </h4>
+<h4>Music Arrangement Masterclass</h4>
 <p>Students who demonstrate exceptional passion for digital music-making
 are invited to participate in masterclasses to further hone their skills
 and creativity. Some of the best works by our students have been recognised
@@ -99,7 +101,7 @@ at the national level through the SYF Youthstation platform.</p>
 <p>&gt;&gt; Video</p>
 <p><em>“Like” by Tam Jing Xuan and Ahmad Tirmidzi- Special mention for SYF Youthstation-Produced Pathway 2024</em>
 </p>
-<h4>Upper Secondary Music programme </h4>
+<h4>Upper Secondary Music programme</h4>
 <p>At the Upper Secondary level, Normal (Technical) Music offers a broad-based
 music education which enables students to further their interest in music.
 Our students enjoy authentic, practical learning experiences across a range
