@@ -6,7 +6,7 @@ variant: tiptap
 third_nav_title: Instructional Programme
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/Aesthetics_1495.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_Dept_25.jpg">
 </div>
 <h3>Department Goals:</h3>
 <p>To nurture adaptive and creative contributors to discover the best versions
