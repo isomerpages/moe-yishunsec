@@ -56,7 +56,7 @@ your writing featured in our repository of essays.</p>
 </p>
 <h3>English Language and Literature Teachers</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/English/English_Language___Media_Literacy_1522.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/English/ENGLISH_LANGUAGE_2025.jpg">
 </div>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
