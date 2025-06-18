@@ -139,13 +139,17 @@ a larger audience.</p>
 <p>Some of the songs performed by Yishunites include Somewhere Only We Know
 (Keane), Love Someone (Lukas Graham) and Billie Jean (Michael Jackson)
 amongst others.</p>
-<p>&gt;&gt; Video</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SX04mYAiLKA?si=5XAQR2VsTXAjT51z"></iframe>
+</div>
 <p>On top of regular lessons, we are committed to expose our students to
 industry-related experiences through enrichment programmes. Examples include</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Recording Experience with Jack and Rai (2023)
-<br>&gt;&gt; Video</p>
+<p>Recording Experience with Jack and Rai (2023)</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ypMjzFPSZ7Q?si=ymrm2cAJQVdcHYSl"></iframe>
+</div>
 </li>
 <li>
 <p>Pop band Workshop@Tumbleweed studios (2024)
@@ -160,8 +164,10 @@ industry-related experiences through enrichment programmes. Examples include</p>
 </div>
 </li>
 <li>
-<p>The YSS Recording Studio Experience (2025)
-<br>&gt;&gt; Video</p>
+<p>The YSS Recording Studio Experience (2025)</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LfzmBzMeDWg?si=tgb72Ft-D4UPp9uS"></iframe>
+</div>
 </li>
 </ol>
 <p>We regret to inform you that Music is not offered as an elective for Secondary
