@@ -166,7 +166,7 @@ industry-related experiences through enrichment programmes. Examples include</p>
 <li>
 <p>The YSS Recording Studio Experience (2025)</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LfzmBzMeDWg?si=tgb72Ft-D4UPp9uS"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LfzmBzMeDWg?si=6OoUsNjoTPnIBT8t"></iframe>
 </div>
 </li>
 </ol>
