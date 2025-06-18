@@ -40,7 +40,7 @@ to exercise their leadership qualities during the camp.</p>
 </ul>
 <h3>PE Department Teachers</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/PE/PE_1567.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/PE/PE_2025.jpg">
 </div>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
