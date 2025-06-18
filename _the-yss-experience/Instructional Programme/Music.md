@@ -172,4 +172,3 @@ industry-related experiences through enrichment programmes. Examples include</p>
 </ol>
 <p>We regret to inform you that Music is not offered as an elective for Secondary
 Three students for academic years 2025 and 2026.</p>
-<p></p>
