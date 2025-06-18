@@ -25,7 +25,7 @@ them to innovate and contribute to a technologically-driven society.</p>
 exposes students to science beyond the textbook in different environments.</p>
 <h3>Science Department Teachers</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Science_1509.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/SCI_2025.jpg">
 </div>
 <h3>Thinker-Innovator-Contributor Highlights / Achievements (focusing on learning experiences / processes):</h3>
 <h4>Programme:</h4>
