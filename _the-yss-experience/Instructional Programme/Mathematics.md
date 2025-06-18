@@ -744,7 +744,7 @@ and Development Division (CPDD).</p>
 </table>
 <h3>Mathematics, CPA and POA Teachers</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/Math_1500.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Math/MATHS___POA_2025.jpg">
 </div>
 <h3>Photos</h3>
 <p></p>

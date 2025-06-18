@@ -7,7 +7,7 @@ third_nav_title: Our People
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/EAS_1542.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/EAS_2025.jpg">
 </div>
 <h4><strong>Admin Manager</strong></h4>
 <ul data-tight="true" class="tight">
@@ -25,9 +25,6 @@ third_nav_title: Our People
 </li>
 <li>
 <p>Mrs Jayalaxmi</p>
-</li>
-<li>
-<p>Mr Jeremy Lim</p>
 </li>
 </ul>
 <h4><strong>Corporate Support Officers</strong></h4>

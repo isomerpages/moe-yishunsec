@@ -247,8 +247,6 @@ as well as co-organizing community events</p>
 of the Art unit’s community work</p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <h3>Highlights / Achievements</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -548,9 +546,8 @@ Hope Technik Pte Ltd</p>
 <p>&nbsp;</p>
 <h3>Craft &amp; Technology Teachers</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/CraftandTech/Craft___Technology_1555.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/CraftandTech/CRAFT___TECHNOLOGY_2025.jpg">
 </div>
-<p></p>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
 <img style="height:30%" height="auto" width="100%" src="/images/IP/CraftandTech/DnT_1_2023.jpg">
