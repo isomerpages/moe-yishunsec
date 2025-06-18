@@ -3,13 +3,13 @@ title: Literature
 permalink: /instructional-programme/literature/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 <div style="font-size:30px; text-align:center;">
 <b style="color:red">The </b><b style="color:orange">YSS </b><b style="color:lime">Literature </b><b style="color:blue">Unit</b>
 </div>
 	
-
-<img src="/images/IP/Literature/Literature%20Department1.png">
+![](/images/IP/Literature/LITERATURE_2025.jpg)
 
 
 ### Desired Outcomes of Literature
