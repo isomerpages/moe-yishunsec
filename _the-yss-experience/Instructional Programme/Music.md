@@ -85,6 +85,9 @@ Space amongst others.</p>
 are invited to participate in masterclasses to further hone their skills
 and creativity. Some of the best works by our students have been recognised
 at the national level through the SYF Youthstation platform.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O1Bko1U7baM?si=LtQcXOtOwhYMvKOr"></iframe>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/IP/Music/music%20masterclass%20photo%201.jpg">
 </div>
