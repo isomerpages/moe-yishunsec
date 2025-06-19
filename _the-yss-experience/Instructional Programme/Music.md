@@ -67,8 +67,15 @@ creating short-form media content through platforms such as TikTok, Youtube
 and Instagram. In recognition of this, the Secondary Two Music curriculum
 focuses on supporting them in arranging soundtracks to complement online
 multimedia.</p>
-<p><a href="https://www.youtube.com/playlist?list=PLUiT4IPcEsqLiClLCz8Lyv81Eys2NX7Lq" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/playlist?list=PLUiT4IPcEsqLiClLCz8Lyv81Eys2NX7Lq</a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MPxaiv1I7Cs?si=dVn6S-_uRD8CUX0l"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RswZbalh_oc?si=CnAy559XHUvTm5qS"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ds6o1IjNQoc?si=ZRrJe9XSu5u2DvOv"></iframe>
+</div>
 <h4>Artist-in-School Scheme (AISS)</h4>
 <p>We are beneficiaries of the Artist-in-school scheme- an initiative by
 the National Arts Council (NAC) that supports partnership between Singapore
