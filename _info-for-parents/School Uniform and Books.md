@@ -8,7 +8,7 @@ description: ""
 <h4>Walk-In Purchase (Pacific Book Shop at Yishun Secondary School)</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Operating Hours: <strong>Mon-Fri: 7 am to 4 pm (Lunch Break from 12pm to 1pm), closed on school holidays &amp; public holidays</strong>
+<p>Operating Hours: <strong>Mon-Fri: 7 am to 4 pm (Lunch Break from 12 pm to 1 pm), closed on school holidays &amp; public holidays</strong>
 </p>
 </li>
 <li>
