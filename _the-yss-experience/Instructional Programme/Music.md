@@ -73,10 +73,10 @@ multimedia.</p>
 <p>We are beneficiaries of the Artist-in-school scheme- an initiative by
 the National Arts Council (NAC) that supports partnership between Singapore
 artists and mainstream schools to co-design Arts curriculum. Since 2021,
-we are privileged to be working closely with a team of instructors including
-James Lye, an educator and Recording Artist (Maker Records) as well as
-Eugene Soh, a songwriter and frontman-guitarist of local band Bakers in
-Space amongst others.</p>
+we have been privileged to work closely with a team of instructors, including
+James Lye, an educator and recording artist (Maker Records), as well as
+Eugene Soh, a songwriter and frontman-guitarist of the local band Bakers
+in Space, among others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_9_25.png">
 </div>
@@ -88,6 +88,7 @@ at the national level through the SYF Youthstation platform.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O1Bko1U7baM?si=LtQcXOtOwhYMvKOr"></iframe>
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/IP/Music/music%20masterclass%20photo%201.jpg">
 </div>
@@ -96,7 +97,8 @@ at the national level through the SYF Youthstation platform.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z7GPaYtD6aM?si=rqa4K8qL0VjkqUYt"></iframe>
 </div>
-<p><em>“Like” by Tam Jing Xuan and Ahmad Tirmidzi- Special mention for SYF Youthstation-Produced Pathway 2024</em>
+<p><em>“Like” by Tam Jing Xuan and Ahmad Tirmidzi</em>
+<br><em>Special mention for SYF Youthstation-Open Category 2024</em>
 </p>
 <h4>Upper Secondary Music programme</h4>
 <p>At the Upper Secondary level, Normal (Technical) Music offers a broad-based
