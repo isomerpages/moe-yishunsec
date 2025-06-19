@@ -38,12 +38,8 @@ charts and utilise digital resources to learn collaboratively.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yrEB7KgkckM?si=55DbEYuOBtFngMyB"></iframe>
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/Mu_1_25.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_2_25.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_8_25.png">
 </div>
 <p>We firmly believe in encouraging students to engage in musicking beyond
 the classroom. This year, our Secondary One students performed a rendition
@@ -82,15 +78,8 @@ James Lye, an educator and Recording Artist (Maker Records) as well as
 Eugene Soh, a songwriter and frontman-guitarist of local band Bakers in
 Space amongst others.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Music/eugene%20bakers%20in%20space%20photo%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_9_25.png">
 </div>
-<p><em>Students being mentored by Instructor Eugene</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Music/2%20rs%20with%20eugene%20bakers%20in%20space%20photo%203.jpg">
-</div>
-<p><em>2 RS (2023) with Instructor Eugene</em>
-</p>
 <h4>Music Arrangement Masterclass</h4>
 <p>Students who demonstrate exceptional passion for digital music-making
 are invited to participate in masterclasses to further hone their skills
@@ -156,12 +145,9 @@ industry-related experiences through enrichment programmes. Examples include</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_4_25.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_10_25.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_5_25.jpg">
-</div>
 </li>
 <li>
 <p>The YSS Recording Studio Experience (2025)</p>
