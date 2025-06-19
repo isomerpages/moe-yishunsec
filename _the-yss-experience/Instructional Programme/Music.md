@@ -38,12 +38,8 @@ charts and utilise digital resources to learn collaboratively.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yrEB7KgkckM?si=55DbEYuOBtFngMyB"></iframe>
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/Mu_1_25.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_2_25.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_8_25.png">
 </div>
 <p>We firmly believe in encouraging students to engage in musicking beyond
 the classroom. This year, our Secondary One students performed a rendition
@@ -71,31 +67,37 @@ creating short-form media content through platforms such as TikTok, Youtube
 and Instagram. In recognition of this, the Secondary Two Music curriculum
 focuses on supporting them in arranging soundtracks to complement online
 multimedia.</p>
-<p><a href="https://www.youtube.com/playlist?list=PLUiT4IPcEsqLiClLCz8Lyv81Eys2NX7Lq" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/playlist?list=PLUiT4IPcEsqLiClLCz8Lyv81Eys2NX7Lq</a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MPxaiv1I7Cs?si=dVn6S-_uRD8CUX0l"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RswZbalh_oc?si=CnAy559XHUvTm5qS"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ds6o1IjNQoc?si=ZRrJe9XSu5u2DvOv"></iframe>
+</div>
 <h4>Artist-in-School Scheme (AISS)</h4>
 <p>We are beneficiaries of the Artist-in-school scheme- an initiative by
 the National Arts Council (NAC) that supports partnership between Singapore
 artists and mainstream schools to co-design Arts curriculum. Since 2021,
-we are privileged to be working closely with a team of instructors including
-James Lye, an educator and Recording Artist (Maker Records) as well as
-Eugene Soh, a songwriter and frontman-guitarist of local band Bakers in
-Space amongst others.</p>
+we have been privileged to work closely with a team of instructors, including
+James Lye, an educator and recording artist (Maker Records), as well as
+Eugene Soh, a songwriter and frontman-guitarist of the local band Bakers
+in Space, among others.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Music/eugene%20bakers%20in%20space%20photo%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_9_25.png">
 </div>
-<p><em>Students being mentored by Instructor Eugene</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/Music/2%20rs%20with%20eugene%20bakers%20in%20space%20photo%203.jpg">
-</div>
-<p><em>2 RS (2023) with Instructor Eugene</em>
-</p>
 <h4>Music Arrangement Masterclass</h4>
 <p>Students who demonstrate exceptional passion for digital music-making
 are invited to participate in masterclasses to further hone their skills
 and creativity. Some of the best works by our students have been recognised
 at the national level through the SYF Youthstation platform.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O1Bko1U7baM?si=LtQcXOtOwhYMvKOr"></iframe>
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/IP/Music/music%20masterclass%20photo%201.jpg">
 </div>
@@ -104,7 +106,8 @@ at the national level through the SYF Youthstation platform.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z7GPaYtD6aM?si=rqa4K8qL0VjkqUYt"></iframe>
 </div>
-<p><em>“Like” by Tam Jing Xuan and Ahmad Tirmidzi- Special mention for SYF Youthstation-Produced Pathway 2024</em>
+<p><em>“Like” by Tam Jing Xuan and Ahmad Tirmidzi</em>
+<br><em>Special mention for SYF Youthstation-Open Category 2024</em>
 </p>
 <h4>Upper Secondary Music programme</h4>
 <p>At the Upper Secondary level, Normal (Technical) Music offers a broad-based
@@ -156,12 +159,9 @@ industry-related experiences through enrichment programmes. Examples include</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_4_25.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_10_25.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/MU_5_25.jpg">
-</div>
 </li>
 <li>
 <p>The YSS Recording Studio Experience (2025)</p>
