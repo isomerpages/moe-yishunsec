@@ -25,9 +25,5 @@ variant: tiptap
 </ul>
 <p></p>
 <p></p>
-<h4>Students' Individual Timetable - 2025</h4>
-<p><em>Please login with your </em><strong><em>school email address</em></strong><em> to access.</em>
-</p>
-<p></p>
 <p><em>Updated on 24 Jun 2025</em>
 </p>
