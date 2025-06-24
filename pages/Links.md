@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetables/Teachers Timetable/2025_Teacher_Timetable_v5.pdf" rel="noopener noreferrer nofollow" target="_blank">Teachers' Timetable 2025</a>
+<p><a href="/files/Timetables/Teachers Timetable/2025_Sem_2_Teacher_Timetable_v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Teachers' Timetable 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
