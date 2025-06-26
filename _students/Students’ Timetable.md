@@ -27,7 +27,7 @@ variant: tiptap
 <p><em><a href="https://yishunsec.edupage.org/timetable/" rel="noopener nofollow" target="_blank">Click here to access online version.</a></em>
 </p>
 <h4>Student's Individual Timetable Sem 2 2025</h4>
-<p><em>Please login to </em><strong><em>your school email address</em></strong><em> to access.</em>
+<p><em>Please login with </em><strong><em>your school email address</em></strong><em> to access.</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
