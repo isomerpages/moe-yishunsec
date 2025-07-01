@@ -24,6 +24,21 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<h4>2025 Prelim Exam Format and Topics for Sec 4 &amp; 5</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Weighted Assessment/2025_Sec_4E5N_prelim_exam_format_and_topics.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4E &amp; 5N prelim exam format and topics</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2025_Sec_4NA_prelim_exam_format_and_topics.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4NA prelim exam format and topics</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2025_Sec_4NT_prelim_exam_format_and_topics.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4NT prelim exam format and topics</a>
+</p>
+</li>
+</ul>
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
