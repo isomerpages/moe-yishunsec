@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/Sec_4NT_Prelim_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4NT</a>
+<p><a href="/files/Weighted Assessment/Sec_4NT_Prelim_Timetable_2025_v2.pdf" rel="noopener nofollow" target="_blank">Sec 4NT</a>
 </p>
 </li>
 </ul>
