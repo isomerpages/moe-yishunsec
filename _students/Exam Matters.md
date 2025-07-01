@@ -5,6 +5,25 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>2025</strong></h2>
+<h4>Prelim-Exam Timetable for Sec 4 &amp; 5</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Weighted Assessment/Sec_4E5N_Prelim_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4E &amp; 5N</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/Sec_4NA_Prelim_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4NA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/Sec_4NOOS_Prelim_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4NOOS</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/Sec_4NT_Prelim_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4NT</a>
+</p>
+</li>
+</ul>
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
