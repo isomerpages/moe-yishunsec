@@ -5,6 +5,25 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>2025</strong></h2>
+<h4>2025 Prelim-Exam Timetable for Sec 4 &amp; 5</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Weighted Assessment/Sec_4E5N_Prelim_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4E &amp; 5N</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/Sec_4NA_Prelim_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4NA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/Sec_4NOOS_Prelim_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4NOOS</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/Sec_4NT_Prelim_Timetable_2025_v2.pdf" rel="noopener nofollow" target="_blank">Sec 4NT</a>
+</p>
+</li>
+</ul>
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -62,7 +81,7 @@ variant: tiptap
 </ul>
 <p>______________</p>
 <h2><strong>2024</strong></h2>
-<h4>EOY Exam Timetable Sec 1 to 3</h4>
+<h4>2024 EOY Exam Timetable Sec 1 to 3</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Students/EOY_Exam_Timetable_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
@@ -85,7 +104,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4>EOY Exam Format and Topics for Sec 1 to 3</h4>
+<h4>2024 EOY Exam Format and Topics for Sec 1 to 3</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Students/2024_Sec_1_EOY_EXAM_FORMAT_AND_TOPICS.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 EOY Exam Format and Topics</a>
@@ -108,7 +127,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4>Prelim-Exam Timetable for Sec 4 &amp; 5</h4>
+<h4>2024 Prelim-Exam Timetable for Sec 4 &amp; 5</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Students/Prelim_Exam_TimeTable_Sec_4E5N_V2_Jul2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E &amp; 5N</a>
@@ -127,7 +146,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4>Prelim Exam Format and Topics for Sec 4 &amp; 5</h4>
+<h4>2024 Prelim Exam Format and Topics for Sec 4 &amp; 5</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Students/2024_Sec_4E5N_prelim_exam_format_and_topics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4E5N Prelim exam format and topics</a>
