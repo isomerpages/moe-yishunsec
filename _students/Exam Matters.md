@@ -45,6 +45,18 @@ variant: tiptap
 <p><a href="/files/Weighted Assessment/2025_Overview_of_YSS_WA3_Term_3.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Overview of YSS WA3</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Weighted Assessment/Sec_1_T3_WA3.pdf" rel="noopener nofollow" target="_blank">Sec 1 T3 WA3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/Sec_2_T3_WA3.pdf" rel="noopener nofollow" target="_blank">Sec 2 T3 WA3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/Sec_3_T3_WA3.pdf" rel="noopener nofollow" target="_blank">Sec 3 T3 WA3</a>
+</p>
+</li>
 </ul>
 <p></p>
 <h4>Term 2 - WA 2</h4>
