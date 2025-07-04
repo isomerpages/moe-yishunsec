@@ -5,6 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>2025</strong></h2>
+<h3>Term 3</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Letter to Parents/Letter_to_Parents_Term_3___Jul_2025.pdf" rel="noopener nofollow" target="_blank">Term 3 - 04 Jul 2025</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4>Term 2</h4>
 <ul data-tight="true" class="tight">
 <li>
