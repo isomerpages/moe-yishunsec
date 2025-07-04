@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: End of Term 2
+      description: Term 3
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
