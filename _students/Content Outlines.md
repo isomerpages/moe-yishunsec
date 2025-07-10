@@ -2,25 +2,18 @@
 title: Content Outlines
 permalink: /students/content-outlines/
 description: ""
+variant: tiptap
 ---
-#### [Art](/content-outlines/art/)
-
-#### [Chinese Language](/content-outlines/chinese/)
-
-#### [Design & Technology](/content-outlines/design-technology/)
-
-#### [English & Literature](/content-outlines/english/)
-
-#### [Food & Consumer Education/Food & Nutrition](/content-outlines/fce/)
-
-#### [Humanities](/content-outlines/humanities/)
-
-#### [Malay Language](/content-outlines/malay/)
-
-#### [Mathematics](/content-outlines/mathematics/)
-
-#### [Other Elective Subjects](/content-outlines/elective/)
-
-#### [Science](/content-outlines/science/)
-
-#### [Tamil Language](/content-outlines/tamil/)
+<h4><a href="/content-outlines/art/" rel="noopener noreferrer nofollow" target="_blank">Art</a></h4>
+<h4><a href="/content-outlines/chinese/" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a></h4>
+<h4><a href="/content-outlines/design-technology/" rel="noopener noreferrer nofollow" target="_blank">Design &amp; Technology</a></h4>
+<h4><a href="/content-outlines/english/" rel="noopener noreferrer nofollow" target="_blank">English &amp; Literature</a></h4>
+<h4>Exercise &amp; Sports Science (ESS)</h4>
+<h4><a href="/content-outlines/fce/" rel="noopener noreferrer nofollow" target="_blank">Food &amp; Consumer Education/Food &amp; Nutrition</a></h4>
+<h4><a href="/content-outlines/humanities/" rel="noopener noreferrer nofollow" target="_blank">Humanities</a></h4>
+<h4><a href="/content-outlines/malay/" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a></h4>
+<h4><a href="/content-outlines/mathematics/" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a></h4>
+<h4><a href="/content-outlines/elective/" rel="noopener noreferrer nofollow" target="_blank">Other Elective Subjects</a></h4>
+<h4><a href="/content-outlines/science/" rel="noopener noreferrer nofollow" target="_blank">Science</a></h4>
+<h4><a href="/content-outlines/tamil/" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a></h4>
+<p></p>
