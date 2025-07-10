@@ -2,11 +2,11 @@ collections:
   content-outlines:
     output: true
     order:
-      - Exercise & Sports Science (ESS).md
       - Art.md
       - Chinese Language.md
       - Design & Technology.md
       - English & Literature.md
+      - Exercise & Sports Science (ESS).md
       - Food & Consumer Education or Food & Nutrition.md
       - Humanities.md
       - Malay Language.md
