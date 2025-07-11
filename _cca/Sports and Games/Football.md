@@ -63,15 +63,7 @@ girls from the N2 cluster.</p>
 <p>Captain:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SABBYNAASH KUMAR (S4-SE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JAYDEN ARSHAVIN JASON (S3-IT)</p>
+<p>JAYDEN ARSHAVIN JASON</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +77,7 @@ girls from the N2 cluster.</p>
 <p>Captain:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SABESAN SACHIN (S2-RS)</p>
+<p>SABESAN SACHIN</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +85,7 @@ girls from the N2 cluster.</p>
 <p>Vice-Captain:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD ADRIYAN DANIQUE BIN MUHAMMAD HASMAN (S2-RS)</p>
+<p>MUHAMMAD ADRIYAN DANIQUE BIN MUHAMMAD HASMAN</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +93,7 @@ girls from the N2 cluster.</p>
 <p>Vice-Captain:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NG KOK WEE COVIN (S2-CA)</p>
+<p>NG KOK WEE COVIN</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +115,7 @@ girls from the N2 cluster.</p>
 <p>Vice-Captain:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUR SHAKIRAH BINTE NUR MOHAMMAD (S2-IN)</p>
+<p>NUR SHAKIRAH BINTE NUR MOHAMMAD</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +123,7 @@ girls from the N2 cluster.</p>
 <p>Vice-Captain:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AALIYA NERISSA SIM LIYA BINTE SIM YONG SOON, ROY (S2-RP)</p>
+<p>AALIYA NERISSA SIM LIYA BINTE SIM YONG SOON, ROY</p>
 </td>
 </tr>
 </tbody>
