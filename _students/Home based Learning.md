@@ -31,10 +31,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://yishunsec.moe.edu.sg/students/sil/" rel="noopener noreferrer nofollow" target="_blank">YSS Beyond Our Classrooms Guide</a>
-</p>
-</li>
-<li>
 <p><a href="/files/HBL/FHBL-Resource-1-Uploading-of-Audio-and-Video-Files.pdf" rel="noopener noreferrer nofollow" target="_blank">FHBL Resource 1 – Uploading of Audio and Video Files</a>
 </p>
 </li>
@@ -48,6 +44,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/parents/pdlp/" rel="noopener noreferrer nofollow" target="_blank">Personalised Digital Learning Programme (PDLP)</a>
+</p>
+</li>
+<li>
+<p><a href="https://yishunsec.moe.edu.sg/students/sil/" rel="noopener noreferrer nofollow" target="_blank">YSS Beyond Our Classrooms Guide</a>
 </p>
 </li>
 </ul>
