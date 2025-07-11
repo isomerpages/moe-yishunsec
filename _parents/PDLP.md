@@ -37,6 +37,10 @@ variant: tiptap
 </ol>
 </li>
 <li>
+<p><a href="/files/HBL/MS_Teams_Guide_for_Students.pdf" rel="noopener nofollow" target="_blank">MS Teams Guide for Students</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">MOE Resource Kit for Parents</a>
 </p>
 </li>
