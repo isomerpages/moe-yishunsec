@@ -11,6 +11,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="/files/HBL/MS_Teams_Guide_for_Students.pdf" rel="noopener nofollow" target="_blank">MS Teams Guide for Students</a>
+</p>
+</li>
+<li>
 <p><a href="/files/HBL/Verification-of-Email-on-SLS.pdf" rel="noopener noreferrer nofollow" target="_blank">Verification of Email on SLS</a>
 </p>
 </li>
