@@ -204,15 +204,14 @@ variant: tiptap
 </ul>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/2023/basketball-1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/1Basketball_25.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/2023/basketball-2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/2Basketball_25.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/2023/basketball-3.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/2023/basketball-4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/3Basketball_25.jpg">
 </div>
 <p></p>
