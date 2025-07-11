@@ -59,8 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Captain</strong>
-</p>
+<p>Captain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHEN XUANRUI ELVIN</p>
