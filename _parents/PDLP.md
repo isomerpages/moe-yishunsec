@@ -76,6 +76,10 @@ variant: tiptap
 <p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Library’s Learning &amp; Information Literacy resources</a>
 </p>
 </li>
+<li>
+<p><a href="/files/HBL/MS_Teams_Guide_for_Students.pdf" rel="noopener nofollow" target="_blank">MS Teams Guide for Students</a>
+</p>
+</li>
 </ul>
 <h3>Service Centre Details</h3>
 <h5>Acer Laptop Service Centre</h5>
