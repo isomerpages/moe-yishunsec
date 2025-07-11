@@ -13,6 +13,9 @@ variant: tiptap
 <li>
 <p>Mr Aidil</p>
 </li>
+<li>
+<p>Mr Koh Yong Cheng</p>
+</li>
 </ul>
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
@@ -42,38 +45,38 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Captain</strong>
+<p><strong>Position</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SHAHRIL MAREKAN</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4E5</p>
+<p><strong>Class</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Captain</strong>
-</p>
+<p>Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LUCAS SENG</p>
+<p>CHEN XUANRUI ELVIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4E5</p>
+<p>Sec 2RP</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Exco</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P. SARVESH</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4E1</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -106,34 +109,16 @@ running</p>
 <p>Participation at various competitions</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cross-country-2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Cross Country/1Cross_country_25.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cross-country-1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Cross Country/2Cross_country_25.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-7.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/SportsGames/Cross%20Country/cc-8.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Cross Country/3Cross_country_25.jpg">
 </div>
 <p></p>

@@ -16,21 +16,24 @@ variant: tiptap
 <li>
 <p>Mr Shu Yun Chao</p>
 </li>
+<li>
+<p>Mdm Athifah Mhd Isa</p>
+</li>
 </ul>
 <h3>CCA Schedule</h3>
-<h5>Girls:</h5>
+<h4>Girls:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Monday from 4 pm to 6:30 pm and</p>
+<p>Monday from 4 pm to 6:30 pm</p>
 </li>
 <li>
 <p>Wednesday from 4 pm to 6:30 pm</p>
 </li>
 </ul>
-<h5>Boys:</h5>
+<h4>Boys:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Monday from 4 pm to 6:30 pm and</p>
+<p>Monday from 4 pm to 6:30 pm</p>
 </li>
 <li>
 <p>Thursday from 4 pm to 6:30 pm</p>
@@ -46,7 +49,7 @@ variant: tiptap
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
-<h5>B DIVISION</h5>
+<h4>B DIVISION</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -63,55 +66,55 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Captain:</strong> KUMARAN CHINNADURAI</p>
+<p><strong>Captain:</strong>&nbsp;Zachary Ong Bo Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Captain:</strong> SARAH FALISHA LIM BINTE HAILRUL NIZAM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vice-Captain:</strong> TAN JIAN YU ( CHEN JIAN YU)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Vice-Captain:</strong> SEAH KAI LING</p>
+<p><strong>Captain:</strong>&nbsp;Emily Elessa Angel</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Vice-Captain:</strong>&nbsp;Chew Kok Rui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Captain:</strong> ROZANNE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Logistics IC:</strong> HO DE XUN, HAYDEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Logistics IC:</strong> JAZE KUA EN XI</p>
+<p><strong>Vice-Captain:</strong>&nbsp;Darwishah Ul’Fah Binte Mhd Juraimin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Publicity IC:</strong> RAYMOND HEIN AUNG</p>
+<p><strong>Training IC:</strong>&nbsp;Rosales Kalvin John Israel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Publicity IC:</strong> GOH QI EN, VALERIE</p>
+<p><strong>Training IC:</strong>&nbsp;Erucia Kiew Xiang Ling</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training IC:</strong> OH ZHI YANG CHESTER</p>
+<p><strong>Training IC 2: </strong>Puthenveettil Vinu Aiden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Training IC:</strong> XIAO FANG</p>
+<p><strong>Training IC 2:</strong>&nbsp;Davina Isabel Suresh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Publicity IC:</strong>&nbsp;Tay Kun Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Publicity IC:</strong>&nbsp;Teo Rui Ling Charlene</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Logistics IC:</strong>&nbsp;Seah Han Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Logistics IC:</strong>&nbsp;Liao Yi Xin</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5>C DIVISION</h5>
+<h4>C DIVISION</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -119,51 +122,53 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Basketball (Boys)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Basketball (Girls)</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Captain:</strong> HIRESH S/O RAJASEGARAN</p>
+<p><strong>Basketball (Boys)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Captain:</strong> DARWISYAH ULFAH BINTE MOHAMED JURAIMIN</p>
+<p><strong>Basketball (Girls)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Captain:</strong> JAYVIER ANG JIE FENG</p>
+<p><strong>Captain:</strong>&nbsp;Chen Xian Rui Kingsley</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Captain:</strong> EMILY ELESSA ANGEL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Logistics IC:</strong> CHEW KOK RUI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Logistics IC:</strong> LIAO YIXIN</p>
+<p><strong>Captain:</strong>&nbsp;Lee Kai Kei</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Publicity IC:</strong> ZACHARY, ONG BO SHENG</p>
+<p><strong>Vice-Captain:</strong>&nbsp;Rayson Teo Zhi Kai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Publicity IC:</strong> CHARLENE TEO RUI LING</p>
+<p><strong>Vice-Captain:</strong>&nbsp;Ling Zhen Ying</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training IC:</strong> BRYAN CHENG ZHI HAO</p>
+<p><strong>Training IC:</strong>&nbsp;Malcolm Tan Yan Tao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Training IC:</strong> EURCIA KIEW XIANG LING</p>
+<p><strong>Training IC:</strong>&nbsp;Toh Jie Yu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Publicity IC:</strong>&nbsp;Woon Tien Ze, Gabriel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Publicity IC:</strong>&nbsp;Yeo Hui Ling Isabel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Logistics IC:</strong>&nbsp;Zhu Xu Yao Shawn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Logistics IC:</strong>&nbsp;Lee Shu Ying</p>
 </td>
 </tr>
 </tbody>
@@ -186,30 +191,27 @@ variant: tiptap
 <h3>Highlights / Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>2023 North Zone Basketball Competition - ‘C’ Division girls emerged as
-the top 8</p>
+<p>2024 National School Games League 1 ‘C’ Division girls emerged as top
+4th position</p>
 </li>
 <li>
-<p>2023 North Zone Basketball Competition - ‘B’ Division boys emerged as
-the top 8</p>
+<p>2024 National School Games League 4 ‘C’ Division boys emerged as Champion</p>
+</li>
+<li>
+<p>2025 Northzone basketball Competition ‘B’ Division girls emerged as top
+4th position</p>
 </li>
 </ul>
-<h3>Events</h3>
-<h5>Community Partnership between Yishun Sec and Chong Pang CC</h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/2023/basketball-5.jpeg">
-</div>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/2023/basketball-1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/1Basketball_25.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/2023/basketball-2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/2Basketball_25.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/2023/basketball-3.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/2023/basketball-4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/3Basketball_25.jpg">
 </div>
 <p></p>
