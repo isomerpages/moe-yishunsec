@@ -5,10 +5,11 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
+<h3>SCHOOL MANAGEMENT COMMITTEE (SMC)</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/School_Management_Committee_1589.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/SMC/SMC_2025.jpg">
 </div>
-<h5>SCHOOL MANAGEMENT COMMITTEE (SMC):</h5>
+<p></p>
 <p><strong><em>Back:</em></strong> Mr Poh Chee Jian, Mr P Tamil Selvam, Mr
 Richard Armstrong, Mr Gary Sim, Mr Mohammad Rizal Bin Abdul Rashid, Mr
 Fahmy Bin Said, Mr Koh Yong Cheng, Mr Tan Hong Peng, Mr Chew Kang Wei,
@@ -21,3 +22,4 @@ Ms Widayah Binte Othman, Ms Thiam Jai Hui, Mr Kong Rui Jia</p>
 Mrs Oh Wee Ming (VP), Mdm Lathika D/O Subidor Singh, Mrs Regina Lee (P),
 Mr Victor Chia, Mr Tay Hiang Soon (VP), Ms Nithiya D/O Mariappan, Mr Jayakumar
 S/O Navaretnam (VPA), Mrs Adeline Tan, Mr Aidil Bin Idris</p>
+<p></p>
