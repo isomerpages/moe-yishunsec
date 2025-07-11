@@ -28,7 +28,7 @@ variant: tiptap
 <p>Chinese Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 June 2025</p>
+<p>Closed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Must have:</p>
@@ -37,25 +37,6 @@ variant: tiptap
 <p>Catering experience
 <br>
 </p>
-</li>
-<li>
-<p>Completed food and hygiene course</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Western Food</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 June 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Must have:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Catering experience</p>
 </li>
 <li>
 <p>Completed food and hygiene course</p>
