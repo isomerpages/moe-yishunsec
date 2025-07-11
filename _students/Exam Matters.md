@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/2025_Sec_4NT_prelim_exam_format_and_topics.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4NT prelim exam format and topics</a>
+<p><a href="/files/Announcements for Students/2025_Sec_4NT_prelim_exam_format_and_topics_11Jul25.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4NT prelim exam format and topics</a>
 </p>
 </li>
 </ul>
