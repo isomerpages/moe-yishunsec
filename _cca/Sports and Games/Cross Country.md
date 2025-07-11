@@ -17,7 +17,6 @@ variant: tiptap
 <p>Mr Koh Yong Cheng</p>
 </li>
 </ul>
-<p></p>
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
 <li>
