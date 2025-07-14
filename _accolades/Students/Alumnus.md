@@ -6,17 +6,20 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h2>Congratulations to Following Students:</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/Achievement_in_National_Service.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Outsanding_Alumnus_Alena_and_Aaqil.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/Yishun_Secondary_School_R_Divana_SB.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Achievement_in_National_Service.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/Congratulation_on_Outstanding_A_Level_Results.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Yishun_Secondary_School_R_Divana_SB.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Congratulation_on_Outstanding_A_Level_Results.png">
 </div>
 <h4>Kang Wen Jin</h4>
 <ul data-tight="true" class="tight">
@@ -27,7 +30,7 @@ variant: tiptap
 <p>Award: AY2024 Capella Hotels &amp; Resorts Scholarship Recipient</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/YishunSec_DHHM_KangWenJin_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/YishunSec_DHHM_KangWenJin_1.jpg">
 </div>
 </li>
 </ul>
@@ -42,7 +45,7 @@ variant: tiptap
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Accolades/Student/vaishnavi%20kalyani.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/vaishnavi%20kalyani.jpg">
 </div>
 <p>______________________________________________</p>
 <h4>Nur Soffiyah Sorfina Binte Mohammad Faizal</h4>
@@ -55,7 +58,7 @@ variant: tiptap
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Accolades/Student/yishunsec_dhhm_nursoffiyah.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/yishunsec_dhhm_nursoffiyah.jpg">
 </div>
 <p>______________________________________________</p>
 <h4>Nhavin S/O Subrahmanyam</h4>
@@ -68,7 +71,7 @@ variant: tiptap
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Accolades/Student/yishunsec_drco_nhavin.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/yishunsec_drco_nhavin.jpg">
 </div>
 <p>______________________________________________</p>
 <h4>Faith Chung Xin Hui</h4>
@@ -209,7 +212,7 @@ variant: tiptap
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/Huang%20Caihong.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/Huang%20Caihong.jpg">
 </div>
 <hr>
 <h4>Yeo Si Qi Levin</h4>
@@ -251,7 +254,7 @@ and Award for Outstanding Project Work)</p>
 <p><em>“Gratitude. Resilience. Optimism. These are some of the virtues that YSS has taught me over the 4 years. My life back then was like that of a rollercoaster. But at the same time, my teachers were always there with me through it all, checking up on me and believing in me. I will always remember their care and concern. Thank you for providing me with a lot of opportunities to develop myself as a positive person! In addition, I am very thankful to have made some true friends.”</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/Denise%20Ong%20Li%20Jie.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/Denise%20Ong%20Li%20Jie.jpg">
 </div>
 <hr>
 <h4>Michel Sim</h4>
