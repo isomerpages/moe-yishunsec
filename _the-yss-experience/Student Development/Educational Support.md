@@ -103,7 +103,7 @@ of the school and community</p>
 <h4>Video:</h4>
 <p><a href="https://youtube.com/shorts/XljCUtQx2t8?si=xDW7V67Xck8xU45i" rel="noopener nofollow" target="_blank">YE@H Arts Appreciation and IT Activities 2025</a>
 </p>
-<h4>Photos: </h4>
+<h4>Photos:</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/StudDevelopment/EduSupport/Educational_Support_Showcase_2024.jpg">
 </div>
