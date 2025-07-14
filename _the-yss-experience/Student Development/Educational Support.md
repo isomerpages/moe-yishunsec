@@ -100,11 +100,12 @@ of the school and community</p>
 <h4>Termly Outing</h4>
 <p>Term 1: Prata Making Workshop @ Casuarina Curry</p>
 <p>Term 2: Perfume Making Workshop @ Scentopia</p>
+<h4>Video:</h4>
+<p><a href="https://youtube.com/shorts/XljCUtQx2t8?si=xDW7V67Xck8xU45i" rel="noopener nofollow" target="_blank">YE@H Arts Appreciation and IT Activities 2025</a>
+</p>
+<h4>Photos: </h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/StudDevelopment/EduSupport/Educational_Support_Showcase_2024.jpg">
-</div>
-<div class="iframe-wrapper">
-<iframe height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/shorts/XljCUtQx2t8"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -126,4 +127,5 @@ of the school and community</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/EduSupport/YE_H_Tie_Dye.png">
 </div>
+<p></p>
 <p></p>
