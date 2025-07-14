@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Student Development
 variant: tiptap
 ---
-<h3>Teacher Mentors: </h3>
+<h3>Teacher Mentors:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Muhammad Baqi</p>
@@ -49,7 +49,7 @@ of the school and community</p>
 <p>Monday: 3 pm – 5pm (Sports and Healthy Living)</p>
 <p>Tuesday: 3pm – 5pm (Arts Appreciation)</p>
 <p>Thursday: 3pm – 5pm (Information Technology Exploration)</p>
-<h4>Semester 1 Sports and Healthy Living Activities </h4>
+<h4>Semester 1 Sports and Healthy Living Activities</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tchoukball</p>
