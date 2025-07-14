@@ -23,13 +23,13 @@ variant: tiptap
 <h3>YE@H Exco</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>NUR ARY'ANNA ASYURAH BINTE MOHD FAUZI - S3-IT</p>
+<p>NUR ARY'ANNA ASYURAH BINTE MOHD FAUZI - [S3-IT]</p>
 </li>
 <li>
-<p>NUR FITRI RIYANI BINTE NORIDHAM - S3-RS</p>
+<p>NUR FITRI RIYANI BINTE NORIDHAM - [S3-RS]</p>
 </li>
 <li>
-<p>PUTERI FARAH SYAKIRA BINTE MOHAMMAD FAUZI - S3-SO</p>
+<p>PUTERI FARAH SYAKIRA BINTE MOHAMMAD FAUZI - [S3-SO]</p>
 </li>
 </ol>
 <h3>Objectives:</h3>
