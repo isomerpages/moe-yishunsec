@@ -63,7 +63,7 @@ understood</p>
 </li>
 </ul>
 <h3>Creative Meaning Makers</h3>
-<p><strong>Students will learn to: </strong>
+<p><strong>Students will learn to:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
