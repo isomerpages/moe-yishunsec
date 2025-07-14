@@ -5,7 +5,10 @@ description: ""
 third_nav_title: Instructional Programme
 variant: tiptap
 ---
-<h2><strong>The YSS Literature Unit</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IP/Literature/Literature_2025_1.png">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Literature/LITERATURE_2025.jpg">
 </div>
