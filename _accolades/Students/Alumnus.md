@@ -10,7 +10,6 @@ variant: tiptap
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Outsanding_Alumnus_Alena_and_Aaqil.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Achievement_in_National_Service.png">
 </div>
