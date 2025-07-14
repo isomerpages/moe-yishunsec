@@ -100,7 +100,30 @@ of the school and community</p>
 <h4>Termly Outing</h4>
 <p>Term 1: Prata Making Workshop @ Casuarina Curry</p>
 <p>Term 2: Perfume Making Workshop @ Scentopia</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/StudDevelopment/EduSupport/Educational_Support_Showcase_2024.jpg">
+</div>
+<div class="iframe-wrapper">
+<iframe height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/shorts/XljCUtQx2t8"></iframe>
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/StudDevelopment/EduSupport/YE_H_Semester_1_2025_Art_Appreciation_Activities.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/StudDevelopment/EduSupport/YE_H_Creative_Bear_Design.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/StudDevelopment/EduSupport/YE_H_Semester_1_2025_Physical_Health_Activities.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/StudDevelopment/EduSupport/YE_H_Semester_1_2025_Art_Masterpieces.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/EduSupport/YE_H_Tie_Dye.png">
+</div>
 <p></p>
