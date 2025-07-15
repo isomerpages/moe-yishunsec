@@ -105,7 +105,7 @@ learn the history and culture of their Mother Tongue languages.</p>
 </tr>
 </tbody>
 </table>
-<h4>National Secondary Schools Lantern Riddles Competition 2023</h4>
+<h4>National Secondary Schools Lantern Riddles Competition </h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -172,7 +172,7 @@ learn the history and culture of their Mother Tongue languages.</p>
 </tr>
 </tbody>
 </table>
-<h4>2023 National Chinese Short Film Competition for Secondary Schools, Junior Colleges and Centralised Institute</h4>
+<h4>National Chinese Short Film Competition for Secondary Schools, Junior Colleges and Centralised Institute</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
