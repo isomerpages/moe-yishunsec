@@ -34,8 +34,78 @@ Beliefs”. Students participated in a variety of activities ranging from
 hands on, quizzes and experiential learning on traditions and customs including
 traditional beliefs. Through the activities, they had the opportunity to
 learn the history and culture of their Mother Tongue languages.</p>
-<p><strong>National Secondary Schools Lantern Riddles Competition 2023</strong>
+<h4>Competitions for Tamil Language</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kumaravel Dhanusri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Soar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Essay writing @ Tamil Literary competition,Raffles Institution</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kaliaperumal Nandika</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singing competition 2@ Navarasam 11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Selvakumar Mahalakshmi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Seek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Third</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drawing competition @ Navarasam 11</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>National Secondary Schools Lantern Riddles Competition 2023</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -102,8 +172,7 @@ learn the history and culture of their Mother Tongue languages.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2023 National Chinese Short Film Competition for Secondary Schools, Junior Colleges and Centralised Institute</strong>
-</p>
+<h4>2023 National Chinese Short Film Competition for Secondary Schools, Junior Colleges and Centralised Institute</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -142,8 +211,7 @@ learn the history and culture of their Mother Tongue languages.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>6th Text Recital Competition for Primary and Secondary Schools</strong>
-</p>
+<h4>6th Text Recital Competition for Primary and Secondary Schools</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -210,8 +278,7 @@ learn the history and culture of their Mother Tongue languages.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>8th National Poetry Competition for Secondary School Students</strong>
-</p>
+<h4>8th National Poetry Competition for Secondary School Students</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -250,8 +317,7 @@ learn the history and culture of their Mother Tongue languages.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>National Secondary Schools Translation Competition</strong>
-</p>
+<h4>National Secondary Schools Translation Competition</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -360,8 +426,7 @@ learn the history and culture of their Mother Tongue languages.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Proficiency awards in Tamil Literature (Elective)</strong>
-</p>
+<h4>Proficiency awards in Tamil Literature (Elective)</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
