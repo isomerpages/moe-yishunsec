@@ -105,7 +105,7 @@ learn the history and culture of their Mother Tongue languages.</p>
 </tr>
 </tbody>
 </table>
-<h4>National Secondary Schools Lantern Riddles Competition </h4>
+<h4>National Secondary Schools Lantern Riddles Competition</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -499,27 +499,34 @@ learn the history and culture of their Mother Tongue languages.</p>
 </div>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/MT_Photo1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/TL1_2025.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/MT_Photo2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/TL2_2025.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/MT_Photo3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/TL3_2025.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/MT_Photo4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/TL4_2025.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/MT_Photo5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/TL5_2025.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/MT_Photo6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/TL6_2025.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/MT_Photo7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/TL7_2025.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/MT_Photo8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/MTL/TL8_2025.jpg">
 </div>
 <p></p>
