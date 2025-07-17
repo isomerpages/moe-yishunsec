@@ -94,7 +94,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">HR Online</a>
+<p><a href="https://ngg.intranet.gebiz.gov.sg/" rel="noopener nofollow" target="_blank">GeBIZ</a>
 </p>
 </td>
 </tr>
@@ -104,7 +104,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.opal2.moe.edu.sg/app/learner" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
+<p><a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">HR Online</a>
 </p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://pg.moe.edu.sg" rel="noopener nofollow" target="_blank">Parents Gateway</a>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
 </p>
 </td>
 </tr>
@@ -141,7 +141,7 @@ variant: tiptap
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://iexams.seab.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">iExam 2</a>
+<p><a href="https://pg.moe.edu.sg" rel="noopener nofollow" target="_blank">Parents Gateway</a>
 </p>
 </td>
 </tr>
@@ -151,7 +151,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://learn.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">LEARN</a>
+<p><a href="https://iexams.seab.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">iExam 2</a>
 </p>
 </td>
 </tr>
@@ -161,7 +161,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://ssoe2.moe.edu.sg/sp" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
+<p><a href="https://learn.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">LEARN</a>
 </p>
 </td>
 </tr>
@@ -171,7 +171,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
+<p><a href="https://ssoe2.moe.edu.sg/sp" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
 </p>
 </td>
 </tr>
@@ -181,7 +181,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.transcribe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Transcribe (Speech-to-Text)</a>
+<p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
 </p>
 </td>
 </tr>
@@ -191,7 +191,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MOE Sports &amp; Recreation Club</a>
+<p><a href="https://www.transcribe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Transcribe (Speech-to-Text)</a>
 </p>
 </td>
 </tr>
@@ -201,7 +201,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Go.gov.sg (for shorten URL &amp; QR code)</a>
+<p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MOE Sports &amp; Recreation Club</a>
 </p>
 </td>
 </tr>
@@ -211,7 +211,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillFuture Student Portal</a>
+<p><a href="https://go.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Go.gov.sg (for shorten URL &amp; QR code)</a>
 </p>
 </td>
 </tr>
@@ -221,7 +221,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB Learning &amp; Information Literacy Resources</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillFuture Student Portal</a>
 </p>
 </td>
 </tr>
@@ -229,6 +229,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://quillbot.com/ai-content-detector" rel="noopener nofollow" target="_blank">AI Content Detector</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB Learning &amp; Information Literacy Resources</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.haze.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Haze Situation Update</a>
