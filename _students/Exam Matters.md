@@ -8,11 +8,11 @@ variant: tiptap
 <h4>2025 EOY Exam Timetable Sec 1 to 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Announcements for Students/Sec_1_G1_G2_G3_EOY_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 G1, G2 &amp; G3 EOY ExamTT</a>
+<p><a href="/files/Announcements for Students/Sec_1_G1_G2_G3_EOY_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 G1/G2/G3 EOY ExamTT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements for Students/Sec_2_G1_G2_G3_EOY_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 G1, G2 &amp; G3 EOY ExamTT</a>
+<p><a href="/files/Announcements for Students/Sec_2_G1_G2_G3_EOY_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 G1/G2/G3 EOY ExamTT</a>
 </p>
 </li>
 <li>
