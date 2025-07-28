@@ -5,6 +5,26 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>2025</strong></h2>
+<h4>2025 EOY Exam Timetable Sec 1 to 3</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Announcements for Students/Sec_1_G1_G2_G3_EOY_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 G1/G2/G3 EOY ExamTT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Announcements for Students/Sec_2_G1_G2_G3_EOY_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 G1/G2/G3 EOY ExamTT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Announcements for Students/Sec_3_E_NA_EOY_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 3E &amp; NA EOY ExamTT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Announcements for Students/Sec_3NT___3NT_OOS_ExamTT.pdf" rel="noopener nofollow" target="_blank">Sec 3NT &amp; 3NT OOS ExamTT</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4>2025 Prelim-Exam Timetable for Sec 4 &amp; 5</h4>
 <ul data-tight="true" class="tight">
 <li>
