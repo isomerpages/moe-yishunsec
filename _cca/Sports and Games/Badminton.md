@@ -60,7 +60,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_2_25.png">
 </div>
-<h3>CCA Exco Structure</h3>
+<h3>CCA Exco Structure Boys</h3>
 <h4><strong>Upper Sec</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -496,6 +496,446 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>S2-RS</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>CCA Exco Structure Girls</h3>
+<h4><strong>Upper Sec</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership Roles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attainment Level</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ADILLA BINTE AMINUDDIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Captain</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BERNICE WONG YU XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Vice-Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEW KAI ROU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Head of Logistics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GINNY CHANG YU XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Head of Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TONG LI XIN FIONA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Head of Fitness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY YU HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-IN</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Upper Sec Head of Publicity</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG XIN YI, HEBE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHU LITING ELVA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Head of Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOSHINI D/O GUNALAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Committee Member (Logistics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>THANEESHA BREONNA RAJ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Committee Member (Well-Being)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG XIN LEI, DAROLYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-SO</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Upper Sec Committee Member (Fitness)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR SYAZANANI BINTE MUHAMMAD SYAFIQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-SO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MATHILDE JIALE WOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-SE</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Upper Sec Committee Member (Publicity)</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>LEE ZI RONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>S3-ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RIANNE HUDSON LIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HIRANYA ANGEL SARAVARNAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELANGOVAN SIVAMATHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Committee Member (Safety)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;<strong>Lower Sec</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership Roles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attainment Level</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LYANN ONG EN XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Captain</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VALENE JAYAKUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-SO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Vice-Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NURUL AIN LEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Head of Logistics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RETUYAN SHAYNA RHIAN SIASON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Head of Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WANG ZHISHAN JESSIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Head of Fitness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NICOLE ONG EN HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Head of Publicity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN SI JIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Head of Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TRAN HA MI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Committee Member (Logistics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MITHRASHINI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Committee Member (Well-Being)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEONG YU XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-SO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Committee Member (Fitness)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELIZA BOO SEE MAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Committee Member (Publicity)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HASHINI KALAISELVAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Committee Member (Safety)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
 </td>
 </tr>
 </tbody>
