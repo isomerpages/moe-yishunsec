@@ -36,6 +36,47 @@ of belongings)</p>
 <h3>Compulsory Items</h3>
 <p>Full NCDCC uniform (with badges), NCDCC t-shirt, water bottle (at least
 1L), personal medication (if any), oral digital thermometer</p>
+<p></p>
+<h3>CCA Exco Structure</h3>
+<p><strong><u>Leadership</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>USM: CHLOE LIM KE YU (S3-IT)</p>
+</li>
+<li>
+<p>ASM: MUHAMMAD AARYAN BIN ASRULNIZAM (S3-RP)</p>
+</li>
+<li>
+<p>ASM: LEE JING WEI (S3-IT)</p>
+</li>
+</ul>
+<p><strong><u>Section In-Charges</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 1 I/C: FALISAH AZMIRA BINTE AZMAN (S3-IT)</p>
+</li>
+<li>
+<p>Sec 2 I/C: ONG HONG JUN RYAN (S3-ST)</p>
+</li>
+<li>
+<p>Sec 3 I/C: YAO WENYU (S3-CA)</p>
+</li>
+</ul>
+<p><strong><u>Specialist Roles</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Foot Drill I/C: IONNES LIM ZIQIAN (S3-SE)</p>
+</li>
+<li>
+<p>PT I/C: DANISH AMANI BIN JEPRI (S3-SO)</p>
+</li>
+<li>
+<p>Logistics I/C: REIAN SEBASTIAN BIN SOPIAN (S3-SO)</p>
+</li>
+</ul>
 <h3>Key Student Outcomes</h3>
 <p>To nurture and develop our youths into resilient and responsible citizens
 through innovative and challenging Civil Defence activities and empower

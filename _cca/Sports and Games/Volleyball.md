@@ -27,6 +27,238 @@ variant: tiptap
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
+<h4><strong>Upper Sec</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership Roles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attainment Level</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ROBLES JORHYS AMUEL GINETE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Upper Sec Captain</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH YAN NI CHLOE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEK EN TING ANGELLYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Upper Sec Vice-Captain</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR AFIFAH SYAKIRAH BINTE RAHIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY LI YIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3IN</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Upper Sec Head of Logistics</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YE PEIWEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CALDERON MARY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3RS</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Upper Sec Head of Fitness</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE TIU</p>
+<p>QUEN VANESSA MOHD NOOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3IT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JENE NG KY XUAN</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3IT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Head of Publicity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;<strong>Lower Sec</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership Roles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attainment Level</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR ERYNA QISTINA BINTE MUHAMMAD ZAKIR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Captain</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHAHIRAH BINTE MOHD NOOH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Head of Logistics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NOOR ELDINA MARSYADAH BINTE MUSTAFA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2ST</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Lower Sec Head of Fitness</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ROBLES JOUELLA AMHY GINETE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YONG LOK YEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Head of Publicity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Volleyball/Volleyball_CCA_Goals.png">
 </div>
