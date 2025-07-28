@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - LEAPS.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Cadet Corps (Land).md
@@ -27,3 +26,4 @@ collections:
       - Clubs and Societies/.keep
       - Clubs and Societies/Media Club.md
       - Clubs and Societies/Robotics.md
+      - LEAPS.md
