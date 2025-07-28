@@ -33,74 +33,130 @@ variant: tiptap
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
-<table style="minWidth: 50px">
+<h4><strong>Upper Sec</strong></h4>
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership Roles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attainment Level</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Chairperson</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>NADYAH BINTE MOHAMAD ZULKHARNAIN</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>3-IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Chairperson</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Vice Chairperson</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>SHEN ZHIQING JENNIFER</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>3-IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Vice-Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>LEE ANGELYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-RP</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Ensemble Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LEE ANGELYN</p>
+<p>5</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Head of Logistics</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>LIM EN YU</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>3-ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Head of Logistics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Head of Logistics</p>
+<p>NURSYIRIN BINTE NURFAIZAL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NURSYIRIN BINTE NUR FAIZAL</p>
+<p>3-SO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Asst Head of Logistics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Head of Well-Being</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>YVIAN ZHANG XINYI</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>3-ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Head of Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Head of Well-Being</p>
+<p>MICHELLE CHUA KAI LING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MICHELLE CHUA KAI LING</p>
+<p>3-SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Asst Head of Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
 </td>
 </tr>
 </tbody>
