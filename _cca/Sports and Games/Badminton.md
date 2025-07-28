@@ -60,6 +60,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_2_25.png">
 </div>
+<h3>EXCO Structure </h3>
+<p></p>
 <h3>Highlights / Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
