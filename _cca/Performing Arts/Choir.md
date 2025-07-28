@@ -37,78 +37,273 @@ variant: tiptap
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
-<table style="minWidth: 50px">
+<h4><strong>Upper Sec</strong></h4>
+<p>&nbsp;</p>
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>DESIGNATION</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>KEY PERSON</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>No.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership Roles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attainment Level</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHAIRMAN</p>
+<p>1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>REGAN ONG YI ZHANG</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>S3-ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Chairperson</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>VICE CHAIRMAN</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NOOR HAFSYAH QAISARAH BTE NOOR HIDAYAT</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>S3-SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Vice-Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>VICE CHAIRMAN</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TAN YAN XIN</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>S3-SO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Vice-Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SECRETARY</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FUN YEE SAM</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>S3-CA</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PUBLICITY</p>
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOYCELYN KANG (JIANG YIXUAN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-ST</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Head of Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ONG JIAYI, AMELIA</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>LOGISTICS</p>
+<p>S3-RS</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KONG XIANGYI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WELFARE</p>
+<p>Upper Sec Head of Publicity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JOYCELYN KANG</p>
+<p>4</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<h4><strong>Lower Sec</strong></h4>
+<p>&nbsp;</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership Roles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attainment Level</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JEWEL NG ZI RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-ST</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KONG XIANG YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-CA</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Head of Logistics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DEEPIKHA D/O VIJAY MOHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-IN</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Head of Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SANJANAA GOPI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-SO</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Head of Publicity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FIONA RAY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Committee Member (Logistics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <h3>Key Student Outcomes</h3>
 <ul data-tight="true" class="tight">
 <li>
