@@ -113,7 +113,7 @@ categories.</p>
 <h3>CCA LEAPS 2.0</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://yishunsec.moe.edu.sg/qql/slot/u276/Holistic%20Education/Student%20Development/CCA/CCA%20LEAPS%202.0/LEAPS-2.0-Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0</a>
+<p><strong><a href="https://yishunsec.moe.edu.sg/cca/leaps/" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0</a></strong>
 </p>
 <p></p>
 </li>
