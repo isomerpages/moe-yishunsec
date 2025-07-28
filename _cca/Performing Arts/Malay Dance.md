@@ -27,39 +27,142 @@ variant: tiptap
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
-<p></p>
-<table style="minWidth: 50px">
+<h4><strong>Upper Sec</strong></h4>
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership Roles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attainment Level</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairperson:</p>
+<p>ALIYAH HUMAIRAH BINTE MUHAMMAD HAIRUL</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nurkhairya Nabila Binte Muhammad Khairuddin (4-IN)</p>
+<p>S3-CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Chairperson</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-chairperson:</p>
+<p>MISHALL ATIKA IMRAN</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zuriqah Izzati Binti Mohammed Haniff (4-SE)</p>
+<p>S3-SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Vice-Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NURIN QASYIRA BINTE MUHAMAD HAMMAR</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-SO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Head of Logistics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4>&nbsp;<strong>Lower Sec</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership Roles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attainment Level</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MAYA HILDAH BINTE MOHAMED AZMINSHAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec CCA Leader</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RIKA NADYNE IMRAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec CCA</p>
+<p>Leader</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <h3>Key Student Outcomes</h3>
 <ul data-tight="true" class="tight">
 <li>
