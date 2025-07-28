@@ -72,16 +72,20 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leadership Roles</p>
+<p><strong>Leadership Roles</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Attainment Level</p>
+<p><strong>Attainment Level</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -214,17 +218,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RYAN ZHANG RUI AN NG DING RONG</p>
+<p>RYAN ZHANG RUI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3-ST</p>
-<p>S3-SE</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Upper Sec Committee Member (Fitness)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AN NG DING RONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-SE</p>
 </td>
 </tr>
 <tr>
@@ -402,68 +413,89 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>IVAN PRANJAYA BIN JAMIL</p>
-<p>KHONG ZHI WEN FAVEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2-SE</p>
-<p>&nbsp;</p>
-<p>S2-ST</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Lower Sec Committee Member (Well-Being)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KHONG ZHI WEN FAVEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-ST</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MOHAMAD HAZIM BIN MOHAMAD KHALIK</p>
-<p>AYDEN ZHUANG HAO HENG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2-SE</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>S2-ST</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Lower Sec Committee Member (Fitness)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYDEN ZHUANG HAO HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-ST</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>JOY LIM JIA LE</p>
-<p>CHEW LEE HENG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2-RP</p>
-<p>S2-ST</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Committee Member (Publicity<s>)</s>
-</p>
+<td rowspan="2" colspan="1">
+<p>Lower Sec Committee Member (Publicity)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PHANG YEN KAI KHOO GUAN XIANG</p>
+<p>CHEW LEE HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PHANG YEN KAI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2-RP</p>
-<p>S2-RS</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Lower Sec Committee Member (Safety)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KHOO GUAN XIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-RS</p>
 </td>
 </tr>
 </tbody>
