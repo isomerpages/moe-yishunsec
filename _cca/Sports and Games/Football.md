@@ -47,87 +47,151 @@ girls from the N2 cluster.</p>
 </li>
 </ul>
 <h3>CCA Exco Structure</h3>
-<table style="minWidth: 50px">
+<h4><strong>Upper Sec</strong></h4>
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>'B' Boys</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership Roles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attainment Level</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Captain:</p>
+<p>SABBYNAASH KUMAR</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>S4-SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Captain</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>JAYDEN ARSHAVIN JASON</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>'C' Boys</strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Captain:</p>
+<p>S3-I</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SABESAN SACHIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain:</p>
+<p>Upper Sec Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD ADRIYAN DANIQUE BIN MUHAMMAD HASMAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NG KOK WEE COVIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>N2 Cluster ‘C’ Girls</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OH HUI ANN CHAMPAIGNE (Northland Secondary School)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUR SHAKIRAH BINTE NUR MOHAMMAD</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AALIYA NERISSA SIM LIYA BINTE SIM YONG SOON, ROY</p>
+<p>5</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4>&nbsp;<strong>Lower Sec</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership Roles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attainment Level</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SABESAN SACHIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Captain</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD ADRIYAN DANIQUE BIN MUHAMMAD HASMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Vice-Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOHAMAD NIQ ADIL BIN MOHAMAD NASRI&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Vice-Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG KOK WEE COVIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Vice-Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <h3>Key Student Outcomes</h3>
 <ul data-tight="true" class="tight">
 <li>
