@@ -108,13 +108,6 @@ categories.</p>
 <li>
 <p><strong><a href="/cca/clubs-and-societies/robotics/" rel="noopener noreferrer nofollow" target="_blank">Robotics</a></strong>
 </p>
-</li>
-</ul>
-<h3>CCA LEAPS 2.0</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://yishunsec.moe.edu.sg/cca/leaps/" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0</a></strong>
-</p>
 <p></p>
 </li>
 </ul>
