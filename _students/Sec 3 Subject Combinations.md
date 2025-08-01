@@ -41,4 +41,3 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p></p>
