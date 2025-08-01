@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website_banner_2025_v4.gif
+      background: /images/Website_banner_2025_v5.gif
       key_highlights:
         - title: School Calendar
           description: Upcoming Events & Activities
