@@ -2,8 +2,13 @@
 title: Edusave Character Award
 permalink: /parents/info-for-parents/edusave/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### EDUSAVE CHARACTER AWARD 2024 NOMINATIONS
-
-* [ECHA 2024 Parent Nomination Form](https://forms.gle/JA2N8qg3pHDycJzC9)
+<h4>EDUSAVE CHARACTER AWARD 2025 NOMINATIONS</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://forms.gle/Guepqbis7CamLpd49" rel="noopener noreferrer nofollow" target="_blank">ECHA 2025 Parent Nomination Form</a>
+</p>
+</li>
+</ul>
+<p></p>
