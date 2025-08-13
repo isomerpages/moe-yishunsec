@@ -66,15 +66,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/Sec_1_T3_WA3.pdf" rel="noopener nofollow" target="_blank">Sec 1 T3 WA3</a>
+<p><a href="/files/Weighted Assessment/Sec_1_T3_WA3_13Aug2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 T3 WA3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/Sec_2_T3_WA3_14Jul2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 T3 WA3</a>
+<p><a href="/files/Weighted Assessment/Sec_2_T3_WA3_13Aug2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 T3 WA3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/Sec_3_T3_WA3_21Jul2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 T3 WA3</a>
+<p><a href="/files/Weighted Assessment/Sec_3_T3_WA3_13Aug_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 T3 WA3</a>
 </p>
 </li>
 </ul>
