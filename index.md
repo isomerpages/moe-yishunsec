@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: Term 3
+      description: Parenting Talk Dialogue With Principal on 28 August
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
