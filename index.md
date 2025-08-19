@@ -22,7 +22,7 @@ sections:
       subtitle: Announcements
       id: infobar
       description: The Caring Teacher Awards (CTA) celebrate educators who exemplify
-        care and compassion in their teaching...
+        care and compassion in their teaching.
       button: Nominate Now
       url: https://www.cta.nie.edu.sg
   - infopic:
