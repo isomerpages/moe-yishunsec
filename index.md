@@ -17,6 +17,14 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
+  - infobar:
+      title: Caring Teacher Awards 2026
+      subtitle: Announcements
+      id: infobar
+      description: The Caring Teacher Awards (CTA) celebrate educators who exemplify
+        care and compassion in their teaching...
+      button: Nominate Now
+      url: https://www.cta.nie.edu.sg
   - infopic:
       title: Letter to Parents
       description: Parent Talk & Dialogue With Principal on 28 August
