@@ -204,6 +204,10 @@ variant: tiptap
 </ul>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/Basketball_cca2_v2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Basketball/1Basketball_25.jpg">
 </div>
 <p></p>
