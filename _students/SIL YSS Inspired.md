@@ -23,5 +23,11 @@ via SLS for self-directed learning.</p>
 to showcase their learning. This can be in the form of digital drawings
 and creating videos that capture their interests, such as football juggling,
 dancing, playing instruments and A Day in the Life Of, amongst other things.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2mBx6qzJG60?si=inAgyoEkGRM4ePQb"></iframe>
+</div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Gsl6U8SmWJE?si=IenJIAkspiawYeJ-"></iframe>
+</div>
 <p></p>
