@@ -81,7 +81,7 @@ music with the school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DP/Photo_9_Vocalistic_Masterclass.jpg">
 </div>
-<p>Singing Masterclass for the Vocalistic Semi-Finalists</p>
+<p>Singing Masterclass for the Vocalistic Semi-Finalists.</p>
 <h3>Career Assembly Talk : Arts in the Real World by Elisa Liu (Visual Artist) and Bryant Koh (Musician)</h3>
 <p>Local visual artist Elisa Liu and musician Bryant Koh shared their journeys
 from the corporate world to finding fulfillment in art and music. They
@@ -90,4 +90,4 @@ their passions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DP/Photo_10_Career_Assembly_Talk.jpg">
 </div>
-<p>Career Assembly Talk with Bryant Koh and Elisa Liu</p>
+<p>Career Assembly Talk with Bryant Koh and Elisa Liu.</p>
