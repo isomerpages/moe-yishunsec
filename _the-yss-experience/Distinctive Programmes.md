@@ -4,10 +4,11 @@ permalink: /the-yss-experience/distinctive-programmes/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS%20Exp/ALP/distinctive_prog.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DP/Photo_1_Distinctive_Programme.jpg">
 </div>
-<h3>Arts for Life and Community</h3>
+<h2>Arts for Life and Community</h2>
 <p>Consisting of two elements Applied Learning Programme (ALP) and Lifelong
 Learning Programme (LLP), Yishun Secondary School’s Distinctive Programme
 (DP) centres around sonic arts, music arrangement and technology with an
@@ -15,68 +16,78 @@ outreach to the community in mind. Students embark on a journey of discovery,
 from exploring the different facet of sonic arts and developing their interest
 in music.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP%20(1).png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DP/Photo_2_ALP_Framework.jpg">
 </div>
-<p>The holistic programme takes on a 3-tiered approach where all students,
-at Tier 1, learn to appreciate sonic arts through school assembly programmes,
-music lessons, and Student-Initiated Learning (SIL) modules. Passionate
-students are further stretched in music masterclasses and will have opportunities
-to showcase their work. By Tier 3, students are involved in performances,
-productions, and partnerships with institutes of higher learning and overseas
-collaborations.</p>
+<p>The holistic programme adopts a three-tiered approach to develop students'
+appreciation and talent in sonic arts. At <strong>Tier 1</strong>, all students
+are introduced to sonic arts through music lessons. In Secondary 1, they
+acquire foundational music knowledge, while in Secondary 2, they explore
+music technology in collaboration with industry professionals.</p>
+<p>At <strong>Tier 2</strong>, students with a deeper passion for music are
+further nurtured through specialised masterclasses and gain hands-on experience
+recording their work in the school’s in-house recording studio. They are
+also given platforms to showcase their talents, such as the annual singing
+competition, Vocalistic and the performing arts festival, Arts Extravaganza.</p>
+<p>By <strong>Tier 3</strong>, selected students represent the school in external
+music competitions and participate in community engagement performances,
+allowing them to contribute back to the community through the arts.</p>
 <h3>Key Programmes</h3>
-<h4>Student-Initiated Learning (SIL)</h4>
-<p>Implemented nationwide in 2021, Student-Initiated Learning (SIL) is a
-component of Home-Based Learning days where time is set aside for students
-to pursue their own interests and learn beyond the textbooks. In YSS, SIL
-modules are aligned to our DP such as digital drawings and creating videos
-that captures their interests such as football juggling, dancing, and A
-Day in the Life Of amongst other things.</p>
-<h4>Sonic Arts and Music (SAM) Week</h4>
-<p>YSS engages different vendors to spark an interest in sonic arts and music.
-Some of the programmes that were done include DJ-ing, Manga drawing, and
-KPop dancing.</p>
+<h3>Sonic Arts and Music (SAM) Week</h3>
+<p>Students explore various sonic arts and music modules, such as digital
+doodling, street photography, manga drawing, and K-pop dance, providing
+opportunities to develop their artistic interests and discover new forms
+of creative expression.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS%20Exp/ALP/manga_drawing_photo_4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DP/Photo_3_Manga_Drawing.jpg">
 </div>
-<p>Manga Drawing</p>
+<p>Students working on their drawings during SAM Week.</p>
+<h2>Arts Extravaganza: Expressions</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS%20Exp/ALP/dj-ing_photo_5.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DP/Photo_4_Arts_Extravaganza_Banner.jpg">
 </div>
-<p>DJ-ing</p>
+<p>The Arts Extravaganza is a dynamic and inclusive celebration that offers
+Yishunites the opportunity to present their involvement in various art
+forms to the school and the broader community. This event showcases the
+works of students from the Performing Arts Co-Curricular Activities (CCAs)
+and the Music and Arts Students.</p>
+<p>This year's Arts Extravaganza revolves around the theme of "Expressions",
+symbolising the students' ability to share their unique talents and creativity
+with the audience through various forms of artistic expression. The theme
+emphasises the importance of self-expression, allowing students to communicate
+their emotions, thoughts, and personal stories through their performances
+and artwork. The event was a great success, drawing strong support from
+the school, parents and members of the community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS%20Exp/ALP/kpop_dancing_photo_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DP/Photo_5_Band.jpg">
 </div>
-<p>KPop dancing</p>
-<h4>Mother Tongue Broadcasting</h4>
-<p>In YSS, we strongly believe in inter-disciplinary education experience.
-Collaborating with the Mother Tongue department, students can interview
-and interact with their fellow Yishunites in various settings involving
-the arts and creating a video to summarise it.</p>
+<p>Concert band student performing during Arts Extravaganza.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS%20Exp/ALP/mt_broadcasting_photo_7.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DP/Photo_6_Gu_Zheng.jpg">
 </div>
-<p>MT Broadcasting</p>
-<h4>Arts Extravaganza</h4>
+<p>Gu Zheng’s students performing during Arts Extravaganza.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/arts%20extravaganza%202023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DP/Photo_7_Modern_Dance.jpg">
 </div>
-<p>A highly anticipated annual school event, the Arts Extravaganza provides
-a platform for Yishunites to present their involvement in the arts to the
-community. They do not only showcase their performing arts pieces, but
-also encourages students who are not involved in performing arts CCA to
-showcase their talents. One such programme is the school’s singing competition,
-Vocalistic. On top of that, students who stand out during the SIL programme
-and SAM week were also given an exposure to demonstrate and showcase their
-works during Meet-the-Artists sessions. In 2023, the Arts Extravaganza
-was held in Yishun Town Square. It was a successful event, which garnered
-the support of parents and members of the community. Truly, this event
-encapsulates what DP in YSS stands for: Arts for Life and Community.</p>
+<p>Modern Dance students performing during Arts Extravaganza.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS%20Exp/ALP/vocalistic_after_school_performance_photo_8.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DP/Photo_8_Art_Students.jpg">
 </div>
-<p>Vocalistic After School Performance</p>
+<p>Art students showcasing their art pieces.</p>
+<h3>Vocalistic</h3>
+<p>Vocalistic is an annual singing competition that provides Yishunites with
+a platform to showcase their vocal talents. It allows participants to express
+themselves freely, singing their hearts out and sharing their passion for
+music with the school.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS%20Exp/ALP/meet_the_artists_phot_9.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DP/Photo_9_Vocalistic_Masterclass.jpg">
 </div>
-<p>Meet the Artists</p>
+<p>Singing Masterclass for the Vocalistic Semi-Finalists.</p>
+<h3>Career Assembly Talk : Arts in the Real World by Elisa Liu (Visual Artist) and Bryant Koh (Musician)</h3>
+<p>Local visual artist Elisa Liu and musician Bryant Koh shared their journeys
+from the corporate world to finding fulfillment in art and music. They
+discussed the challenges they faced and offered insights into pursuing
+their passions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DP/Photo_10_Career_Assembly_Talk.jpg">
+</div>
+<p>Career Assembly Talk with Bryant Koh and Elisa Liu.</p>
