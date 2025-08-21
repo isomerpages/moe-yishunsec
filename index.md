@@ -25,7 +25,7 @@ sections:
         teachers.  Date: 2 & 3 Sept, Time: 2:30 pm - 4:30 pm"
       button: Read More
       url: /teachers-day/
-      image: /images/Announcements/YSS_TD_25_Alumni_Visit.jpg
+      image: /images/Announcements/YSS_TD_25_Alumni_Visit_v2.jpg
       alt: Image alt text
   - infobar:
       title: Caring Teacher Awards 2026
