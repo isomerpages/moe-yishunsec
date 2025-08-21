@@ -17,6 +17,16 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
+  - infopic:
+      title: YSS Teachers' Day 2025
+      subtitle: Dear YSS Alumni/ Ex-Students
+      id: infopic
+      description: "The school will be open for ex-students to visit their
+        teachers.  Date: 2 & 3 Sept, Time: 2:30 pm - 4:30 pm"
+      button: Read More
+      url: /teachers_day/
+      image: /images/Announcements/YSS_TD_25_Alumni_Visit.jpg
+      alt: Image alt text
   - infobar:
       title: Caring Teacher Awards 2026
       subtitle: Announcements
