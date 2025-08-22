@@ -59,8 +59,8 @@ hosting foreign friends in Singapore</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/SMP_Kristen_Penabur_Schools.jpg">
 </div>
-<p>SMP Kristen Penabur schools (25&amp;26 Feb 2025)</p>
-<h3>Visitors from Himachal Pradesh State in India - 14 Feb 2025</h3>
+<p>SMP Kristen Penabur schools</p>
+<h3>Visitors from Himachal Pradesh State in India</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Visitors_from_Himachal_Pradesh_State_in_India__14_Feb_2025.jpg">
 </div>
@@ -68,17 +68,18 @@ hosting foreign friends in Singapore</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Schools_in_Guizhou_7_Feb_2025_1.jpg">
 </div>
-<p>Schools in Guizhou 7 Feb 2025</p>
+<p>Schools in Guizhou</p>
 <h3>Hosting our friends from ASEAN</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/SMP_Kristen_Penabur_Jakarta_4_5_Feb_2025.jpg">
 </div>
-<p>SMP Kristen Penabur Jakarta 4-5 Feb 2025</p>
+<p>SMP Kristen Penabur Jakarta</p>
 <h3>Cultural Immersion Programme with Lam Tai Fai College, Hong Kong</h3>
 <p><a href="https://www.ltfc.edu.hk/Website/index.php/campus-news/2283-cultural-exchange-with-singapore-yishun-secondary-school-students.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ltfc.edu.hk/Website/index.php/campus-news/2283-cultural-exchange-with-singapore-yishun-secondary-school-students.html</u></a>
 </p>
-<p></p>
-<h3>YSS Goes Global Programme - 2024</h3>
+<hr>
+<h2>2024</h2>
+<h3>YSS Goes Global Programme</h3>
 <h4>Overseas Trips:</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -102,9 +103,9 @@ hosting foreign friends in Singapore</p>
 9 Nov to 14 Nov 2024</p>
 </li>
 </ul>
-<p></p>
 <hr>
-<h3>YSS Goes Global Programme - 2023</h3>
+<h2>2023</h2>
+<h3>YSS Goes Global Programme</h3>
 <h4>Overseas Trips:</h4>
 <ul data-tight="true" class="tight">
 <li>
