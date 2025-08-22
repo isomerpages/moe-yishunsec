@@ -54,4 +54,20 @@ sections:
   - resources:
       title: Information from YSS
       button: Read more...
+  - textcards:
+      title: Information from YSS
+      id: textcards
+      cards:
+        - title: YSS Goes Global
+          description: ""
+          linktext: Read more
+          url: /the-yss-experience/interdisciplinary-programmes/yssgoesglobal/
+        - title: New Admission Criteria to Yishun Secondary
+          description: ""
+          linktext: Read more
+          url: /yss/news/admissioncriteria/
+        - title: Supporting Students
+          description: ""
+          linktext: Read more
+          url: /yss/news/supportingstudents/
 ---
