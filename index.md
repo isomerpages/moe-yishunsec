@@ -51,9 +51,6 @@ sections:
       url: /students/dsa/
       image: /images/Students/YSS_DSA_1.png
       alt: Image alt text
-  - resources:
-      title: Information from YSS
-      button: Read more...
   - textcards:
       title: Information from YSS
       id: textcards
