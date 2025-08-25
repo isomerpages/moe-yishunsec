@@ -6,6 +6,28 @@ variant: tiptap
 third_nav_title: Our People
 ---
 <h3><strong>Staff Awards</strong></h3>
+<p>Our heartfelt congratulations to YSS recipients of the <strong>National Day Awards (NDA) 2025</strong>.</p>
+<p><strong>The Commendation Medal:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Chew Hsia Jacqueline</p>
+</li>
+</ul>
+<p><strong>The Long Service Medal:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Puay Hoon</p>
+</li>
+<li>
+<p>Siti Alwiyah Binte Ismail</p>
+</li>
+<li>
+<p>Zhu Yulin</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Mdm Malar Velee d/o Perumal</strong> received the Most Inspiring
 Tamil Teachers’ (MITT) Award in recognition of their outstanding contributions
 in the teaching and learning of the Tamil Language.</p>
