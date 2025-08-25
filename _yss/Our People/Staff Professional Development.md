@@ -7,14 +7,14 @@ third_nav_title: Our People
 ---
 <h3><strong>Staff Awards</strong></h3>
 <p>Our heartfelt congratulations to YSS recipients of the <strong>National Day Awards (NDA) 2025</strong>.</p>
-<p><strong>The Commendation Medal:</strong>
+<p><strong><u>The Commendation Medal:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tan Chew Hsia Jacqueline</p>
 </li>
 </ul>
-<p><strong>The Long Service Medal:</strong>
+<p><strong><u>The Long Service Medal:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
