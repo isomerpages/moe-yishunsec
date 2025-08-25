@@ -14,7 +14,7 @@ girls from the N2 cluster.</p>
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Toh Wen Yi (I/C)</p>
+<p>Mr Toh Wen Yi</p>
 </li>
 <li>
 <p>Mr A Murugapa</p>
@@ -24,20 +24,22 @@ girls from the N2 cluster.</p>
 </li>
 <li>
 <p>Ms Shahidah</p>
+<p></p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>C Boys:</strong> Mondays, Tuesdays &amp; Thursdays 1500 - 1630</p>
+<p><strong>‘C’ Boys: Mondays, Tuesdays &amp; Thursdays 1500 – 1630</strong>
+</p>
 </li>
 <li>
-<p><strong>B Boys:</strong> Mondays, Tuesdays &amp; Thursdays 1600 – 1730</p>
+<p><strong>‘B’ Boys: Mondays, Tuesdays &amp; Thursdays 1600 – 1730</strong>
+</p>
 </li>
 <li>
-<p><strong>N2 Cluster ‘C’ Girls:</strong> Wednesdays &amp; Fridays: 1530 –
-1700</p>
-<p></p>
+<p><strong>Cluster-based Project (CBP N2) ‘C’ Girls: Wednesdays &amp; Fridays: 1530 – 1700</strong>
+</p>
 </li>
 </ul>
 <h3>Venue</h3>
@@ -207,18 +209,39 @@ girls from the N2 cluster.</p>
 <h3>Highlights / Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>‘B’ division boys qualified for NSG League 1 together with the top 16
-schools in Singapore in 2023.</p>
+<p>NSG 2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>‘B’ Boys: League 3 1st runner up</p>
+</li>
+<li>
+<p>‘C’ Boys: League 3 Champions</p>
+</li>
+<li>
+<p>‘C’ Girls: League 2 4th place</p>
+</li>
+</ul>
+</li>
+<li>
+<p>NSG 2024</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>‘C’ Boys: League 4 4th place</p>
+</li>
+</ul>
+</li>
+<li>
+<p>NSG 2023</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>‘B’ Boys: Qualified for League 1</p>
+</li>
+</ul>
 </li>
 <li>
 <p>Organised Yishun Invitational Football Carnival where opportunities were
 given for schools in our vicinity pitch their skills against each other.
 Our boys did us proud and clinched 1st place in 2023.</p>
-</li>
-<li>
-<p>In 2024, the ‘C’ division boys progressed to the semifinals of the League
-4 NSG tournament and are promoted to League 3.</p>
-<p></p>
 </li>
 </ul>
 <h3>Events in 2024</h3>
@@ -255,10 +278,11 @@ define our school’s sporting spirit.</p>
 <p>Ziqkry Yadiy Bin Zenny Jumari</p>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/SportsGames/Football/photo_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Football/Photo1_2025.jpg">
 </div>
-<p>Half-time huddle during NSG League 1</p>
+<p>2025 ‘C’ Boys League 3 Finals</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/SportsGames/Football/photo_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Football/Photo2_2025.jpg">
 </div>
-<p>Secondary 4 farewell</p>
+<p>Team huddle before kick off</p>
+<p></p>
