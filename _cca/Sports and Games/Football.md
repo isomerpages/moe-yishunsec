@@ -268,7 +268,6 @@ the first time, captured our hearts with their tenacity and unwavering
 spirit, making a strong impression in their debut. The ‘B’ boys, too, stood
 out with their relentless perseverance, embodying the grit and pride that
 define our school’s sporting spirit.</p>
-<p></p>
 <h3>Student’s Quotes</h3>
 <p><em>"It has been a wonderful experience being in the Football CCA. It has taught me the importance of teamwork and I have learnt to get along with my teammates and together we have developed a stronger bond. Training might seem challenging but it’s all worth it.”</em>
 </p>
