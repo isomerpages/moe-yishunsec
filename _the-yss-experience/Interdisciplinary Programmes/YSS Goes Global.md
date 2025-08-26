@@ -34,7 +34,11 @@ via exchange programmes</p>
 opportunity to make international friends and expose them to different
 cultures and lifestyles.</p>
 <p>Besides travelling abroad, Yishun Secondary School also look forward to
-hosting foreign friends in Singapore</p>
+hosting foreign friends in Singapore.</p>
+<h3>Hosting visiting Mathematics and Science teachers from Kazakhstan</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Hosting_visiting_Mathematics_and_Science_teachers_from_Kazakhstan.jpg">
+</div>
 <h3>Hosting Visitors from Myanmar and Thailand</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/pic2.jpg">
