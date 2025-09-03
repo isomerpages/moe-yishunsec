@@ -39,6 +39,9 @@ sections:
           description: 8 am to 5 pm
           linktext: ""
           url: ""
+      subtitle: Announcements
+      description: Due to Teachers' Day and school holidays, there will be changes to
+        school operating hours.
   - infobar:
       title: Caring Teacher Awards 2026
       subtitle: Announcements
