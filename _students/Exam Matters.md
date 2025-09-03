@@ -47,7 +47,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4>2025 Prelim-Exam Timetable for Sec 4 &amp; 5</h4>
 <ul data-tight="true" class="tight">
 <li>
