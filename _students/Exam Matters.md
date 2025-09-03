@@ -100,7 +100,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4>Term 2 - WA 2</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -124,7 +123,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4>Term 1 - WA 1</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -230,7 +228,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
