@@ -16,15 +16,37 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements for Students/Sec_3E_NA_EOY_Exam_Timetable_13Aug25.pdf" rel="noopener nofollow" target="_blank">Sec 3E &amp; NA EOY ExamTT</a>
+<p><a href="/files/Announcements for Students/Sec_3_E_NA_EOY_Exam_Timetable_3Sep25.pdf" rel="noopener nofollow" target="_blank">Sec 3E &amp; NA EOY ExamTT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements for Students/Sec_3NT___3NT_OOS_ExamTT.pdf" rel="noopener nofollow" target="_blank">Sec 3NT &amp; 3NT OOS ExamTT</a>
+<p><a href="/files/Announcements for Students/Sec_3_NA_NT_EOY_Exam_Timetable_3Sep25.pdf" rel="noopener nofollow" target="_blank">Sec 3NT &amp; 3NT OOS ExamTT</a>
 </p>
 </li>
 </ul>
-<p></p>
+<h4>2025 Prelim Exam Format and Topics for Sec 1 to 3</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Announcements for Students/2025_Sec_1_EOY_EXAM_FORMAT_AND_TOPICS.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY Exam Format &amp; Topics</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Announcements for Students/2025_Sec_2_EOY_EXAM_FORMAT_AND_TOPICS.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Exam Format &amp; Topics</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Announcements for Students/2025_Sec_3E_eoy_exam_format_and_topics.pdf" rel="noopener nofollow" target="_blank">Sec 3E EOY Exam Format &amp; Topics</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Announcements for Students/2025_Sec_3N_eoy_exam_format_and_topics.pdf" rel="noopener nofollow" target="_blank">Sec 3N EOY Exam Format &amp; Topics</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Announcements for Students/2025_Sec_3NT_eoy_exam_format_and_topics.pdf" rel="noopener nofollow" target="_blank">Sec 3NT EOY Exam Format &amp; Topics</a>
+</p>
+</li>
+</ul>
 <h4>2025 Prelim-Exam Timetable for Sec 4 &amp; 5</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -78,7 +100,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4>Term 2 - WA 2</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -102,7 +123,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4>Term 1 - WA 1</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -208,7 +228,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
