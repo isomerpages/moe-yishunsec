@@ -7,6 +7,34 @@ variant: tiptap
 ---
 <h2>Congratulations to Following Students:</h2>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/Sempio_Alyssa_Marie_Sayo.jpg">
+</div>
+<p>Class : 5N1 (2021)</p>
+<p>Sempio Alyssa Marie was hardworking student and a member of Volleyball
+and had presented the school in North Division tournaments. Alyssa contributed
+actively as a member of the class committee, supporting her peers and playing
+a part in the school community.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/Ethan_Fong.jpg">
+</div>
+<p>Class: 4N3 (2020)</p>
+<p>Ethan Fong was a cheerful and well-behaved student. He was a member of
+the Football club and had represented the school at various tournaments.
+Ethan has also served actively in the class committee, playing a valuable
+role in supporting his peers and contributing to the school community.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/Putri_Salsabila_Bte_Mohamad_Azman.jpg">
+</div>
+<p>Class: 4E6 (2018)</p>
+<p>Putri Salsabila was an active contributor in the school. She was in the
+English Drama CCA and represented the school in the SYF competitions in
+2015 and 2017 where the team achieved a Certificate of Distinction in 2017.</p>
+<p>Putri also served as a Prefect and an EXCO member, making significant
+contributions to the planning and execution of school events.</p>
+<hr>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Outsanding_Alumnus_Alena_and_Aaqil.png">
 </div>
 <p></p>
@@ -21,72 +49,70 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Congratulation_on_Outstanding_A_Level_Results.png">
 </div>
-<h4>Kang Wen Jin</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/YishunSec_DHHM_KangWenJin_1.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yishun Alumni (2020)</p>
 </li>
 <li>
 <p>Award: AY2024 Capella Hotels &amp; Resorts Scholarship Recipient</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/YishunSec_DHHM_KangWenJin_1.jpg">
-</div>
+<hr>
 </li>
 </ul>
-<p>_________________</p>
-<h4>Vaishnavi Kalyani</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/vaishnavi%20kalyani.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yishun Alumni (2020)</p>
 </li>
 <li>
 <p>Award: Republic Award 2023</p>
+<hr>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/vaishnavi%20kalyani.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/yishunsec_dhhm_nursoffiyah.jpg">
 </div>
-<p>______________________________________________</p>
-<h4>Nur Soffiyah Sorfina Binte Mohammad Faizal</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yishun Alumni (2020)</p>
 </li>
 <li>
 <p>Award: Republic Award, Service Excellence Award 2023</p>
+<hr>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/yishunsec_dhhm_nursoffiyah.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/yishunsec_drco_nhavin.jpg">
 </div>
-<p>______________________________________________</p>
-<h4>Nhavin S/O Subrahmanyam</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yishun Alumni (2020)</p>
 </li>
 <li>
 <p>Award: EAE Award 2023</p>
+<hr>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/yishunsec_drco_nhavin.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/Accolades/Student/faith%20chung%20xin%20hui.jpg">
 </div>
-<p>______________________________________________</p>
-<h4>Faith Chung Xin Hui</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yishun Alumni (2019)</p>
 </li>
 <li>
 <p>Award: Teaching Scholarship 2023</p>
+<hr>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Accolades/Student/faith%20chung%20xin%20hui.jpg">
+<img style="width:70%" height="auto" width="100%" src="/images/Accolades/Student/yap%20lin%20xuan.jpeg">
 </div>
-<p>______________________________________________</p>
 <h4>Yap Lin Xuan</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -102,27 +128,25 @@ variant: tiptap
 <p>E-Bridge Pre-School Prize</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Accolades/Student/yap%20lin%20xuan.jpeg">
-</div>
 <hr>
-<h4>Tan Xin Yi</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Yishun Alumni (2020)</p>
-</li>
-<li>
-<p>Outstanding Results at the 2022 GCE A-Level Examinations</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/Accolades/Student/tan%20xin%20yi_photo.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/tan%20xin%20yi%20.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yishun Alumni (2020)</p>
+</li>
+<li>
+<p>Outstanding Results at the 2022 GCE A-Level Examinations</p>
 <hr>
-<h4>Cedric Tay Shi Han and Tam Su Xin</h4>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/Congratulations%20on%20Outstanding%20A-Level%20Results.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yishun Alumni (2019)</p>
@@ -131,9 +155,7 @@ variant: tiptap
 <p>Outstanding Results at the 2021 GCE A-Level Examinations</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/Congratulations%20on%20Outstanding%20A-Level%20Results.png">
-</div>
+<p></p>
 <hr>
 <h4>Sally Gloria Manik</h4>
 <ul data-tight="true" class="tight">
@@ -186,7 +208,9 @@ variant: tiptap
 </li>
 </ul>
 <hr>
-<h4>Phyllis Oh Yu Hui</h4>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/PHYLLIS-OH-YU-HUI_1.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yishun Alumni (2015)</p>
@@ -198,10 +222,10 @@ variant: tiptap
 <p>Diploma with Merit (Diploma in Media Design) from Singapore Polytechnic</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/PHYLLIS-OH-YU-HUI_1.jpg">
-</div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/Huang%20Caihong.jpg">
+</div>
 <h4>Huang Caihong</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -211,10 +235,10 @@ variant: tiptap
 <p>Singapore Polytechnic (Recipient of Director’s Honour Roll)</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/Huang%20Caihong.jpg">
-</div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/Yeo%20Si%20Qi%20Levin.jpg">
+</div>
 <h4>Yeo Si Qi Levin</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -225,10 +249,10 @@ variant: tiptap
 and Award for Outstanding Project Work)</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/Yeo%20Si%20Qi%20Levin.jpg">
-</div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg">
+</div>
 <h4>Raiyan Mikael Suhairi</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -238,10 +262,10 @@ and Award for Outstanding Project Work)</p>
 <p>Singapore Polytechnic (Recipient of the SP Engineering Scholarship)</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Accolades/Student/Raiyan%20Mikael%20Suhairi.jpg">
-</div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/Denise%20Ong%20Li%20Jie.jpg">
+</div>
 <h4>Denise Ong Li Jie</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -253,10 +277,10 @@ and Award for Outstanding Project Work)</p>
 </ul>
 <p><em>“Gratitude. Resilience. Optimism. These are some of the virtues that YSS has taught me over the 4 years. My life back then was like that of a rollercoaster. But at the same time, my teachers were always there with me through it all, checking up on me and believing in me. I will always remember their care and concern. Thank you for providing me with a lot of opportunities to develop myself as a positive person! In addition, I am very thankful to have made some true friends.”</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Accolades/Student/Denise%20Ong%20Li%20Jie.jpg">
-</div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/Michel%20Sim.png">
+</div>
 <h4>Michel Sim</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -271,10 +295,10 @@ and Award for Outstanding Project Work)</p>
 </ul>
 <p><em>“I will forever be grateful beyond words for the many inspiring teachers and school mates that I have had the fortune of meeting in YSS. Those four years have instilled in me the values of discipline and diligence, and my teachers have shown me what a joy learning can be. I am thankful for the sense of self-belief that I have gained through the teachers and B.E. Project.”</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/Michel%20Sim.png">
-</div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/Raphael%20Khoo.png">
+</div>
 <h4>Raphael Khoo</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -289,10 +313,10 @@ and Award for Outstanding Project Work)</p>
 </ul>
 <p><em>“My life in YSS has been full of struggles, setback and failures; yet, they taught me the essential qualities of grit and determination. Through the Values-In-Action Programme and leadership appointments in National Cadet Corps and Prefectorial Board, I have learnt about the need to remember our roots and give back to society in whatever ways I can.”</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/Raphael%20Khoo.png">
-</div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/Accolades/Student/Yoh%20Kai%20Xiang.jpg">
+</div>
 <h4>Yoh Kai Xiang</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -321,10 +345,10 @@ and Award for Outstanding Project Work)</p>
 </p>
 <p><em>“The teachers in the school did not give up on me and often encourage me on. I used to fail a lot when I was in lower secondary, but teachers spurred me on. So I learnt to step up and slowly through their guidance and patience, they developed me to who I am today. I still keep contacts with many of the students and staff of Yishun Sec as I would always be grateful for what they have done for me.”</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Accolades/Student/Yoh%20Kai%20Xiang.jpg">
-</div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/Salmah%20Sng%20Mei%20Wen.jpg">
+</div>
 <h4>Salmah Sng Mei Wen</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -343,7 +367,3 @@ and Award for Outstanding Project Work)</p>
 </p>
 <p><em>“If you told the me back then how much I would gain in YSS in the four years , I only would have thought you were joking. Well, I’m not joking now when I say that YSS was one of the best decisions I’ve ever made. I’m so thankful to YSS and I wish everyone greater success!”</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Accolades/Student/Salmah%20Sng%20Mei%20Wen.jpg">
-</div>
-<p></p>

@@ -17,21 +17,6 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
-  - textcards:
-      title: School Operating Hours
-      id: textcards
-      cards:
-        - title: 05 Sep 2025 (Friday)
-          description: 8 am to 12 noon
-          linktext: ""
-          url: ""
-        - title: 08 Sep to 12 Sep 2025 (Mon to Fri)
-          description: 8 am to 5 pm
-          linktext: ""
-          url: ""
-      subtitle: Announcements
-      description: Due to Teachers' Day and school holidays, there will be changes to
-        school operating hours.
   - infobar:
       title: Caring Teacher Awards 2026
       subtitle: Announcements
@@ -42,7 +27,7 @@ sections:
       url: https://www.cta.nie.edu.sg
   - infopic:
       title: Letter to Parents
-      description: Parent Talk & Dialogue With Principal on 28 August
+      description: End of Term 3
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
