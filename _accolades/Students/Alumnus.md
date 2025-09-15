@@ -10,38 +10,56 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/Sempio_Alyssa_Marie_Sayo.jpg">
 </div>
 <p>Class : 5N1 (2021)</p>
-<p>Sempio Alyssa Marie was hardworking student and a member of Volleyball
-and had presented the school in North Division tournaments. Alyssa contributed
-actively as a member of the class committee, supporting her peers and playing
-a part in the school community.</p>
+<p>Alyssa was a hardworking and committed student who balanced her studies
+with an active co-curricular life. As a dedicated member of the Volleyball
+Team, she proudly represented the school in several tournaments. Alyssa
+also served as a member of the class committee, where she supported her
+peers and contributed meaningfully to the school community.</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/Ethan_Fong.jpg">
 </div>
 <p>Class: 4N3 (2020)</p>
-<p>Ethan Fong was a cheerful and well-behaved student. He was a member of
-the Football club and had represented the school at various tournaments.
-Ethan has also served actively in the class committee, playing a valuable
-role in supporting his peers and contributing to the school community.</p>
+<p>Ethan Fong was a cheerful and well-behaved student who contributed actively
+to school life. As a dedicated member of the Football Club, he proudly
+represented the school in various tournaments. Beyond the field, Ethan
+served in the class committee, playing a valuable role in supporting his
+peers and strengthening the class spirit. His positive attitude and commitment
+made him a well-respected member of the school community.</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/Putri_Salsabila_Bte_Mohamad_Azman.jpg">
 </div>
 <p>Class: 4E6 (2018)</p>
-<p>Putri Salsabila was an active contributor in the school. She was in the
-English Drama CCA and represented the school in the SYF competitions in
-2015 and 2017 where the team achieved a Certificate of Distinction in 2017.</p>
-<p>Putri also served as a Prefect and an EXCO member, making significant
-contributions to the planning and execution of school events.</p>
+<p>Putri Salsabila was an active and passionate contributor to school life.
+As a dedicated member of the English Drama CCA, she represented the school
+at the Singapore Youth Festival (SYF) in 2015 and 2017, where her team
+proudly achieved a Certificate of Distinction in 2017. Beyond the stage,
+Putri served as a Prefect and EXCO member, playing a key role in the planning
+and execution of major school events, leaving a lasting impact on the school
+community.</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Outsanding_Alumnus_Alena_and_Aaqil.png">
 </div>
-<p></p>
+<p>Alena was an active member of the Infocomm/Media Club and also served
+as a Prefect. She contributed meaningfully to the success of many school
+events through her dedication and teamwork. Alena exemplifies the Yishunite
+ideals, embodying the qualities of a thinker, innovator, and contributor.</p>
+<p>Aaqil demonstrated outstanding leadership and character during his time
+in school. He served as a Warrant Officer in NCDCC and was the Head Prefect
+in 2021/2022, leading his peers with dedication and integrity. Recognised
+for his exemplary conduct, Aaqil was awarded the Edusave Character Award.
+He also contributed actively to the success of many school events, leaving
+a lasting impact on the school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Achievement_in_National_Service.png">
 </div>
-<p></p>
+<p>A truly proud moment for YSS. Thejesvi’s remarkable achievements are a
+testament to his determination and discipline. During his time at YSS,
+he was an active member of the Football team, representing the school in
+the NSG, and also contributed significantly to his CCA, Badminton, demonstrating
+commitment and teamwork across multiple areas.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Yishun_Secondary_School_R_Divana_SB.jpg">
 </div>
