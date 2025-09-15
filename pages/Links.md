@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQdaUI35ybm2E5qBBW9xt5UaJvYVnPruYeL1g0Ap9DkuzggA/viewform" rel="noopener noreferrer nofollow" target="_blank">ICT Service Request Page</a>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQdaUI35ybm2E5qBBW9xt5UaJvYVnPruYeL1g0Ap9DkuzggA/viewform" rel="noopener noreferrer nofollow" target="_blank">ICT/AV Service Request Page</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetables/Teachers Timetable/Sem_2_Term_4_Teachers_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Teachers' Timetable 2025</a>
+<p><a href="/files/Timetables/Teachers Timetable/Sem_2_Term_4_Teachers_Timetable_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Teachers' Timetable 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetables/VenueTT/Sem_2_Term_4_Venue_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable by Venue 2025</a>
+<p><a href="/files/Timetables/VenueTT/Sem_2_Term_4_Classroom_Timetable_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable by Venue 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,7 +141,7 @@ variant: tiptap
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://pg.moe.edu.sg" rel="noopener nofollow" target="_blank">Parents Gateway</a>
+<p><a href="https://pg.moe.edu.sg" rel="noopener nofollow" target="_blank">Parents Gateway (PG)</a>
 </p>
 </td>
 </tr>
@@ -177,7 +177,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mindmeister.com/" rel="noopener noreferrer nofollow" target="_blank">Mindmeister</a>
+<p><a href="https://pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pair Chat (AI tool)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -187,7 +187,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pair Chat (AI tool)</a>
+<p><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">ChatGPT (AI tool)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,7 +197,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">ChatGPT (AI tool)</a>
+<p><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank">Microsoft Copilot (AI tool)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -207,7 +207,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank">Microsoft Copilot (AI tool)</a>
+<p><a href="https://notebooklm.google.com/" rel="noopener nofollow" target="_blank">Google NotebookLM (AI tool)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -217,7 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://notebooklm.google.com/" rel="noopener nofollow" target="_blank">Google NotebookLM (AI tool)</a>
+<p><a href="https://aibots.gov.sg/" rel="noopener nofollow" target="_blank">AI Bots (AI tool)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
