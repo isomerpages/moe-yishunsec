@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements for Students/Sec_2_G1_G2_G3_EOY_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 G1/G2/G3 EOY ExamTT</a>
+<p><a href="/files/Weighted Assessment/Sec_2_G1_G2_G3_EOY_Exam_Timetable_19Sep25.pdf" rel="noopener nofollow" target="_blank">Sec 2 G1/G2/G3 EOY ExamTT</a>
 </p>
 </li>
 <li>
