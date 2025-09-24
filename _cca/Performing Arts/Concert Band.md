@@ -19,6 +19,9 @@ variant: tiptap
 <li>
 <p>Ms Ng Puay Hoon</p>
 </li>
+<li>
+<p>Ms Rachel Ong</p>
+</li>
 </ul>
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
@@ -79,6 +82,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>3 IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Band-Major</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ennio Aqeil Bin Yusri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 ST</p>
 </td>
 </tr>
 <tr>
