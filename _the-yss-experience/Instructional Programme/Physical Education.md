@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Instructional Programme
 variant: tiptap
 ---
-<h3>Goal</h3>
+<h3>Goals</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Attain the skills and knowledge to be physically active</p>
