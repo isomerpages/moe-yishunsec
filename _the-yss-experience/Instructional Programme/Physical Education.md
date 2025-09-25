@@ -5,10 +5,19 @@ description: ""
 third_nav_title: Instructional Programme
 variant: tiptap
 ---
-<h3>Goal</h3>
-<p>Attain the skills and knowledge to be physically active Promote competence
-in movement to structure thinking, express feelings and enrich understanding
-Reinforce pro-social behavior through participation and performance</p>
+<h3>Goals</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Attain the skills and knowledge to be physically active</p>
+</li>
+<li>
+<p>Promote competence in movement to structure thinking, express feelings
+and enrich understanding</p>
+</li>
+<li>
+<p>Reinforce pro-social behavior through participation and performance</p>
+</li>
+</ul>
 <h3>Key Programmes</h3>
 <ul data-tight="true" class="tight">
 <li>
