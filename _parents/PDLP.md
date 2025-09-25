@@ -4,7 +4,7 @@ permalink: /parents/pdlp/
 description: ""
 variant: tiptap
 ---
-<h3>Announcements: </h3>
+<h3>Announcements:</h3>
 <p>DMA Uninstallation and De-enrolment for graduating classes will take place
 on following dates:</p>
 <ul data-tight="true" class="tight">
@@ -15,7 +15,7 @@ on following dates:</p>
 <p>24 Nov 2025 for 4E/4NA/5NA students</p>
 </li>
 </ul>
-<h4><strong><u>Important things to do: </u></strong></h4>
+<h4><strong><u>Important things to do:</u></strong></h4>
 <p><strong>Before MOE DMA Uninstallation Date:</strong>  <strong>Backup Data from your PLD</strong>
 </p>
 <p>Your iCON account will be disabled after <strong>31 December 2025</strong>.
@@ -27,8 +27,12 @@ how to do this from the <a href="https://vle.learning.moe.edu.sg/moe-library/mod
 <p>When backing up to <strong>cloud storage</strong>, you must <strong>sign in using your personal account</strong> rather
 than your student iCON account, MIMS ID. You can also back up data to personal
 external storage devices such as portable hard drives and thumb drives.</p>
-<p></p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="/files/Parents/PDLP/DUDRC2___For_Students__Instructions_for_DMA_Uninstallation__ChromeOS_.pdf" rel="noopener nofollow" target="_blank">DMA Uninstallation and De-enrolment Guide for Graduating Students</a></strong>
+</p>
+</li>
+</ul>
 <h3>Resources:</h3>
 <ul data-tight="true" class="tight">
 <li>
