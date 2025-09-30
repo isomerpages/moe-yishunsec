@@ -4,7 +4,7 @@ permalink: /accolades/school/
 description: ""
 variant: tiptap
 ---
-<h3>Secondary school students traded classrooms for a professional kitchen</h3>
+<h3>2025 North Zone Schools Junior Chef Culinary Competition Finals Zaobao Schools Article</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Sec_school_students_traded_classrooms_for_a_professional_kitchen_1.jpg">
 </div>
