@@ -17,6 +17,14 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
+  - infopic:
+      title: Letter to Parents
+      description: Post-exam Schedule and Heart & Soul 2025
+      button: Read more...
+      url: /parents/info-for-parents/letters/
+      alt: Letter to parents
+      subtitle: Announcements
+      image: /images/Announcements/Letter_to_Parents.png
   - infobar:
       title: Caring Teacher Awards 2026
       subtitle: Announcements
@@ -25,14 +33,6 @@ sections:
         care and compassion in their teaching.
       button: Nominate Now
       url: https://www.cta.nie.edu.sg
-  - infopic:
-      title: Letter to Parents
-      description: End of Term 3
-      button: Read more...
-      url: /parents/info-for-parents/letters/
-      alt: Letter to parents
-      subtitle: Announcements
-      image: /images/Announcements/Letter_to_Parents.png
   - infopic:
       title: DSA in YSS
       subtitle: Announcements
