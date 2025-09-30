@@ -27,7 +27,7 @@ sections:
       url: https://www.cta.nie.edu.sg
   - infopic:
       title: Letter to Parents
-      description: End of Term 3
+      description: Post-exam Schedule and Heart & Soul 2025
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
