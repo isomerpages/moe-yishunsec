@@ -4,6 +4,10 @@ permalink: /accolades/school/
 description: ""
 variant: tiptap
 ---
+<h3>Secondary school students traded classrooms for a professional kitchen</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Sec_school_students_traded_classrooms_for_a_professional_kitchen_1.jpg">
+</div>
 <h3>Our Girls Football team was featured in the Straits Times</h3>
 <ul data-tight="true" class="tight">
 <li>
