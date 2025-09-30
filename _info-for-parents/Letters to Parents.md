@@ -5,6 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>2025</strong></h2>
+<h3>Term 4</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Letter to Parents/PG_Letter_Post_exam_schedule_and_Heart_Soul_2025.pdf" rel="noopener nofollow" target="_blank">Post-exam Schedule and Heart &amp; Soul 2025 - 30 Sep 2025</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h3>Term 3</h3>
 <ul data-tight="true" class="tight">
 <li>
