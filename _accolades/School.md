@@ -4,6 +4,10 @@ permalink: /accolades/school/
 description: ""
 variant: tiptap
 ---
+<h3>2025 North Zone Schools Junior Chef Culinary Competition Finals Zaobao Schools Article</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Sec_school_students_traded_classrooms_for_a_professional_kitchen.jpg">
+</div>
 <h3>Our Girls Football team was featured in the Straits Times</h3>
 <ul data-tight="true" class="tight">
 <li>
