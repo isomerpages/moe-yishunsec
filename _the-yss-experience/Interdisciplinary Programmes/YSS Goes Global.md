@@ -40,19 +40,24 @@ hosting foreign friends in Singapore.</p>
 <h4>Overseas Trips:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jakarta - 3 Nov (Mon) to 7 Nov 2025 (Fri)</p>
+<p><a href="/jakarta-2025/" rel="noopener nofollow" target="_blank">Jakarta</a> -
+3 Nov (Mon) to 7 Nov 2025 (Fri)</p>
 </li>
 <li>
-<p>Bali - 9 Nov (Sun) to 14 Nov 2025 (Fri)</p>
+<p><a href="/bali-2025/" rel="noopener nofollow" target="_blank">Bali</a> -
+9 Nov (Sun) to 14 Nov 2025 (Fri)</p>
 </li>
 <li>
-<p>Hong Kong/ Shenzhen - 10 Nov (Mon) to 15 Nov 2025 (Sat)</p>
+<p><a href="/hong-kong-2025/" rel="noopener nofollow" target="_blank">Hong Kong/ Shenzhen</a> -
+10 Nov (Mon) to 15 Nov 2025 (Sat)</p>
 </li>
 <li>
-<p>Taiwan - 9 Nov (Sun) to 14 Nov 2025 (Fri)</p>
+<p><a href="/taiwan-2025/" rel="noopener nofollow" target="_blank">Taiwan</a> -
+9 Nov (Sun) to 14 Nov 2025 (Fri)</p>
 </li>
 <li>
-<p>Hangzhou/Shanghai - 6 Nov (Thu) to 12 Nov 2025 (Wed)</p>
+<p><a href="/china-2025/" rel="noopener nofollow" target="_blank">Hangzhou/Shanghai</a> -
+6 Nov (Thu) to 12 Nov 2025 (Wed)</p>
 <p></p>
 </li>
 </ul>
