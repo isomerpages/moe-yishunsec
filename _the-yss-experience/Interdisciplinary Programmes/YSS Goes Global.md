@@ -35,6 +35,27 @@ opportunity to make international friends and expose them to different
 cultures and lifestyles.</p>
 <p>Besides travelling abroad, Yishun Secondary School also look forward to
 hosting foreign friends in Singapore.</p>
+<h2>2025</h2>
+<h3>YSS Goes Global Programme</h3>
+<h4>Overseas Trips:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jakarta - 3 Nov (Mon) to 7 Nov 2025 (Fri)</p>
+</li>
+<li>
+<p>Bali - 9 Nov (Sun) to 14 Nov 2025 (Fri)</p>
+</li>
+<li>
+<p>Hong Kong/ Shenzhen - 10 Nov (Mon) to 15 Nov 2025 (Sat)</p>
+</li>
+<li>
+<p>Taiwan - 9 Nov (Sun) to 14 Nov 2025 (Fri)</p>
+</li>
+<li>
+<p>Hangzhou/Shanghai - 6 Nov (Thu) to 12 Nov 2025 (Wed)</p>
+<p></p>
+</li>
+</ul>
 <h3>Hosting visiting Mathematics and Science teachers from Kazakhstan</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Hosting_visiting_Mathematics_and_Science_teachers_from_Kazakhstan.jpg">
