@@ -56,7 +56,7 @@ hosting foreign friends in Singapore.</p>
 9 Nov (Sun) to 14 Nov 2025 (Fri)</p>
 </li>
 <li>
-<p><a href="/china-2025/" rel="noopener nofollow" target="_blank">Hangzhou/Shanghai</a> -
+<p><a href="/china-2025/" rel="noopener nofollow" target="_blank">China</a> -
 6 Nov (Thu) to 12 Nov 2025 (Wed)</p>
 <p></p>
 </li>
