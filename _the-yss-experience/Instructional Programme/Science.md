@@ -698,6 +698,7 @@ the growth rate of plants using handmade versus chemical fertilisers. Their
 efforts shone through, with the Secondary Two team clinching the Accomplished
 Award at SYSF and a Bronze Award at Elementz, while the Secondary One team
 achieved commendation awards in both competitions.</p>
+<h3>Photos</h3>
 <p></p>
 <p></p>
 <p></p>
