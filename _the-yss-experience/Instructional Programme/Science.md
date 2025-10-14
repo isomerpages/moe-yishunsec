@@ -25,6 +25,9 @@ them to innovate and contribute to a technologically-driven society.</p>
 <h3>Key Programmes</h3>
 <p>Beyond Classroom Experience: A variety of science-based activities that
 expose students to science beyond the textbook in different environments.</p>
+<h3>Awards/Achievements</h3>
+<p></p>
+<p></p>
 <h3>Science Department Teachers</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/SCI_2025.jpg">
@@ -48,7 +51,7 @@ presentation ceremony celebrating the winners of the "Power of the Tiny"
 Photography Competition and the Science Week Quiz.</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Interdisciplinary and Inquiry-based Learning at Rifle Range Nature Park during Student Learning Fest (SLF) </strong>
+<p><strong>Interdisciplinary and Inquiry-based Learning at Rifle Range Nature Park during Student Learning Fest (SLF)</strong>
 </p>
 </li>
 </ol>
@@ -65,7 +68,7 @@ beyond the on-site experience.</p>
 <h3>Achievements</h3>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>STEM challenge #1 </strong>
+<p><strong>STEM challenge #1</strong>
 </p>
 </li>
 </ol>
@@ -81,7 +84,7 @@ This remarkable achievement reflects their innovative spirit and passion
 for applying science beyond the classroom.</p>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p><strong>Jiemin Primary School Science Outreach </strong>
+<p><strong>Jiemin Primary School Science Outreach</strong>
 </p>
 </li>
 </ol>
@@ -97,7 +100,7 @@ their scientific knowledge and hone their communication skills in making
 science fun.</p>
 <ol start="5" data-tight="true" class="tight">
 <li>
-<p><strong>Singapore Youth STEM Fair (SYSF) and 23rd Elementz Science Project Competition </strong>
+<p><strong>Singapore Youth STEM Fair (SYSF) and 23rd Elementz Science Project Competition</strong>
 </p>
 </li>
 </ol>
