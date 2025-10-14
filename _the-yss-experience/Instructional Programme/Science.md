@@ -25,7 +25,7 @@ them to innovate and contribute to a technologically-driven society.</p>
 <h3>Key Programmes</h3>
 <p>Beyond Classroom Experience: A variety of science-based activities that
 expose students to science beyond the textbook in different environments.</p>
-<h3>Awards/Achievements</h3>
+<h3>Competitions/Awards</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -36,15 +36,16 @@ expose students to science beyond the textbook in different environments.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Name of competition &amp;</strong>
-</p>
-<p><strong>Name of teachers-in-charge</strong>
+<br><strong>Name of teachers-in-charge</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Award obtained</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Students who participated</strong>
 </p>
 </td>
@@ -54,11 +55,12 @@ expose students to science beyond the textbook in different environments.</p>
 <p><strong>Singapore Youth STEM Fair</strong>
 </p>
 <p></p>
-<p>Teachers-in-charge:</p>
-<p>Ms Madeline Wong, Mr Mohd Rizal</p>
+<p><u>Teachers-in-charge:</u>
+<br>Ms Madeline Wong,
+<br>Mr Mohd Rizal</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Commendation award</p>
+<p>Commendation Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Judah Immanuel Chellapandian, 1 CA</p>
@@ -90,8 +92,9 @@ expose students to science beyond the textbook in different environments.</p>
 <p><strong>Singapore Youth STEM Fair</strong>
 </p>
 <p></p>
-<p>Teachers-in-charge:</p>
-<p>Ms Madeline Wong, Mr Mohd Rizal</p>
+<p><u>Teachers-in-charge:</u>
+<br>Ms Madeline Wong,
+<br>Mr Mohd Rizal</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>Accomplished Award</p>
@@ -132,12 +135,13 @@ expose students to science beyond the textbook in different environments.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="8" colspan="1">
 <p><strong>23rd Elementz Science Project Competition</strong>
 </p>
 <p></p>
-<p>Teachers-in-charge:</p>
-<p>Ms Madeline Wong, Mr Mohd Rizal</p>
+<p><u>Teachers-in-charge:</u>
+<br>Ms Madeline Wong,
+<br>Mr Mohd Rizal</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>Bronze award</p>
@@ -167,25 +171,6 @@ expose students to science beyond the textbook in different environments.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p></p>
-<p><strong>23rd Elementz Science Project Competition</strong>
-</p>
-<p></p>
-<p>Teachers-in-charge:</p>
-<p>Ms Madeline Wong, Mr Mohd Rizal</p>
-</td>
 <td rowspan="3" colspan="1">
 <p>Certificate of Commendation</p>
 </td>
@@ -209,10 +194,9 @@ expose students to science beyond the textbook in different environments.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -220,7 +204,8 @@ expose students to science beyond the textbook in different environments.</p>
 <p><strong>NUS Illustratum</strong>
 </p>
 <p></p>
-<p>Teacher-in-charge: Mr Gary Sim</p>
+<p><u>Teacher-in-charge: </u>
+<br>Mr Gary Sim</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>One Merit Award</p>
@@ -280,7 +265,7 @@ expose students to science beyond the textbook in different environments.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -288,7 +273,8 @@ expose students to science beyond the textbook in different environments.</p>
 <p><strong>Science Week Quiz</strong>
 </p>
 <p></p>
-<p>Teacher-in-charge: Ms Gaya A.Kumar</p>
+<p><u>Teacher-in-charge: </u>
+<br>Ms Gaya A.Kumar</p>
 </td>
 <td rowspan="9" colspan="1">
 <p>Certificate of Merit</p>
@@ -345,7 +331,7 @@ expose students to science beyond the textbook in different environments.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -353,8 +339,8 @@ expose students to science beyond the textbook in different environments.</p>
 <p><strong>YSS Science Week Photography Challenge</strong>
 </p>
 <p></p>
-<p>Teacher-in-charge:</p>
-<p>Ms Ummu Sumaiyah Binte Eliase</p>
+<p><u>Teacher-in-charge:</u>
+<br>Ms Ummu Sumaiyah Binte Eliase</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st place</p>
@@ -440,18 +426,19 @@ expose students to science beyond the textbook in different environments.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="8" colspan="1">
 <p><strong>Genetic Modification Advisory Committee (GMAC) Students Challenge 2025<br><br></strong>
 </p>
-<p>Teachers-in-charge:</p>
-<p>Ms Klaudia Ng, Mr Ang Swee Siang</p>
+<p><u>Teachers-in-charge:</u>
+<br>Ms Klaudia Ng,
+<br>Mr Ang Swee Siang</p>
 </td>
 <td rowspan="8" colspan="1">
-<p>Certificate of participation</p>
+<p>Certificate of Participation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lim Min En, 4 SE</p>
@@ -500,7 +487,7 @@ expose students to science beyond the textbook in different environments.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -508,11 +495,12 @@ expose students to science beyond the textbook in different environments.</p>
 <p><strong>10th Singapore Junior Biology Olympiad</strong>
 </p>
 <p></p>
-<p>Teachers-in-charge:</p>
-<p>Mr Ang Swee Siang and Mrs Leong Sin Yee</p>
+<p><u>Teachers-in-charge:</u>
+<br>Mr Ang Swee Siang
+<br>Mrs Leong Sin Yee</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>Certificate of participation</p>
+<p>Certificate of Participation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Khoo Ke Han (Qiu Kehan), 4 IN</p>
@@ -540,7 +528,7 @@ expose students to science beyond the textbook in different environments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Honourable mention</p>
+<p>Honourable Mention</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Lay Kun Jolin, 4 SE</p>
@@ -548,7 +536,7 @@ expose students to science beyond the textbook in different environments.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Certificate of participation</p>
+<p>Certificate of Participation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chong Jie Ming Aaron, 4 SE</p>
@@ -569,7 +557,7 @@ expose students to science beyond the textbook in different environments.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Certificate of participation</p>
+<p>Certificate of Participation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mohamed Habubakkar Sarah Fathima, 4 ST</p>
@@ -590,7 +578,7 @@ expose students to science beyond the textbook in different environments.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Certificate of participation</p>
+<p>Certificate of Participation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Goh Kan Rui, 3 ST</p>
@@ -603,7 +591,7 @@ expose students to science beyond the textbook in different environments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Honourable mention</p>
+<p>Honourable Mention</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ye Peiwen, 3 ST</p>
@@ -611,7 +599,7 @@ expose students to science beyond the textbook in different environments.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Certificate of participation</p>
+<p>Certificate of Participation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Goh Yan Ni Chloe, 3 SE</p>
