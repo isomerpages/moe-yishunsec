@@ -26,7 +26,604 @@ them to innovate and contribute to a technologically-driven society.</p>
 <p>Beyond Classroom Experience: A variety of science-based activities that
 expose students to science beyond the textbook in different environments.</p>
 <h3>Awards/Achievements</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of competition &amp;</strong>
+</p>
+<p><strong>Name of teachers-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award obtained</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students who participated</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>Singapore Youth STEM Fair</strong>
+</p>
 <p></p>
+<p>Teachers-in-charge:</p>
+<p>Ms Madeline Wong, Mr Mohd Rizal</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Commendation award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Judah Immanuel Chellapandian, 1 CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sureshkumar Akhileshpriyan, 1 RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gunalan Akhilesh, 1 RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>Singapore Youth STEM Fair</strong>
+</p>
+<p></p>
+<p>Teachers-in-charge:</p>
+<p>Ms Madeline Wong, Mr Mohd Rizal</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>Accomplished Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cho Ze, 2 RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fong Sze Yang, 2 RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yap Yihong, 2 CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ryan Phonne Pyae Maung, 2 CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teo Zhi Xun, 2 CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>23rd Elementz Science Project Competition</strong>
+</p>
+<p></p>
+<p>Teachers-in-charge:</p>
+<p>Ms Madeline Wong, Mr Mohd Rizal</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>Bronze award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cho Ze, 2 RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fong Sze Yang, 2 RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yap Yihong, 2 CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ryan Phonne Pyae Maung, 2 CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teo Zhi Xun, 2 CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p></p>
+<p><strong>23rd Elementz Science Project Competition</strong>
+</p>
+<p></p>
+<p>Teachers-in-charge:</p>
+<p>Ms Madeline Wong, Mr Mohd Rizal</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Certificate of Commendation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Judah Immanuel Chellapandian, 1 CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sureshkumar Akhileshpriyan, 1 RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gunalan Akhilesh, 1 RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9" colspan="1">
+<p><strong>NUS Illustratum</strong>
+</p>
+<p></p>
+<p>Teacher-in-charge: Mr Gary Sim</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>One Merit Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Sarah 'Atikah Binte Jepri (Merit), 3 IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Jia Xuan (Merit), 3 SO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tang Pei Tyi Helene (Merit), 3 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>Two Distinction Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nadyah Binte Mohamad Zulkharnain (Distinction), 3 IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Regan Ong Yi Zhang (Distinction), 3 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Looi Yu Hao Nicas (Distinction), 3 IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Veion Tan Qi Yuan (Distinction), 3 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hipona Keziah Cody Daddy (Distinction), 3 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lvonne Lim Yu Xin (Distinction), 3 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9" colspan="1">
+<p><strong>Science Week Quiz</strong>
+</p>
+<p></p>
+<p>Teacher-in-charge: Ms Gaya A.Kumar</p>
+</td>
+<td rowspan="9" colspan="1">
+<p>Certificate of Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Lexin, Ashlyn, 1 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shirley Tong Chi Yi,&nbsp; 2 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Elangovan Sivamathi, 3 IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kaliaperumal Nandika, 3 RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dyan Nabilah Binte Abdullah, 4 RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shruthi Suresh, 4 RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheo Le Yao, 4 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chong Xiu Qi, 4 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Lay Kun Jolin, 4 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="13" colspan="1">
+<p><strong>YSS Science Week Photography Challenge</strong>
+</p>
+<p></p>
+<p>Teacher-in-charge:</p>
+<p>Ms Ummu Sumaiyah Binte Eliase</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ahmad Tirmidzi Bin Ahmad Zaidi, 4 IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yik Angie, 3 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elangovan Sivamathi, 3 IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" colspan="1">
+<p>Certificate of Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Laverne Lau Le Wen, 1 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jaren Ong Yan Jun, 4 RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Akif Bin Mohd Razim, 1 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hoon En Hui Jessic,a 1 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shereez Tan Si Tong, 1 IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shakirah Melati Binte Mohamed Subir, 3 IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Hong En, 1 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Then Zhi Qi, Genie, 1 IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lerissa Liew, 1 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Andrea Tay Xu Hui, 1 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8" colspan="1">
+<p><strong>Genetic Modification Advisory Committee (GMAC) Students Challenge 2025<br><br></strong>
+</p>
+<p>Teachers-in-charge:</p>
+<p>Ms Klaudia Ng, Mr Ang Swee Siang</p>
+</td>
+<td rowspan="8" colspan="1">
+<p>Certificate of participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Min En, 4 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Lay Kun Jolin, 4 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yong Lok Sam, 4 SO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chong Xiu Qi, 4 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tristen Chan Joon Chong, 3 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Hong Jun Ryan, 3 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miao Junheng, 3 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jian Yuyang, 3 SO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="17" colspan="1">
+<p><strong>10th Singapore Junior Biology Olympiad</strong>
+</p>
+<p></p>
+<p>Teachers-in-charge:</p>
+<p>Mr Ang Swee Siang and Mrs Leong Sin Yee</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>Certificate of participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Khoo Ke Han (Qiu Kehan), 4 IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lucas Ang Tuan Keat (Hong Tuanji), 4 IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Chin Hao, 4 IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chong Xiu Qi, 4 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Min En, 4 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honourable mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Lay Kun Jolin, 4 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Certificate of participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Jie Ming Aaron, 4 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yong Lok Sam, 4 SO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Jia Ning Nicole, 4 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Certificate of participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamed Habubakkar Sarah Fathima, 4 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Yan Ting, Clarissa, 4 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Lei Yuan Avel (Chen Leiyuan), 4 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Certificate of participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Kan Rui, 3 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Jia Xuan, 3 SO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honourable mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ye Peiwen, 3 ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Certificate of participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Yan Ni Chloe, 3 SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lvonne Lim Yu Xin, 3 SE</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h3>Science Department Teachers</h3>
 <div class="isomer-image-wrapper">
