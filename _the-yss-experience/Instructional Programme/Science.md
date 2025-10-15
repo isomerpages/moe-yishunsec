@@ -633,6 +633,16 @@ from A*star, a livestream with OceanX scientists, and a recess engagement
 by the National Kidney Foundation (NKF). The week concluded with a prize
 presentation ceremony celebrating the winners of the "Power of the Tiny"
 Photography Competition and the Science Week Quiz.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo1_Oct2025.jpg">
+</div>
+<p>Lights, cameras, action! Students and teacher ready to perform their skit
+to publicise the Science Week activities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo2_Oct2025.jpg">
+</div>
+<p>Winners for the Science Week Photography competition and Science Quiz</p>
+<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>Interdisciplinary and Inquiry-based Learning at Rifle Range Nature Park during Student Learning Fest (SLF)</strong>
@@ -649,6 +659,17 @@ was enriched with a new SLS wet-weather package featuring curated videos
 by our Science teachers and NParks. While not activated this year, the
 videos provided additional resources for students to deepen their understanding
 beyond the on-site experience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo3_Oct2025.jpg">
+</div>
+<p>Our students learning about Singapore’s rich biodiversity during their
+inquiry-based exploration at Rifle Range Nature Park.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo4_Oct2025.jpg">
+</div>
+<p>No rain could dampen the spirit of discovery as our teachers and students
+explored Rifle Range Nature Park.</p>
+<p></p>
 <h3>Achievements</h3>
 <ol start="3" data-tight="true" class="tight">
 <li>
@@ -666,6 +687,17 @@ students demonstrated resilience and teamwork. Their hard work paid off
 as they proudly achieved 3rd placing in the secondary school category.
 This remarkable achievement reflects their innovative spirit and passion
 for applying science beyond the classroom.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo5_Oct2025.jpg">
+</div>
+<p>Students collaborating to engineer a boat powered by chemistry, showcasing
+STEM at its best.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo6_Oct2025.jpg">
+</div>
+<p>Designing, testing, and refining prototypes to bring their chemical reaction
+boat to life!</p>
+<p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong>Jiemin Primary School Science Outreach</strong>
@@ -682,6 +714,17 @@ This interactive session not only sparked curiosity and joy among the primary
 students but also provided our secondary students with the chance to share
 their scientific knowledge and hone their communication skills in making
 science fun.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo7_Oct2025.jpg">
+</div>
+<p>Sec 2 Science Talent students demonstrating the popsicle stick catapult
+to excited Pri 5 participants.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo8_Oct2025.jpg">
+</div>
+<p>Sec 2 Science Talent students introducing Pri 5s to chromatography flowers
+and the science of separating colours.</p>
+<p></p>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p><strong>Singapore Youth STEM Fair (SYSF) and 23rd Elementz Science Project Competition</strong>
@@ -697,46 +740,6 @@ the growth rate of plants using handmade versus chemical fertilisers. Their
 efforts shone through, with the Secondary Two team clinching the Accomplished
 Award at SYSF and a Bronze Award at Elementz, while the Secondary One team
 achieved commendation awards in both competitions.</p>
-<h3>Photos</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo1_Oct2025.jpg">
-</div>
-<p>Lights, cameras, action! Students and teacher ready to perform their skit
-to publicise the Science Week activities.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo2_Oct2025.jpg">
-</div>
-<p>Winners for the Science Week Photography competition and Science Quiz</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo3_Oct2025.jpg">
-</div>
-<p>Our students learning about Singapore’s rich biodiversity during their
-inquiry-based exploration at Rifle Range Nature Park.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo4_Oct2025.jpg">
-</div>
-<p>No rain could dampen the spirit of discovery as our teachers and students
-explored Rifle Range Nature Park.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo5_Oct2025.jpg">
-</div>
-<p>Students collaborating to engineer a boat powered by chemistry, showcasing
-STEM at its best.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo6_Oct2025.jpg">
-</div>
-<p>Designing, testing, and refining prototypes to bring their chemical reaction
-boat to life!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo7_Oct2025.jpg">
-</div>
-<p>Sec 2 Science Talent students demonstrating the popsicle stick catapult
-to excited Pri 5 participants.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo8_Oct2025.jpg">
-</div>
-<p>Sec 2 Science Talent students introducing Pri 5s to chromatography flowers
-and the science of separating colours.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo9_Oct2025.jpg">
 </div>
@@ -745,4 +748,5 @@ and the science of separating colours.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Science/Photo10_Oct2025.jpg">
 </div>
 <p>The student team at Singapore Youth STEM Fair.</p>
+<p></p>
 <p></p>
