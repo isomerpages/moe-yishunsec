@@ -157,7 +157,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://yss.padlet.org/" rel="noopener noreferrer nofollow" target="_blank">Padlet</a>
+<p><a href="https://padlet.com/auth/login?school_library_id=350788" rel="noopener noreferrer nofollow" target="_blank">Padlet</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
