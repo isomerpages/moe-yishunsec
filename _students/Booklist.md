@@ -16,7 +16,7 @@ variant: tiptap
 <h4>Sec 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/Booklist/BOOKLIST_S3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">YSS-S3 FSBB G1/G2/G3</a>
+<p><a href="/files/Students/Booklist/Sec_3_Booklist_22Oct2025.pdf" rel="noopener noreferrer nofollow" target="_blank">YSS-S3 FSBB G1/G2/G3</a>
 </p>
 </li>
 </ul>
