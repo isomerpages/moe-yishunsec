@@ -190,11 +190,9 @@ collective for a bigger goal.</p>
 </div>
 <h3>Student’s Quotes</h3>
 <p><em>"Modern Dance has been the most memorable highlight of my secondary school experience. This CCA has helped me to step out of my comfort zone and taught me ways to express my emotions through dance. I am very grateful for my teachers and teammates who have been with me throughout this journey. I have learnt a lot from the CCA. "</em>
-</p>
-<p>~ Poon Yu Yi</p>
+<br>~ Poon Yu Yi</p>
 <p><em>"Modern dance has taught me many values such as perseverance and teamwork. I have learnt that I should always aim to do my best during training and performances. Events such as Super 24 gave me the exposure to perform on a public stage which allows me to grow as a dancer. My coach, teachers-in-charge, and friends are always there to encourage me and push me beyond my limits. Overall, I enjoy my time in the modern dance club. "</em>
-</p>
-<p>~ Poh Shae Qi, Phoebe</p>
+<br>~ Poh Shae Qi, Phoebe</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/Modern_Dance_1.jpg">
