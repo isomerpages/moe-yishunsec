@@ -15,15 +15,15 @@ variant: tiptap
 </div>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Students/YSS_S3_Subject_Combination__slides_for_Parents_23Oct2025.pdf" rel="noopener nofollow" target="_blank">YSS S3 Subject Combination Slides for Parents - 23 Oct 2025</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Sec 3 Subject Combinations/Sec_3_subject_combination_Breakout_Session_G2_and_G1_group_for_students.pdf" rel="noopener nofollow" target="_blank">Breakout Session G1 and G2 Group</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec 3 Subject Combinations/Sec_3_subject_combination_Breakout_Session_G3_group_for_students.pdf" rel="noopener nofollow" target="_blank">Breakout Session G3 Group</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Students/YSS_S3_Subject_Combination__slides_for_Parents_23Oct2025.pdf" rel="noopener nofollow" target="_blank">YSS S3 Subject Combination Slides for Parents - 23 Oct 2025</a>
+<p><a href="/files/Sec 3 Subject Combinations/Sec_3_subject_combination_Breakout_Session_G3_group_for_students_updated.pdf" rel="noopener nofollow" target="_blank">Breakout Session G3 Group</a>
 </p>
 </li>
 </ul>
@@ -38,7 +38,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Sec 3 Subject Combinations/2025_Subject_Booklet_G3.pdf" rel="noopener nofollow" target="_blank">2025 Subject Booklet G3</a>
+<p><a href="/files/Sec 3 Subject Combinations/2025_Subject_Booklet_G3_v2.pdf" rel="noopener nofollow" target="_blank">2025 Subject Booklet G3</a>
 </p>
 </li>
 </ul>
