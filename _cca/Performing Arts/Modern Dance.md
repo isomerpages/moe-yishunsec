@@ -181,7 +181,8 @@ collective for a bigger goal.</p>
 <h3>Performances Video</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF Performance 2025</p>
+<p><a href="https://youtu.be/SoH9JmMTZjU" rel="noopener nofollow" target="_blank">SYF Performance 2025</a>
+</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
