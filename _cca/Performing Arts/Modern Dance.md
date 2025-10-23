@@ -199,7 +199,7 @@ collective for a bigger goal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/Modern_Dance_1.jpg">
 </div>
-<p></p>
+<p>SYF Performance 2025</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/Modern_Dance_2.jpg">
 </div>
@@ -208,10 +208,6 @@ collective for a bigger goal.</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/super%2024%20finals%20at%20indoor%20stadium.jpg">
 </div>
 <p>Super 24 Finals at Indoor Stadium</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/singapore%20youth%20festival%202023%20at%20university%20cultural%20centre,%20nus.jpg">
-</div>
-<p>Singapore Youth Festival 2023 at University Cultural Centre, NUS</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/internal%20dance%20competition.jpg">
 </div>
