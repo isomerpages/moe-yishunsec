@@ -19,7 +19,7 @@ sections:
           url: /yss/links/
   - infopic:
       title: Letter to Parents
-      description: Post-exam Schedule and Heart & Soul 2025
+      description: End of Term 4 - 2025
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
