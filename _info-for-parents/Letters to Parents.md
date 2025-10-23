@@ -8,11 +8,13 @@ variant: tiptap
 <h3>Term 4</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p>End of Term 4 - 23 Oct 2025</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/PG_Letter_Post_exam_schedule_and_Heart_Soul_2025.pdf" rel="noopener nofollow" target="_blank">Post-exam Schedule and Heart &amp; Soul 2025 - 30 Sep 2025</a>
 </p>
 </li>
 </ul>
-<p></p>
 <h3>Term 3</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -28,8 +30,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
-<h4>Term 2</h4>
+<h3>Term 2</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Letter to Parents/End_of_Term_2___28_May_2025_v2.pdf" rel="noopener nofollow" target="_blank">End of Term 2 - 28 May 2025</a>
@@ -52,8 +53,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
-<h4>Term 1</h4>
+<h3>Term 1</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Letter to Parents/End_of_Term_1_13Mar2025.pdf" rel="noopener nofollow" target="_blank">End of Term 1 - 13 Mar 2025</a>
@@ -95,7 +95,7 @@ variant: tiptap
 </li>
 </ul>
 <h2><strong>2024</strong></h2>
-<h5>Term 4</h5>
+<h3>Term 4</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Letter to Parents/End_of_Term_4_2024_v2.pdf" rel="noopener nofollow" target="_blank">End of Term 4 - 24 Oct 2024</a>
@@ -106,8 +106,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
-<h5>Term 3</h5>
+<h3>Term 3</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Letter to Parents/2024/Letter_to_Parents_Term_4___27_Aug_2024.pdf" rel="noopener nofollow" target="_blank">Term 4 - 27 Aug 2024</a>
@@ -142,8 +141,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
-<h5>Term 2</h5>
+<h3>Term 2</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Letter to Parents/2024/Smart_Buddy_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Smart Buddy Programme - 10 Jun 2024</a>
@@ -158,8 +156,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
-<h5>Term 1</h5>
+<h3>Term 1</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Letter to Parents/2024/2024_End_of_Term_1___7_Mar_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Term 1 2024 - 7 Mar 2024</a>
@@ -204,7 +201,7 @@ variant: tiptap
 </ul>
 <hr>
 <h2><strong>2023</strong></h2>
-<h5>Term 4</h5>
+<h3>Term 4</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Letter%20to%20Parents/Release_of_the_2023_GCE_N__Level_Examination_Results___13_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Release of GCE N - Level Examination Results - 13 Dec 2023.pdf</a>
@@ -223,7 +220,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h5>Term 3</h5>
+<h3>Term 3</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Letter%20to%20Parents/term4-28_aug_2023_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents - Term 4 - 25 Aug 2023</a>
@@ -242,7 +239,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h5>Term 2</h5>
+<h3>Term 2</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Letter%20to%20Parents/end_of_term_2_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Term 2 2023 - 24 May 2023</a>
@@ -273,7 +270,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h5>Term 1</h5>
+<h3>Term 1</h3>
 <ul>
 <li>
 <p><a href="/files/Parents/Letter%20to%20Parents/End%20of%20Term%201%202023%20-%208%20Mar%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Term 1 2023 - 8 Mar 2023</a>
@@ -311,7 +308,7 @@ variant: tiptap
 </li>
 </ul>
 <h2><strong>2022</strong></h2>
-<h5>Term 4</h5>
+<h3>Term 4</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Parents/Letter%20to%20Parents/2022/Realease%20of%20NA%20%20NT%20Level%20Exam%20Results_13Dec2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Realease of NA &amp; NT Level Exam Results - 13 Dec 2022</a>
@@ -330,7 +327,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h5>Term 3</h5>
+<h3>Term 3</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Parents/Letter%20to%20Parents/2022/End%20of%20Term%203.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Term 3 - 29 Aug 2022</a>
@@ -357,7 +354,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h5>Term 2</h5>
+<h3>Term 2</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Parents/Letter%20to%20Parents/2022/Letter%20to%20Parents_End%20of%20term%202%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents End of term 2 - 27 May 2022</a>
@@ -376,7 +373,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h5>Term 1</h5>
+<h3>Term 1</h3>
 <ul>
 <li>
 <p><a href="/files/Parents/Letter%20to%20Parents/2022/36th%20Annual%20Speech%20%20Prize%20Giving%20Day%20-%2023%20Feb%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">36th Annual Speech Prize Giving Day - 23 Feb 2022</a>
