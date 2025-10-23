@@ -7,9 +7,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 3 Subject Combinations/2026SubCombiSlide1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 3 Subject Combinations/2026SubCombiSlide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 3 Subject Combinations/2026_Sub_Requirements_2_Page_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 3 Subject Combinations/2026_Sub_Requirements_2_Page_5.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -21,7 +23,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Sec 3 Subject Combinations/YSS_S3_Subject_Combination__slides_for_Parents_11Jul2025.pdf" rel="noopener nofollow" target="_blank">YSS S3 Subject Combination Slides for Parents - 11 Jul 2025</a>
+<p><a href="/files/Students/YSS_S3_Subject_Combination__slides_for_Parents_23Oct2025.pdf" rel="noopener nofollow" target="_blank">YSS S3 Subject Combination Slides for Parents - 23 Oct 2025</a>
 </p>
 </li>
 </ul>
