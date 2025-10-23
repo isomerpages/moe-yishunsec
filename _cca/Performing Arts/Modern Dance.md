@@ -181,18 +181,12 @@ collective for a bigger goal.</p>
 <h3>Performances Video</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://youtu.be/yWrNfyERd6s" rel="noopener noreferrer nofollow" target="_blank">SYF Performance 2023</a>
-</p>
-</li>
-<li>
-<p><a href="https://youtu.be/kimEIwDD2Iw" rel="noopener noreferrer nofollow" target="_blank">Super 24</a>
-</p>
-</li>
-<li>
-<p><a href="https://youtu.be/F8NTEbUV2K4" rel="noopener noreferrer nofollow" target="_blank">Arts Extravaganza Concert 2022</a>
-</p>
+<p>SYF Performance 2025</p>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SoH9JmMTZjU?si=SJD-HZi3XTMCzLsR"></iframe>
+</div>
 <h3>Student’s Quotes</h3>
 <p><em>"Modern Dance has been the most memorable highlight of my secondary school experience. This CCA has helped me to step out of my comfort zone and taught me ways to express my emotions through dance. I am very grateful for my teachers and teammates who have been with me throughout this journey. I have learnt a lot from the CCA. "</em>
 </p>
