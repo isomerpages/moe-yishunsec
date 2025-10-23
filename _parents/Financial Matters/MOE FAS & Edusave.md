@@ -22,7 +22,7 @@ and others)</p>
 </li>
 </ol>
 <p></p>
-<p>Click below for soft copy of MOE -FAS Application (Singpass required):
+<p>Click the link below for softcopy of MOE -FAS Application (Singpass required):
 <br><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">MOE eFAS [GGAS]</a>
 </p>
 <hr>
