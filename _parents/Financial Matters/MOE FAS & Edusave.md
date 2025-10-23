@@ -23,7 +23,7 @@ and others)</p>
 </ol>
 <p></p>
 <p>Click below for soft copy of MOE -FAS Application (Singpass required):
-<br><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">MOE eFAS[GGAS]</a>
+<br><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">MOE eFAS [GGAS]</a>
 </p>
 <hr>
 <h4>ENHANCED EDUSAVE AND MOE FINANCIAL ASSISTANCE SCHEMES AND REVISED MISCELLANEOUS FEES STRUCTURE FROM 2024</h4>
