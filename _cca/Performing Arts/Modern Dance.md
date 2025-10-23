@@ -181,30 +181,23 @@ collective for a bigger goal.</p>
 <h3>Performances Video</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://youtu.be/yWrNfyERd6s" rel="noopener noreferrer nofollow" target="_blank">SYF Performance 2023</a>
-</p>
-</li>
-<li>
-<p><a href="https://youtu.be/kimEIwDD2Iw" rel="noopener noreferrer nofollow" target="_blank">Super 24</a>
-</p>
-</li>
-<li>
-<p><a href="https://youtu.be/F8NTEbUV2K4" rel="noopener noreferrer nofollow" target="_blank">Arts Extravaganza Concert 2022</a>
+<p><a href="https://youtu.be/SoH9JmMTZjU" rel="noopener nofollow" target="_blank">SYF Performance 2025</a>
 </p>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SoH9JmMTZjU?si=SJD-HZi3XTMCzLsR"></iframe>
+</div>
 <h3>Student’s Quotes</h3>
 <p><em>"Modern Dance has been the most memorable highlight of my secondary school experience. This CCA has helped me to step out of my comfort zone and taught me ways to express my emotions through dance. I am very grateful for my teachers and teammates who have been with me throughout this journey. I have learnt a lot from the CCA. "</em>
-</p>
-<p>~ Poon Yu Yi</p>
+<br>~ Poon Yu Yi</p>
 <p><em>"Modern dance has taught me many values such as perseverance and teamwork. I have learnt that I should always aim to do my best during training and performances. Events such as Super 24 gave me the exposure to perform on a public stage which allows me to grow as a dancer. My coach, teachers-in-charge, and friends are always there to encourage me and push me beyond my limits. Overall, I enjoy my time in the modern dance club. "</em>
-</p>
-<p>~ Poh Shae Qi, Phoebe</p>
+<br>~ Poh Shae Qi, Phoebe</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/Modern_Dance_1.jpg">
 </div>
-<p></p>
+<p>SYF Performance 2025</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/Modern_Dance_2.jpg">
 </div>
@@ -213,10 +206,6 @@ collective for a bigger goal.</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/super%2024%20finals%20at%20indoor%20stadium.jpg">
 </div>
 <p>Super 24 Finals at Indoor Stadium</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/singapore%20youth%20festival%202023%20at%20university%20cultural%20centre,%20nus.jpg">
-</div>
-<p>Singapore Youth Festival 2023 at University Cultural Centre, NUS</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/StudDevelopment/CCAs/PerformingArts/ModernDance/2023/internal%20dance%20competition.jpg">
 </div>
