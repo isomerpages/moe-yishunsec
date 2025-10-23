@@ -21,11 +21,9 @@ and others)</p>
 <p>family with more than 3 grandparents in the household</p>
 </li>
 </ol>
-<p>Click below for hardcopy of MOE- FAS Application:
-<br><a href="/files/Parents/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form 2025</a>
-</p>
-<p>Click below for soft copy of MOE -FAS Application (Singpass required):
-<br><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">MOE eFAS</a>
+<p></p>
+<p>Click the link below for softcopy of MOE -FAS Application (Singpass required):
+<br><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">MOE eFAS [GGAS]</a>
 </p>
 <hr>
 <h4>ENHANCED EDUSAVE AND MOE FINANCIAL ASSISTANCE SCHEMES AND REVISED MISCELLANEOUS FEES STRUCTURE FROM 2024</h4>
