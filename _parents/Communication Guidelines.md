@@ -48,7 +48,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Operating Hours</p>
+<p>Operating Hours</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mon - Fri:</strong> 7 am - 5 pm</p>
