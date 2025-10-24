@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <p></p>
-<p>Official Modes of Communication</p>
+<h3>Official Modes of Communication</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,7 +26,7 @@ description: ""
 <p>School Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>+65 6876 7129</p>
 </td>
 </tr>
 <tr>
@@ -34,15 +34,25 @@ description: ""
 <p>School Email Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yishun_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yishun_ss@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mailing Address</p>
+<p>School Mailing Address</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Yishun Street 71, Singapore, 768516</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Operating Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon - Fri:</strong> 7 am - 5 pm</p>
+<p>Closed on Weekends and Public Holidays</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +78,8 @@ description: ""
 <p>Student Handbook</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.yishunsec.moe.edu.sg/students/student-handbook/" rel="noopener noreferrer nofollow" target="_blank">https://www.yishunsec.moe.edu.sg/students/student-handbook</a>
+</p>
 </td>
 </tr>
 <tr>
