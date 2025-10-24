@@ -52,6 +52,6 @@ sections:
       id: infopic
       button: Read More
       url: /students/dsa/
-      image: /images/Students/DSA_2026_v3.jpg
+      image: /images/Students/YSS_DSA_1.png
       alt: Image alt text
 ---
