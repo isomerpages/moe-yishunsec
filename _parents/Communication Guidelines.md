@@ -51,7 +51,7 @@ description: ""
 <p>Operating Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon - Fri:</strong> 7 am - 5 pm</p>
+<p><strong>Monday to Friday:</strong> 7 am - 5 pm</p>
 <p>Closed on Weekends and Public Holidays</p>
 </td>
 </tr>
@@ -84,6 +84,43 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h3>Communication Hours</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>We encourage parents to contact teachers during school hours from <strong>7:00 AM to 5:00 PM</strong>, <strong>Monday to Friday</strong> throughout
+term time.</p>
+</li>
+<li>
+<p>Teachers are not required to respond to enquiries outside these hours,
+including weekends and school holidays.</p>
+</li>
+</ul>
+<h3>Response Time Standards</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>The school is committed to responding within these timeframes:</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>3 working days </strong>- we will acknowledge all feedback and
+provide replies to straightforward enquiries.</p>
+</li>
+<li>
+<p><strong>7 working days</strong> - For matters requiring investigation,
+including the collection of statements and review of evidence.</p>
+</li>
+<li>
+<p><strong>21 working days </strong>- Complex cases involving comprehensive
+investigations, multiple parties, or external agencies.</p>
+</li>
+</ul>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Throughout this process, we will keep you informed of our progress and
+notify you of any delays that may arise due to exceptional circumstances.</p>
+</li>
+</ol>
 <h3>Positive Communication</h3>
 <ul data-tight="true" class="tight">
 <li>
