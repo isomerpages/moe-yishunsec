@@ -4,8 +4,31 @@ permalink: /communication-guidelines/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
+<h3>Communication Guidelines</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>We encourage parents to contact teachers during school hours from <strong>7:00 AM to 5:00 PM</strong>, <strong>Monday to Friday</strong> throughout
+term time.</p>
+</li>
+<li>
+<p>Teachers are not required to respond to enquiries outside these hours,
+including weekends and school holidays.</p>
+</li>
+<li>
+<p>For urgent messages during school hours, please contact the General Office
+at <strong>6876 7129</strong>, as teachers may be engaged in lessons or
+otherwise unavailable.</p>
+</li>
+<li>
+<p>Teachers are not obligated to share personal mobile numbers or communicate
+through social media platforms.</p>
+</li>
+<li>
+<p>To arrange a meeting with a teacher, please email the teacher directly
+or contact the General Office at least <strong>three days in advance</strong> to
+ensure minimal disruption to teaching responsibilities.</p>
+</li>
+</ul>
 <h3>Official Modes of Communication</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -84,17 +107,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h3>Communication Hours</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>We encourage parents to contact teachers during school hours from <strong>7:00 AM to 5:00 PM</strong>, <strong>Monday to Friday</strong> throughout
-term time.</p>
-</li>
-<li>
-<p>Teachers are not required to respond to enquiries outside these hours,
-including weekends and school holidays.</p>
-</li>
-</ul>
 <h3>Response Time Standards</h3>
 <ol data-tight="true" class="tight">
 <li>
