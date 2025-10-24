@@ -25,28 +25,17 @@ sections:
       alt: Letter to parents
       subtitle: Announcements
       image: /images/Announcements/Letter_to_Parents.png
-  - infobar:
-      title: Caring Teacher Awards 2026
-      subtitle: Announcements
-      id: infobar
-      description: The Caring Teacher Awards (CTA) celebrate educators who exemplify
-        care and compassion in their teaching.
-      button: Nominate Now
-      url: https://www.cta.nie.edu.sg
-  - infopic:
-      title: DSA in YSS
-      subtitle: Announcements
-      id: infopic
-      button: Read More
-      url: /students/dsa/
-      image: /images/Students/YSS_DSA_1.png
-      alt: Image alt text
   - textcards:
       title: Information from YSS
       id: textcards
       cards:
+        - title: Caring Teacher Awards 2026
+          description: Celebrate educators who exemplify care and compassion in their
+            teaching.
+          linktext: Nominate Now
+          url: https://www.cta.nie.edu.sg/
         - title: YSS Goes Global
-          description: ""
+          description: Yishunites Goes Global Programme.
           linktext: Read more
           url: /the-yss-experience/interdisciplinary-programmes/yssgoesglobal/
         - title: New Admission Criteria to Yishun Secondary
@@ -57,4 +46,12 @@ sections:
           description: ""
           linktext: Read more
           url: /yss/news/supportingstudents/
+  - infopic:
+      title: DSA in YSS
+      subtitle: Announcements
+      id: infopic
+      button: Read More
+      url: /students/dsa/
+      image: /images/Students/DSA_2026_v3.jpg
+      alt: Image alt text
 ---
