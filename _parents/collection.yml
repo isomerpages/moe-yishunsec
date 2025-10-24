@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Communication Guidelines.md
       - Information for Parents.md
       - PDLP.md
       - Parents Gateway.md
@@ -14,3 +13,4 @@ collections:
       - Financial Matters/MOE FAS & Edusave.md
       - Financial Matters/MOE Group Personal Accident (GPA) Insurance.md
       - Info of School Publications.md
+      - Communication Guidelines.md
