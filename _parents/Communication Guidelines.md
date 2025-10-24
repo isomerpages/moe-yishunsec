@@ -4,3 +4,81 @@ permalink: /communication-guidelines/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<p></p>
+<p>Official Modes of Communication</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mode</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Details</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Phone</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Email Address</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mailing Address</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Yishun Street 71, Singapore, 768516</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Website</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.yishunsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.yishunsec.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents Gateway</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Handbook</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
