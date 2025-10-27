@@ -4,6 +4,8 @@ permalink: /communication-guidelines/
 variant: tiptap
 description: ""
 ---
+<p>We are committed to working closely with parents to support our students'
+holistic development and wellbeing.</p>
 <h3>Communication Guidelines</h3>
 <ul data-tight="true" class="tight">
 <li>
