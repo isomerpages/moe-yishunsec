@@ -349,8 +349,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <h3>2024 GCE N-Level Examination <br>Sec 4 Normal (Academic) Results</h3>
 <p><em>Congratulations to our Secondary 4 Normal (Academic) students!</em>
 </p>
