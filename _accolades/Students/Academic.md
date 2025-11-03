@@ -5,6 +5,352 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3>2024 GCE O-Level Examination</h3>
+<h4>4E students who achieved L1R5 &lt; 12</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>L1R5/ Distinction</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Qian Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8/8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Drama (Exco)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Low De Jie Samuel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC (Exco)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Syamsina Binte Zainallabideen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir (Chairperson)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goo Min Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guzheng (Exco)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Samantha Lee Ying Ci</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC (Exco)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Poh Shae Qi, Phoebe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Jing Rou Alexis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seah Kai Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurhilmi Bin Nurfaizal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mah Jing Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girl Guides (Chairperson)</p>
+<p>Prefectorial Board (Exco)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reanne Loong Li Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guzheng (Exco)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chow Ying Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guzheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reeves Peh Cheng You</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+<p>Prefectorial Board (Exco)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Zhi Hung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12/7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC (Exco)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Phua Kim Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girl Guides (Vice-Chairperson)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Yu Xian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/2024_O_Level.jpg">
+</div>
+<h4>5NA students who achieved L1B4 &lt; 26</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>L1B4/ Distinction</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5N1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heng Yuan Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5N1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dean Ong Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5N1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rihanna Binte Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17/0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Exco)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5N1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chew Thien En Adriel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25/0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h3>2024 GCE N-Level Examination <br>Sec 4 Normal (Academic) Results</h3>
 <p><em>Congratulations to our Secondary 4 Normal (Academic) students!</em>
 </p>
