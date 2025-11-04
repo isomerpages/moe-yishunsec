@@ -54,4 +54,13 @@ sections:
       url: /students/dsa/
       image: /images/Students/YSS_DSA_1.png
       alt: Image alt text
+  - infopic:
+      title: Open House 2025
+      subtitle: Announcements
+      id: infopic
+      description: Saturday, 22 November 2025, 9 am to 2 pm
+      button: Read More
+      url: /openhouse/
+      image: /images/Open_House_2025_v1.jpg
+      alt: Image alt text
 ---
