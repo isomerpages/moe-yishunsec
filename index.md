@@ -18,6 +18,15 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
+      title: Open House 2025
+      subtitle: Announcements
+      id: infopic
+      description: Saturday, 22 November 2025, 9 am to 2 pm
+      button: Read More
+      url: /openhouse/
+      image: /images/Open_House_2025_v1.jpg
+      alt: Image alt text
+  - infopic:
       title: Letter to Parents
       description: End of Term 4 - 2025
       button: Read more...
