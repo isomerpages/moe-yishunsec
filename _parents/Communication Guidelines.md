@@ -4,8 +4,26 @@ permalink: /communication-guidelines/
 variant: tiptap
 description: ""
 ---
-<p>We are committed to working closely with parents to support our students'
-holistic development and wellbeing.</p>
+<h3>Positive Communication</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Our staff are dedicated to working collaboratively with parents through
+sincere, professional partnerships built on integrity. We welcome open
+and respectful conversations that support our students' wellbeing and academic
+growth.</p>
+</li>
+<li>
+<p>When we demonstrate mutual courtesy and respect in our interactions, we
+model positive behaviour for our children. The school reserves the right
+to discontinue communications that become discourteous, disrespectful,
+or abusive towards our staff members.</p>
+</li>
+<li>
+<p>MOE is committed to supporting our staff and will take decisive action
+to safeguard them from unreasonable conduct, harassment, or any form of
+abuse.</p>
+</li>
+</ul>
 <h3>Communication Guidelines</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -135,25 +153,5 @@ investigations, multiple parties, or external agencies.</p>
 notify you of any delays that may arise due to exceptional circumstances.</p>
 </li>
 </ol>
-<h3>Positive Communication</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Our staff are dedicated to working collaboratively with parents through
-sincere, professional partnerships built on integrity. We welcome open
-and respectful conversations that support our students' wellbeing and academic
-growth.</p>
-</li>
-<li>
-<p>When we demonstrate mutual courtesy and respect in our interactions, we
-model positive behaviour for our children. The school reserves the right
-to discontinue communications that become discourteous, disrespectful,
-or abusive towards our staff members.</p>
-</li>
-<li>
-<p><strong>MOE is committed to supporting our staff</strong> and will take
-decisive action to safeguard them from unreasonable conduct, harassment,
-or any form of abuse.</p>
-</li>
-</ul>
 <p></p>
 <p></p>

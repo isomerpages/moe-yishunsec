@@ -1,5 +1,5 @@
 ---
-title: PDLP
+title: PLD Matters
 permalink: /parents/pdlp/
 description: ""
 variant: tiptap

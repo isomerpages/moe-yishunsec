@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Information for Parents.md
-      - PDLP.md
+      - PLD Matters.md
       - Parents Gateway.md
       - School Calendar.md
       - Cyber Wellness Resources for Parents.md
@@ -13,3 +13,4 @@ collections:
       - Financial Matters/MOE FAS & Edusave.md
       - Financial Matters/MOE Group Personal Accident (GPA) Insurance.md
       - Info of School Publications.md
+      - Communication Guidelines.md
