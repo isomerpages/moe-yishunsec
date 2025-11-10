@@ -36,6 +36,10 @@ external storage devices such as portable hard drives and thumb drives.</p>
 <h3>Resources:</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Parents/PDLP/Acceptable_Use_Policy__AUP__Yishun_Sec.pdf" rel="noopener nofollow" target="_blank">Acceptable Use Policy (AUP)</a>
+</p>
+</li>
+<li>
 <p><a href="https://moes.portal.relay.school" rel="noopener nofollow" target="_blank">DMA Parent Portal</a>
 </p>
 </li>
