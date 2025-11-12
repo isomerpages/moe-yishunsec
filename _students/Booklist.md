@@ -35,11 +35,4 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4>Sec 5</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Students/Booklist/S5__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">YSS-S5 (NA)</a>
-</p>
-</li>
-</ul>
 <p></p>
