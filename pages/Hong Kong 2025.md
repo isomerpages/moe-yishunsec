@@ -20,3 +20,8 @@ description: ""
 <iframe height="434" width="720" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgUBWJteZpFSlmbDmi7CMUA4WhhwsurOKKGfdLdt0uVeMaa3GEFRDRgRJlrYJbZzcc9mwaTXAKNfNx/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
+<h4>Performing at Hong Kong Disneyland</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fXAPykkyb4k?si=qUhO6wihwaHK57rL"></iframe>
+</div>
+<p></p>
