@@ -35,7 +35,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>OH25 commences</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Highlights include:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -51,7 +51,6 @@ variant: tiptap
 </ul>
 <p><em>* Student Leaders will lead our visitors on school tours of the facilities.</em>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>YSS grounds</p>
@@ -77,7 +76,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal’s Talk (II)</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LT@3</p>
