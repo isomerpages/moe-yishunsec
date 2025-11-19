@@ -11,13 +11,10 @@ third_nav_title: Student Development
 <p>Advisor: Mr Richard Armstrong (HOD/Student Leadership &amp; Literature)</p>
 </li>
 <li>
-<p>Ms Renuga (Ag SH/Student Well-Being)</p>
+<p>Ms Crescencia Chay (Ag SH/Student Well-Being)</p>
 </li>
 <li>
 <p>Ms Athifah</p>
-</li>
-<li>
-<p>Ms Crescencia Chay</p>
 </li>
 <li>
 <p>Ms Germaine Goh</p>
@@ -27,6 +24,9 @@ third_nav_title: Student Development
 </li>
 <li>
 <p>Mr Jeremy Loy</p>
+</li>
+<li>
+<p>Ms Sumaiyah</p>
 </li>
 </ul>
 <h4>Peer Support Leaders Executive Committee 2025</h4>
