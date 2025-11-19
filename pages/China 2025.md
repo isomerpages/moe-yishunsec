@@ -4,7 +4,6 @@ permalink: /china-2025/
 variant: tiptap
 description: ""
 ---
-<h3>Duration: 6 Nov (Thu) to 12 Nov 2025 (Wed)</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/YSS_China_Briefing_Slides_2025_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides - 1</a>
@@ -16,7 +15,58 @@ description: ""
 </li>
 </ul>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="434" width="720" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdvFrrYBio--a0ypLBCSjGZJQ882pjWBoUnmUWlJ_DMvQ4ttJ9bjLTuVkq1Iwtx5svTz3xXfyE7vNW/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_12.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_13.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_14.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_15.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_16.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_17.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/China_2025_18.jpg">
 </div>
 <p></p>
