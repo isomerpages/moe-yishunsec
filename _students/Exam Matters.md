@@ -4,6 +4,18 @@ permalink: /students/exam/
 description: ""
 variant: tiptap
 ---
+<h2><strong>2026</strong></h2>
+<h4>Term 1 - WA 1</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Weighted Assessment/2026_Overview_of_YSS_Weighted_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Overview of YSS WA 1</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
+<p>==========================</p>
 <h2><strong>2025</strong></h2>
 <h4>2025 EOY Exam Timetable Sec 1 to 3</h4>
 <ul data-tight="true" class="tight">
