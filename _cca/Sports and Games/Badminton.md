@@ -99,6 +99,26 @@ variant: tiptap
 <p><em>"At first, being the badminton captain did not appeal to me as I was aware of the responsibilities of being a captain. Thankfully, after being selected as the captain, I was able to make meaningful and valuable memories with my CCA mates and teachers. Being the captain was definitely challenging at times as I had to lead my fellow CCA mates and I had to be a role model to my juniors. Thankfully, my CCA mates were supportive of me and they constantly encouraged me to reach greater heights. During the National School Games period, I had fun with my CCA mates and they taught me not to give up when met with setbacks. With the support of my teachers and peers, I am able to become a more reliable and dependable captain."</em>
 </p>
 <p>~ ‘B’ div girls Chairperson</p>
+<h3>Photos</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_3_25.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_4_25.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_5_25.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_6_25.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_7_25.png">
+</div>
 <h3>CCA Exco Structure Boys</h3>
 <h4><strong>Upper Sec</strong></h4>
 <table style="minWidth: 100px">
@@ -979,25 +999,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<h3>Photos</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_3_25.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_4_25.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_5_25.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_6_25.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudDevelopment/CCAs/SportsGames/Badminton/badminton_7_25.png">
-</div>
 <p></p>
