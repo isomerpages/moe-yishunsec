@@ -180,8 +180,4 @@ a proud reflection of our students’ real-world success.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-</p>
 <p></p>
