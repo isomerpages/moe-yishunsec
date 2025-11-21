@@ -8,7 +8,7 @@ third_nav_title: Instructional Programme
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IP/Music/MU_Dept_25_1.jpg">
 </div>
-<h3>Department Goals:</h3>
+<h3>Department Goals</h3>
 <p>Nurturing creative contributors through authentic music-making experiences.
 Students develop musical skills alongside essential 21st-century capabilities
 including creativity, communication, and teamwork.</p>
@@ -135,6 +135,7 @@ a proud reflection of our students’ real-world success.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tam Jing Xuan&nbsp;</p>
+<p></p>
 <p>Ahmad Tirmidzi Bin Ahmad Zaidi</p>
 </td>
 <td rowspan="1" colspan="1">
