@@ -65,7 +65,7 @@ our very own Recording Studio.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LQ20K-L6WFM?si=YqyeLYuzT7JRt2kj"></iframe>
 </div>
 <p><strong>Secondary 2 Music Arrangement and Reel Projects</strong>
-</p><a class="isomer-image-wrapper" href="https://www.youtube.com/playlist?list=PLUiT4IPcEsqLiClLCz8Lyv81Eys2NX7Lq"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/YSS_Music_Webphotos_1.jpg"></a>
+</p><a class="isomer-image-wrapper" href="https://www.youtube.com/playlist?list=PLUiT4IPcEsqLiClLCz8Lyv81Eys2NX7Lq"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IP/Music/YSS_Music_Webphotos_1.jpg"></a>
 <p></p>
 <p><strong>Furthering Curiosity — Extra-Curricular Workshops</strong>
 </p>
@@ -74,7 +74,7 @@ to deepen their learning through <strong>masterclasses and workshops</strong> wi
 guest musicians from the industry. These sessions develop higher-order
 musical skills while broadening students’ understanding of the arts sector</p>
 <a class="isomer-image-wrapper" href="https://www.youtube.com/playlist?list=PLUiT4IPcEsqI9BlYSc4sK0Q62a_gVcDB5">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/YSS_Music_Webphotos.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IP/Music/YSS_Music_Webphotos.jpg">
 </a>
 <h3><strong>Student Achievements</strong></h3>
 <p>Our students’ talent and creativity have been recognised on national platforms
