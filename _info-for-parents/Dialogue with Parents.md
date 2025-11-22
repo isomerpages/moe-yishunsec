@@ -5,6 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h2>2025</h2>
+<p><strong>Principal's Briefing on Open House - 22 Nov 2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Briefing Slides</p>
+</li>
+</ul>
 <p><strong>Sec 1 Breakfast Meeting with Parents - 26 Mar 2025</strong>
 </p>
 <ul data-tight="true" class="tight">
