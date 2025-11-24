@@ -55,6 +55,8 @@ of music production.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UXZzsuHO2FU?si=4RK7oeEZDzJyYmju"></iframe>
 </div>
+<p><strong>Secondary 2 Music Arrangement and Reel Projects</strong>
+</p><a class="isomer-image-wrapper" href="https://www.youtube.com/playlist?list=PLUiT4IPcEsqLiClLCz8Lyv81Eys2NX7Lq"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IP/Music/YSS_Music_Webphotos_1.jpg"></a>
 <h3><strong>Recent Highlights</strong></h3>
 <p><strong>Secondary 2 Cohort Cover (2025 Pilot)</strong>
 </p>
@@ -64,17 +66,13 @@ our very own Recording Studio.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LQ20K-L6WFM?si=YqyeLYuzT7JRt2kj"></iframe>
 </div>
-<p><strong>Secondary 2 Music Arrangement and Reel Projects</strong>
-</p><a class="isomer-image-wrapper" href="https://www.youtube.com/playlist?list=PLUiT4IPcEsqLiClLCz8Lyv81Eys2NX7Lq"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/YSS_Music_Webphotos_1.jpg"></a>
-<p></p>
-<p><strong>Furthering Curiosity — Extra-Curricular Workshops</strong>
-</p>
+<h4><strong>Furthering Curiosity — Extra-Curricular Workshops</strong></h4>
 <p>Beyond the regular curriculum, passionate learners are given opportunities
 to deepen their learning through <strong>masterclasses and workshops</strong> with
 guest musicians from the industry. These sessions develop higher-order
 musical skills while broadening students’ understanding of the arts sector</p>
 <a class="isomer-image-wrapper" href="https://www.youtube.com/playlist?list=PLUiT4IPcEsqI9BlYSc4sK0Q62a_gVcDB5">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP/Music/YSS_Music_Webphotos.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IP/Music/YSS_Music_Webphotos.jpg">
 </a>
 <h3><strong>Student Achievements</strong></h3>
 <p>Our students’ talent and creativity have been recognised on national platforms
@@ -86,7 +84,7 @@ a proud reflection of our students’ real-world success.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UPIPevTaZew?si=1VydpryeJ_bWRumk"></iframe>
 </div>
-<h4><strong><u>YSS Students Achievements in SYF Youth Station</u>&nbsp;</strong></h4>
+<h4><strong>YSS Students Achievements in SYF Youth Station&nbsp;</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -170,8 +168,7 @@ a proud reflection of our students’ real-world success.</p>
 <p>Nur Asyiqin Bte Mazelan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=WMqTqSXsvyw&amp;list=RDWMqTqSXsvyw&amp;start_radio=1" rel="noopener noreferrer nofollow" target="_blank"><u>You’re Everything To Me</u></a>
-</p>
+<p>You’re Everything To Me</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/watch?v=WMqTqSXsvyw&amp;list=RDWMqTqSXsvyw&amp;start_radio=1" rel="noopener noreferrer nofollow" target="_blank"><u>You're Everything To Me (Yishun Secondary School)</u></a>
@@ -180,8 +177,4 @@ a proud reflection of our students’ real-world success.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-</p>
 <p></p>
