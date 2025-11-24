@@ -55,6 +55,8 @@ of music production.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UXZzsuHO2FU?si=4RK7oeEZDzJyYmju"></iframe>
 </div>
+<p><strong>Secondary 2 Music Arrangement and Reel Projects</strong>
+</p><a class="isomer-image-wrapper" href="https://www.youtube.com/playlist?list=PLUiT4IPcEsqLiClLCz8Lyv81Eys2NX7Lq"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IP/Music/YSS_Music_Webphotos_1.jpg"></a>
 <h3><strong>Recent Highlights</strong></h3>
 <p><strong>Secondary 2 Cohort Cover (2025 Pilot)</strong>
 </p>
@@ -64,9 +66,6 @@ our very own Recording Studio.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LQ20K-L6WFM?si=YqyeLYuzT7JRt2kj"></iframe>
 </div>
-<p><strong>Secondary 2 Music Arrangement and Reel Projects</strong>
-</p><a class="isomer-image-wrapper" href="https://www.youtube.com/playlist?list=PLUiT4IPcEsqLiClLCz8Lyv81Eys2NX7Lq"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IP/Music/YSS_Music_Webphotos_1.jpg"></a>
-<p></p>
 <h4><strong>Furthering Curiosity — Extra-Curricular Workshops</strong></h4>
 <p>Beyond the regular curriculum, passionate learners are given opportunities
 to deepen their learning through <strong>masterclasses and workshops</strong> with
