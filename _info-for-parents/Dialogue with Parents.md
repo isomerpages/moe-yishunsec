@@ -9,7 +9,8 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Briefing Slides</p>
+<p><a href="/files/Parents/Dialogue with Parents/Open_House_2025_P_s_Presentation_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>
+</p>
 </li>
 </ul>
 <p><strong>Sec 1 Breakfast Meeting with Parents - 26 Mar 2025</strong>
