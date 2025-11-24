@@ -169,8 +169,7 @@ a proud reflection of our students’ real-world success.</p>
 <p>Nur Asyiqin Bte Mazelan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=WMqTqSXsvyw&amp;list=RDWMqTqSXsvyw&amp;start_radio=1" rel="noopener noreferrer nofollow" target="_blank"><u>You’re Everything To Me</u></a>
-</p>
+<p>You’re Everything To Me</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/watch?v=WMqTqSXsvyw&amp;list=RDWMqTqSXsvyw&amp;start_radio=1" rel="noopener noreferrer nofollow" target="_blank"><u>You're Everything To Me (Yishun Secondary School)</u></a>
