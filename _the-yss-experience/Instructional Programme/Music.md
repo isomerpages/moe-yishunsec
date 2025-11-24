@@ -67,8 +67,7 @@ our very own Recording Studio.</p>
 <p><strong>Secondary 2 Music Arrangement and Reel Projects</strong>
 </p><a class="isomer-image-wrapper" href="https://www.youtube.com/playlist?list=PLUiT4IPcEsqLiClLCz8Lyv81Eys2NX7Lq"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IP/Music/YSS_Music_Webphotos_1.jpg"></a>
 <p></p>
-<p><strong>Furthering Curiosity — Extra-Curricular Workshops</strong>
-</p>
+<h4><strong>Furthering Curiosity — Extra-Curricular Workshops</strong></h4>
 <p>Beyond the regular curriculum, passionate learners are given opportunities
 to deepen their learning through <strong>masterclasses and workshops</strong> with
 guest musicians from the industry. These sessions develop higher-order
@@ -86,7 +85,7 @@ a proud reflection of our students’ real-world success.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UPIPevTaZew?si=1VydpryeJ_bWRumk"></iframe>
 </div>
-<h4><strong><u>YSS Students Achievements in SYF Youth Station</u>&nbsp;</strong></h4>
+<h4><strong>YSS Students Achievements in SYF Youth Station&nbsp;</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
