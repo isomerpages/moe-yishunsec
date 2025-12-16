@@ -124,7 +124,6 @@ a proud reflection of our students’ real-world success.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://youtu.be/UPIPevTaZew?si=YtqWJKie83-PRoaB" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/UPIPevTaZew?si=YtqWJKie83-PRoaB</u></a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -140,9 +139,8 @@ a proud reflection of our students’ real-world success.</p>
 <p>Like&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/UPIPevTaZew?si=YtqWJKie83-PRoaB" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=Z7GPaYtD6aM</u></a>
+<p><a href="https://youtu.be/Z7GPaYtD6aM?si=K5HGN5FdMzii9V2a" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/Z7GPaYtD6aM?si=K5HGN5FdMzii9V2a</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
