@@ -12,7 +12,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4>Sec 1 - 3&nbsp;EOY Holiday Homework - 28 Oct 2025</h4>
 <ul data-tight="true" class="tight">
 <li>
