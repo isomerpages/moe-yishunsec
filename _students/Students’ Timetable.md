@@ -6,6 +6,7 @@ variant: tiptap
 ---
 <h2>2026 Sem 1</h2>
 <p>Timetable will be available on 31 Dec 2025.</p>
+<p></p>
 <hr>
 <h2>2025 Sem 2</h2>
 <ul data-tight="true" class="tight">
