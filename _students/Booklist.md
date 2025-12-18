@@ -5,7 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h2>Booklist for 2026</h2>
-<h4></h4>
+<h4>Sec 1</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Booklist/BOOKLIST_S1_2026.pdf" rel="noopener nofollow" target="_blank">YSS-S1 FSBB G1/G2/G3</a>
+</p>
+</li>
+</ul>
 <h4>Sec 2</h4>
 <ul data-tight="true" class="tight">
 <li>
