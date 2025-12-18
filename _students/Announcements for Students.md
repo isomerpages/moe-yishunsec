@@ -5,6 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h2>2025</h2>
+<h4>2025 GCE N-Level Results Release - 18 Dec 2025</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Announcements for Students/Briefing_Slides_for_Students_admin_brief_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4>Sec 1 - 3&nbsp;EOY Holiday Homework - 28 Oct 2025</h4>
 <ul data-tight="true" class="tight">
 <li>
