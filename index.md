@@ -24,7 +24,7 @@ sections:
       description: Students are not required to report physically to their posted
         secondary school on the next working day following the release of S1
         posting results.
-      button: Important Information
+      button: Click here for important Info
       url: https://sites.google.com/moe.edu.sg/yss-sec-1-website/home
   - infopic:
       title: Letter to Parents
