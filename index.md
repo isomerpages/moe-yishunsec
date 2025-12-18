@@ -17,6 +17,15 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
+  - infobar:
+      title: Welcome Sec 1 Students
+      subtitle: Announcements
+      id: infobar
+      description: Students are not required to report physically to their posted
+        secondary school on the next working day following the release of S1
+        posting results.
+      button: Important Information
+      url: https://sites.google.com/moe.edu.sg/yss-sec-1-website/home
   - infopic:
       title: Letter to Parents
       description: End of Term 4 - 2025
