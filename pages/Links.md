@@ -143,19 +143,19 @@ variant: tiptap
 <p>Teacher's Discipline Referral Tool:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://form.gov.sg/676e0af22c8a9b4faa6702ec" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="https://form.gov.sg/676e0d2fa795fcbf104a566c" rel="noopener nofollow" target="_blank">Sec 1 DRT</a>
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/676e0d2fa795fcbf104a566c" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="https://form.gov.sg/676e0af22c8a9b4faa6702ec" rel="noopener nofollow" target="_blank">Sec 2 DRT</a>
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/676e0dba609b30e7224a8f8a" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="https://form.gov.sg/676e0dba609b30e7224a8f8a" rel="noopener nofollow" target="_blank">Sec 3 DRT</a>
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/676e0e00764607af7607882c" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
+<p><a href="https://form.gov.sg/676e0e00764607af7607882c" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 DRT</a>
 </p>
 </li>
 </ul>
