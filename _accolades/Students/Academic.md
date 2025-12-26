@@ -359,10 +359,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h3>2024 GCE O-Level Examination</h3>
 <h4>4E students who achieved L1R5 &lt; 12</h4>
 <table style="minWidth: 100px">
