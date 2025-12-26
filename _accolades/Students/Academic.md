@@ -219,7 +219,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3>2025 GCE N-Level Examination <br>Sec 4 Normal (Technical) Results</h3>
 <p><em>Congratulations to our Secondary 4 Normal (Technical) students!</em>
 </p>
