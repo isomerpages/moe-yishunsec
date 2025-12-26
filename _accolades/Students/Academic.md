@@ -5,6 +5,359 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3>2025 GCE N-Level Examination <br>Sec 4 Normal (Academic) Results</h3>
+<p><em>Congratulations to our Secondary 4 Normal (Academic) students!</em>
+</p>
+<h4>4NA students who achieved ELMAB3 &lt; 12 and qualify for PFP (Poly Foundation Programme)</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>EMB3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Cole Priye Ughojo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Infocomm Technology (Media Production)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Owen Kang (Jiang Long)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Taneekan Neo Hui Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton, Prefectorial Board Executive Committee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Enrique Novello</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4IT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jonathan Poh Sze U (Fu Siyu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Infocomm Technology (Media Production)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamad Haysab Miazee Shaun Oh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Danish Azri Bin Abdul Jalil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Civil Defence Cadet Corps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rozanne Tan Sin Ru (Chen Xinru)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball (CCA Captain)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4IT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vijay Govindaraj Lakshitha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indian Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Shao Heng Darius</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton (CCA Captain)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Xue Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ellice Koo En Ling (Qiu Enling)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4IT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Kaixin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>2025 GCE N-Level Examination <br>Sec 4 Normal (Technical) Results</h3>
+<p><em>Congratulations to our Secondary 4 Normal (Technical) students!</em>
+</p>
+<h4>4NT students with 2 or more distinctions</h4>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>EMB1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Distinction</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Retuyan Samantha An Siason</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPA, RO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4SO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Avenaashsree D/O Neelamohan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPA, RO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Low Li Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BCL, CPA, RO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4SO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lakshmi Rebecca Gallarde Ramu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPA, RO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elijah Shemaiah Timothy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BTL, CPA, RO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammed Matin Bin Rizal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPA, RO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>2024 GCE O-Level Examination</h3>
 <h4>4E students who achieved L1R5 &lt; 12</h4>
 <table style="minWidth: 100px">
