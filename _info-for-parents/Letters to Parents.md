@@ -4,6 +4,15 @@ permalink: /parents/info-for-parents/letters/
 description: ""
 variant: tiptap
 ---
+<h2><strong>2026</strong></h2>
+<h3>Term 1</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Letter to Parents/New_Academic_Year_2026_Letter_to_Parents___26_Dec_2025.pdf" rel="noopener nofollow" target="_blank">New Academic Year 2026 - 26 Dec 2025</a>
+</p>
+</li>
+</ul>
+<hr>
 <h2><strong>2025</strong></h2>
 <h3>Term 4</h3>
 <ul data-tight="true" class="tight">
