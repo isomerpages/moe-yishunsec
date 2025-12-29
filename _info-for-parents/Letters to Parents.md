@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
+<hr>
 <h2><strong>2025</strong></h2>
 <h3>Term 4</h3>
 <ul data-tight="true" class="tight">
