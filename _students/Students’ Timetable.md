@@ -8,11 +8,11 @@ variant: tiptap
 <h4>Class Timetable</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetables/Students Timetable/Sec_1_Timetable_Sem1_2026_v1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Timetable Sem 1 2026</a>
+<p><a href="/files/Timetables/Students Timetable/2026_Sem1_Sec1_timetable_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1 Timetable Sem 1 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/Sec_2_Timetable_Sem1_2026_v1.pdf" rel="noopener nofollow" target="_blank">Sec 2 Timetable Sem 1 2026</a>
+<p><a href="/files/Timetables/Students Timetable/Sec2_Timetable_Online_v2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Timetable Sem 1 2026</a>
 </p>
 </li>
 <li>
