@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>2026 Sem 1</h2>
-<p></p>
+<h4>Class Timetable</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Timetables/Students Timetable/Sec_1_Timetable_Sem1_2026_v1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Timetable Sem 1 2026</a>
@@ -28,7 +28,7 @@ variant: tiptap
 <p><em><a href="https://yishunsec.edupage.org/timetable/" rel="noopener nofollow" target="_blank">Click here to access online version.</a></em>
 </p>
 <h4>Students Individual Timetable 2026 Sem 1</h4>
-<p><strong><em>Please login with your school email address to access. </em></strong>
+<p><strong><em>Please login with your school email address to access.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
