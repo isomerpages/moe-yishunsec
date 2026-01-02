@@ -69,28 +69,28 @@ variant: tiptap
 <h4>Sec 1</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines For English/Content_Outlines_Sec_1_G2___3_2026.pdf" rel="noopener nofollow" target="_blank">2026 Content Outlines Sec 1 G2 &amp; G3</a>
+<p><a href="/files/Content Outlines For English/Content_Outlines_Sec_1_G2___3_2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 G2 &amp; G3</a>
 </p>
 </li>
 </ul>
 <h4>Sec 2</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines For English/Content_Outlines_Sec_2_G2___3_2026.pdf" rel="noopener nofollow" target="_blank">2026 Content Outlines Sec 2 G2 &amp; 3</a>
+<p><a href="/files/Content Outlines For English/Content_Outlines_Sec_2_G2___3_2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 G2 &amp; 3</a>
 </p>
 </li>
 </ul>
 <h4>Sec 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines For English/Content_Outlines_Sec_3_G3_2026.pdf" rel="noopener nofollow" target="_blank">2026 Content Outlines Sec 3 G3</a>
+<p><a href="/files/Content Outlines For English/Content_Outlines_Sec_3_G3_2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 G3</a>
 </p>
 </li>
 </ul>
 <h4>Sec 4</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines For English/Content_Outlines_Sec_4_G3_2026.pdf" rel="noopener nofollow" target="_blank">2026 Content Outlines Sec 4 G3</a>
+<p><a href="/files/Content Outlines For English/Content_Outlines_Sec_4_G3_2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 G3</a>
 </p>
 </li>
 </ul>
