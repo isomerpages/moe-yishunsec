@@ -8,6 +8,10 @@ variant: tiptap
 <h3>Term 1</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/Term_1_Jan_2026.pdf" rel="noopener nofollow" target="_blank">Term 1 - 5 Jan 2026</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/MOEs_Centrally_Provisioned_Digital_Tools.pdf" rel="noopener nofollow" target="_blank">MOEs Centrally Provisioned Digital Tools - 2 Jan 2026</a>
 </p>
 </li>
