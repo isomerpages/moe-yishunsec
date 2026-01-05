@@ -34,8 +34,7 @@ integral part of our programmes. These experiences broaden students’ perspecti
 nurture independence and confidence, and help them remain rooted in Singapore
 while appreciating other cultures, as they embrace the belief that the
 World is our School.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>YSS40 – 40th Anniversary Celebrations</strong>
 </p>
 <p>2026 will be an exciting milestone as our school celebrates its 40th anniversary
@@ -43,7 +42,6 @@ World is our School.</p>
 encapsulates our commitment to recognising the efforts and achievements
 of the past, empowering our present students and staff, and inspiring the
 Yishunite community as we work towards our vision and mission with impact.</p>
-<p>&nbsp;</p>
 <p>Key celebrations planned for the year include:</p>
 <ul data-tight="true" class="tight">
 <li>
