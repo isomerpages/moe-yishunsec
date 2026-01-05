@@ -14,6 +14,12 @@ variant: tiptap
 <li>
 <p><a href="/files/Letter to Parents/New_Academic_Year_2026_Letter_to_Parents___26_Dec_2025.pdf" rel="noopener nofollow" target="_blank">New Academic Year 2026 - 26 Dec 2025</a>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Letter to Parents/Term_1_Jan_2026.pdf" rel="noopener nofollow" target="_blank">Term 1 - 5 Jan 2026</a>
+</p>
+</li>
+</ul>
 </li>
 </ul>
 <hr>
