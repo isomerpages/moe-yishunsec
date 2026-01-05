@@ -4,59 +4,75 @@ permalink: /yss/principalmessage/
 description: ""
 variant: tiptap
 ---
-<p>Dear Parents, Students and Partners of Yishun Secondary School,</p>
-<p>As we begin 2025, I would like to thank all parents, students and stakeholders
-for working closely with us last year in providing quality education to
-all Yishunites.</p>
-<p>2024 has been a fruitful year as we explored partnerships and pursued
-learning experiences both in Singapore and abroad, and continued to carry
-out the many activities that make the Yishunite Experience engaging and
-meaningful for our students.</p>
-<p>In 2025, we have value-added to many of the programmes in school and come
-up with new ones that will make learning more Exciting, Engaging and Enriching
-for all Yishunites. To start, we will have 4 levels of Subject Based Banding
-(SBB) and mixed form-classes for optimal social mixing amongst the students.
-We are also happy to be able to ensure smaller class sizes for all subjects
-at Upper Secondary Levels. The smaller class size will ensure more engaging
-Teaching and Learning for our students.</p>
-<p>We are also happy to continue to offer Yishunites with a wide range of
-subjects at Upper Secondary Levels. The subjects offered include Pure Sciences,
-Pure Humanities (Literature, Geography and History), Higher Mother-Tongue
-Languages (Chinese, Malay, and Tamil Languages), and Additional Mathematics.
-We also offer students the opportunity to choose electives that they might
-be interested in. These electives include Exercise and Sports Science,
+<p>Dear Parents, Students and Partners of Yishun Secondary School</p>
+<p>As we begin 2026, I would like to express my sincere appreciation to our
+parents, students and partners for working closely with us in the past
+year to provide a quality education for all Yishunites.</p>
+<p>2025 was a fruitful year for the school as we strengthened meaningful
+partnerships, expanded enriching learning experiences both locally and
+overseas, and continued to carry out programmes and activities that make
+the <strong>Yishunite Experience!</strong> engaging and purposeful for our
+students.</p>
+<p>On the curriculum front, my staff and I remain committed to delivering
+an Exciting, Engaging and Enriching curriculum. We will continue to build
+staff capacity, strengthen resources, leverage Educational Technology,
+and deepen interdisciplinary learning to develop students’ critical and
+creative thinking, collaboration, and problem-solving skills.</p>
+<p>In 2026, we have further enhanced many of our existing programmes and
+introduced new initiatives to make learning even more <strong><em>Exciting</em></strong>, <strong><em>Engaging</em></strong> and <strong><em>Enriching </em></strong>for
+all Yishunites. We will continue to offer a wide range of subjects at the
+Upper Secondary level, including the Sciences, Humanities (Literature and
+Geography), Higher Mother Tongue Languages (Chinese, Malay and Tamil),
+and Additional Mathematics. In addition, students may choose from a variety
+of electives aligned to their interests, such as Exercise and Sports Science,
 Design and Technology, Art, Food and Consumer Education, and Retail Operations.</p>
-<p>We will continue with the&nbsp;<strong>YSS Learning Festival for Students</strong>&nbsp;after
-positive feedback from parents and students. We will continue to take learning
-beyond the classroom where students can experience for themselves what
-they have learnt in the textbooks and put theory into practice in this
-experiential learning venture.</p>
-<p>2025 also sees the second year of the&nbsp;<strong>Cluster CCA initiative</strong>&nbsp;where
-we have new and exciting CCAs added to the ones we currently have. Secondary
-1 girls will be able to join the Football (Girls) CCA which will be hosted
-by YSS. In addition, Secondary 1 students may also choose to join another
-cluster CCA, Wushu, which is hosted by other school within the N2 cluster.</p>
-<p><strong>Overseas learning journeys</strong>&nbsp;help broaden the minds
-of our students, keep them rooted to Singapore while learning about foreign
-cultures, and develop a sense of independence as they visit foreign destinations
-with their peers. We will continue to provide opportunities for our students
-to venture beyond the comfortable and familiar, and to move beyond seeing
-the School as our World, to seeing the World as our School.</p>
-<p>On the curriculum front, the staff and I have always prioritised a curriculum
-that is Exciting, Engaging and Enriching for our students through building
-our staff capacity and capabilities and strengthening our resources through
-leveraging Educational Technology. The various departments will also be
-embarking on more&nbsp;<strong>interdisciplinary projects</strong>&nbsp;that
-will foster critical and creative thinking, collaboration and problem-solving
-skills. This will allow students to see connections between different subjects,
-making learning more engaging and relevant.</p>
-<p>We will continue to provide a holistic education that strives to develop
-our students as all-rounders and life-long learners who are equipped with
-the intellectual capacity as well as the sound moral grounding necessary
-for them to embrace the challenges in life.</p>
-<p>I look forward to our journey together with our parents, our stakeholders,
-my staff and our students in the coming year.</p>
-<p>Best regards and wishing everyone a good year ahead!</p>
+<p>Following positive feedback from parents and students, the <strong>YSS Learning Festival</strong> will
+continue to take learning beyond the classroom through authentic and meaningful
+experiential opportunities, where students apply concepts learnt and put
+theory into practice. <strong>YSS Goes Global</strong> will also remain an
+integral part of our programmes. These experiences broaden students’ perspectives,
+nurture independence and confidence, and help them remain rooted in Singapore
+while appreciating other cultures, as they embrace the belief that the
+World is our School.</p>
+<p></p>
+<p><strong>YSS40 – 40th Anniversary Celebrations</strong>
+</p>
+<p>2026 will be an exciting milestone as our school celebrates its 40th anniversary
+— <strong>YSS40</strong>. The theme, <strong>Honouring • Empowering • Inspiring</strong>,
+encapsulates our commitment to recognising the efforts and achievements
+of the past, empowering our present students and staff, and inspiring the
+Yishunite community as we work towards our vision and mission with impact.</p>
+<p>Key celebrations planned for the year include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>YSS40 Weave of Unity &amp; Caring Hearts Carnival</strong> – 12
+March 2026</p>
+</li>
+<li>
+<p><strong>YSS40 Speech &amp; Prize Presentation and Student Leaders’ Investiture</strong> –
+10 April 2026</p>
+</li>
+<li>
+<p><strong>40 km Home-run Cross-country</strong> – 22 May 2026</p>
+</li>
+<li>
+<p><strong>YSS Symph40enix – Youth Day Celebration and Arts Extravaganza</strong> –
+3 July 2026</p>
+</li>
+<li>
+<p><strong>YSS Homecoming &amp; Teachers’ Day Celebration</strong> – 3 September
+2026</p>
+</li>
+<li>
+<p><strong>Launch of MAYGA – Make Yishun Great Again</strong> – 21 October
+2026</p>
+</li>
+</ul>
+<p>To commemorate this milestone, your child/ward will receive a <strong>special edition YSS40 PE T-shirt</strong> in
+Week 1.</p>
+<p>I look forward to our continued partnership as we journey together in
+this meaningful year ahead.</p>
+<p>Thank you and wishing everyone a good fruitful 2026!</p>
 <p>Mrs Regina Lee
 <br>Principal</p>
 <div class="isomer-image-wrapper">
