@@ -38,11 +38,6 @@ sections:
       title: Information from YSS
       id: textcards
       cards:
-        - title: Caring Teacher Awards 2026
-          description: Celebrate educators who exemplify care and compassion in their
-            teaching.
-          linktext: Nominate Now
-          url: https://www.cta.nie.edu.sg/
         - title: YSS Goes Global
           description: Yishunites Goes Global Programme.
           linktext: Read more
