@@ -8,6 +8,10 @@ variant: tiptap
 <h3>Term 1</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/GCE_O_Level_result_release_2026___8_Jan_2026.pdf" rel="noopener nofollow" target="_blank">GCE O Level result release 2026 - 8 Jan 2026</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/Term_1_Jan_2026.pdf" rel="noopener nofollow" target="_blank">Term 1 - 5 Jan 2026</a>
 </p>
 </li>

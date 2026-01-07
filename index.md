@@ -18,17 +18,16 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infobar:
-      title: Welcome Sec 1 Students
+      title: GCE O - Level Examination Results
       subtitle: Announcements
       id: infobar
-      description: Students are not required to report physically to their posted
-        secondary school on the next working day following the release of S1
-        posting results.
-      button: Click here for important Info
-      url: https://sites.google.com/moe.edu.sg/yss-sec-1-website/home
+      description: The 2025 GCE O - Level examination results will be released on
+        Wednesday, 14 January 2026 at 2pm.
+      button: Click here for Information
+      url: /files/Letter%20to%20Parents/GCE_O_Level_result_release_2026___8_Jan_2026.pdf
   - infopic:
       title: Letter to Parents
-      description: Term 1 - 5 Jan 2026
+      description: GCE O Level result release
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
