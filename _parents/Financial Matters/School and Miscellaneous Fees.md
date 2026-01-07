@@ -7,9 +7,91 @@ variant: tiptap
 ---
 <p>The monthly school fees payable by Singaporean, International Student
 (IS) and Singapore Permanent Resident (SPR)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/School_Fees_2025.png">
-</div>
+<h3>2026 SEC</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Nationality</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>School Fee (S$)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Monthly Miscellaneous Fees (S$)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Total (S$)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singaporean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>25</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>680</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>700</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IS (ASEAN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1090</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21.8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1111.80</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IS (Non-ASEAN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2190</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21.8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2211.80</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5>Payment by GIRO</h5>
 <ul data-tight="true" class="tight">
 <li>
