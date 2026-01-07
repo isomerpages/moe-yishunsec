@@ -22,7 +22,7 @@ sections:
       subtitle: Announcements
       id: infobar
       description: The 2025 GCE O - Level examination results will be released on
-        Wednesday, 14 January 2026.
+        Wednesday, 14 January 2026 at 2pm.
       button: Click here for Information
       url: /parents/info-for-parents/letters/GCE_O_Level_result_release_2026___8_Jan_2026.pdf
   - infopic:
