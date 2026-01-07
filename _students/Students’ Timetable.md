@@ -47,6 +47,10 @@ variant: tiptap
 <p><a href="https://drive.google.com/drive/folders/1C9tK03mpgbbCQcwLK28hdYCGujsAP5qH" rel="noopener nofollow" target="_blank">Sec 4 TT Sem 1 2026</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/drive/folders/1bQ7xhwokCdPqJq0qNUXOJbmhDg_xVl7B" rel="noopener nofollow" target="_blank">Sec 5 TT Sem 1 2026</a>
+</p>
+</li>
 </ul>
 <p></p>
 <p><em>Updated on 30 Dec 2025</em>
