@@ -28,7 +28,7 @@ sections:
       url: https://sites.google.com/moe.edu.sg/yss-sec-1-website/home
   - infopic:
       title: Letter to Parents
-      description: Term 1 - 5 Jan 2026
+      description: GCE O Level result release
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
