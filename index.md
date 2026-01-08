@@ -26,6 +26,13 @@ sections:
       button: Click here for Information
       url: /files/Letter%20to%20Parents/GCE_O_Level_result_release_2026___8_Jan_2026.pdf
   - infopic:
+      title: YSS 40th Anniversary Celebrations
+      id: infopic
+      button: Read More
+      url: /images/Announcements/YSS40_Event_Banner.jpg
+      image: /images/Announcements/YSS40_Event_Banner2026.jpg
+      alt: Image alt text
+  - infopic:
       title: Letter to Parents
       description: GCE O Level result release
       button: Read more...
@@ -56,12 +63,5 @@ sections:
       button: Read More
       url: /students/dsa/
       image: /images/Students/YSS_DSA_1.png
-      alt: Image alt text
-  - infopic:
-      title: YSS 40th Anniversary Celebrations
-      id: infopic
-      button: Read More
-      url: /images/Announcements/YSS40_Event_Banner.jpg
-      image: /images/Announcements/YSS40_Event_Banner2026.jpg
       alt: Image alt text
 ---
