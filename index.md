@@ -34,7 +34,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Letter to Parents
-      description: GCE O Level result release
+      description: YSS Parental Consent for Purchase of PLD 2026
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
