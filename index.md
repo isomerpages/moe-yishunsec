@@ -61,7 +61,7 @@ sections:
       title: YSS 40th Anniversary Celebrations
       id: infopic
       button: Read More
-      url: /images/Announcements/YSS40_Event_Banner2026.jpg
+      url: /images/Announcements/YSS40_Event_Banner.jpg
       image: /images/Announcements/YSS40_Event_Banner2026.jpg
       alt: Image alt text
 ---
