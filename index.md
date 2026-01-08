@@ -57,4 +57,11 @@ sections:
       url: /students/dsa/
       image: /images/Students/YSS_DSA_1.png
       alt: Image alt text
+  - infopic:
+      title: YSS 40th Anniversary Celebrations
+      id: infopic
+      button: Read More
+      url: /images/Announcements/YSS40_Event_Banner2026.jpg
+      image: /images/Announcements/YSS40_Event_Banner2026.jpg
+      alt: Image alt text
 ---
