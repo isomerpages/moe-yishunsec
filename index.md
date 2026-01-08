@@ -22,12 +22,19 @@ sections:
       subtitle: Announcements
       id: infobar
       description: The 2025 GCE O - Level examination results will be released on
-        Wednesday, 14 January 2026 at 2pm.
+        Wednesday, 14 January 2026 at 2 pm.
       button: Click here for Information
       url: /files/Letter%20to%20Parents/GCE_O_Level_result_release_2026___8_Jan_2026.pdf
   - infopic:
+      title: YSS 40th Anniversary Celebrations
+      id: infopic
+      button: Read More
+      url: /yss40/
+      image: /images/Announcements/YSS40_Event_Banner2026.jpg
+      alt: Image alt text
+  - infopic:
       title: Letter to Parents
-      description: GCE O Level result release
+      description: YSS Parental Consent for Purchase of PLD 2026
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
