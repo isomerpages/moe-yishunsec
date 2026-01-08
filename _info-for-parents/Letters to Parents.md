@@ -8,6 +8,10 @@ variant: tiptap
 <h3>Term 1</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/YSS_Parental_Consent_for_Purchase_of_PLD_2026.pdf" rel="noopener nofollow" target="_blank">YSS Parental Consent for Purchase of PLD 2026 - 9 Jan 2026</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/GCE_O_Level_result_release_2026___8_Jan_2026.pdf" rel="noopener nofollow" target="_blank">GCE O Level result release 2026 - 8 Jan 2026</a>
 </p>
 </li>
