@@ -4,6 +4,15 @@ permalink: /parents/info-for-parents/dwp/
 description: ""
 variant: tiptap
 ---
+<h2>2026</h2>
+<p><strong>Sec 1 Parents Engagement Session - 9 Jan 2026</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parents/Dialogue with Parents/P_Slides_for_Sec_1_Parent_Engagement_9_Jan_2026v2.pdf" rel="noopener nofollow" target="_blank">Briefing Slides</a>
+</p>
+</li>
+</ul>
 <h2>2025</h2>
 <p><strong>Principal's Briefing on Open House - 22 Nov 2025</strong>
 </p>
