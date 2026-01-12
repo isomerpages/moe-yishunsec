@@ -85,15 +85,15 @@ variant: tiptap
 <h4>Sec 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines For Science/3E_G3_Chemistry_6092_Content_Outline_checked_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025_3E_G3_Chemistry_6092</a>
+<p><a href="/files/Content Outlines For Science/S3_G2_Sci__Chem__K223_K225_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2026_S3_G2_Sci__Chem__K223_K225</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines For Science/3E_G3_Sci_Chem__5086_5088_Content_Outline_checked_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025_3E_G3_Sci_Chem__5086_5088</a>
+<p><a href="/files/Content Outlines For Science/S3_G3_Chemistry_K324_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2026_S3_G3_Chemistry_K324</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines For Science/3NA_G2_Sci_Chem__5105__5107_Content_Outline_checked_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025_3NA_G2_Sci_Chem_5105_5107</a>
+<p><a href="/files/Content Outlines For Science/S3_G3_Sci__Chemistry__K326_K328_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2026_S3_G3_Sci_Chemistry_K326_K328</a>
 </p>
 <p></p>
 </li>
