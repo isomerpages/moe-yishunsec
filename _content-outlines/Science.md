@@ -27,11 +27,11 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3>Upper Secondary – Normal Technical</h3>
+<h3>Upper Secondary</h3>
 <h4>Sec 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines For Science/2025_3NT_Science_5148_Content_Outline_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025_3NT_G1_Science_5148</a>
+<p><a href="/files/Content Outlines For Science/S3_G1_Science_K123_Content_Outline_2026.pdf" rel="noopener nofollow" target="_blank">2026 S3 G1 Science K123</a>
 </p>
 <p></p>
 </li>
@@ -47,15 +47,15 @@ variant: tiptap
 <h4>Sec 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines For Science/3E_G3_Biology_6093_Content_Outline_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025_3E_G3_Biology_6093</a>
+<p><a href="/files/Content Outlines For Science/S3_G2_Sci__Biology__K225_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2026_S3_G2_Sci__Biology__K225</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines For Science/3E_G3_Sci__Biology__5088_Content_Outline_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025_3E_G3_Sci_Biology_5088</a>
+<p><a href="/files/Content Outlines For Science/S3_G3_Biology_K325_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2026_S3_G3_Biology_K325</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines For Science/3N_G2_Sci__Biology__5107_Content_Outline_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025_3N_G2_Sci_Biology_5107</a>
+<p><a href="/files/Content Outlines For Science/S3_G3_Sci__Biology__K328_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2026_S3_G3_Sci_Biology_K328</a>
 </p>
 </li>
 </ul>
