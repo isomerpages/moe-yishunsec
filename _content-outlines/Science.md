@@ -124,15 +124,15 @@ variant: tiptap
 <h4>Sec 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines For Science/3E_G2_Sci__Physics__5105_Content_Outline_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025_3E_G2_Sci_Physics_5105</a>
+<p><a href="/files/Content Outlines For Science/S3_G2_Sci__Physics__K223_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2026_S3_G2_Sci_Physics_K223</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines For Science/3E_G3_Physics_6091_Content_Outline_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025_3E_G3_Physics_6091</a>
+<p><a href="/files/Content Outlines For Science/S3_G3_Physics_K323_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2026_S3_G3_Physics_K323</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines For Science/3E_G3_Sci__Physics__5086_Content_Outline_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025_3E_G3_Sci_Physics_5086</a>
+<p><a href="/files/Content Outlines For Science/S3_G3_Sci__Physics__K326_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2026_S3_G3_Sci_Physics_K326</a>
 </p>
 </li>
 </ul>
