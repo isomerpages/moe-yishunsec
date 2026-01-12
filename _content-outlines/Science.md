@@ -8,22 +8,22 @@ variant: tiptap
 <h4>Sec 1</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines For Science/S1_G1_NT_Lower_Secondary_Science_Content_Outline_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025_S1_G1_NT_LSS</a>
+<p><a href="/files/Content Outlines For Science/S1_G1_Lower_Secondary_Science_Content_Outline_2026.pdf" rel="noopener nofollow" target="_blank">2026_S1_G1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines For Science/S1_G2G3_ENA_Lower_Secondary_Science_Content_Outline_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025_S1_G2G3_ENA_LSS</a>
+<p><a href="/files/Content Outlines For Science/S1_G2G3_Lower_Secondary_Science_Content_Outline_2026.pdf" rel="noopener nofollow" target="_blank">2026_S1_G2_G3</a>
 </p>
 </li>
 </ul>
 <h4>Sec 2</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines For Science/S2_G1_NT_Lower_Secondary_Science_Content_Outline_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025_S2_G1_NT_LSS</a>
+<p><a href="/files/Content Outlines For Science/S2_G1_Lower_Secondary_Science_Content_Outline_2026.pdf" rel="noopener nofollow" target="_blank">2026_S2_G1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines For Science/S2_G2G3_ENA_Lower_Secondary_Science_Content_Outline_Apr2025.pdf" rel="noopener nofollow" target="_blank">2025 S2_G2G3_ENA_LSS</a>
+<p><a href="/files/Content Outlines For Science/S2_G2G3_Lower_Secondary_Science_Content_Outline_2026.pdf" rel="noopener nofollow" target="_blank">2026_S2_G2_G3</a>
 </p>
 </li>
 </ul>
