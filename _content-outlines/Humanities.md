@@ -37,15 +37,22 @@ variant: tiptap
 <h4>Sec 4</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines_Humanities/Geography/Sec_4_G2_Elective_Geography_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 G2 Elective Geo Content Outline</a>
+<p><a href="/files/Content Outlines_Humanities/Geography/Sec_4_Express_Elective_Geo_Content_Outline.pdf" rel="noopener nofollow" target="_blank">Sec_4_Express_Elective_Geo_Content_Outline</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines_Humanities/Geography/Sec_4_G3_Elective_Geography_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 G3 Elective Geo Content Outline</a>
+<p><a href="/files/Content Outlines_Humanities/Geography/Sec_4_Express_Pure_Geo_Content_Outline.pdf" rel="noopener nofollow" target="_blank">Sec_4_Express_Pure_Geo_Content_Outline</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines_Humanities/Geography/Sec_4_G3_Pure_Geography_Content_Outline.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 G3 Pure Geo Content Outline</a>
+<p><a href="/files/Content Outlines_Humanities/Geography/Sec_4_NA_Geo_Content_Outline.pdf" rel="noopener nofollow" target="_blank">Sec_4_NA_Geo_Content_Outline</a>
+</p>
+</li>
+</ul>
+<h4>Sec 5</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Content Outlines_Humanities/Geography/Sec_5_Elective_Geo_Content_Outline.pdf" rel="noopener nofollow" target="_blank">Sec_5_Elective_Geo_Content_Outline</a>
 </p>
 </li>
 </ul>
