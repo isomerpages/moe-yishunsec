@@ -35,6 +35,13 @@ opportunity to make international friends and expose them to different
 cultures and lifestyles.</p>
 <p>Besides travelling abroad, Yishun Secondary School also look forward to
 hosting foreign friends in Singapore.</p>
+<h2>2026</h2>
+<h3>International relations programme</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/IRP_Hosting_2026_1.jpg">
+</div>
+<p>Mrs Regina Lee with our guests, Dr Anissa Chan and Ms Allison Chan from
+Hong Kong.</p>
 <h2>2025</h2>
 <h3>YSS Goes Global Programme</h3>
 <h4>Overseas Trips:</h4>
