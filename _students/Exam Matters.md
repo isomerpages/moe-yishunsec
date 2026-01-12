@@ -8,13 +8,26 @@ variant: tiptap
 <h4>Term 1 - WA 1</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Weighted Assessment/2026_Overview_of_YSS_Weighted_Assessment_v2.pdf" rel="noopener nofollow" target="_blank">Overview of YSS WA 1</a>
+<p><a href="/files/Weighted Assessment/2026_Overview_of_YSS_WA_v2.pdf" rel="noopener nofollow" target="_blank">Overview of YSS WA 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2026_WA_schedule_Term_1_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2026_WA_schedule_Term_1_Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 WA 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2026_WA_schedule_Term_1_Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2026_WA_schedule_Term_1_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 WA 1</a>
 </p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
 <p>==========================</p>
 <h2><strong>2025</strong></h2>
 <h4>2025 EOY Exam Timetable Sec 1 to 3</h4>
