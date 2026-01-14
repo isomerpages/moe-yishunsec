@@ -2,101 +2,155 @@
 title: Our Facilities
 permalink: /yss/facilities/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-## Garden
-
-<figure><img src="/images/YSS/Garden.jpg"><figcaption>School Garden</figcaption></figure> 
-
-## Special Rooms
-
-<figure><img src="/images/YSS/YSS_Commons.jpg"><figcaption>YSS Commons</figcaption></figure>
-
-<figure><img src="/images/YSS/LT@3.png"><figcaption>Lecture Theatre at 3 (LT@3)</figcaption></figure> 
-
-<figure><img src="/images/YSS/Library.png"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
-
-<figure><img src="/images/YSS/Library.jpg"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
-
-<figure><img src="/images/YSS/library1.jpeg"><figcaption>The S.P.A.C.E. (Library)</figcaption></figure> 
-
-<figure><img src="/images/YSS/chat_space.png"><figcaption>Chat Space</figcaption></figure> 
-
-<figure><img src="/images/YSS/the%20hive.jpeg"><figcaption>The HIVE</figcaption></figure> 
- 
-
-## PE Venues
-
-<figure><img src="/images/YSS/Outdoor_Gym.jpg"><figcaption>Outdoor Gym</figcaption></figure>
-
-<figure><img src="/images/YSS/basketball_court.jpeg"><figcaption>Basketball Court</figcaption></figure>
-
-<figure><img src="/images/YSS/indoor%20sports%20hall.jpg"><figcaption>Indoor Sports Hall</figcaption></figure> 
-
-<figure><img src="/images/YSS/paradesquare1.jpeg"><figcaption>Parade Square</figcaption></figure> 
-
-<figure><img src="/images/YSS/football_field-2.jpg"><figcaption>Football Field</figcaption></figure>
-
-<figure><img src="/images/YSS/SchoolHall.png"><figcaption>School Hall</figcaption></figure> 
-
-
-## Science Labs
-
-<figure><img src="/images/YSS/biolab-1.jpeg"><figcaption>Biology Lab</figcaption></figure> 
-
-<figure><img src="/images/YSS/chem-lab-1.jpeg"><figcaption>Chemistry Lab 1</figcaption></figure> 
-
-<figure><img src="/images/YSS/chem-lab-2.jpeg"><figcaption>Chemistry Lab 2</figcaption></figure> 
-
-<figure><img src="/images/YSS/Phy_Lab-1.jpeg"><figcaption>Physics Lab 1</figcaption></figure> 
-
-<figure><img src="/images/YSS/Phy_Lab-2.jpeg"><figcaption>Physics Lab 2</figcaption></figure> 
-
-## Computer Labs
-
-<figure><img src="/images/YSS/com%20lab%201.jpg"><figcaption>Computer Lab 1</figcaption></figure> 
-
-<figure><img src="/images/YSS/comlab2.jpeg"><figcaption>Computer Lab 2</figcaption></figure> 
-
-<figure><img src="/images/IP/ICT/Nearpod%20Training.jpeg"><figcaption>Computer Lab 3</figcaption></figure> 
-
-
-<figure><img src="/images/YSS/com%20lab%204.jpg"><figcaption>Computer Lab 4</figcaption></figure> 
-
-## Design and Technology
-
-<figure><img src="/images/YSS/DnTWorkshop.jpeg"><figcaption>D&amp;T Workshop</figcaption></figure> 
-
-
-## Music Room
-
-<figure><img src="/images/YSS/Music_Room.jpg"><figcaption>Music Room</figcaption></figure>
-
-<figure><img src="/images/YSS/musiclab.jpg"><figcaption>Music Lab</figcaption></figure>
-
-<figure><img src="/images/YSS/RecStudio1.jpg"><figcaption>Recording Studio</figcaption></figure>
-
-<figure><img src="/images/YSS/RecStudio2.jpg"><figcaption>Recording Studio</figcaption></figure>
-
-## Teaching Studio
-
-<figure><img src="/images/YSS/sr1_room.jpeg"><figcaption>Teaching Studio 1</figcaption></figure>
-
-<figure><img src="/images/YSS/sr2_room.jpeg"><figcaption>Teaching Studio 2</figcaption></figure>
-
-<figure><img src="/images/YSS/sr3_room.jpeg"><figcaption>Teaching Studio 3</figcaption></figure>
-
-<figure><img src="/images/YSS/TS4.jpg"><figcaption>Teaching Studio 4</figcaption></figure>
-
-<figure><img src="/images/YSS/TS5.jpg"><figcaption>Teaching Studio 5</figcaption></figure>
-	
-<figure><img src="/images/YSS/innotechroom.jpeg"><figcaption>Teaching Studio 6</figcaption></figure>
-
-## ESS Room
-	
-<figure><img src="/images/YSS/ess_room.jpeg"><figcaption>Exercise &amp; Sports Science (ESS) Room</figcaption></figure>
-
-
-
-## School Canteen
-<figure><img src="/images/YSS/canteen-1.png"><figcaption>Canteen</figcaption></figure>
+<h2>Garden</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Garden.jpg">
+</div>
+<p>School Garden</p>
+<h2>Special Rooms</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/YSS_Commons.jpg">
+</div>
+<p>YSS Commons</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/LT@3.png">
+</div>
+<p>Lecture Theatre at 3 (LT@3)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Library.png">
+</div>
+<p>The S.P.A.C.E. (Library)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Library.jpg">
+</div>
+<p>The S.P.A.C.E. (Library)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/library1.jpeg">
+</div>
+<p>The S.P.A.C.E. (Library)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/chat_space.png">
+</div>
+<p>Chat Space</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/the%20hive.jpeg">
+</div>
+<p>The HIVE</p>
+<h2>PE Venues</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Outdoor_Gym.jpg">
+</div>
+<p>Outdoor Gym</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/basketball_court.jpeg">
+</div>
+<p>Basketball Court</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/indoor%20sports%20hall.jpg">
+</div>
+<p>Indoor Sports Hall</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/paradesquare1.jpeg">
+</div>
+<p>Parade Square</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/football_field-2.jpg">
+</div>
+<p>Football Field</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/SchoolHall.png">
+</div>
+<p>School Hall</p>
+<h2>Science Labs</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/biolab-1.jpeg">
+</div>
+<p>Biology Lab</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/chem-lab-1.jpeg">
+</div>
+<p>Chemistry Lab 1</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/chem-lab-2.jpeg">
+</div>
+<p>Chemistry Lab 2</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Phy_Lab-1.jpeg">
+</div>
+<p>Physics Lab 1</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Phy_Lab-2.jpeg">
+</div>
+<p>Physics Lab 2</p>
+<h2>Computer Labs</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/com%20lab%201.jpg">
+</div>
+<p>Computer Lab 1</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/comlab2.jpeg">
+</div>
+<p>Computer Lab 2</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/IP/ICT/Nearpod%20Training.jpeg">
+</div>
+<p>Computer Lab 3</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/com%20lab%204.jpg">
+</div>
+<p>Computer Lab 4</p>
+<h2>Design and Technology</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/DnTWorkshop.jpeg">
+</div>
+<p>D&amp;T Workshop</p>
+<h2>Music Room</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Music_Room.jpg">
+</div>
+<p>Music Room</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/musiclab.jpg">
+</div>
+<p>Music Lab</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/RecStudio1.jpg">
+</div>
+<p>Recording Studio</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/RecStudio2.jpg">
+</div>
+<p>Recording Studio</p>
+<h2>Teaching Studio</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/sr1_room.jpeg">
+</div>
+<p>Teaching Studio 1</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/sr2_room.jpeg">
+</div>
+<p>Teaching Studio 2</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/sr3_room.jpeg">
+</div>
+<p>Teaching Studio 3</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/TS4.jpg">
+</div>
+<p>Teaching Studio 4</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/TS5.jpg">
+</div>
+<p>Teaching Studio 5</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/innotechroom.jpeg">
+</div>
+<p>Teaching Studio 6</p>
+<h2>ESS Room</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/YSS/ess_room.jpeg">
+</div>
+<p>Exercise &amp; Sports Science (ESS) Room</p>
+<p></p>
