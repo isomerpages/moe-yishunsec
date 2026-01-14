@@ -4,11 +4,27 @@ permalink: /yss/facilities/
 description: ""
 variant: tiptap
 ---
+<h2>Table Talk</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Table_Talk_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Table_Talk.jpg">
+</div>
+<h2>The Stairway</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Canteen.jpg">
+</div>
 <h2>Garden</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/Garden.jpg">
 </div>
 <p>School Garden</p>
+<h2>1986 Vántage</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/1986_Vantage.jpg">
+</div>
 <h2>Special Rooms</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/YSS_Commons.jpg">
@@ -153,8 +169,4 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/ess_room.jpeg">
 </div>
 <p>Exercise &amp; Sports Science (ESS) Room</p>
-<h2>THE STAIRWAY</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Canteen.jpg">
-</div>
 <p></p>
