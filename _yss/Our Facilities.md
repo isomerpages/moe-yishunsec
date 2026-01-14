@@ -153,4 +153,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/ess_room.jpeg">
 </div>
 <p>Exercise &amp; Sports Science (ESS) Room</p>
+<h2>School Canteen</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Canteen.jpg">
+</div>
 <p></p>
