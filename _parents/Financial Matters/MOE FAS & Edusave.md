@@ -5,23 +5,6 @@ description: ""
 variant: tiptap
 third_nav_title: Financial Matters
 ---
-<h4>Hardcopy form submission is required for</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>families with other dependents (Great grandparents, Aunties/Uncles, Cousins
-and others)</p>
-</li>
-<li>
-<p>family with more than 5 children in GGAS</p>
-</li>
-<li>
-<p>family with more than 4 unmarried children not in GGAS</p>
-</li>
-<li>
-<p>family with more than 3 grandparents in the household</p>
-</li>
-</ol>
-<p></p>
 <p>Click the link below for softcopy of MOE -FAS Application (Singpass required):
 <br><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">MOE eFAS [GGAS]</a>
 </p>
