@@ -13,6 +13,14 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p><strong>Sec 4&amp;5 Breakfast Meeting with Parents - 12 Jan 2026</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parents/Dialogue with Parents/2026_Sec_4_5_Breakfast_Meeting_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>
+</p>
+</li>
+</ul>
 <p><strong>Sec 1 Parents Engagement Session - 9 Jan 2026</strong>
 </p>
 <ul data-tight="true" class="tight">
