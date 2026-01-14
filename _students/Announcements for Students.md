@@ -4,6 +4,16 @@ permalink: /students/announcements/
 description: ""
 variant: tiptap
 ---
+<h2>2026</h2>
+<h4>GCE O-Level Results Release - 14 Jan 2026</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Announcements for Students/O_Level_Presentation_Admin_brief_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>
+</p>
+</li>
+</ul>
+<hr>
+<p></p>
 <h2>2025</h2>
 <h4>2025 GCE N-Level Results Release - 18 Dec 2025</h4>
 <ul data-tight="true" class="tight">
