@@ -5,10 +5,421 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<h3>2025 GCE N-Level Examination <br>Sec 4 Normal (Academic) Results</h3>
-<p><em>Congratulations to our Secondary 4 Normal (Academic) students!</em>
+<h3><strong>2025 GCE O-Level Examination <br>Sec 4 Express Results</strong></h3>
+<p><em>Congratulations to our Secondary 4E &amp; 5N students!</em>
 </p>
-<h4>4NA students who achieved ELMAB3 &lt; 12 and qualify for PFP (Poly Foundation Programme)</h4>
+<h4><strong>4E students who achieved L1R5 &lt; 12</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>L1R5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bryant Ng Junlong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Infocomm Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Jie Ming Aaron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liu Si Ru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC (Land)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fong Pin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jaren Ong Yan Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Concert Band (Chairperson)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4SO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yong Lok Sam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guzheng Ensemble</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jebson Jong Yee Da</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton, Senior PSL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Steffi Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>D'Lite (English Drama), Prefect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leonard Ong Teng Yong (Wang Dingrong)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics, Prefect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Lay Kun Jolin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Concert Band (Vice-chairperson), Prefect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4SO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chloe Tan Xin Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guzheng Ensemble</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4SO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Omisha Kajendiran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indian Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4SO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tang Cheng Yuen, Gavin (Deng Qingyuan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC (Land)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamed Habubakkar Sarah Fathima</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir, PSL EXCO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yan Ting, Clarissa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton (Vice-captain), Prefect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Chin Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton (Vice-captain)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xander Chan Xian Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Infocomm Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4SE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Lei Yuan Avel (Chen Leiyuan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4SO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allison Ong Rui En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NPCC, PSL EXCO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toh Hong Yuan Freddy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zavian Kong (Kuang Kaile)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball, Head PSL</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>5NA students with L1B4 ≤ 20 &amp; Pass in EL &amp; Math</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>L1B4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5N1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sam Jun Fei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5N1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Ying Xuan (Chen Yingxuan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5N1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Siew Mun (Li Xiumin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guzheng Ensemble</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5N1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jennifer Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girl Guides</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>2025 GCE N-Level Examination <br>Sec 4 Normal (Academic) Results</strong></h3>
+<p><em>Congratulations to our Secondary 4NA students!</em>
+</p>
+<h4><strong>4NA students who achieved ELMAB3 &lt; 12 and qualify for PFP (Poly Foundation Programme)</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -219,10 +630,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>2025 GCE N-Level Examination <br>Sec 4 Normal (Technical) Results</h3>
-<p><em>Congratulations to our Secondary 4 Normal (Technical) students!</em>
+<h3><strong>2025 GCE N-Level Examination <br>Sec 4 Normal (Technical) Results</strong></h3>
+<p><em>Congratulations to our Secondary 4NT students!</em>
 </p>
-<h4>4NT students with 2 or more distinctions</h4>
+<h4><strong>4NT students with 2 or more distinctions</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -358,8 +769,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>2024 GCE O-Level Examination</h3>
-<h4>4E students who achieved L1R5 &lt; 12</h4>
+<hr>
+<h3><strong>2024 GCE O-Level Examination</strong></h3>
+<h4><strong>4E students who achieved L1R5 &lt; 12</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -617,7 +1029,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/2024_O_Level.jpg">
 </div>
-<h4>5NA students who achieved L1B4 &lt; 26</h4>
+<h4><strong>5NA students who achieved L1B4 &lt; 26</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -702,10 +1114,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>2024 GCE N-Level Examination <br>Sec 4 Normal (Academic) Results</h3>
-<p><em>Congratulations to our Secondary 4 Normal (Academic) students!</em>
+<h3><strong>2024 GCE N-Level Examination <br>Sec 4 Normal (Academic) Results</strong></h3>
+<p><em>Congratulations to our Secondary 4NA students!</em>
 </p>
-<h4>4NA students who qualified for PFP</h4>
+<h4><strong>4NA students who qualified for PFP</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -989,10 +1401,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/4NA_2024.jpg">
 </div>
-<h3>2024 GCE N-Level Examination <br>Sec 4 Normal (Technical) Results</h3>
-<p><em>Congratulations to our Secondary 4 Normal (Technical) students!</em>
+<h3><strong>2024 GCE N-Level Examination <br>Sec 4 Normal (Technical) Results</strong></h3>
+<p><em>Congratulations to our Secondary 4NT students!</em>
 </p>
-<h4>4NT students with 2 or more distinctions</h4>
+<h4><strong>4NT students with 2 or more distinctions</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -1148,9 +1560,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/4NT_2024.jpg">
 </div>
-<p>____________</p>
-<h3>2023 GCE O-Level Examination Results</h3>
-<h4>4E students who achieved L1R5 &lt; 12</h4>
+<p></p>
+<hr>
+<h3><strong>2023 GCE O-Level Examination Results</strong></h3>
+<h4><strong>4E students who achieved L1R5 &lt; 12</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -1474,7 +1887,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/4E_4.JPG">
 </div>
-<h4>5NA students who achieved L1B4 &lt; 20</h4>
+<h4><strong>5NA students who achieved L1B4 &lt; 20</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -1556,11 +1969,10 @@ variant: tiptap
 <p>4E2</p>
 </li>
 </ul>
-<p></p>
-<h3>2023 GCE N-Level Examination <br>Sec 4 Normal (Academic) Results</h3>
-<p><em>Congratulations to our Secondary 4 Normal (Academic) students!</em>
+<h3><strong>2023 GCE N-Level Examination <br>Sec 4 Normal (Academic) Results</strong></h3>
+<p><em>Congratulations to our Secondary 4NA students!</em>
 </p>
-<h4>4NA students who qualified for PFP</h4>
+<h4><strong>4NA students who qualified for PFP</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -1763,10 +2175,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/4N.jpg">
 </div>
-<h3>2023 GCE N-Level Examination <br>Sec 4 Normal (Technical) Results</h3>
-<p><em>Congratulations to our Secondary 4 Normal (Technical) students!</em>
+<h3><strong>2023 GCE N-Level Examination <br>Sec 4 Normal (Technical) Results</strong></h3>
+<p><em>Congratulations to our Secondary 4 NT students!</em>
 </p>
-<h4>4NT students with 2 or more distinctions</h4>
+<h4><strong>4NT students with 2 or more distinctions</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
