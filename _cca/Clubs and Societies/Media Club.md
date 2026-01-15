@@ -11,7 +11,7 @@ variant: tiptap
 <p>Mr Zul Idham (I/C)</p>
 </li>
 <li>
-<p>Mdm Vemala</p>
+<p>Mr Yap Li-Ren</p>
 </li>
 </ul>
 <h4>CCA Schedule</h4>
