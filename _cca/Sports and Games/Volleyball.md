@@ -13,6 +13,9 @@ variant: tiptap
 <li>
 <p>Ms Oh Hui Qi</p>
 </li>
+<li>
+<p>Mdm Zarina Ismail</p>
+</li>
 </ul>
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
