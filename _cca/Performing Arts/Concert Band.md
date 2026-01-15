@@ -8,13 +8,10 @@ variant: tiptap
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Daniel Woon</p>
+<p>Ms Ng Tian Wen (IC)</p>
 </li>
 <li>
-<p>Ms Durga Gayathri Manogar</p>
-</li>
-<li>
-<p>Ms Ng Tian Wen</p>
+<p>Mr Daniel Woon (Advisor)</p>
 </li>
 <li>
 <p>Ms Ng Puay Hoon</p>
