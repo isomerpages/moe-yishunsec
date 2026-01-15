@@ -13,6 +13,9 @@ variant: tiptap
 <li>
 <p>Ms Yoong Hai Ling</p>
 </li>
+<li>
+<p>Ms Herdaninseh Binte Mohamad Taha</p>
+</li>
 </ul>
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">

@@ -13,11 +13,14 @@ variant: tiptap
 <li>
 <p>Ms Oh Hui Qi</p>
 </li>
+<li>
+<p>Mdm Zarina Ismail</p>
+</li>
 </ul>
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mondays and Wednesdays from 4pm to 6pm</p>
+<p>Mondays and Wednesdays from 4 pm to 6 pm</p>
 </li>
 </ul>
 <h3>Venue</h3>

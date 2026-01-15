@@ -17,7 +17,7 @@ variant: tiptap
 <p>Mr Shu Yun Chao</p>
 </li>
 <li>
-<p>Mdm Athifah Mhd Isa</p>
+<p>Mr Ho Kuan Peng</p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>

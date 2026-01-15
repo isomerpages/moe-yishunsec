@@ -8,10 +8,13 @@ variant: tiptap
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm. Renuga (I/C)</p>
+<p>Ms Ummu Sumaiyah Binte Eliase (IC)</p>
 </li>
 <li>
-<p>Dr. Santhalingam Kalpana</p>
+<p>Mdm Vemala Naguran</p>
+</li>
+<li>
+<p>Ms Durga Gayathri Manogar</p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>

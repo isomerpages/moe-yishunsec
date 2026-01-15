@@ -5,28 +5,20 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
+<h3><strong>As of 2026, this CCA has been closed down.</strong></h3>
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Khong You Wei (I/C)</p>
-</li>
-<li>
 <p>Ms Vera Lee</p>
-</li>
-<li>
-<p>Mdm Azizah</p>
-</li>
-<li>
-<p>Mr Yap Li Ren</p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesdays (3:45pm to 6:00pm)</p>
+<p>Tuesdays (3:45 pm to 6:00 pm)</p>
 </li>
 <li>
-<p>Thursdays (3:45pm to 6:00pm)</p>
+<p>Thursdays (3:45 pm to 6:00 pm)</p>
 <p></p>
 </li>
 </ul>
