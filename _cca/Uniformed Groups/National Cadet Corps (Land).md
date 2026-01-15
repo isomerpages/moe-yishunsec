@@ -8,17 +8,13 @@ variant: tiptap
 <h3>Teachers-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Commanding Officer: <strong>MAJ (NCC) Ong Chee Kiong</strong>
-</p>
+<p><strong>Teacher Officer (IC):</strong> LTA (NCC) Nur Imran Bin Soonan</p>
 </li>
 <li>
-<p>Teacher Officer (2nd IC): <strong>LTA (NCC) Nur Imran Bin Soonan</strong>
-</p>
+<p><strong>Advisor</strong>: MAJ (NCC) Ong Chee Kiong</p>
 </li>
 <li>
-<p>Teacher Officers: <strong>2LT Ms Germaine Goh</strong>
-</p>
-<p></p>
+<p><strong>Teacher Officer: </strong>2LT Ms Germaine Goh</p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>
