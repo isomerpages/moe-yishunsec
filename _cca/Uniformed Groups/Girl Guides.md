@@ -12,9 +12,6 @@ variant: tiptap
 <p>Ms Herdaninseh Binte Mohamad Taha</p>
 </li>
 <li>
-<p>Ms Ummu Sumaiyah Binte Eliase</p>
-</li>
-<li>
 <p>Mdm Juanita Binte Jamari</p>
 </li>
 </ul>
