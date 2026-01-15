@@ -11,10 +11,10 @@ variant: tiptap
 <p>Ms Joan Chin (I/C)</p>
 </li>
 <li>
-<p>Ms Sabrina Bte Mohd Amran</p>
+<p>Mdm Athifah Mhd Isa</p>
 </li>
 <li>
-<p>Ms Lim Sin Yee</p>
+<p>Mdm Zawana</p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>
