@@ -9,16 +9,7 @@ variant: tiptap
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Khong You Wei (I/C)</p>
-</li>
-<li>
 <p>Ms Vera Lee</p>
-</li>
-<li>
-<p>Mdm Azizah</p>
-</li>
-<li>
-<p>Mr Yap Li Ren</p>
 </li>
 </ul>
 <h3>CCA Schedule</h3>
