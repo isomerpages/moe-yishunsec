@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
+<h3><strong>As of 2026, this CCA has been closed down.</strong></h3>
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
