@@ -15,10 +15,10 @@ variant: tiptap
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesdays (3:45pm to 6:00pm)</p>
+<p>Tuesdays (3:45 pm to 6:00 pm)</p>
 </li>
 <li>
-<p>Thursdays (3:45pm to 6:00pm)</p>
+<p>Thursdays (3:45 pm to 6:00 pm)</p>
 <p></p>
 </li>
 </ul>
