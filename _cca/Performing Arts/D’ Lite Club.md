@@ -8,10 +8,13 @@ variant: tiptap
 <h3>Teacher-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Malar Velee Perusal (IC)</p>
+<p>Mr Jonathan Ong (IC)</p>
 </li>
 <li>
-<p>Mr Jonathan Ong</p>
+<p>Ms Vera Lee</p>
+</li>
+<li>
+<p>Mdm Juanita Binte Jamari</p>
 </li>
 <li>
 <p>Mr Ang Swee Siang</p>
