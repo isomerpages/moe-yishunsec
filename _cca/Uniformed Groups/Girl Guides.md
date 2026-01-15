@@ -11,9 +11,6 @@ variant: tiptap
 <li>
 <p>Ms Herdaninseh Binte Mohamad Taha</p>
 </li>
-<li>
-<p>Mdm Juanita Binte Jamari</p>
-</li>
 </ul>
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
