@@ -112,7 +112,7 @@ variant: tiptap
 <h4>Sec 1</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines_Humanities/SS/2024_G1_SS___HEMS_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 G1 SS &amp; HEMS Content Outline</a>
+<p><a href="/files/Content Outlines_Humanities/SS/2024_G1_SS___HEMS_Content_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 SS &amp; HEMS Content Outline</a>
 </p>
 </li>
 </ul>
