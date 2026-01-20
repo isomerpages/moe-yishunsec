@@ -30,14 +30,14 @@ variant: tiptap
 <h4>Sec 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines for Electives/Content_Outline_Sec_3_RO_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 RO</a>
+<p><a href="/files/Content Outlines for Electives/Content_Outline_Sec_3_RO_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 RO</a>
 </p>
 </li>
 </ul>
 <h4>Sec 4</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines for Electives/Content_Outline_Sec_4_RO_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 RO</a>
+<p><a href="/files/Content Outlines for Electives/Content_Outline_Sec_4_RO_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 RO</a>
 </p>
 </li>
 </ul>
