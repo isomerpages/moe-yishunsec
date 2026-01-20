@@ -45,14 +45,14 @@ variant: tiptap
 <h4>Sec 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines for Electives/Content_Outline_2025_3G1.pdf" rel="noopener nofollow" target="_blank">Sec 3 G1</a>
+<p><a href="/files/Content Outlines for Electives/Content_Outline_2026_3G1.pdf" rel="noopener nofollow" target="_blank">Sec 3 G1</a>
 </p>
 </li>
 </ul>
 <h4>Sec 4</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines for Electives/Content_Outline_2025_4G1.pdf" rel="noopener nofollow" target="_blank">Sec 4 CPA 4G1</a>
+<p><a href="/files/Content Outlines for Electives/Content_Outline_2026_4G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Computer Applications</a> 
 </p>
 </li>
 </ul>
