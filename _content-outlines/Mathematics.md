@@ -22,15 +22,15 @@ variant: tiptap
 <h4>Sec 2</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines for Maths/Sec_2_G1_Content_Outline_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 G1 Content Outline</a>
+<p><a href="/files/Content Outlines for Maths/Sec_2_G1_Content_Outline_2026_v2.pdf" rel="noopener nofollow" target="_blank">Sec 2 G1 Content Outline</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines for Maths/Sec_2_G2_Content_Outline_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 G2 Content Outline</a>
+<p><a href="/files/Content Outlines for Maths/Sec_2_G2_Content_Outline_2026_v2.pdf" rel="noopener nofollow" target="_blank">Sec 2 G2 Content Outline</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Content Outlines for Maths/Sec_2_G3_Content_Outline_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 G3 Content Outline</a>
+<p><a href="/files/Content Outlines for Maths/Sec_2_G3_Content_Outline_2026_v2.pdf" rel="noopener nofollow" target="_blank">Sec 2 G3 Content Outline</a>
 </p>
 </li>
 </ul>
