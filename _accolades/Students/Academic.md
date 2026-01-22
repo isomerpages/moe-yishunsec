@@ -331,6 +331,21 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/4E_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/4E_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/4E_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/4E_4.jpg">
+</div>
 <h4><strong>5NA students with L1B4 ≤ 20 &amp; Pass in EL &amp; Math</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -630,6 +645,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/4NA.jpg">
+</div>
 <h3><strong>2025 GCE N-Level Examination <br>Sec 4 Normal (Technical) Results</strong></h3>
 <p><em>Congratulations to our Secondary 4NT students!</em>
 </p>
@@ -769,6 +787,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/4NT_1.jpg">
+</div>
 <hr>
 <h3><strong>2024 GCE O-Level Examination</strong></h3>
 <h4><strong>4E students who achieved L1R5 &lt; 12</strong></h4>
