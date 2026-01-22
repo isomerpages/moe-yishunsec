@@ -60,7 +60,7 @@ variant: tiptap
 <h4>Sec 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Content Outlines for Electives/Sec_3_G2_POA_Content_Outline_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 G2 POA Content Outline</a>
+<p><a href="/files/Content Outlines for Electives/Sec_3_G2_POA_Content_Outline_2026_v2.pdf" rel="noopener nofollow" target="_blank">Sec 3 G2 POA Content Outline</a>
 </p>
 </li>
 </ul>
