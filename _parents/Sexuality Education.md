@@ -949,6 +949,8 @@ completed form is to be submitted by 31/01/2026.</p>
 <li>
 <p>Parents can contact the school at <strong>68767129 </strong>for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
+<p></p>
+<p></p>
 </li>
 </ol>
-<p>_</p>
+<p></p>
