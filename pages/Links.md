@@ -247,7 +247,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://quillbot.com/ai-content-detector" rel="noopener nofollow" target="_blank">AI Content Detector</a>
+<p><a href="https://sora.chatgpt.com/explore" rel="noopener nofollow" target="_blank">Sora (AI tool for creating images)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,7 +257,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://gemini.google.com/app" rel="noopener nofollow" target="_blank">Gemini (AI tool)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health</a>
@@ -266,11 +267,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/videos/create?usp=vids_ald&amp;authuser=0" rel="noopener nofollow" target="_blank">Google Vids (AI tool for video editing)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://quillbot.com/ai-content-detector" rel="noopener nofollow" target="_blank">AI Content Detector</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
