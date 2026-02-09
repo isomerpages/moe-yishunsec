@@ -177,6 +177,10 @@ variant: tiptap
 <p><a href="https://go.gov.sg/yss-student-movement-consolidated-2026" rel="noopener nofollow" target="_blank">Linked Google Sheet</a>
 </p>
 </li>
+<li>
+<p><a href="/files/YSS_Student_Movement_Form_2026___Info_Guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>
+</p>
+</li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
