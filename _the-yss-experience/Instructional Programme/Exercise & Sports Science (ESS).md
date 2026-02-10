@@ -88,7 +88,7 @@ sport and one team sport)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Nos of sessions</strong>
+<p><strong>No of sessions</strong>
 </p>
 </td>
 </tr>
