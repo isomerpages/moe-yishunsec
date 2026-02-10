@@ -75,7 +75,8 @@ sport and one team sport)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>National Submission Deadline: 25 July 2026</p>
+<p>National Submission Deadline: <strong>25 July 2026</strong>
+</p>
 </td>
 </tr>
 <tr>
