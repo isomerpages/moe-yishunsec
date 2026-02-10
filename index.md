@@ -26,7 +26,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Letter to Parents
-      description: Sexuality Education 2026
+      description: CNY Early Dismissal 2026
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
