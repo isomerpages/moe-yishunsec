@@ -58,4 +58,89 @@ from socio-cultural and global perspectives.</p>
 sport and one team sport)</p>
 </li>
 </ol>
+<h3>6081/2 Exercise and Sports Science Coursework</h3>
+<h4>Assessment Schedule</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p>National Start date:<strong> 26 January 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>National Submission Deadline: 25 July 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Coursework Component</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Timeline</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Nos of sessions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Task 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T1 W4-W5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-3 Sessions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Task 2(A)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T1W6 (10 Feb) -T1W8 (27 Feb)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-8 Sessions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Task 2(B)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T1W9 (2 Mar)-T2W2 (3 Apr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12-15 Hours</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Task 2(C)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T2W3 (10 Apr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-2 Sessions</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
