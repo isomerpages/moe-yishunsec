@@ -8,6 +8,10 @@ variant: tiptap
 <h3>Term 1</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/School_Canteen_Renovation_New_HBL_Mar_2026___11_Feb_2026.pdf" rel="noopener nofollow" target="_blank">School Canteen Renovation New HBL Mar 2026 - 11 Feb 2026</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/CNY_Early_Dismissal_2026.pdf" rel="noopener nofollow" target="_blank">CNY Early Dismissal 2026 - 10 Feb 2026</a>
 </p>
 </li>
