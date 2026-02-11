@@ -26,7 +26,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Letter to Parents
-      description: CNY Early Dismissal 2026
+      description: School Canteen Renovation New HBL Mar 2026
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
