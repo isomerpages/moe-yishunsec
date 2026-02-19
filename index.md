@@ -17,14 +17,6 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
-  - infobar:
-      title: CNY Celebration and Early Dismissal
-      subtitle: Announcements
-      id: infobar
-      description: The school will be celebrating Chinese New Year on Monday, 16 Feb
-        2026. On that day, students will be dismissed at 9:30 a.m.
-      button: Read More
-      url: /files/Letter%20to%20Parents/CNY_Early_Dismissal_2026.pdf
   - infopic:
       title: YSS 40th Anniversary Celebrations
       id: infopic
