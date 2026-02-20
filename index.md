@@ -48,12 +48,4 @@ sections:
           description: ""
           linktext: Read more
           url: /yss/news/supportingstudents/
-  - infopic:
-      title: DSA in YSS
-      subtitle: Announcements
-      id: infopic
-      button: Read More
-      url: /students/dsa/
-      image: /images/Students/YSS_DSA_1.png
-      alt: Image alt text
 ---
