@@ -4,10 +4,6 @@ permalink: /students/dsa/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/YSS_DSA_1.png">
-</div>
-<p></p>
 <h4>General Information about Direct School Admission (Secondary) for Admission in 2026</h4>
 <p>The Direct School Admission-Secondary (DSA-Sec) scheme provides students
 with the opportunity to seek admission to a secondary school, based on
@@ -85,13 +81,8 @@ and organising intra and inter-school competitions.</p>
 and passion in Netball, they can look forward to participating, planning,
 and organising intra and inter-school competitions.</p>
 </li>
-<li>
-<p><strong><u>Cross-Country:</u></strong> For students who demonstrate aptitude
-and passion in athletics, they can look forward to participating in intra
-and inter-school competitions. Other than cross-country races, the team
-also competes in other track and field events.</p>
-</li>
 </ol>
+<p></p>
 <h5>Our selection criteria, in general, are as follows:</h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -553,44 +544,6 @@ assessment.</p>
 </p>
 <p>Applicants may undergo a netball skill assessment which includes evaluation
 on Ball handling skills, Game awareness and Teamwork.</p>
-<p></p>
-<h3><strong>9. Cross Country</strong></h3>
-<p><strong>Student's Experience in Yishun Secondary School:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Student leadership opportunities</p>
-</li>
-<li>
-<p>Participate in National School Games</p>
-</li>
-<li>
-<p>Coaching junior players</p>
-</li>
-<li>
-<p>Planning and organising of intra and inter school programmes</p>
-</li>
-</ul>
-<p><em>YSS offers Exercise and Sports Science as a GCE O-level subject. Students who have the aptitude for sports and have the necessary skills requisite may apply to take up this subject.</em>
-</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Demonstrate aptitude and passion in athletics and/or long distance running.</p>
-</li>
-<li>
-<p>Preferably have represented their primary schools in National/International
-events (e.g. National School Games, etc)</p>
-</li>
-<li>
-<p>Students who are <u>not</u> in their primary school Athletic/Cross-Country
-team are <u>also</u> encouraged to apply. The school will assess applicants
-based on the selection criteria, which may include assessing the potential
-of the applicants.</p>
-</li>
-</ul>
 <p></p>
 <p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
