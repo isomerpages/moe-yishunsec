@@ -23,7 +23,7 @@ variant: tiptap
 <h3>CCA Schedule</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Thursdays, 3:45pm to 6pm (may be changed to Tuesdays)</p>
+<p>Tuesdays, 3:45pm to 6pm (and Thursdays during SYF period)</p>
 </li>
 </ul>
 <h3>Venues</h3>
