@@ -184,7 +184,7 @@ variant: tiptap
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://ssoe2.moe.edu.sg/sp" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
+<p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
 </p>
 </td>
 </tr>
@@ -194,7 +194,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness</a>
 </p>
 </td>
 </tr>
@@ -204,7 +204,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness</a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers</a>
 </p>
 </td>
 </tr>
@@ -214,7 +214,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers</a>
+<p><a href="https://www.transcribe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Transcribe (Speech-to-Text)</a>
 </p>
 </td>
 </tr>
@@ -224,7 +224,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.transcribe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Transcribe (Speech-to-Text)</a>
+<p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MOE Sports &amp; Recreation Club</a>
 </p>
 </td>
 </tr>
@@ -234,7 +234,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MOE Sports &amp; Recreation Club</a>
+<p><a href="https://go.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Go.gov.sg (for shorten URL &amp; QR code)</a>
 </p>
 </td>
 </tr>
@@ -244,7 +244,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Go.gov.sg (for shorten URL &amp; QR code)</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillFuture Student Portal</a>
 </p>
 </td>
 </tr>
@@ -254,7 +254,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillFuture Student Portal</a>
+<p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB Learning &amp; Information Literacy Resources</a>
 </p>
 </td>
 </tr>
@@ -264,7 +264,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB Learning &amp; Information Literacy Resources</a>
+<p><a href="https://www.haze.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Haze Situation Update</a>
 </p>
 </td>
 </tr>
@@ -274,7 +274,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.haze.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Haze Situation Update</a>
+<p><a href="https://www.nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NEA Website</a>
 </p>
 </td>
 </tr>
@@ -284,7 +284,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NEA Website</a>
+<p><a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health</a>
 </p>
 </td>
 </tr>
@@ -294,8 +294,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
