@@ -599,9 +599,7 @@ of the applicants.</p>
 </p>
 <p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
-the DSA-Sec Portal <em>(will be available on 7 May 2025, 11am)</em> -<strong> </strong>
-<a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
-</p>
+the DSA-Sec Portal <em>(will be available on 7 May 2025, 11am)</em>.</p>
 <p></p>
 <p><strong>Date: 30 June – 29 August</strong>
 </p>
@@ -636,11 +634,11 @@ outcome during PSLE results release.</p>
 <hr>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="1" src="https://www.youtube.com/embed/Ea_swGnMzGE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="1" src="https://www.youtube.com/embed/Ea_swGnMzGE"></iframe>
 </div>
 <p>DSA Experience Video – Watch the video of YSS DSA Talent Areas.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="1" src="https://www.youtube.com/embed/W8aq4VI-3Hc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="1" src="https://www.youtube.com/embed/W8aq4VI-3Hc"></iframe>
 </div>
 <p>DSA Student’s Voice – Learn how our current DSA students have benefitted
 from joining YSS through DSA.</p>

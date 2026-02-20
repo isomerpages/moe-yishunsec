@@ -53,10 +53,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">Parent Kit - Raising a Digitally Smart Child</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener nofollow" target="_blank">Bite-size tips and advice via Parenting with MOEsg Instagram</a>
 </p>
 </li>
