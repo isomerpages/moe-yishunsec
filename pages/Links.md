@@ -94,7 +94,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://ngg.intranet.gebiz.gov.sg/" rel="noopener nofollow" target="_blank">GeBIZ</a>
+<p><a href="https://mcare.moe.gov.sg" rel="noopener nofollow" target="_blank">mCARE</a>
 </p>
 </td>
 </tr>
@@ -194,7 +194,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://mcare.moe.gov.sg" rel="noopener nofollow" target="_blank">mCARE</a>
+<p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
 </p>
 </td>
 </tr>
@@ -214,7 +214,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers</a>
 </p>
 </td>
 </tr>
@@ -303,8 +303,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
