@@ -22,7 +22,7 @@ sections:
       id: infopic
       button: Read More
       url: /yss40/
-      image: /images/Announcements/YSS40_Event_Banner2026.jpg
+      image: /images/YSS_40th_banner.jpg
       alt: Image alt text
   - infopic:
       title: Letter to Parents
