@@ -84,31 +84,35 @@ variant: tiptap
 <h3>Service Centre Details</h3>
 <h5>Acer Laptop Service Centre</h5>
 <p><strong>Location:</strong> 
-<br>29 International Business Park Singapore 609923
-<br>(1.1km from Jurong East MRT)</p>
-<p>Acer Service Centre Number: <strong>6895 6278</strong> 
-<br>Website: <a href="https://secured.acer.com.sg/pld" rel="noopener noreferrer nofollow" target="_blank">https://secured.acer.com.sg/pld</a> (For
-buying Acer laptop accessories)
-<br>Acer Service Centre Email: <a href="acercare.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank">acercare.sg@acer.com</a>
-</p>
-<p><strong>Opening hours:</strong>
+<br>Acer Computer (Singapore) Pte Ltd</p>
+<p>10 Toh Guan Road, #05-06 (Lobby C), Singapore 608838</p>
+<p><strong>Service Centre Operating Hours:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mon, Tue, Thu, Fri: 08:45 – 17:15</p>
+<p>Monday to Friday: 8:45 a.m. to 5:15 p.m.</p>
 </li>
 <li>
-<p>Wed: 08:45 – 19:45</p>
+<p>Extended Hours: Wednesday: 5:15 p.m. to 7:45 p.m.</p>
 </li>
 <li>
-<p>Sat: 09:00 – 12:00</p>
+<p>Saturday: 9:00 a.m. to 12:00 p.m.</p>
 </li>
 <li>
-<p>Sun and Public Holiday: Closed</p>
+<p>Closed on Sundays and Public Holidays</p>
 </li>
 </ul>
+<p><strong>For Student Purchase Program Support Enquiry</strong>
+</p>
+<p>Email to <a href="mailto:acerstoreedu.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank">acerstoreedu.sg@acer.com</a> or
+contact <strong>6563 6563</strong>
+</p>
+<p>Website: <a href="https://secured.acer.com.sg/pld" rel="noopener noreferrer nofollow" target="_blank">https://secured.acer.com.sg/pld</a> (For
+buying Acer laptop accessories)</p>
+<p>Sales Hotline: <strong>1800 895 6232</strong> Sales Email: <a href="mailto:acs.pdlp@acer.com" rel="noopener noreferrer nofollow" target="_blank">acs.pdlp@acer.com</a>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width:500px;" height="auto" width="100%" src="/images/Parents/Acer_Service_Centre.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/AcerServiceCenter_map.png">
 </div>
 <p></p>
 <h5>Lenovo Laptop Service Centre</h5>
