@@ -108,7 +108,7 @@ variant: tiptap
 contact <strong>6563 6563</strong>
 </p>
 <p>Website: <a href="https://secured.acer.com.sg/pld" rel="noopener noreferrer nofollow" target="_blank">https://secured.acer.com.sg/pld</a> (For
-buying Acer laptop accessories)</p>
+buying Acer PDL accessories)</p>
 <p>Sales Hotline: <strong>1800 895 6232</strong> Sales Email: <a href="mailto:acs.pdlp@acer.com" rel="noopener noreferrer nofollow" target="_blank">acs.pdlp@acer.com</a>
 </p>
 <div class="isomer-image-wrapper">
