@@ -26,7 +26,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Letter to Parents
-      description: School Canteen Renovation New HBL Mar 2026
+      description: Reminder of Canteen Renovation - Mar 2026
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
