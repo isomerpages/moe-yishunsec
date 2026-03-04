@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Term 1</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Letter to Parents/Reminder_of_Canteen_Renovation___3_Mar_2026.pdf" rel="noopener nofollow" target="_blank">Reminder of Canteen Renovation - 3 Mar 2026.pdf</a>
+<p><a href="/files/Letter to Parents/Reminder_of_Canteen_Renovation___3_Mar_2026.pdf" rel="noopener nofollow" target="_blank">Reminder of Canteen Renovation - 3 Mar 2026</a>
 </p>
 </li>
 <li>
