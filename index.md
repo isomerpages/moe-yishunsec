@@ -25,7 +25,7 @@ sections:
         on 5 March 2026 with our “Weave of Unity” event. Students, teachers and
         staff came together...
       button: Read More
-      url: /students/announcements/
+      url: /yss40-weave-of-unity/
       image: /images/Announcements/Weave_of_Unity.jpg
       alt: Image alt text
   - infopic:
