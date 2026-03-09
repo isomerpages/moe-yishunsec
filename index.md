@@ -18,6 +18,17 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
+      title: YSS40 “Weave of Unity” Sets Singapore Book of Records
+      subtitle: Announcement
+      id: infopic
+      description: As part of our YSS40 celebrations, YSS marked a special milestone
+        on 5 March 2026 with our “Weave of Unity” event. Students, teachers and
+        staff came together...
+      button: Read More
+      url: /students/announcements/
+      image: /images/Announcements/Weave_of_Unity.jpg
+      alt: Image alt text
+  - infopic:
       title: YSS 40th Anniversary Celebrations
       id: infopic
       button: Read More
