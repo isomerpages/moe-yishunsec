@@ -36,6 +36,14 @@ cultures and lifestyles.</p>
 <p>Besides travelling abroad, Yishun Secondary School also look forward to
 hosting foreign friends in Singapore.</p>
 <h2>2026</h2>
+<h3>Hosting visiting School Leaders from Punjab</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Hosting_visiting_School_Leaders_from_Punjab_2.jpg">
+</div>
+<h3>Hosting our friends from SMPK Penabur Gading Serpong</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Hosting_our_friends_from_SMPK_Penabur_Gading_Serpong_1.jpg">
+</div>
 <h3>International relations programme</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/IRP_Hosting_2026_1.jpg">
