@@ -134,7 +134,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cal.gov.sg/" rel="noopener nofollow" target="_blank">CalSG (Appointment Booking Tool)</a>
+<p><a href="https://cal.gov.sg/" rel="noopener nofollow" target="_blank">CalSG (for creating Appointment Booking)</a>
 </p>
 </td>
 </tr>
