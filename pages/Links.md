@@ -134,7 +134,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://iexams.seab.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">iExam 2</a>
+<p><a href="https://cal.gov.sg/" rel="noopener nofollow" target="_blank">CalSG </a><em><a href="https://cal.gov.sg/" rel="noopener nofollow" target="_blank">(for creating Appointment Booking)</a></em>
 </p>
 </td>
 </tr>
@@ -161,7 +161,7 @@ variant: tiptap
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://learn.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">LEARN</a>
+<p><a href="https://iexams.seab.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">iExam 2</a>
 </p>
 </td>
 </tr>
@@ -184,7 +184,7 @@ variant: tiptap
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://ssoe2.moe.edu.sg/sp" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
+<p><a href="https://learn.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">LEARN</a>
 </p>
 </td>
 </tr>
@@ -194,7 +194,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
+<p><a href="https://ssoe2.moe.edu.sg/sp" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
 </p>
 </td>
 </tr>
@@ -204,13 +204,23 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pair Chat </a><em><a href="https://pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(AI tool)</a></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pair Chat (AI tool)</a>
+<p><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">ChatGPT </a><em><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,17 +230,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">ChatGPT (AI tool)</a>
+<p><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank">Microsoft Copilot</a><em><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank"> (AI tool)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.transcribe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Transcribe (Speech-to-Text)</a>
+<p><a href="https://www.transcribe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Transcribe </a><em><a href="https://www.transcribe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(Speech-to-Text)</a></em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank">Microsoft Copilot (AI tool)</a>
+<p><a href="https://notebooklm.google.com/" rel="noopener nofollow" target="_blank">Google NotebookLM </a><em><a href="https://notebooklm.google.com/" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -240,17 +250,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://notebooklm.google.com/" rel="noopener nofollow" target="_blank">Google NotebookLM (AI tool)</a>
+<p><a href="https://aibots.gov.sg/" rel="noopener nofollow" target="_blank">AI Bots </a><em><a href="https://aibots.gov.sg/" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Go.gov.sg (for shorten URL &amp; QR code)</a>
+<p><a href="https://go.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Go.gov.sg </a><em><a href="https://go.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">(for shorten URL &amp; QR code)</a></em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://aibots.gov.sg/" rel="noopener nofollow" target="_blank">AI Bots (AI tool)</a>
+<p><a href="https://sora.chatgpt.com/explore" rel="noopener nofollow" target="_blank">Sora </a><em><a href="https://sora.chatgpt.com/explore" rel="noopener nofollow" target="_blank">(AI tool for creating images)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -260,7 +270,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://sora.chatgpt.com/explore" rel="noopener nofollow" target="_blank">Sora (AI tool for creating images)</a>
+<p><a href="https://gemini.google.com/app" rel="noopener nofollow" target="_blank">Gemini </a><em><a href="https://gemini.google.com/app" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,7 +280,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://gemini.google.com/app" rel="noopener nofollow" target="_blank">Gemini (AI tool)</a>
+<p><a href="https://docs.google.com/videos/create?usp=vids_ald&amp;authuser=0" rel="noopener nofollow" target="_blank">Google Vids </a><em><a href="https://docs.google.com/videos/create?usp=vids_ald&amp;authuser=0" rel="noopener nofollow" target="_blank">(AI tool for video editing)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -280,7 +290,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/videos/create?usp=vids_ald&amp;authuser=0" rel="noopener nofollow" target="_blank">Google Vids (AI tool for video editing)</a>
+<p><a href="https://quillbot.com/ai-content-detector" rel="noopener nofollow" target="_blank">AI Content Detector</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -290,20 +300,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://quillbot.com/ai-content-detector" rel="noopener nofollow" target="_blank">AI Content Detector</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
