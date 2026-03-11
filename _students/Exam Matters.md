@@ -5,6 +5,29 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>2026</strong></h2>
+<h4>Term 2 - WA 2</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Weighted Assessment/2026_Overview_of_YSS_WA___Term_2.pdf" rel="noopener nofollow" target="_blank">Overview of YSS WA 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2026_WA_schedule_Term_2_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2026_WA_schedule_Term_2_Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 WA 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2026_WA_schedule_Term_2_Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Weighted Assessment/2026_WA_schedule_Term_2_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 WA 2</a>
+</p>
+</li>
+</ul>
 <h4>Term 1 - WA 1</h4>
 <ul data-tight="true" class="tight">
 <li>
