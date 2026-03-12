@@ -37,7 +37,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Letter to Parents
-      description: Reminder of Canteen Renovation - March 2026
+      description: End of Term 1 2026
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
