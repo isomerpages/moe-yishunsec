@@ -8,7 +8,7 @@ variant: tiptap
 <h4>Term 2 - WA 2</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Weighted Assessment/2026_Overview_of_YSS_WA___Term_2.pdf" rel="noopener nofollow" target="_blank">Overview of YSS WA 2</a>
+<p><a href="/files/Weighted Assessment/2026_Overview_of_YSS_Weighted_Assessment_Term_2_only.pdf" rel="noopener nofollow" target="_blank">Overview of YSS WA 2</a>
 </p>
 </li>
 <li>
