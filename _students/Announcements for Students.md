@@ -5,6 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h2>2026</h2>
+<h4>March Holiday Homework 2026 - 13 Mar 2026</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Announcements for Students/March_Hol_HW_2026_for_S4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
+</p>
+</li>
+</ul>
 <h4>GCE O-Level Results Release - 14 Jan 2026</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -13,7 +20,6 @@ variant: tiptap
 </li>
 </ul>
 <hr>
-<p></p>
 <h2>2025</h2>
 <h4>2025 GCE N-Level Results Release - 18 Dec 2025</h4>
 <ul data-tight="true" class="tight">
