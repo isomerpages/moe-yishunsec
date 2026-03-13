@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Timetables/Students Timetable/Sec2_Timetable_Online_v2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Timetable Sem 1 2026</a>
+<p><a href="/files/Timetables/Students Timetable/Sec_2_Class_Timetable_2026_T2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Timetable Sem 1 2026</a>
 </p>
 </li>
 <li>
