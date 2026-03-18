@@ -181,7 +181,7 @@ way, the PSG set up an IFD Quiz &amp; Games booth.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/PSG/2023/pic16-2023.jpg">
 </div>
-<h4>Mother's Daya nd Father's Day Tribute - Folds of Love</h4>
+<h4>Mother's Day and Father's Day Tribute - Folds of Love</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/PSG/2023/folds%20of%20love%201.jpg">
 </div>
