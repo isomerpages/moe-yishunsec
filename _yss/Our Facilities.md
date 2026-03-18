@@ -8,10 +8,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Table_Talk_1.jpg">
 </div>
-<p></p>
+<p>Table talk</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Table_Talk.jpg">
 </div>
+<p>Table talk</p>
 <h2>The Stairway</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Canteen.jpg">
