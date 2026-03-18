@@ -22,8 +22,7 @@ to preserve the YSS spirit and keep the fire burning in all of us.</p>
 <p>We implore you to continue your ties with us, truly imbuing our alma mater’s
 vision of possessing Quality Minds, Caring Hearts.</p>
 <h3>The YSSAC</h3>
-<p>The YSSAC was formed in 2011 comprising of alumni members from various
-batches.</p>
+<p>The YSSAC was formed in 2011 comprising alumni members from various batches.</p>
 <p>The primary objective of YSSAC is to forge stronger links between alumni
 members and contribute back to the school, community and nation at large.</p>
 <h3>Our Motto</h3>
