@@ -1,8 +1,9 @@
 ---
-title: School Crest, Song, Creed &amp; Motto
+title: School Crest, Song, Creed & Motto
 permalink: /yss/song/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
 ### School Crest
 
