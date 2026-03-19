@@ -113,11 +113,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/DnTWorkshop.jpeg">
 </div>
 <p>D&amp;T Workshop</p>
-<h2>Music Room</h2>
+<h2>Music</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/Music_Room.jpg">
 </div>
-<p>Music Room</p>
+<p>Music Studio</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/musiclab.jpg">
 </div>
