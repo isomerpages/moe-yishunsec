@@ -14,7 +14,7 @@ variant: tiptap
 </div>
 <h2>Garden</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Garden_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Garden_2.jpg">
 </div>
 <h2>1986 Vántage</h2>
 <div class="isomer-image-wrapper">
@@ -51,19 +51,19 @@ variant: tiptap
 <p>The HIVE</p>
 <h2>PE Venues</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Outdoor_Gym.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Outdoor_Gym_1.jpg">
 </div>
 <p>Outdoor Gym</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/basketball_court.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Basketball_Court.jpg">
 </div>
 <p>Basketball Court</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/indoor%20sports%20hall.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/ISH_1.jpg">
 </div>
 <p>Indoor Sports Hall</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/paradesquare1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Parade_Square.jpg">
 </div>
 <p>Parade Square</p>
 <div class="isomer-image-wrapper">
