@@ -30,15 +30,7 @@ variant: tiptap
 </div>
 <p>Lecture Theatre at 3 (LT@3)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Library.png">
-</div>
-<p>The S.P.A.C.E. (Library)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Library.jpg">
-</div>
-<p>The S.P.A.C.E. (Library)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/library1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Library_5.jpg">
 </div>
 <p>The S.P.A.C.E. (Library)</p>
 <div class="isomer-image-wrapper">
@@ -49,6 +41,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/the%20hive.jpeg">
 </div>
 <p>The HIVE</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Hangoutz_1.jpg">
+</div>
+<p>Hangoutz</p>
 <h2>PE Venues</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Outdoor_Gym_1.jpg">
@@ -76,89 +72,37 @@ variant: tiptap
 <p>School Hall</p>
 <h2>Science Labs</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/biolab-1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/SciLabs.jpg">
 </div>
-<p>Biology Lab</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/chem-lab-1.jpeg">
-</div>
-<p>Chemistry Lab 1</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/chem-lab-2.jpeg">
-</div>
-<p>Chemistry Lab 2</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Phy_Lab-1.jpeg">
-</div>
-<p>Physics Lab 1</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Phy_Lab-2.jpeg">
-</div>
-<p>Physics Lab 2</p>
+<p>Biology, Chemistry and Physics Labs</p>
 <h2>Computer Labs</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/com%20lab%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/ComLabs.jpg">
 </div>
-<p>Computer Lab 1</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/comlab2.jpeg">
-</div>
-<p>Computer Lab 2</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/ICT/Nearpod%20Training.jpeg">
-</div>
-<p>Computer Lab 3</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/com%20lab%204.jpg">
-</div>
-<p>Computer Lab 4</p>
+<p>Computer Lab 1 to 4</p>
 <h2>Design and Technology</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/DnTWorkshop.jpeg">
 </div>
 <p>D&amp;T Workshop</p>
-<h2>Music Room</h2>
+<h2>Music</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/Music_Room.jpg">
 </div>
-<p>Music Room</p>
+<p>Music Studio</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/musiclab.jpg">
 </div>
 <p>Music Lab</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/RecStudio1.jpg">
-</div>
-<p>Recording Studio</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/RecStudio2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Recording_Studio.jpg">
 </div>
 <p>Recording Studio</p>
 <h2>Teaching Studio</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/sr1_room.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/TeachingStudios.jpg">
 </div>
-<p>Teaching Studio 1</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/sr2_room.jpeg">
-</div>
-<p>Teaching Studio 2</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/sr3_room.jpeg">
-</div>
-<p>Teaching Studio 3</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/TS4.jpg">
-</div>
-<p>Teaching Studio 4</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/TS5.jpg">
-</div>
-<p>Teaching Studio 5</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/innotechroom.jpeg">
-</div>
-<p>Teaching Studio 6</p>
+<p>Teaching Studio 1 to 6</p>
 <h2>ESS Room</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/ess_room.jpeg">
