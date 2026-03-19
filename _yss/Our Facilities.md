@@ -72,25 +72,9 @@ variant: tiptap
 <p>School Hall</p>
 <h2>Science Labs</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/biolab-1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/SciLabs.jpg">
 </div>
-<p>Biology Lab</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/chem-lab-1.jpeg">
-</div>
-<p>Chemistry Lab 1</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/chem-lab-2.jpeg">
-</div>
-<p>Chemistry Lab 2</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Phy_Lab-1.jpeg">
-</div>
-<p>Physics Lab 1</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/Phy_Lab-2.jpeg">
-</div>
-<p>Physics Lab 2</p>
+<p>Biology, Chemistry and Physics Labs</p>
 <h2>Computer Labs</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/ComLabs.jpg">
