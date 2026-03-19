@@ -93,21 +93,9 @@ variant: tiptap
 <p>Physics Lab 2</p>
 <h2>Computer Labs</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/com%20lab%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/ComLabs.jpg">
 </div>
-<p>Computer Lab 1</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/comlab2.jpeg">
-</div>
-<p>Computer Lab 2</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IP/ICT/Nearpod%20Training.jpeg">
-</div>
-<p>Computer Lab 3</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/com%20lab%204.jpg">
-</div>
-<p>Computer Lab 4</p>
+<p>Computer Lab 1 to 4</p>
 <h2>Design and Technology</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/DnTWorkshop.jpeg">
@@ -130,7 +118,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/TeachingStudios.jpg">
 </div>
-<p>Teaching Studios 1 to 6</p>
+<p>Teaching Studio 1 to 6</p>
 <h2>ESS Room</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/ess_room.jpeg">
