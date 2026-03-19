@@ -49,6 +49,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/the%20hive.jpeg">
 </div>
 <p>The HIVE</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Hangoutz_1.jpg">
+</div>
+<p>Hangoutz</p>
 <h2>PE Venues</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Outdoor_Gym_1.jpg">
