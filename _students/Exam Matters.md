@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/2026_WA_schedule_Term_2_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA 2</a>
+<p><a href="/files/Weighted Assessment/2026_WA_schedule_Term_2_Sec_1_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA 2</a>
 </p>
 </li>
 <li>
