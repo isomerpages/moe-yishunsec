@@ -4,6 +4,9 @@ permalink: /students/dsa/
 description: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/DSA_2027_1.png">
+</div>
 <h4>General Information about Direct School Admission (Secondary) for Admission in 2026</h4>
 <p>The Direct School Admission-Secondary (DSA-Sec) scheme provides students
 with the opportunity to seek admission to a secondary school, based on
@@ -27,14 +30,14 @@ from our talent development programmes to develop their potential, and/or
 to be groomed to be leaders in their respective talent areas. They will
 develop both performance and moral character through our customised programme
 as they grow within their respective CCAs and student development programmes.</p>
-<h5>In Yishun Secondary, the <u>9 talent areas</u> under DSA-Sec are:</h5>
-<ol data-tight="true" class="tight">
+<h5>In Yishun Secondary, the <u>10 talent areas</u> under DSA-Sec are:</h5>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong><u>Music:</u></strong> For students who demonstrate aptitude and
 passion in Music, they can look forward to being part of our school’s Applied
 Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), Music
-Performance and Creation, and in CCAs such as Choir, Guzheng Ensemble and
-Concert Band.</p>
+Performance and Creation, and in CCAs such as Guzheng Ensemble and Concert
+Band.</p>
 </li>
 <li>
 <p><strong><u>Dance:</u></strong> Students who demonstrate aptitude and passion
@@ -47,7 +50,7 @@ their dance techniques and their character. Students will learn to lead,
 to care and to empathise as they plan and train for concerts and competitions.</p>
 </li>
 <li>
-<p><strong><u>Drama-English:</u></strong> For students who demonstrate aptitude
+<p><strong><u>English Drama:</u></strong> For students who demonstrate aptitude
 and passion in Drama, they can participate in script writing workshops,
 gain exposure to different theatre forms, and be part of our D’lite Club
 (English Drama CCA). Students are given opportunities to hone their leadership
@@ -81,7 +84,7 @@ and organising intra and inter-school competitions.</p>
 and passion in Netball, they can look forward to participating, planning,
 and organising intra and inter-school competitions.</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <h5>Our selection criteria, in general, are as follows:</h5>
 <ul data-tight="true" class="tight">
@@ -103,7 +106,7 @@ and demeanour</p>
 <h3><strong>1. Music</strong></h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
-<p><strong>Choir/Guzheng Ensemble/Concert Band</strong>
+<p><strong>Guzheng Ensemble/Concert Band</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -113,7 +116,7 @@ and demeanour</p>
 <p>Participation in student leaders’ workshops and conferences</p>
 </li>
 <li>
-<p>Choir/Guzheng/Concert Band exchanges with other secondary schools</p>
+<p>Guzheng/Concert Band exchanges with other secondary schools</p>
 </li>
 <li>
 <p>Master classes and workshops</p>
@@ -125,7 +128,7 @@ and demeanour</p>
 <p>Performance at YSS Arts Extravaganza</p>
 </li>
 <li>
-<p>Training to be a student conductor (Choir and Concert Band)</p>
+<p>Training to be a student conductor (Concert Band)</p>
 </li>
 <li>
 <p>Participation in local music festivals and competitions</p>
