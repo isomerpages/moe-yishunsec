@@ -27,14 +27,14 @@ from our talent development programmes to develop their potential, and/or
 to be groomed to be leaders in their respective talent areas. They will
 develop both performance and moral character through our customised programme
 as they grow within their respective CCAs and student development programmes.</p>
-<h5>In Yishun Secondary, the <u>9 talent areas</u> under DSA-Sec are:</h5>
+<h5>In Yishun Secondary, the <u>10 talent areas</u> under DSA-Sec are:</h5>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong><u>Music:</u></strong> For students who demonstrate aptitude and
 passion in Music, they can look forward to being part of our school’s Applied
 Learning Programme (ALP) in Sonic Arts (Music, Media and Technology), Music
-Performance and Creation, and in CCAs such as Choir, Guzheng Ensemble and
-Concert Band.</p>
+Performance and Creation, and in CCAs such as Guzheng Ensemble and Concert
+Band.</p>
 </li>
 <li>
 <p><strong><u>Dance:</u></strong> Students who demonstrate aptitude and passion
@@ -103,7 +103,7 @@ and demeanour</p>
 <h3><strong>1. Music</strong></h3>
 <p><strong>Student's Experience in Yishun Secondary School:</strong>
 </p>
-<p><strong>Choir/Guzheng Ensemble/Concert Band</strong>
+<p><strong>Guzheng Ensemble/Concert Band</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -113,7 +113,7 @@ and demeanour</p>
 <p>Participation in student leaders’ workshops and conferences</p>
 </li>
 <li>
-<p>Choir/Guzheng/Concert Band exchanges with other secondary schools</p>
+<p>Guzheng/Concert Band exchanges with other secondary schools</p>
 </li>
 <li>
 <p>Master classes and workshops</p>
@@ -125,7 +125,7 @@ and demeanour</p>
 <p>Performance at YSS Arts Extravaganza</p>
 </li>
 <li>
-<p>Training to be a student conductor (Choir and Concert Band)</p>
+<p>Training to be a student conductor (Concert Band)</p>
 </li>
 <li>
 <p>Participation in local music festivals and competitions</p>
