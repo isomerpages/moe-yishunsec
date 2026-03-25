@@ -31,7 +31,7 @@ to be groomed to be leaders in their respective talent areas. They will
 develop both performance and moral character through our customised programme
 as they grow within their respective CCAs and student development programmes.</p>
 <h5>In Yishun Secondary, the <u>10 talent areas</u> under DSA-Sec are:</h5>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p><strong><u>Music:</u></strong> For students who demonstrate aptitude and
 passion in Music, they can look forward to being part of our school’s Applied
@@ -50,7 +50,7 @@ their dance techniques and their character. Students will learn to lead,
 to care and to empathise as they plan and train for concerts and competitions.</p>
 </li>
 <li>
-<p><strong><u>Drama-English:</u></strong> For students who demonstrate aptitude
+<p><strong><u>English Drama:</u></strong> For students who demonstrate aptitude
 and passion in Drama, they can participate in script writing workshops,
 gain exposure to different theatre forms, and be part of our D’lite Club
 (English Drama CCA). Students are given opportunities to hone their leadership
@@ -84,7 +84,7 @@ and organising intra and inter-school competitions.</p>
 and passion in Netball, they can look forward to participating, planning,
 and organising intra and inter-school competitions.</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <h5>Our selection criteria, in general, are as follows:</h5>
 <ul data-tight="true" class="tight">
