@@ -30,7 +30,7 @@ variant: tiptap
 </div>
 <p>Lecture Theatre at 3 (LT@3)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Library_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Library_6.jpg">
 </div>
 <p>The S.P.A.C.E. (Library)</p>
 <div class="isomer-image-wrapper">
