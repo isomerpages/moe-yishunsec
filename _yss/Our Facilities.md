@@ -36,10 +36,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/chat_space.png">
 </div>
-<h3>The HIVE</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YSS/the%20hive.jpeg">
-</div>
 <h3>Hangoutz</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/Hangoutz_1.jpg">
@@ -80,7 +76,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/DnTWorkshop.jpeg">
 </div>
-<h3>Dance Studio</h3>
+<h3>Music Studio</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/YSS/Music_Room.jpg">
 </div>
