@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>2026 - Schools Redesign Canteens into Social Hangouts, Study Corners</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/YSS_on_News_Mar_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/YSS_on_News_Mar_2026_2.jpg">
 </div>
 <h3>2025 North Zone Schools Junior Chef Culinary Competition Finals Zaobao Schools Article</h3>
 <div class="isomer-image-wrapper">
