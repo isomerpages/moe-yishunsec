@@ -5,11 +5,19 @@ description: ""
 variant: tiptap
 ---
 <h2>2026</h2>
+<p><strong>Breakfast Meeting with Sec 1 Parents - 31 Mar 2026</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parents/Dialogue with Parents/2026_Sec_1_Breakfast_Meeting_2026_Final_V_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>
+</p>
+</li>
+</ul>
 <p><strong>Sec 2 Breakfast Meeting with Parents - 14 Jan 2026</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/Dialogue with Parents/Breakfast_Meeting_with_Parents_Sec_2_14_Jan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>
+<p><a href="/files/Parents/Dialogue with Parents/Breakfast_Meeting_with_Parents_Sec_2_14_Jan_2026_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>
 </p>
 </li>
 </ul>
@@ -17,7 +25,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/Dialogue with Parents/2026_Sec_3_Breakfast_Meeting_V2_1.pdf" rel="noopener nofollow" target="_blank">Briefing Slides</a>
+<p><a href="/files/Parents/Dialogue with Parents/2026_Sec_3_Breakfast_Meeting_v3.pdf" rel="noopener nofollow" target="_blank">Briefing Slides</a>
 </p>
 </li>
 </ul>
@@ -25,7 +33,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/Dialogue with Parents/2026_Sec_4_5_Breakfast_Meeting_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>
+<p><a href="/files/Parents/Dialogue with Parents/2026_Sec_4_5_Breakfast_Meeting_for_Parents_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>
 </p>
 </li>
 </ul>
@@ -33,7 +41,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/Dialogue with Parents/P_Slides_for_Sec_1_Parent_Engagement_9_Jan_2026v2.pdf" rel="noopener nofollow" target="_blank">Briefing Slides</a>
+<p><a href="/files/Parents/Dialogue with Parents/P_Slides_for_Sec_1_Parent_Engagement_9_Jan_2026v3.pdf" rel="noopener nofollow" target="_blank">Briefing Slides</a>
 </p>
 </li>
 </ul>
