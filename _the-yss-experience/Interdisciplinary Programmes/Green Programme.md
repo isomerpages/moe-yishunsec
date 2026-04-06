@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Interdisciplinary Programmes
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/Green_Programme/YSS_Green_Week_2026.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/Green_Programme/Green_Day_2026.jpg">
+</div>
 <h4>Goal</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -40,7 +47,6 @@ with knowledge and inspiration to take meaningful steps toward a greener
 future.</p>
 <p>Together, we celebrated our shared commitment to a more sustainable world—one
 small green step at a time.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/Green_Programme/GP_1_25.jpg">
 </div>
