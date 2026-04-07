@@ -17,6 +17,13 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
+  - infobar:
+      title: Speech & Prize Presentation and Student Leaders' Investiture
+      subtitle: 40th Anniversary Celebrations
+      id: infobar
+      description: 10 April 2026 at 5:00 pm
+      button: Read More
+      url: /files/Speech_Day_2026_Booklet.pdf
   - infopic:
       title: YSS40 Weave of Unity Sets Singapore Book of Records
       subtitle: Announcement
