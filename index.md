@@ -22,7 +22,7 @@ sections:
       subtitle: 40th Anniversary Celebrations
       id: infobar
       description: 10 April 2026 at 5:00 pm
-      button: Read More...
+      button: Read More
       url: /files/Speech_Day_2026_Booklet.pdf
   - infopic:
       title: YSS40 Weave of Unity Sets Singapore Book of Records
