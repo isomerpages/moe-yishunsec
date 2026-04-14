@@ -47,7 +47,7 @@ sections:
       id: textcards
       cards:
         - title: DSA
-          description: General Information about DSA to YSS
+          description: General Information about DSA to YSS.
           linktext: Read more
           url: /students/dsa/
         - title: YSS Goes Global
