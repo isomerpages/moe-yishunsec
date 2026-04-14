@@ -46,6 +46,10 @@ sections:
       title: Information from YSS
       id: textcards
       cards:
+        - title: DSA
+          description: General Information about DSA to YSS.
+          linktext: Read more
+          url: /students/dsa/
         - title: YSS Goes Global
           description: Yishunites Goes Global Programme.
           linktext: Read more
