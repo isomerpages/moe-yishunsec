@@ -7,14 +7,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/DSA_2027_1.png">
 </div>
-<h4>General Information about Direct School Admission (Secondary) for Admission in 2026</h4>
+<h4>General Information about Direct School Admission (Secondary) for Admission in 2027</h4>
 <p>The Direct School Admission-Secondary (DSA-Sec) scheme provides students
 with the opportunity to seek admission to a secondary school, based on
 a diverse range of specific academic and non-academic achievements and
 talents that they can demonstrate beyond the PSLE.</p>
-<p>From 7 May 2025 at 11 am, application for DSA-Sec can be submitted through
+<p>From 6 May 2026 at 11 am, application for DSA-Sec can be submitted through
 the online DSA-Sec Portal. The application is free-of-charge and will be
-open from 7 May (11am) to 3 June (3pm) 2025. For more details, please refer
+open from 6 May (11am) to 2 June (3pm) 2026. For more details, please refer
 to MOE website –<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
@@ -550,17 +550,17 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 <p></p>
 <p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
-<h4>Yishun Secondary School DSA (Sec) 2025 Timeline</h4>
-<p><strong>Date: 7 May (11am) to 3 June (3pm) 2025</strong>
+<h4>Yishun Secondary School DSA (Sec) 2026 Timeline</h4>
+<p><strong>Date: 6 May (11am) to 2 June (3pm) 2026</strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
-the DSA-Sec Portal <em>(will be available on 7 May 2025, 11am)</em>.</p>
+the DSA-Sec Portal <em>(will be available on 6 May 2026, 11am)</em>.</p>
 <p></p>
-<p><strong>Date: 30 June – 29 August</strong>
+<p><strong>Date: 29 June – 28 August 2026</strong>
 </p>
 <p><strong>Activity:</strong> 
-<br>Selection trials: School Based / Video Conference Interview</p>
+<br>Selection trials: School Based Interview</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shortlisted applicants will be informed by the school on details of the
@@ -573,17 +573,17 @@ prior to the interview</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Date: Between 25 Aug and 4 Sep 2025</strong>
+<p><strong>Date: Between 17 Aug and 28 Aug 2026</strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Students will receive DSA application outcome.</p>
 <p></p>
-<p><strong>Date: 27 October – 31 October</strong>
+<p><strong>Date: 19 October – 23 October 2026</strong>
 </p>
 <p><strong>Activity:</strong> Students to choose their preferred schools.
 <br>
 </p>
-<p><strong>Date: Late November</strong>
+<p><strong>Date: Mid November</strong>
 </p>
 <p><strong>Activity:</strong> Applicants will be informed of the allocation
 outcome during PSLE results release.</p>
