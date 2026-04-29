@@ -5,6 +5,111 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h2>2026</h2>
+<h4>Achievements of Tamil Language Students in Tamil Literary Competitions 2026</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Kallang_Grp.jpg">
+</div>
+<p><strong>1. Tamil Literary Competitions by Raffles Institution</strong>
+</p>
+<p>These competitions aim to ignite a passion for the Tamil language and
+literature among Indian students, fostering a deeper appreciation of Tamil
+culture and heritage.</p>
+<p><strong>Achievements:</strong>
+</p>
+<p><strong>Literary Skit – First Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kaliaperumal Nandika (4RP)</p>
+</li>
+<li>
+<p>Arumugam Manimaaran Hansika (4IN)</p>
+</li>
+</ul>
+<p><strong>Tamil Quiz Competition – Merit Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dhanusri Kumaravel (4SO)</p>
+</li>
+<li>
+<p>Jyotsna Rajkumar (4ST)</p>
+</li>
+<li>
+<p>Soundararajan Hirushidha (4RP)</p>
+</li>
+</ul>
+<p><strong>Singing Competition – Merit Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jyotsna Rajkumar (4ST)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>2. Navarasam 12 (Tamil Literary Competitions) by Kallang Community Club</strong>
+</p>
+<p>Navarasa Thiruvizha is a Tamil language competition for secondary school
+students that has been conducted successfully since 2012. It features a
+variety of events celebrating Tamil language and culture.</p>
+<p><strong>Objectives of the Competition:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To provide Tamil students with a platform to participate actively in Tamil
+language and cultural competitions</p>
+</li>
+<li>
+<p>To instil a strong passion for the Tamil language and culture among students</p>
+</li>
+<li>
+<p>To celebrate and encourage students’ achievements in Tamil language and
+culture</p>
+</li>
+</ul>
+<p><strong>Achievements:</strong>
+</p>
+<p><strong>Singing Competition – First Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Baskar Revathy Harshini (3ST)</p>
+</li>
+</ul>
+<p><strong>Dance Competition – Second Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Selvakumar Mahalakshmi (3IT)</p>
+</li>
+<li>
+<p>Thirumurugan Monica (3IT)</p>
+</li>
+<li>
+<p>Gashvithaa Saai (2SO)</p>
+</li>
+<li>
+<p>Muthukumareswaran Varshika (2IN)</p>
+</li>
+</ul>
+<p><strong>Congratulations to all our students on their outstanding achievements!</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Litearry_skit_RI.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Quiz_RI.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/RI_group_photo.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Singing_RI.jpg">
+</div>
 <h2>2024</h2>
 <h4>Present Work to SPS (MOE) Shawn Huang &amp; NDP Chairman EXCO (8 Aug'24)</h4>
 <p>Our students <strong>S Mattea Abby and Nicholas Tan</strong> presented their
@@ -12,11 +117,11 @@ work and share their stories with Guest of Honor Senior Parliamentary Secretary
 (MOE) Shawn Huang at the annual Gift to SG event, NDP 2024 by Our Heart
 for Singapore Gallery.</p>
 <div class="iframe-wrapper">
-<iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1UMrKNl6wIM?si=2DCh4FjSgx4AWS_M"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1UMrKNl6wIM?si=2DCh4FjSgx4AWS_M"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bYUJX2QkxpM?si=IOIv1MIoNIRQ-fTr"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bYUJX2QkxpM?si=IOIv1MIoNIRQ-fTr"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -94,7 +199,7 @@ in knowledge of their loved one’s lifesaving legacy.</p>
 <hr>
 <h4>The Prove It! Contest</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xW2e0jIoruo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xW2e0jIoruo"></iframe>
 </div>
 <p>The National Library Board recently organised The Prove It! Contest that
 challenges students in their knowledge and application of information literacy

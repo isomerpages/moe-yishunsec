@@ -14,8 +14,8 @@ a diverse range of specific academic and non-academic achievements and
 talents that they can demonstrate beyond the PSLE.</p>
 <p>From 6 May 2026 at 11 am, application for DSA-Sec can be submitted through
 the online DSA-Sec Portal. The application is free-of-charge and will be
-open from 6 May (11am) to 2 June (3pm) 2026. For more details, please refer
-to MOE website –<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+open from 6 May (11am) to 2 June (4:30pm) 2026. For more details, please
+refer to MOE website –<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the school’s academic
@@ -551,7 +551,7 @@ on Ball handling skills, Game awareness and Teamwork.</p>
 <p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
 <h4>Yishun Secondary School DSA (Sec) 2026 Timeline</h4>
-<p><strong>Date: 6 May (11am) to 2 June (3pm) 2026</strong>
+<p><strong>Date: 6 May (11am) to 2 June (4:30pm) 2026</strong>
 </p>
 <p><strong>Activity:</strong> 
 <br>Application Window (for Primary 6 students). Application can be made through
@@ -583,7 +583,7 @@ prior to the interview</p>
 <p><strong>Activity:</strong> Students to choose their preferred schools.
 <br>
 </p>
-<p><strong>Date: Mid November</strong>
+<p><strong>Date: Late November</strong>
 </p>
 <p><strong>Activity:</strong> Applicants will be informed of the allocation
 outcome during PSLE results release.</p>
