@@ -17,6 +17,13 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
+  - infobar:
+      title: 15th LEAP AWARD
+      subtitle: Announcement
+      id: infobar
+      description: Nominate your teachers for the 15th LEAP award.
+      button: Read More
+      url: /files/SHHK_LEAP_Award_Poster_2026_HR.pdf
   - infopic:
       title: YSS40 Weave of Unity Sets Singapore Book of Records
       subtitle: Announcement
