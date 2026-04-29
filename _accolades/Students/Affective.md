@@ -10,7 +10,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Kallang_Grp.jpg">
 </div>
-<p></p>
 <p><strong>1. Tamil Literary Competitions by Raffles Institution</strong>
 </p>
 <p>These competitions aim to ignite a passion for the Tamil language and
