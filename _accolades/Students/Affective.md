@@ -95,7 +95,6 @@ culture</p>
 </ul>
 <p><strong>Congratulations to all our students on their outstanding achievements!</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Litearry_skit_RI.jpg">
 </div>
