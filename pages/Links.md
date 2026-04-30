@@ -260,7 +260,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://sora.chatgpt.com/explore" rel="noopener nofollow" target="_blank">Sora </a><em><a href="https://sora.chatgpt.com/explore" rel="noopener nofollow" target="_blank">(AI tool for creating images)</a></em>
+<p><a href="https://gemini.google.com/app" rel="noopener nofollow" target="_blank">Gemini </a><em><a href="https://gemini.google.com/app" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,7 +270,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://gemini.google.com/app" rel="noopener nofollow" target="_blank">Gemini </a><em><a href="https://gemini.google.com/app" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
+<p><a href="https://docs.google.com/videos/create?usp=vids_ald&amp;authuser=0" rel="noopener nofollow" target="_blank">Google Vids </a><em><a href="https://docs.google.com/videos/create?usp=vids_ald&amp;authuser=0" rel="noopener nofollow" target="_blank">(AI tool for video editing)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -280,7 +280,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/videos/create?usp=vids_ald&amp;authuser=0" rel="noopener nofollow" target="_blank">Google Vids </a><em><a href="https://docs.google.com/videos/create?usp=vids_ald&amp;authuser=0" rel="noopener nofollow" target="_blank">(AI tool for video editing)</a></em>
+<p><a href="https://quillbot.com/ai-content-detector" rel="noopener nofollow" target="_blank">AI Content Detector</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -290,8 +290,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://quillbot.com/ai-content-detector" rel="noopener nofollow" target="_blank">AI Content Detector</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NEA Website</a>
