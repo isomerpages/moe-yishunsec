@@ -14,9 +14,6 @@ third_nav_title: Our People
 <li>
 <p>Mr Alex Pek</p>
 </li>
-<li>
-<p>Mr Alan Tan</p>
-</li>
 </ul>
 <h4><strong>Admin Executives</strong></h4>
 <ul data-tight="true" class="tight">
