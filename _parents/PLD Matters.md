@@ -4,6 +4,8 @@ permalink: /parents/pdlp/
 description: ""
 variant: tiptap
 ---
+<h3>Announcement:</h3>
+<p>Sec 1 PLD issue date: 12 May 2026</p>
 <h3>Resources:</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -27,18 +29,16 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Letter to Parents/YSS_NDLP_2025___13Jan2025.pdf" rel="noopener nofollow" target="_blank">YSS NDLP 2025 - 13 Jan 2025</a>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Letter to Parents/YSS___Parent_Engagement_Deck_2025.pdf" rel="noopener nofollow" target="_blank">YSS Parent Engagement Deck 2025</a>
+<p><a href="/files/Letter to Parents/YSS_Parental_Consent_for_Purchase_of_PLD_2026.pdf" rel="noopener nofollow" target="_blank">YSS Parental Consent for Purchase of PLD 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Letter to Parents/Parent_Handbook_2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook 2025</a>
+<p><a href="/files/Parents/PDLP/YSS_Parent_Engagement_Deck_2026_PG.pdf" rel="noopener nofollow" target="_blank">YSS Parent Engagement Deck 2026</a>
 </p>
 </li>
-</ol>
+<li>
+<p><a href="/files/Parents/PDLP/Student_Device_Information_Kit_For_PLDs.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit For PLDs</a>
+</p>
 </li>
 <li>
 <p><a href="/files/HBL/MS_Teams_Guide_for_Students.pdf" rel="noopener nofollow" target="_blank">MS Teams Guide for Students</a>
@@ -46,10 +46,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">MOE Resource Kit for Parents</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents/PDLP/pdlp%20student%20device%20information%20kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
 </p>
 </li>
 <li>
@@ -114,38 +110,6 @@ buying Acer PDL accessories)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/AcerServiceCenter_map.png">
 </div>
-<p></p>
-<h5>Lenovo Laptop Service Centre</h5>
-<p>Lenovo Helpdesk Number: <strong>800 852 8100</strong> 
-<br>(After selecting your preferred language, please press “2” for standard
-warranty customer)</p>
-<p>WhatsApp support: 6703 6821
-<br>Website: <a href="https://www.asiapac.com.sg/pld-lenovo" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/pld-lenovo</a> (For
-buying Lenovo laptop accessories)</p>
-<p><strong>Lenovo Service Center Location:</strong> 
-<br>Servlink Technologies – Lenovo Authorised Service Centre
-<br>Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407
-<br>Hotline: +65 6817 1435
-<br>Email: <a href="mailto:Svcctr@servlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
-<br>Pre-Registration (For Faster Service/Drop-off): <a href="https://smartcares.com/lenovo" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo</a>
-</p>
-<p><strong>Opening hours:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday to Friday: 9:00 AM – 6:00 PM</p>
-</li>
-<li>
-<p>Saturday: 9:00 AM – 1:00 PM</p>
-</li>
-<li>
-<p>Closed on Sundays and Public Holidays</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/Lenovo_Service_Centre.png">
-</div>
-<p></p>
 <h3>School-based Helpline</h3>
 <p>Mondays – Fridays: 8:30 am – 4:30 pm</p>
 <p>During school operating hours, students should contact the School-based
