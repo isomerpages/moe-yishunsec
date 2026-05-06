@@ -213,6 +213,53 @@ the recommended homework time per subject are:</p>
 </p>
 <p>The revised daily screen use limit for homework should not exceed two
 hours.</p>
+<h4>Submission of Work</h4>
+<p>Students are expected to submit their homework by the stipulated deadline
+set. Any request for extension should be made before the assignment due
+date. Students are responsible for making up missed or incomplete work.
+Those who did not submit their work without a valid reason (e.g. illness)
+will be dealt accordingly by respective IP Heads and Year Heads. Students
+who repeatedly do not submit homework and have no valid reasons, will have
+to serve Restorative Reflection Period (R2P). The number of days they serve
+will depend on the frequency and severity of the non-submission. Parents/guardian
+will also be informed if their child/ward frequently do not submit their
+assignments.</p>
+<h4>File Check</h4>
+<p>Students are required to submit their files and materials, across all
+subjects, for checking. Department Heads and Subject Teachers will inform
+the students on the schedule and procedure for submission of the books
+and files.</p>
+<h4>The Role of the Teacher</h4>
+<p>Assessment is an important part of the YSS Curriculum as it is a powerful
+tool to guide and support students’ learning. Assessment is <u>For learning (formative)</u>, <u>Of learning (summative)</u> and <u>As Learning (self-directed and reflective)</u>.
+In planning learning experiences, teachers will also plan how they will
+monitor students’ progress, provide feedback and facilitate the attainment
+of essential learning outcomes. Teachers will adopt a learner-centric approach
+to assessment by:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>providing a range of opportunities for students to demonstrate learning
+and understanding;</p>
+</li>
+<li>
+<p>gathering and recording evidence of students’ demonstrations of learning;</p>
+</li>
+<li>
+<p>making judgements about students’ level of attainment of learning outcomes;</p>
+</li>
+<li>
+<p>guiding the planning of teaching and learning programmes;</p>
+</li>
+<li>
+<p>providing students with clear criteria for success; and</p>
+</li>
+<li>
+<p>engaging students in self-reflection, to enable them to keep track of
+and share their learning.</p>
+</li>
+</ol>
+<p></p>
+<p></p>
 <p></p>
 <p>=================</p>
 <p><strong>Consultation</strong>
@@ -299,4 +346,7 @@ able to participate in consultation for all subjects.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/YSS_Assessment_Policy_updated_March_2024_Page_5.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
