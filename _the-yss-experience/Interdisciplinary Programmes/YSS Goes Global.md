@@ -36,6 +36,10 @@ cultures and lifestyles.</p>
 <p>Besides travelling abroad, Yishun Secondary School also look forward to
 hosting foreign friends in Singapore.</p>
 <h2>2026</h2>
+<h3>Hosting our guests from Andhra Pradesh, India</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Hosting_our_guests_from_Andhra_Pradesh_India.jpg">
+</div>
 <h3>Hosting visiting School Leaders from Punjab</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/YSS_Goes_Global/Hosting_visiting_School_Leaders_from_Punjab_2.jpg">
