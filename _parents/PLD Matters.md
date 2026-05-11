@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcement:</h3>
-<p>Sec 1 PLD issue date: 12 May 2026</p>
+<p>Sec 1 PLD issue date: 12 May 2026 from 2:30 to 4:30 pm</p>
 <h3>Resources:</h3>
 <ul data-tight="true" class="tight">
 <li>
