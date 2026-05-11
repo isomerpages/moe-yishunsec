@@ -4,7 +4,6 @@ permalink: /the-yss-experience/distinctive-programmes/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS Exp/DP/Photo_1_Distinctive_Programme.jpg">
 </div>
