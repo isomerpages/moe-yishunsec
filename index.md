@@ -18,12 +18,12 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infobar:
-      title: 15th LEAP AWARD
+      title: YSS Cross-Country
       subtitle: Announcement
       id: infobar
-      description: Nominate your teachers for the 15th LEAP award.
+      description: "Date: 22 May 2026, Time: 7:30 to 11 am, Venue: Yishun Pond Park."
       button: Read More
-      url: /files/SHHK_LEAP_Award_Poster_2026_HR.pdf
+      url: /x-country/
   - infopic:
       title: YSS40 Weave of Unity Sets Singapore Book of Records
       subtitle: Announcement
