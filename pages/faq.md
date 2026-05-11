@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: tiptap
 ---
-### **FAQ**
-
+<h3><strong>FAQ</strong></h3>
+<p></p>
