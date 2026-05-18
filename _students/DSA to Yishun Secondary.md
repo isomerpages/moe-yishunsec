@@ -7,6 +7,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/DSA_2027_1.png">
 </div>
+<p>Please register for practice session: <a href="https://go.gov.sg/dsaoh2026" rel="noopener nofollow" target="_blank">Register for DSA Open House 2026</a>
+</p>
+<p></p>
 <h4>General Information about Direct School Admission (Secondary) for Admission in 2027</h4>
 <p>The Direct School Admission-Secondary (DSA-Sec) scheme provides students
 with the opportunity to seek admission to a secondary school, based on
