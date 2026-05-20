@@ -190,7 +190,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://padlet.com/auth/login?school_library_id=350788" rel="noopener noreferrer nofollow" target="_blank">Padlet</a>
+<p><a href="https://go.gov.sg/ysssmr" rel="noopener nofollow" target="_blank">Student Management Incident Report Form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,7 +200,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://nearpod.com/" rel="noopener noreferrer nofollow" target="_blank">Nearpod</a>
+<p><a href="https://padlet.com/auth/login?school_library_id=350788" rel="noopener noreferrer nofollow" target="_blank">Padlet</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -210,7 +210,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pair Chat </a><em><a href="https://pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(AI tool)</a></em>
+<p><a href="https://nearpod.com/" rel="noopener noreferrer nofollow" target="_blank">Nearpod</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,7 +220,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">ChatGPT </a><em><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
+<p><a href="https://pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pair Chat </a><em><a href="https://pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(AI tool)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,7 +230,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank">Microsoft Copilot</a><em><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank"> (AI tool)</a></em>
+<p><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">ChatGPT </a><em><a href="https://chatgpt.com" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -240,7 +240,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://notebooklm.google.com/" rel="noopener nofollow" target="_blank">Google NotebookLM </a><em><a href="https://notebooklm.google.com/" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
+<p><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank">Microsoft Copilot</a><em><a href="https://copilot.microsoft.com" rel="noopener nofollow" target="_blank"> (AI tool)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -250,7 +250,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://aibots.gov.sg/" rel="noopener nofollow" target="_blank">AI Bots </a><em><a href="https://aibots.gov.sg/" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
+<p><a href="https://notebooklm.google.com/" rel="noopener nofollow" target="_blank">Google NotebookLM </a><em><a href="https://notebooklm.google.com/" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -260,7 +260,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://gemini.google.com/app" rel="noopener nofollow" target="_blank">Gemini </a><em><a href="https://gemini.google.com/app" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
+<p><a href="https://aibots.gov.sg/" rel="noopener nofollow" target="_blank">AI Bots </a><em><a href="https://aibots.gov.sg/" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,7 +270,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/videos/create?usp=vids_ald&amp;authuser=0" rel="noopener nofollow" target="_blank">Google Vids </a><em><a href="https://docs.google.com/videos/create?usp=vids_ald&amp;authuser=0" rel="noopener nofollow" target="_blank">(AI tool for video editing)</a></em>
+<p><a href="https://gemini.google.com/app" rel="noopener nofollow" target="_blank">Gemini </a><em><a href="https://gemini.google.com/app" rel="noopener nofollow" target="_blank">(AI tool)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -280,7 +280,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://quillbot.com/ai-content-detector" rel="noopener nofollow" target="_blank">AI Content Detector</a>
+<p><a href="https://docs.google.com/videos/create?usp=vids_ald&amp;authuser=0" rel="noopener nofollow" target="_blank">Google Vids </a><em><a href="https://docs.google.com/videos/create?usp=vids_ald&amp;authuser=0" rel="noopener nofollow" target="_blank">(AI tool for video editing)</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -290,7 +290,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://quillbot.com/ai-content-detector" rel="noopener nofollow" target="_blank">AI Content Detector</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NEA Website</a>
