@@ -17,13 +17,6 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
-  - infobar:
-      title: YSS Cross-Country
-      subtitle: Announcement
-      id: infobar
-      description: "Date: 22 May 2026, Time: 7:30 to 11 am, Venue: Yishun Pond Park."
-      button: Read More
-      url: /x-country/
   - infopic:
       title: YSS40 Weave of Unity Sets Singapore Book of Records
       subtitle: Announcement
