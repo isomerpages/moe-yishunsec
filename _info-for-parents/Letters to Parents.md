@@ -8,6 +8,10 @@ variant: tiptap
 <h3>Term 2</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/End_of_Term_2___28_May_2026.pdf" rel="noopener nofollow" target="_blank">End of Term 2 - 28 May 2026 </a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/YSS_Student_Learning_Festival_2026__for_Sec_2_to_5_.pdf" rel="noopener nofollow" target="_blank">YSS Student Learning Festival 2026 (for Sec 2 to 5) - 21 Apr 2026</a>
 </p>
 </li>
