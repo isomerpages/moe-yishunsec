@@ -36,7 +36,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Letter to Parents
-      description: YSS Student Learning Festival 2026 (for Sec 2 to 5)
+      description: End of Term 2 - 28 May 2026
       button: Read more...
       url: /parents/info-for-parents/letters/
       alt: Letter to parents
