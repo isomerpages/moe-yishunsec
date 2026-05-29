@@ -5,6 +5,81 @@ description: ""
 variant: tiptap
 ---
 <h2>2026</h2>
+<p>As part of the preparation for the GCE O level Science Examinations, the
+Science Department will be conducting science practical practice for all
+students in school during the June vacation period.&nbsp; Please refer
+to the table for the schedule.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students offering GCE O-Level <strong>Pure Biology, Chemistry and Physics</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 3 Jun to Fri, 5 Jun 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology:
+<br>4 June, 10:45 am to 12:30 pm
+<br>5 June, 8:30 am to 10:15 am</p>
+<p>Chemistry:
+<br>3 June and 5 June, 10:45 am to 12:30 pm</p>
+<p>Physics:
+<br>3 June and 4 June, 8:30 am to 10:15 am</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students offering GCE O-Level <strong>Combined Sci Biology, Chemistry and Physics</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue, 23 Jun to Fri, 26 Jun 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B31, 4B36, 4B37 and 5N Sci (Chem, Bio): &nbsp;
+<br>23 and 25 June: 8:45 am to 11:30 am</p>
+<p></p>
+<p>4P31, 4P36, 4P37 and 5N Sci (Phy, Chem):
+<br>24 June and 26 June, 8:45 am to 11:30 am</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>March Holiday Homework 2026 - 13 Mar 2026</h4>
 <ul data-tight="true" class="tight">
 <li>
