@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Student Development
 ---
-<p></p>
-<p></p>
 <h3>Vision and Mission</h3>
 <p>In Yishun Secondary School, the Student Leadership programme aims to contribute
 to the development of our students as Capable, Creative, and Compassionate
@@ -57,4 +55,5 @@ required for their respective CCA. CCA leaders are key to nurturing a deep
 sense of belonging and team spirit. By mentoring their juniors and modeling
 excellence, they create a supportive yet disciplined environment where
 character and skill are developed.</p>
+<p></p>
 <p></p>
