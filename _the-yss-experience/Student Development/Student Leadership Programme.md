@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Student Development
 ---
+<h4><a href="/student-development/prefectorial-board/" rel="noopener nofollow" target="_blank">&gt;&gt; Prefectorial Board</a></h4>
+<h4><a href="/peer-support-leaders/" rel="noopener nofollow" target="_blank">&gt;&gt; Peer Support Leaders</a></h4>
+<p></p>
 <h3>Vision and Mission</h3>
 <p>In Yishun Secondary School, the Student Leadership programme aims to contribute
 to the development of our students as Capable, Creative, and Compassionate
