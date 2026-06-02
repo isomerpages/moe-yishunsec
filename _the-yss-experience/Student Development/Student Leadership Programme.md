@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Student Development
 ---
+<p></p>
+<p></p>
 <h3>Vision and Mission</h3>
 <p>In Yishun Secondary School, the Student Leadership programme aims to contribute
 to the development of our students as Capable, Creative, and Compassionate
