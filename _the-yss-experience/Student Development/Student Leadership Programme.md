@@ -59,7 +59,3 @@ sense of belonging and team spirit. By mentoring their juniors and modeling
 excellence, they create a supportive yet disciplined environment where
 character and skill are developed.</p>
 <p></p>
-<h3><a href="/student-development/prefectorial-board/" rel="noopener nofollow" target="_blank">Prefectorial Board</a></h3>
-<h3><a href="/peer-support-leaders/" rel="noopener nofollow" target="_blank">Peer Support Leaders</a></h3>
-<h3>Class Leaders</h3>
-<p></p>
