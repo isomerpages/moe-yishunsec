@@ -2,7 +2,6 @@
 title: Prefectorial Board
 permalink: /student-development/prefectorial-board/
 description: ""
-third_nav_title: Student Development
 variant: tiptap
 ---
 <h3>Teachers-in-charge:</h3>

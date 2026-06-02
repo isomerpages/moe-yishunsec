@@ -3,7 +3,6 @@ title: Peer Support Leaders
 permalink: /peer-support-leaders/
 variant: tiptap
 description: ""
-third_nav_title: Student Development
 ---
 <h4>Teachers-in-charge:</h4>
 <ul data-tight="true" class="tight">
