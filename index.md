@@ -62,4 +62,9 @@ sections:
           description: ""
           linktext: Read more
           url: /yss/news/supportingstudents/
+  - infobar:
+      title: School Operating Hours
+      subtitle: Announcements
+      id: infobar
+      description: "Date: 8 Jun - 12 Jun 2026 Time: 8am  to 3pm"
 ---
