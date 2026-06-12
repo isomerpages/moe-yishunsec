@@ -21,7 +21,7 @@ sections:
       title: School Operating Hours During Jun Holidays
       subtitle: Announcements
       id: infobar
-      description: "Date: 8 Jun - 12 Jun 2026 Time: 8am  to 3pm"
+      description: "Date: 8 Jun - 19 Jun 2026 Time: 8am  to 3pm"
   - infopic:
       title: YSS40 Weave of Unity Sets Singapore Book of Records
       subtitle: Announcement
