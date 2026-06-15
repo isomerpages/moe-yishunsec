@@ -135,7 +135,7 @@ from you.</p>
 <p>If your child/ward is currently not using the Edusave Account and you
 wish to use Edusave to pay for the single-tier miscellaneous fee, you can
 sign up through the Edusave Standing Order (SO) icon under the Services
-tab in Parents Gateway (PG) app, or through <a href="https://go.gov.sg/moe-edusave-signup" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-edusave-signup</a>.
+tab in Parents Gateway (PG) app, or through <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-edusave-signup</a>.
 Alternatively, you may continue to pay via GIRO or other e-payment options
 available.</p>
 </li>
