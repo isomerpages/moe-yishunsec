@@ -6,12 +6,8 @@ variant: tiptap
 ---
 <h2>2026 Sem 2</h2>
 <h4>Class Timetable</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>In progress...</p>
 <p></p>
-</li>
-</ul>
+<p></p>
 <p><em><a href="https://yishunsec.edupage.org/timetable/" rel="noopener nofollow" target="_blank">Click here to access online version.</a></em>
 </p>
 <h4>Students Individual Timetable 2026 Sem 2</h4>
