@@ -17,11 +17,6 @@ sections:
         - title: Links
           description: Self-help Tools & Web Pages
           url: /yss/links/
-  - infobar:
-      title: School Operating Hours During Jun Holidays
-      subtitle: Announcements
-      id: infobar
-      description: "Date: 22 Jun - 26 Jun 2026 Time: 8am  to 5pm"
   - infopic:
       title: YSS40 Weave of Unity Sets Singapore Book of Records
       subtitle: Announcement
