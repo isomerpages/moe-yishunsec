@@ -90,7 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetables/VenueTT/Venue_Timetable_or_2026_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable by Venue 2026</a>
+<p><a href="/files/Venue_Timetable__Sem_2.pdf" rel="noopener nofollow" target="_blank">Timetable by Venue Sem 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
