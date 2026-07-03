@@ -5,10 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>2026</strong></h2>
+<h3>Term 3</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Letter to Parents/Letter_to_Parents___Term_3.pdf" rel="noopener nofollow" target="_blank">Term 3 - 3 July 2026</a>
+</p>
+</li>
+</ul>
 <h3>Term 2</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Letter to Parents/End_of_Term_2___28_May_2026.pdf" rel="noopener nofollow" target="_blank">End of Term 2 - 28 May 2026 </a>
+<p><a href="/files/Letter to Parents/End_of_Term_2___28_May_2026.pdf" rel="noopener nofollow" target="_blank">End of Term 2 - 28 May 2026</a>
 </p>
 </li>
 <li>
