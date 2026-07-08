@@ -45,3 +45,15 @@ YSS spirit</p>
 a place in our story.</p>
 <p>Come back to where it all began, revisit the places that shaped your school
 days, and celebrate this milestone with fellow Yishunites across the generations.</p>
+<p><strong>Register by scanning the QR code </strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="QR code for YSS40 Homecoming" src="/images/QR_code_for_YSS_Homecoming.png">
+</div>
+<p><strong>or via this link: <a href="https://go.gov.sg/yss40homecoming" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yss40homecoming</a></strong>
+</p>
+<p>We look forward to welcoming you home as we celebrate <strong>40 years of Honouring. Empowering. Inspiring.</strong>
+</p>
+<p><strong>Once a Yishunite, always a Yishunite. Welcome home.</strong>
+</p>
+<p>&nbsp;</p>
