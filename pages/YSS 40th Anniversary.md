@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS_40th_Celebration_Poster_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="YSS40 Homecoming Event" src="/images/YSS_40th_Celebration_Poster_1.jpg">
 </div>
 <p><strong>YSS40 Homecoming</strong>
 </p>
@@ -25,7 +25,7 @@ and we would be honoured to welcome you back.</p>
 <br>🕓 <strong>4:00 pm to 6:30 pm</strong>
 <br>📍 <strong>Yishun Secondary School</strong>
 </p>
-<p>👉 <strong>Register by scanning the QR code </strong>
+<p>👉 <strong>Register by scanning the QR code</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="YSS40 Homecoming" src="/images/QR_code_for_YSS_Homecoming1.png">
