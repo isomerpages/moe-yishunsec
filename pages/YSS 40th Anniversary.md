@@ -22,14 +22,15 @@ and we would be honoured to welcome you back.</p>
 <br>🕓 <strong>4:00 pm to 6:30 pm</strong>
 <br>📍 <strong>Yishun Secondary School</strong>
 </p>
-<p>👉 <strong>Register by scanning the QR code</strong>
+<p><strong>👉 Register via this link:</strong>
+</p>
+<p><strong><a href="https://go.gov.sg/yss40homecoming" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yss40homecoming</a></strong>
+</p>
+<p><strong>or by scanning the QR code</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="YSS40 Homecoming" src="/images/QR_code_for_YSS_Homecoming1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="YSS40 Homecoming QR code" src="/images/QR_code_for_YSS_Homecoming1.png">
 </div>
-<p><strong>or via this link:</strong>  <a href="https://go.gov.sg/yss40homecoming" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yss40homecoming</a>
-</p>
-<p></p>
 <p>Look forward to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -57,7 +58,7 @@ a place in our story.</p>
 <p>Come back to where it all began, revisit familiar places, reconnect with
 old friends and colleagues, and celebrate this milestone with generations
 of Yishunites.</p>
-<p>We can't wait to welcome you home and celebrate <strong>40 years of Honouring. Empowering. Inspiring. </strong>
+<p>We can't wait to welcome you home and celebrate <strong>40 years of Honouring. Empowering. Inspiring.</strong>
 </p>
 <p><strong>Once a Yishunite, always a Yishunite. Welcome home.</strong>
 </p>
