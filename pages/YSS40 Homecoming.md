@@ -1,5 +1,5 @@
 ---
-title: YSS 40th Anniversary
+title: YSS40 Homecoming
 permalink: /yss40/
 variant: tiptap
 description: ""
@@ -62,8 +62,8 @@ of Yishunites.</p>
 </p>
 <p><strong>Once a Yishunite, always a Yishunite. Welcome home.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="YSS40 Homecoming Event" src="/images/YSS_40th_Celebration_Poster_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="YSS40 Poster" src="/images/YSS_40th_banner.jpg">
 </div>
+<p></p>
 <p></p>
