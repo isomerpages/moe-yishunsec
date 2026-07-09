@@ -28,7 +28,6 @@ and we would be honoured to welcome you back.</p>
 </p>
 <p><strong>or by scanning the QR code</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="YSS40 Homecoming QR code" src="/images/QR_code_for_YSS_Homecoming1.png">
 </div>
