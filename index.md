@@ -18,12 +18,14 @@ sections:
           description: Self-help Tools & Web Pages
           url: /yss/links/
   - infopic:
-      title: YSS 40th Anniversary Celebrations
+      title: YSS40 Homecoming
       id: infopic
       button: Read More
       url: /yss40/
       image: /images/YSS_40th_banner.jpg
       alt: Image alt text
+      description: We can't wait to welcome you home and celebrate 40 years of
+        Honouring. Empowering. Inspiring.
   - infopic:
       title: YSS40 Weave of Unity Sets Singapore Book of Records
       subtitle: Announcement
