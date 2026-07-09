@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>2026</h2>
+<h4>Caring Buddy Award 2026</h4>
+<p>Cast your nominations by <strong><u>17 July 2026.</u></strong>  <a href="https://forms.gle/HXHAd6sdKdRLTzLJ9" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/HXHAd6sdKdRLTzLJ9</a>
+</p>
 <h4>June Holiday Homework 2026 - 29 Jun 2026</h4>
 <ul data-tight="true" class="tight">
 <li>
