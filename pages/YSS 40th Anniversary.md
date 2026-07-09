@@ -4,11 +4,12 @@ permalink: /yss40/
 variant: tiptap
 description: ""
 ---
+<p><strong>YSS40 Homecoming</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="YSS40 Homecoming Event" src="/images/YSS_40th_Celebration_Poster_1.jpg">
 </div>
-<p><strong>YSS40 Homecoming</strong>
-</p>
+<p></p>
 <p><strong>Come Home to Celebrate 40 Years of Memories</strong>
 </p>
 <p>For 40 years, Yishun Secondary School has been more than just a school—it
