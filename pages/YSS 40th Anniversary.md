@@ -22,17 +22,16 @@ and we would be honoured to welcome you back.</p>
 <br>🕓 <strong>4:00 pm to 6:30 pm</strong>
 <br>📍 <strong>Yishun Secondary School</strong>
 </p>
-<p><strong>👉 Register via this link: </strong>
+<p><strong>👉 Register via this link:</strong>
 </p>
-<p><strong><a href="https://go.gov.sg/yss40homecoming" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yss40homecoming</a> </strong>
+<p><strong><a href="https://go.gov.sg/yss40homecoming" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yss40homecoming</a></strong>
 </p>
 <p><strong>or by scanning the QR code</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="YSS40 QR code" src="/images/QR_code_for_YSS_Homecoming2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="YSS40 Homecoming QR code" src="/images/QR_code_for_YSS_Homecoming1.png">
 </div>
-<p></p>
 <p>Look forward to:</p>
 <ul data-tight="true" class="tight">
 <li>
