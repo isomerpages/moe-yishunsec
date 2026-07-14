@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_1_WA3.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA3</a>
+<p><a href="/files/Exam Matters/Sec_1_WA3.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA3</a>
 </p>
 </li>
 <li>
@@ -31,15 +31,15 @@ variant: tiptap
 <h4>2026 Prelim Exam Format and Topics for Sec 4 &amp; 5</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026_Sec_4E5N_prelim_exam_format_and_topics.pdf" rel="noopener nofollow" target="_blank">Sec 4E5N Prelim Exam Format and Topics</a>
+<p><a href="/files/Exam Matters/2026_Sec_4E5N_prelim_exam_format_and_topics.pdf" rel="noopener nofollow" target="_blank">Sec 4E5N Prelim Exam Format and Topics</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2026_Sec_4NA_prelim_exam_format_and_topics.pdf" rel="noopener nofollow" target="_blank">Sec 4NA Prelim Exam Format and Topics</a>
+<p><a href="/files/Exam Matters/2026_Sec_4NA_prelim_exam_format_and_topics.pdf" rel="noopener nofollow" target="_blank">Sec 4NA Prelim Exam Format and Topics</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2026_Sec_4NT_prelim_exam_format_and_topics.pdf" rel="noopener nofollow" target="_blank">Sec 4NT Prelim Exam Format and Topics</a>
+<p><a href="/files/Exam Matters/2026_Sec_4NT_prelim_exam_format_and_topics.pdf" rel="noopener nofollow" target="_blank">Sec 4NT Prelim Exam Format and Topics</a>
 </p>
 </li>
 </ul>
