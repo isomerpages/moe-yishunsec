@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_3_WA3.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA3</a>
+<p><a href="/files/Exam Matters/Sec_3_WA3.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA3</a>
 </p>
 </li>
 <li>
@@ -341,7 +341,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Weighted Assessment/2024/Sec_3_WA_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA</a>
+<p><a href="/files/Weighted Assessment/Sec_3_WA3.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA</a>
 </p>
 </li>
 <li>
