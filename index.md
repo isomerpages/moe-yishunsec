@@ -44,7 +44,7 @@ sections:
         partnered with DBS to conduct the Responsible AI Gameplay Programme for
         Sec 2 students
       button: Read More
-      url: https://yishunsec.moe.edu.sg/responsible-ai-gameplay/
+      url: /responsible-ai-gameplay/
       image: /images/WhatsApp_Image_2026_07_22_at_2_09_49_PM.jpg
       alt: Teamwork at the AI stations
   - infopic:
