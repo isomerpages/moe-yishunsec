@@ -4,7 +4,7 @@ permalink: /responsible-ai-gameplay/
 variant: tiptap
 description: ""
 ---
-<h4>Programme Highlights</h4>
+<h3>Programme Highlights</h3>
 <p>As AI becomes part of everyday life, Yishun Secondary School partnered
 with DBS to run the <strong>Responsible AI Gameplay Programme</strong> for
 all Secondary 2 students, held over two sessions on 29 June and 20 July
