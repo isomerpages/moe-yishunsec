@@ -64,4 +64,15 @@ sections:
           description: ""
           linktext: Read more
           url: /yss/news/supportingstudents/
+  - infopic:
+      title: Responsible AI Gameplay Programme
+      subtitle: Announcement
+      id: infopic
+      description: As part of its digital literacy efforts, Yishun Secondary School
+        partnered with DBS to conduct the Responsible AI Gameplay Programme for
+        Sec 2 students
+      button: Read More
+      url: https://www.yishunsec.moe.edu.sg/
+      image: /images/WhatsApp_Image_2026_07_22_at_2_09_49_PM.jpg
+      alt: Teamwork at the AI stations
 ---
