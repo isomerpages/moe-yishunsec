@@ -37,6 +37,17 @@ sections:
       image: /images/Announcements/Weave_of_Unity.jpg
       alt: Image alt text
   - infopic:
+      title: Responsible AI Gameplay Programme
+      subtitle: Announcement
+      id: infopic
+      description: As part of its digital literacy efforts, Yishun Secondary School
+        partnered with DBS to conduct the Responsible AI Gameplay Programme for
+        Sec 2 students
+      button: Read More
+      url: https://yishunsec.moe.edu.sg/responsible-ai-gameplay/
+      image: /images/WhatsApp_Image_2026_07_22_at_2_09_49_PM.jpg
+      alt: Teamwork at the AI stations
+  - infopic:
       title: Letter to Parents
       description: End of Term 2 - 28 May 2026
       button: Read more...
@@ -64,15 +75,4 @@ sections:
           description: ""
           linktext: Read more
           url: /yss/news/supportingstudents/
-  - infopic:
-      title: Responsible AI Gameplay Programme
-      subtitle: Announcement
-      id: infopic
-      description: As part of its digital literacy efforts, Yishun Secondary School
-        partnered with DBS to conduct the Responsible AI Gameplay Programme for
-        Sec 2 students
-      button: Read More
-      url: https://www.yishunsec.moe.edu.sg/
-      image: /images/WhatsApp_Image_2026_07_22_at_2_09_49_PM.jpg
-      alt: Teamwork at the AI stations
 ---
