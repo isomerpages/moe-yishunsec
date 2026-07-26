@@ -6,8 +6,45 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h2>Congratulations to Following Students:</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/Sempio_Alyssa_Marie_Sayo.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Lim Chun Hong" src="/images/YSS/Alumni/LIM_CHUN_HONG.jpg">
+</div>
+<p>Yishun Secondary School proudly congratulates Lim Chun Hong on his achievements.
+During his time at YSS, Chun Hong served as the Drum Major and Chairperson
+of the School Symphonic Band. He represented the school at the Singapore
+Youth Festival (SYF) and also served as a Prefect and Class Monitor, exemplifying
+leadership and dedication.</p>
+<p>He has graduated with Merit in the Diploma in Sport &amp; Exercise Science
+from Republic Polytechnic and hopes to pursue further studies in Business
+or Psychology. Congratulations, Chun Hong! We are proud of you.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Lim Han Ting" src="/images/YSS/Alumni/LAM_HAN_TING.jpg">
+</div>
+<p>We are proud of Lim Han Ting who has served as a Staff Sergeant in the
+Boys' Brigade at YSS. He actively participated in inter-class games, and
+earned the J. M. Fraser Bronze Award for his leadership and service.</p>
+<p>He has graduated with Merit in the Diploma in Infocomm Security Management
+and will be pursuing further studies in Infocomm or Computer Science. Congratulations,
+Han Ting! We wish you every success in your future endeavours.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Anushka d/o Nakkeeran" src="/images/YSS/Alumni/ANUSHKA_DO_NAKKEERAN.jpg">
+</div>
+<p>During her time at YSS, Anushka d/o Nakkeeran served as a Senior Prefect,
+actively organising school-wide programmes. She was also a member of the
+English Drama Club and a Cyber Wellness Ambassador, exemplifying leadership
+and service.</p>
+<p>We congratulate Anushka on graduating with Merit in the Diploma in Integrated
+Events Management from Republic Polytechnic. She will be continuing her
+studies at the Singapore Institute of Technology, pursuing a degree in
+Hospitality and Tourism Management. Congratulations, Anushka! We wish you
+every success in your future endeavours.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Sempio_Alyssa_Marie_Sayo.jpg">
 </div>
 <p>Class : 5N1 (2021)</p>
 <p>Alyssa was a hardworking and committed student who balanced her studies
@@ -17,7 +54,7 @@ also served as a member of the class committee, where she supported her
 peers and contributed meaningfully to the school community.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/Ethan_Fong.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Ethan_Fong.jpg">
 </div>
 <p>Class: 4N3 (2020)</p>
 <p>Ethan Fong was a cheerful and well-behaved student who contributed actively
@@ -28,7 +65,7 @@ peers and strengthening the class spirit. His positive attitude and commitment
 made him a well-respected member of the school community.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/Student/Putri_Salsabila_Bte_Mohamad_Azman.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Accolades/Student/Putri_Salsabila_Bte_Mohamad_Azman.jpg">
 </div>
 <p>Class: 4E6 (2018)</p>
 <p>Putri Salsabila was an active and passionate contributor to school life.
