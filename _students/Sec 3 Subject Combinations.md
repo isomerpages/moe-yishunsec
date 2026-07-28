@@ -5,8 +5,16 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 3 Subject Combinations/2026SubCombiSlide1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Sec 3 Subject Combination Timeline" src="/images/Sec 3 Subject Combinations/2026_Sec_3_Subj_Combi_Timeline.png">
 </div>
+<h4>Subject Booklets 2026</h4>
+<p><a href="/files/Sec 3 Subject Combinations/2026_Subject_Booklet_G1.pdf" rel="noopener nofollow" target="_blank">2026 Subject Booklet G1</a>
+</p>
+<p><a href="/files/Sec 3 Subject Combinations/2026_Subject_Booklet_G2.pdf" rel="noopener nofollow" target="_blank">2026 Subject Booklet G2</a>
+</p>
+<p><a href="/files/Sec 3 Subject Combinations/2026_Subject_Booklet_G3.pdf" rel="noopener nofollow" target="_blank">2026 Subject Booklet G3</a>
+</p>
+<h4>Subject Requirements 2025</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 3 Subject Combinations/2026_Sub_Requirements_2_Page_4.jpg">
 </div>
@@ -27,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4>Subject Booklets</h4>
+<h4>Subject Booklets 2025</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Sec 3 Subject Combinations/2025_Subject_Booklet_G1.pdf" rel="noopener nofollow" target="_blank">2025 Subject Booklet G1</a>
