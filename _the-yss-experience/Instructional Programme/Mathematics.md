@@ -26,6 +26,19 @@ to help students with visualisation of geometrical properties.</p>
 </li>
 </ul>
 <h3>Awards/Achievements</h3>
+<h4>2026</h4>
+<p><strong>Celebrating Excellence: NIE Mathematics Challenge</strong>
+</p>
+<p>We are incredibly proud to announce the outstanding achievements of our
+students in the recent <strong>NIE Mathematics Challenge</strong>.</p>
+<p>Our students demonstrated exceptional critical thinking, teamwork, and
+analytical problem-solving skills, competing at a stellar level.</p>
+<p>🌟 <strong>Congratulations to the following achievers!</strong> Your hard
+work, resilience, and passion for mathematics have truly paid off.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NIE Math Challenge 2026 results" src="/images/IP/Math/NIE_Math_Challenge_2026_Collated_Results_28_July.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Coding Programme and National Digital Explorer (NDE):</strong>
