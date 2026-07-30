@@ -16,5 +16,5 @@ variant: tiptap
 <p><strong>Member:</strong>&nbsp;Mr Mike Koh</p>
 <p><strong>Member:</strong>&nbsp;Mr Kelvin Khaw</p>
 <p><strong>Vice-Principal:</strong>&nbsp;Mrs Oh Wee Ming</p>
-<p><strong>Vice-Principal:</strong>&nbsp;Mr Tay Hiang Soon</p>
+<p><strong>Vice-Principal:</strong>&nbsp;Mr Tang Jui Piow</p>
 <p><strong>Vice-Principal:</strong>&nbsp;Mr Jayakumar Navaretnam</p>
