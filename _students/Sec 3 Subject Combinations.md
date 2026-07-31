@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Sec 3 Subject Combinations/30_July__Sec_3_subject_combination_Breakout_Session_G2_group.pdf" rel="noopener nofollow" target="_blank">YSS S3 Subject Combination G2 Breakout session</a>
 </p>
-<p><a href="/files/Sec 3 Subject Combinations/30_July__YSS_S3_Subject_Combination__slides_for_Parents_Main_Deck_and_G3_Breakout_session.pdf" rel="noopener nofollow" target="_blank">YSS_S3 Subject Combination  slides_for Parents_Main Deck and G3 Breakout session</a>
+<p><a href="/files/Sec 3 Subject Combinations/30_July__YSS_S3_Subject_Combination__slides_for_Parents_Main_Deck_and_G3_Breakout_session.pdf" rel="noopener nofollow" target="_blank">YSS_S3 Subject Combination slides_for Parents_Main Deck and G3 Breakout session</a>
 </p>
 <h4>Subject Booklets 2026</h4>
 <p><a href="/files/Sec 3 Subject Combinations/2026_Subject_Booklet_G1.pdf" rel="noopener nofollow" target="_blank">2026 Subject Booklet G1</a>
