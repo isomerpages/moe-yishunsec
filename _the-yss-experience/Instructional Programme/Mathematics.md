@@ -37,7 +37,7 @@ analytical problem-solving skills, competing at a stellar level.</p>
 work, resilience, and passion for mathematics have truly paid off.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NIE Math Challenge 2026 results" src="/images/IP/Math/NIE_Math_Challenge_2026_Collated_Results_28_July.png">
+<img style="width: 100%" height="auto" width="100%" alt="NIE Math Challenge" src="/images/IP/Math/NIE_Math_Challenge_2026_Collated_Results_5_Aug.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
