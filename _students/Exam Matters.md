@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Exam Matters/Sec3_WA3_17Aug26.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA3</a>
+<p><a href="/files/Exam Matters/Sec3_WA3_17Aug26.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA3</a>
 </p>
 </li>
 <li>
