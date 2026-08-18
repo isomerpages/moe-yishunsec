@@ -5,6 +5,21 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>2026</strong></h2>
+<h4>2026 EOY Exam Timetable Sec 1 to 3</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Exam Matters/Sec_1_EOY_Timetable_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 EOY ExamTT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Exam Matters/Sec_2_EOY_Timetable_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 EOY ExamTT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Exam Matters/Sec_3_EOY_Timetable_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 EOY ExamTT</a>
+</p>
+</li>
+</ul>
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -46,7 +61,7 @@ variant: tiptap
 <h4>2026 Prelim-Exam Timetable for Sec 4 &amp; 5</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Exam Matters/Prelim_Exam_Timetable_4E5N_updated.pdf" rel="noopener nofollow" target="_blank">Sec 4E &amp; 5N</a>
+<p><a href="/files/Exam Matters/Prelim_Exam_Timetable_4E5N_updated_for_MTL_result_release.pdf" rel="noopener nofollow" target="_blank">Sec 4E &amp; 5N</a>
 </p>
 </li>
 <li>
