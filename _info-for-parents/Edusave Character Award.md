@@ -4,10 +4,10 @@ permalink: /parents/info-for-parents/edusave/
 description: ""
 variant: tiptap
 ---
-<h4>EDUSAVE CHARACTER AWARD 2025 NOMINATIONS</h4>
+<h4>Edusave Character Award (ECHA) 2026 – Parent Nomination Form</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://forms.gle/Guepqbis7CamLpd49" rel="noopener noreferrer nofollow" target="_blank">ECHA 2025 Parent Nomination Form</a>
+<p><a href="https://forms.gle/c677YBAuAAtfTekQ7" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/c677YBAuAAtfTekQ7</a>
 </p>
 </li>
 </ul>
