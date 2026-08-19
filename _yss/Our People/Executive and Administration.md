@@ -33,7 +33,7 @@ third_nav_title: Our People
 <p>Ms Elaine Ng</p>
 </li>
 <li>
-<p>Mr Alan Loh</p>
+<p>Mdm Azura</p>
 </li>
 </ul>
 <h4><strong>Operations Manager</strong></h4>
@@ -42,10 +42,13 @@ third_nav_title: Our People
 <p>Mr Fazal Khan Arunkhan</p>
 </li>
 </ul>
-<h4><strong>ICT Manager</strong></h4>
+<h4><strong>ICT Manager/Associate</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Praveen Prakash</p>
+<p>Mr Praveen</p>
+</li>
+<li>
+<p>Mr Zalizam</p>
 </li>
 </ul>
 <h4><strong>Operations Support Officers</strong></h4>
