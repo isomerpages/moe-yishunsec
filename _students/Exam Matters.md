@@ -23,7 +23,7 @@ variant: tiptap
 <h4>Term 3 - WA 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Exam Matters/Overview_of_YSS_WA3.pdf" rel="noopener nofollow" target="_blank">Overview of YSS WA3</a>
+<p><a href="/files/Exam Matters/Overview_of_YSS_WA3_20Aug2026.pdf" rel="noopener nofollow" target="_blank">Overview of YSS WA3</a>
 </p>
 </li>
 <li>
@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Exam Matters/Sec3_WA3_17Aug26.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA3</a>
+<p><a href="/files/Exam Matters/Sec_3_WA3_20Aug2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA3</a>
 </p>
 </li>
 <li>
