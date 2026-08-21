@@ -24,8 +24,9 @@ sections:
       url: /yss40/
       image: /images/YSS_40th_banner.jpg
       alt: Image alt text
-      description: We can't wait to welcome you home and celebrate 40 years of
-        Honouring. Empowering. Inspiring.
+      description: "We can't wait to welcome you home and celebrate 40 years of
+        Honouring. Empowering. Inspiring. Date: 2 Sep (Wed) 2026, Time: 4 to
+        6:30 pm"
   - infopic:
       title: YSS40 Weave of Unity Sets Singapore Book of Records
       subtitle: Announcement
