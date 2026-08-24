@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Exam Matters/Sec_3_EOY_Timetable_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 EOY ExamTT</a>
+<p><a href="/files/Exam Matters/Sec_3_EOY_Timetable_v4.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 EOY ExamTT</a>
 </p>
 </li>
 </ul>
