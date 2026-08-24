@@ -8,15 +8,15 @@ variant: tiptap
 <h4>2026 EOY Exam Timetable Sec 1 to 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Exam Matters/Sec_1_EOY_Timetable_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 EOY ExamTT</a>
+<p><a href="/files/Exam Matters/Sec_1_EOY_Timetable_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 EOY ExamTT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Exam Matters/Sec_2_EOY_Timetable_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 EOY ExamTT</a>
+<p><a href="/files/Exam Matters/Sec_2_EOY_Timetable_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 EOY ExamTT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Exam Matters/Sec_3_EOY_Timetable_v4.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 EOY ExamTT</a>
+<p><a href="/files/Exam Matters/Sec_3_EOY_Timetable_v5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 EOY ExamTT</a>
 </p>
 </li>
 </ul>
