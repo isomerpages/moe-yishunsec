@@ -151,6 +151,38 @@ Reflecting, Reminiscing
 <p>Ms Regina Lee appointed as seventh Principal</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>December 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Oh Wee Ming appointed as Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>January - December 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(YSS40) Celebration of YSS 40<sup>th </sup>Anniversary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YSS40 Weave of Unity Sets Singapore Book of Records</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tang Jui Piow appointed as Vice-Principal</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
