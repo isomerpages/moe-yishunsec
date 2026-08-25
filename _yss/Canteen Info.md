@@ -25,23 +25,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Noodle Stall</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Closed</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Must have:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Catering experience
-<br>
-</p>
-</li>
-<li>
-<p>Completed food and hygiene course</p>
-</li>
-</ol>
+<p></p>
 </td>
 </tr>
 </tbody>
