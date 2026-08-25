@@ -161,10 +161,10 @@ Reflecting, Reminiscing
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>January 2026</p>
+<p>January - December 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YSS celebrating 40th Anniversary</p>
+<p>(YSS40) Celebration of YSS 40<sup>th </sup>Anniversary</p>
 </td>
 </tr>
 <tr>
