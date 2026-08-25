@@ -6,6 +6,9 @@ variant: tiptap
 third_nav_title: Our People
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YSS/EAS_2026.jpg">
+</div>
 <h4><strong>Admin Manager</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -33,7 +36,7 @@ third_nav_title: Our People
 <p>Ms Elaine Ng</p>
 </li>
 <li>
-<p>Mdm Azura</p>
+<p>Mdm Azura Othman</p>
 </li>
 </ul>
 <h4><strong>Operations Manager</strong></h4>
@@ -45,10 +48,10 @@ third_nav_title: Our People
 <h4><strong>ICT Manager/Associate</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Praveen</p>
+<p>Mr Praveen Prakash</p>
 </li>
 <li>
-<p>Mr Zalizam</p>
+<p>Mr Zalizam Mat Hashim</p>
 </li>
 </ul>
 <h4><strong>Operations Support Officers</strong></h4>
