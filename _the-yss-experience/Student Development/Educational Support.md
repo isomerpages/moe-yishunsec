@@ -32,7 +32,7 @@ variant: tiptap
 <p>PUTERI FARAH SYAKIRA BINTE MOHAMMAD FAUZI - [S3-SO]</p>
 </li>
 </ol>
-<h3>Objectives:</h3>
+<h3>Objectives</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>To nurture students who are connected, competent and contributing members
@@ -45,7 +45,7 @@ of the school and community</p>
 <p>To provide a platform for the students to be engage in school in the afternoon</p>
 </li>
 </ol>
-<h3>Schedule:</h3>
+<h3>Schedule</h3>
 <p>Monday: 3 pm – 5pm (Sports and Healthy Living)</p>
 <p>Tuesday: 3pm – 5pm (Arts Appreciation)</p>
 <p>Thursday: 3pm – 5pm (Information Technology Exploration)</p>
@@ -100,10 +100,10 @@ of the school and community</p>
 <h4>Termly Outing</h4>
 <p>Term 1: Prata Making Workshop @ Casuarina Curry</p>
 <p>Term 2: Perfume Making Workshop @ Scentopia</p>
-<h4>Video:</h4>
+<h4>Video</h4>
 <p><a href="https://youtube.com/shorts/XljCUtQx2t8?si=xDW7V67Xck8xU45i" rel="noopener nofollow" target="_blank">YE@H Arts Appreciation and IT Activities 2025</a>
 </p>
-<h4>Photos:</h4>
+<h4>Photos</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/StudDevelopment/EduSupport/Educational_Support_Showcase_2024.jpg">
 </div>
