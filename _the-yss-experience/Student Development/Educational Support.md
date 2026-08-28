@@ -5,19 +5,19 @@ description: ""
 third_nav_title: Student Development
 variant: tiptap
 ---
-<h3>Teacher Mentors:</h3>
+<h3>Teacher Mentors</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Muhammad Baqi</p>
+<p>Mr Tan Kok Young</p>
 </li>
 <li>
-<p>Mr Lee Boon Kiat</p>
+<p>Mr Koh Yong Cheng</p>
 </li>
 <li>
-<p>Mr Zainal</p>
+<p>Mdm Aisah</p>
 </li>
 <li>
-<p>Ms Sarah</p>
+<p>Mrs Pam Philix</p>
 </li>
 </ul>
 <h3>YE@H Exco</h3>
