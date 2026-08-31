@@ -20,5 +20,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="YSS40 Poster" src="/images/YSS_40th_banner.jpg">
 </div>
-<p></p>
+<p><a href="/evacuation-route/" rel="noopener nofollow" target="_blank">Evacuation Route</a>
+</p>
 <p></p>
