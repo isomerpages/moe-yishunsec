@@ -15,7 +15,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Page3_1.png">
 </div>
-<p></p>
 <p><strong>Once a Yishunite, always a Yishunite. Welcome home.</strong>
 </p>
 <div class="isomer-image-wrapper">
