@@ -82,7 +82,9 @@ is accessible via bus services <strong>169, 171, 800, 807 and 980</strong>.</p>
 </p>
 <p>Refer to the map below for the Homecoming venues and areas open for alumni
 to explore:</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/map_of_the_school_for_homecoming.png">
+</div>
 <p></p>
 <p><strong>Important Information</strong>
 </p>
