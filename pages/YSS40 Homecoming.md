@@ -9,7 +9,27 @@ description: ""
 <p>We look forward to welcoming you back to Yishun Secondary School for our <strong>YSS40 Homecoming on Wednesday, 2 September 2026</strong>!</p>
 <p>We have received an overwhelming response! Registration has closed, but <strong>all alumni are still warmly welcome</strong>.
 Walk-ins are welcome too!</p>
-<p><strong>Programme:</strong>
+<p><strong>Registration and Limited-Edition YSS40 Gift</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All alumni must register at the registration counter upon arrival.</p>
+</li>
+<li>
+<p>Upon confirmation of your registration, you will receive a <strong>limited-edition YSS40 NETS FlashPay card</strong>,
+while stocks last!</p>
+</li>
+<li>
+<p>Walk-in alumni are welcome to register at the counter on the day of the
+event.</p>
+</li>
+<li>
+<p>All guests will receive a <strong>YSS40 Homecoming sticker</strong> for
+identification. Please wear it visibly on the <strong>upper-left side of your attire</strong> throughout
+the event.</p>
+</li>
+</ul>
+<p><strong>Programme</strong>
 </p>
 <p><strong>4:00 p.m.</strong>
 <br>Opening Address by Mrs Lee at <strong>The Stairway</strong>
@@ -32,7 +52,7 @@ Walk-ins are welcome too!</p>
 <p>YSS Commons at Basement 1</p>
 </li>
 </ul>
-<p><strong>Homecoming Highlights:</strong>
+<p><strong>Homecoming Highlights</strong>
 </p>
 <p>Look forward to:</p>
 <ul data-tight="true" class="tight">
