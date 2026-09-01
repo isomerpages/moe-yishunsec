@@ -4,13 +4,11 @@ permalink: /yss40/
 variant: tiptap
 description: ""
 ---
-<p><strong>Welcome Home, Yishunites! 💙🤍💛</strong>
-</p>
+<h4><strong>Welcome Home, Yishunites! 💙🤍💛</strong></h4>
 <p>We look forward to welcoming you back to Yishun Secondary School for our <strong>YSS40 Homecoming on Wednesday, 2 September 2026</strong>!</p>
 <p>We have received an overwhelming response! Registration has closed, but <strong>all alumni are still warmly welcome</strong>.
 Walk-ins are welcome too!</p>
-<p><strong>Registration and Limited-Edition YSS40 Gift</strong>
-</p>
+<h4><strong>Registration and Limited-Edition YSS40 Gift</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>All alumni must register at the registration counter upon arrival.</p>
@@ -29,8 +27,7 @@ identification. Please wear it visibly on the <strong>upper-left side of your at
 the event.</p>
 </li>
 </ul>
-<p><strong>Programme</strong>
-</p>
+<h4><strong>Programme</strong></h4>
 <p><strong>4:00 p.m.</strong>
 <br>Opening Address by Mrs Lee at <strong>The Stairway</strong>
 </p>
@@ -52,8 +49,7 @@ the event.</p>
 <p>YSS Commons at Basement 1</p>
 </li>
 </ul>
-<p><strong>Homecoming Highlights</strong>
-</p>
+<h4><strong>Homecoming Highlights</strong></h4>
 <p>Look forward to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -75,8 +71,7 @@ the event.</p>
 bottled water</p>
 </li>
 </ul>
-<p><strong>Sports Friendlies</strong>
-</p>
+<h4><strong>Sports Friendlies</strong></h4>
 <p><strong>4:30 p.m. – 5:30 p.m.</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -90,24 +85,21 @@ bottled water</p>
 <p><strong>Basketball:</strong> Basketball Court</p>
 </li>
 </ul>
-<p><strong>Getting to YSS</strong>
-</p>
+<h4><strong>Getting to YSS</strong></h4>
 <p>As parking facilities within the school are limited, alumni who are driving
 are kindly advised to park at the nearby HDB public carparks. Alternatively,
 we strongly encourage the use of public transport for a more convenient
 visit.</p>
 <p>Yishun Secondary School is located along <strong>Yishun Street 71</strong> and
 is accessible via bus services <strong>169, 171, 800, 807 and 980</strong>.</p>
-<p><strong>Explore YSS</strong>
-</p>
+<h4><strong>Explore YSS</strong></h4>
 <p>Refer to the map below for the Homecoming venues and areas open for alumni
 to explore:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/map_of_the_school_for_homecoming.png">
 </div>
 <p></p>
-<p><strong>Important Information</strong>
-</p>
+<h4><strong>Important Information</strong></h4>
 <p>For everyone’s safety and to minimise disruption to school operations:</p>
 <ul data-tight="true" class="tight">
 <li>
